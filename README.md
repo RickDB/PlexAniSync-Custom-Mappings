@@ -17,6 +17,7 @@ If you got any questions, join our [Discord server](https://discord.gg/g3aQSAMn)
 ### Credits
 
 Thank you to all the people who have already contributed!
+
 <a href="https://github.com/RickDB/PlexAniSync-Custom-Mappings/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=RickDB/PlexAniSync-Custom-Mappings">
 </a>
