@@ -1,6 +1,7 @@
 <a href="https://github.com/RickDB/PlexAniSync"><img src="./.github/assets/logo.png" width="90"/></a>
 
-<h1><a href="https://github.com/RickDB/PlexAniSync">PlexAniSync</a> Custom Mappings</h1> <a title="Discord server" href="https://discord.gg/g3aQSAMn"><img src="https://img.shields.io/discord/903407293541023754.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF"></a>
+<h1><a href="https://github.com/RickDB/PlexAniSync">PlexAniSync</a> Custom Mappings</h1> <a title="Discord server" href="https://discord.com/widget?id=903407293541023754&theme=dark"><img src="https://img.shields.io/discord/903407293541023754.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF"></a>
+
 
 Custom mappings intended for use with the [PlexAniSync](https://github.com/RickDB/PlexAniSync) project.
 
