@@ -23,6 +23,13 @@ entries:
       - season: 1
         anilist-id: 20853
         start: 13
+  - title: Ascendance of a Bookworm
+    seasons:
+      - season: 1
+        anilist-id: 108268
+      - season: 1
+        anilist-id: 113693
+        start: 15
   - title: "Attack on Titan"
     seasons:
       - season: 1
@@ -104,6 +111,16 @@ entries:
       - season: 2
         anilist-id: 20880
         start: 25
+  - title: Fate/Kaleid Liner Prisma Illya
+    seasons:
+      - season: 1
+        anilist-id: 14829
+      - season: 2
+        anilist-id: 20467
+      - season: 3
+        anilist-id: 20845
+      - season: 4
+        anilist-id: 21379
   - title: "Food Wars! Shokugeki no Soma"
     seasons:
       - season: 1
@@ -202,6 +219,21 @@ entries:
         anilist-id: 112124
       - season: 4
         anilist-id: 129196
+  - title: JoJo's Bizarre Adventure (2012)
+    seasons:
+      - season: 1
+        anilist-id: 14719
+      - season: 2
+        anilist-id: 20474
+      - season: 2
+        anilist-id: 20799
+        start: 25
+      - season: 3
+        anilist-id: 21450
+      - season: 4
+        anilist-id: 102883
+      - season: 5
+        anilist-id: 131942
   - title: "K"
     # Synonym is K-Project
     seasons:
@@ -358,6 +390,29 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
+  - title: The Garden of Sinners
+    seasons:
+      - season: 1
+        anilist-id: 2593
+        start: 1
+      - season: 1
+        anilist-id: 3782
+        start: 2
+      - season: 1
+        anilist-id: 3783
+        start: 3
+      - season: 1
+        anilist-id: 4280
+        start: 4
+      - season: 1
+        anilist-id: 4282
+        start: 5
+      - season: 1
+        anilist-id: 5204
+        start: 6
+      - season: 1
+        anilist-id: 5205
+        start: 7
   - title: "The Irregular at Magic High School"
     seasons:
       - season: 1
