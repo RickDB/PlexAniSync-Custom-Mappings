@@ -23,7 +23,7 @@ entries:
       - season: 1
         anilist-id: 20853
         start: 13
-  - title: Ascendance of a Bookworm
+  - title: "Ascendance of a Bookworm"
     seasons:
       - season: 1
         anilist-id: 108268
@@ -111,7 +111,7 @@ entries:
       - season: 2
         anilist-id: 20880
         start: 25
-  - title: Fate/Kaleid Liner Prisma Illya
+  - title: "Fate/Kaleid Liner Prisma Illya"
     seasons:
       - season: 1
         anilist-id: 14829
@@ -219,7 +219,7 @@ entries:
         anilist-id: 112124
       - season: 4
         anilist-id: 129196
-  - title: JoJo's Bizarre Adventure (2012)
+  - title: "JoJo's Bizarre Adventure (2012)"
     seasons:
       - season: 1
         anilist-id: 14719
@@ -390,7 +390,7 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
-  - title: The Garden of Sinners
+  - title: "The Garden of Sinners"
     seasons:
       - season: 1
         anilist-id: 2593
