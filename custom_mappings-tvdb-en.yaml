@@ -1,5 +1,11 @@
 # TVDB Mappings
 entries:
+  - title: "5 Centimeters per Second"
+    # 3 part movie on Anilist
+    seasons:
+      - season: 1
+        anilist-id: 1689
+        start: -1
   - title: "86: Eighty Six"
     seasons:
       - season: 1
@@ -358,6 +364,11 @@ entries:
       - season: 1
         anilist-id: 20993
         start: 13
+  - title: "Shelter"
+    # Categorized as a movie on TVDB and as Music on Anilist
+    seasons:
+      - season: 1
+        anilist-id: 97731        
   - title: "Star Blazers [Space Battleship Yamato] 2199"
     seasons:
       - season: 1
