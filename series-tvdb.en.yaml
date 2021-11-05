@@ -135,7 +135,7 @@ entries:
         anilist-id: 10087
       - season: 1
         anilist-id: 11741
-        start: 13        
+        start: 14        
   - title: "Food Wars! Shokugeki no Soma"
     seasons:
       - season: 1
@@ -450,7 +450,7 @@ entries:
         anilist-id: 111321
       - season: 3
         anilist-id: 111322
-  - title: "The Slime Diaries"
+  - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
     seasons:
       - season: 1
         anilist-id: 116741        
