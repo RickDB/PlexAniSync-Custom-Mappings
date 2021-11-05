@@ -435,6 +435,10 @@ entries:
         anilist-id: 111321
       - season: 3
         anilist-id: 111322
+  - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
+    seasons:
+      - season: 1
+        anilist-id: 129898
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
