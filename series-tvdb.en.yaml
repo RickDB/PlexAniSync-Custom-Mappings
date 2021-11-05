@@ -125,7 +125,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 19603
-        start: -1 # Anilist has 26 Episodes (incldues Special EP) while TVDB has 25 Episodes (excludes Special EP)
+        start: -1 # Anilist has 26 Episodes (includes Special EP) while TVDB has 25 Episodes (excludes Special EP)
       - season: 1
         anilist-id: 20792
         start: 13
