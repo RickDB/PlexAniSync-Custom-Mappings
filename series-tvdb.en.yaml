@@ -121,6 +121,21 @@ entries:
         anilist-id: 20845
       - season: 4
         anilist-id: 21379
+  - title: "Fate/Stay night: Unlimited Blade Works"
+    seasons:
+      - season: 1
+        anilist-id: 19603
+        start: -1 # Anilist has 26 Episodes (includes Special EP) while TVDB has 25 Episodes (excludes Special EP)
+      - season: 1
+        anilist-id: 20792
+        start: 13
+  - title: "Fate/Zero"
+    seasons:
+      - season: 1
+        anilist-id: 10087
+      - season: 1
+        anilist-id: 11741
+        start: 14        
   - title: "Food Wars! Shokugeki no Soma"
     seasons:
       - season: 1
@@ -435,6 +450,10 @@ entries:
         anilist-id: 111321
       - season: 3
         anilist-id: 111322
+  - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
+    seasons:
+      - season: 1
+        anilist-id: 116741        
   - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
     seasons:
       - season: 1
