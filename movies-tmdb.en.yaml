@@ -1,2 +1,17 @@
 # PlexAniSync: TMDB Movie Mappings in English
 entries:
+  - title: "5 Centimeters per Second"
+    # Anilist treats it as a Movie with 3 Parts 
+    seasons:
+      - season: 1
+        anilist-id: 1689
+        start: -1
+  - title: "A Silent Voice: The Movie"
+    seasons:
+      - season: 1
+        anilist-id: 20954
+  - title: "Shelter"
+    # Categorized as Movie on TMDB and as Music on Anilist
+    seasons:
+      - season: 1
+        anilist-id: 97731        
