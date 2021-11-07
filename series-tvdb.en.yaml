@@ -1,6 +1,9 @@
 # PlexAniSync: TheTVDB Series Mappings in English
 entries:
   - title: "86: Eighty Six"
+    synonyms:
+      - "86"
+      - "Eighty Six"
     seasons:
       - season: 1
         anilist-id: 116589
@@ -8,6 +11,8 @@ entries:
         anilist-id: 131586
         start: 12
   - title: "A Certain Scientific Railgun"
+    synonyms:
+      - "Toaru Kagaku no Railgun"
     seasons:
       - season: 1
         anilist-id: 6213
@@ -24,6 +29,8 @@ entries:
         anilist-id: 20853
         start: 13
   - title: "Ascendance of a Bookworm"
+    synonyms:
+      - "Honzuki no Gekokujou"
     seasons:
       - season: 1
         anilist-id: 108268
@@ -31,6 +38,8 @@ entries:
         anilist-id: 113693
         start: 15
   - title: "Attack on Titan"
+    synonyms:
+      - "Shingeki no Kyojin"
     seasons:
       - season: 1
         anilist-id: 16498
@@ -53,6 +62,8 @@ entries:
       - season: 2
         anilist-id: 114194
   - title: "Blood Blockade Battlefront"
+    synonyms:
+      - "Kekkai Sensen"
     seasons:
       - season: 1
         anilist-id: 20727
@@ -63,6 +74,8 @@ entries:
       - season: 1
         anilist-id: 97938
   - title: "Chaika the Coffin Princess"
+    synonyms:
+      - "Hitsugi no Chaika"
     seasons:
       - season: 1
         anilist-id: 20462
@@ -75,6 +88,8 @@ entries:
       - season: 2
         anilist-id: 4181
   - title: "Code Geass: Lelouch of the Rebellion"
+    synonyms:
+      - "Code Geass: Hangyaku no Lelouch"
     seasons:
       - season: 1
         anilist-id: 1575
@@ -88,6 +103,9 @@ entries:
       - season: 2
         anilist-id: 6573
   - title: "Demon Slayer: Kimetsu no Yaiba"
+    synonyms:
+      - "Demon Slayer"
+      - "Kimetsu no Yaiba"
     seasons:
       - season: 1
         anilist-id: 101922
@@ -137,6 +155,8 @@ entries:
         anilist-id: 11741
         start: 14        
   - title: "Food Wars! Shokugeki no Soma"
+    synonyms:
+      - "Shokugeki No Souma"
     seasons:
       - season: 1
         anilist-id: 20923
@@ -153,6 +173,8 @@ entries:
         anilist-id: 114043
   - title: "Fruits Basket (2019)"
     # Mapped as 2019 since there is a 2001 series as well
+    synonyms:
+      - "Fruits Basket"
     seasons:
       - season: 1
         anilist-id: 105334
@@ -186,10 +208,15 @@ entries:
         anilist-id: 101925
         start: 13
   - title: "Grimgar of Fantasy & Ash"
+    synonyms:
+      - "Grimgar of Fantasy and Ash"
+      - "Hai to Gensou no Grimgar"
     seasons:
       - season: 1
         anilist-id: 21428
   - title: "Haikyu!!"
+    synonyms:
+      - "Haikyuu!!"
     seasons:
       - season: 1
         anilist-id: 20464
@@ -203,6 +230,8 @@ entries:
         anilist-id: 113538
         start: 14
   - title: "Hozuki's Coolheadedness"
+    synonyms:
+      - "Hoozuki no Reitetsu"
     seasons:
       - season: 1
         anilist-id: 20431
@@ -213,6 +242,8 @@ entries:
         start: 14
   - title: "Hunter x Hunter (2011)"
     # Mapped as 2011 since there is a 1999 series as well
+    synonyms:
+      - "Hunter x Hunter"
     seasons:
       - season: 1
         anilist-id: 11061
@@ -221,10 +252,14 @@ entries:
       - season: 3
         anilist-id: 11061
   - title: "Inu × Boku Secret Service"
+    synonyms:
+      - "Inu x Boku SS"
     seasons:
       - season: 1
         anilist-id: 11013
   - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    synonyms:
+      - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     seasons:
       - season: 1
         anilist-id: 20920
@@ -235,6 +270,9 @@ entries:
       - season: 4
         anilist-id: 129196
   - title: "JoJo's Bizarre Adventure (2012)"
+    synonyms:
+      - "JoJo's Bizarre Adventure"
+      - "JoJo no Kimyou na Bouken"
     seasons:
       - season: 1
         anilist-id: 14719
@@ -250,13 +288,18 @@ entries:
       - season: 5
         anilist-id: 131942
   - title: "K"
-    # Synonym is K-Project
+    synonyms:
+     - "K-Project"
+     - "K Project"
+     - "Project K"
     seasons:
       - season: 1
         anilist-id: 14467
       - season: 2
         anilist-id: 20913
   - title: "Kaguya-sama: Love is War"
+    synonyms:
+      - "Kaguya-sama wa Kokurasetai"
     seasons:
       - season: 1
         anilist-id: 101921
@@ -289,12 +332,16 @@ entries:
       - season: 3
         anilist-id: 114862
   - title: "Love, Chunibyo & Other Delusions!"
+    synonyms:
+      - "Chuunibyou demo Koi ga Shitai!"
     seasons:
       - season: 1
         anilist-id: 14741
       - season: 2
         anilist-id: 18671
   - title: "Magi: Adventure of Sinbad"
+    synonyms:
+      - "Magi: Sinbad no Bouken"
     seasons:
       - season: 1
         anilist-id: 21394
@@ -311,12 +358,17 @@ entries:
       - season: 2
         anilist-id: 113359
   - title: "Miss Kobayashi's Dragon Maid"
+    synonyms:
+      - "Kobayashi-san Chi no Maidragon"
     seasons:
       - season: 1
         anilist-id: 21776
       - season: 2
         anilist-id: 107717
   - title: "Mushoku Tensei: Jobless Reincarnation"
+    synonyms:
+      - "Mushoku Tensei"
+      - "Jobless Reincarnation"
     seasons:
       - season: 1
         anilist-id: 108465
@@ -324,6 +376,8 @@ entries:
         anilist-id: 127720
         start: 12
   - title: "My Teen Romantic Comedy SNAFU"
+    synonyms:
+      - "Yahari Ore no Seishun Love Come wa Machigatteiru."
     seasons:
       - season: 1
         anilist-id: 14813
@@ -352,12 +406,16 @@ entries:
       - season: 3
         anilist-id: 108307
   - title: "Rage of Bahamut"
+    synonyms:
+      - "Shingeki no Bahamut"
     seasons:
       - season: 1
         anilist-id: 20590
       - season: 2
         anilist-id: 21184
   - title: "Re:ZERO -Starting Life in Another World-"
+    synonyms:
+      - "Re:Zero kara Hajimeru Isekai Seikatsu"
     seasons:
       - season: 1
         anilist-id: 21355
@@ -367,6 +425,8 @@ entries:
         anilist-id: 119661
         start: 14
   - title: "Seraph of the End"
+    synonyms:
+      - "Owari no Seraph"
     seasons:
       - season: 1
         anilist-id: 20829
@@ -374,12 +434,18 @@ entries:
         anilist-id: 20993
         start: 13
   - title: "Star Blazers [Space Battleship Yamato] 2199"
+    synonyms:
+      - "Uchuu Senkan Yamato 2199"
+      - "Space Battleship Yamato 2199"
+      - "Star Blazers 2199"
     seasons:
       - season: 1
         anilist-id: 12029
       - season: 2
         anilist-id: 21730
   - title: "Sweetness & Lightning"
+    synonyms:
+      - "Amaama to Inazuma"
     seasons:
       - season: 1
         anilist-id: 21659
@@ -397,6 +463,8 @@ entries:
         anilist-id: 114308
         start: 13
   - title: "That Time I Got Reincarnated as a Slime"
+    synonyms:
+      - "Tensei Shitara Slime Datta Ken"
     seasons:
       - season: 1
         anilist-id: 101280
@@ -406,6 +474,8 @@ entries:
         anilist-id: 116742
         start: 13
   - title: "The Garden of Sinners"
+    synonyms:
+      - "Kara no Kyoukai"
     seasons:
       - season: 1
         anilist-id: 2593
@@ -429,12 +499,16 @@ entries:
         anilist-id: 5205
         start: 7
   - title: "The Irregular at Magic High School"
+    synonyms:
+      - "Mahouka Koukou no Rettousei"
     seasons:
       - season: 1
         anilist-id: 20458
       - season: 2
         anilist-id: 112300
   - title: "The King's Avatar"
+    synonyms:
+      - "Quanzhi Gaoshou"
     seasons:
       - season: 1
         anilist-id: 98861
@@ -443,6 +517,8 @@ entries:
       - season: 3
         anilist-id: 137735
   - title: "The Rising of the Shield Hero"
+    synonyms:
+      - "Tate no Yuusha no Nariagari"
     seasons:
       - season: 1
         anilist-id: 99263
@@ -451,10 +527,16 @@ entries:
       - season: 3
         anilist-id: 111322
   - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
+    synonyms:
+      - "The Slime Diaries"
+      - "Tensura Nikki: Tensei Shitara Slime Datta Ken"
+      - "Tensura Nikki"
     seasons:
       - season: 1
         anilist-id: 116741        
   - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
+    synonyms:
+      - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
     seasons:
       - season: 1
         anilist-id: 129898
@@ -470,11 +552,16 @@ entries:
         anilist-id: 102351
         start: 13
   - title: "Twin Star Exorcists"
+    synonyms:
+      - "Sousei no Onmyouji"
     seasons:
       - season: 1
         anilist-id: 21499
   - title: "Yamada-kun and the Seven Witches (2015)"
     # Mapped as 2015 since there is a 2013 series as well
+    synonyms:
+      - "Yamada-kun and the Seven Witches"
+      - "Yamada-kun to 7-nin no Majo"
     seasons:
       - season: 1
         anilist-id: 20966
