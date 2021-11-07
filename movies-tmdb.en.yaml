@@ -2,12 +2,18 @@
 entries:
   - title: "5 Centimeters per Second"
     # Anilist treats it as a Movie with 3 Parts
+    synonyms:
+      - "Byousoku 5 Centimeter"
     seasons:
       - season: 1
         anilist-id: 1689
         start: -1
 
   - title: "A Silent Voice: The Movie"
+    synonyms:
+      - "A Silent Voice"
+      - "The Shape of Voice"
+      - "Koe no Katachi"
     seasons:
       - season: 1
         anilist-id: 20954
