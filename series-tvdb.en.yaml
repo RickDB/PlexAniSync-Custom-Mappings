@@ -403,6 +403,15 @@ entries:
       - season: 2
         anilist-id: 107717
 
+  - title: "Mob Psycho 100"
+    seasons:
+      - season: 1
+        anilist-id: 21507
+      - season: 2
+        anilist-id: 101338
+      - season: 3
+        anilist-id: 140439
+
   - title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
       - "Mushoku Tensei"
@@ -413,6 +422,23 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
+
+  - title: "My Hero Academia"
+    synonyms:
+      - "Boku no Hero Academia"
+    seasons:
+      - season: 1
+        anilist-id: 21459
+      - season: 2
+        anilist-id: 21856
+      - season: 3
+        anilist-id: 100166
+      - season: 4
+        anilist-id: 104276
+      - season: 5
+        anilist-id: 117193
+      - season: 6
+        anilist-id: 139630
 
   - title: "My Teen Romantic Comedy SNAFU"
     synonyms:
@@ -438,6 +464,17 @@ entries:
       - season: 21
         anilist-id: 21
         start: -890
+
+  - title: "Overlord"
+    seasons:
+      - season: 1
+        anilist-id: 20832
+      - season: 2
+        anilist-id: 98437
+      - season: 3
+        anilist-id: 101474
+      - season: 4
+        anilist-id: 133844
 
   - title: "Psycho-Pass"
     seasons:
