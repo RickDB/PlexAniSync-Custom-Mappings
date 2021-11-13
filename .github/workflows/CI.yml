@@ -27,4 +27,6 @@ jobs:
     - name: Download schema
       run: wget -O schema.yaml https://raw.githubusercontent.com/RickDB/PlexAniSync/master/custom_mappings_schema.yaml
     - name: Validate mappings
-      run: yamale mappings
+      run: |
+        find series*.yaml -exec yamale -s schema.yaml {} \;
+        find movies*.yaml -exec yamale -s schema.yaml {} \;
