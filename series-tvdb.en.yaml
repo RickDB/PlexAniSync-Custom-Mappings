@@ -659,3 +659,69 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20966
+        
+    - title: "FLCL"
+    synonyms:
+      - "FLCL Alternative"
+      - "FLCL Progressive"
+    seasons:
+      - season: 1
+        anilist-id: 227
+      - season: 2
+        anilist-id: 21748
+      - season: 3
+        anilist-id: 21746
+        
+  - title: "I Tried Asking While Kowtowing"
+    synonyms:
+      - "<DOGEZA>I Tried Asking While Kowtowing."
+    seasons:
+      - season: 1
+        anilist-id: 122137
+        
+  - title: "Sakamichi no Apollon: Kids on the Slope"
+    synonyms:
+      - "Sakamichi no Apollon"
+      - "Kids on the Slope"
+    seasons:
+      - season: 1
+        anilist-id: 12531
+        
+  - title: "SK8 the Infinity"
+    synonyms:
+      - "SK8"
+    seasons:
+      - season: 1
+        anilist-id: 124153
+        
+  - title: "A Silent Voice: The Movie"
+    synonyms:
+      - "A Silent Voice"
+    seasons:
+      - season: 1
+        anilist-id: 20954
+        
+  - title: "Space Pirate Captain Harlock"
+    synonyms:
+      - "Harlock: Space Pirate"
+    seasons:
+      - season: 1
+        anilist-id: 17269
+        
+  - title: "Trinity Seven: Eternity Library & Alchemic Girl"
+    synonyms: 
+      - "Eternity Library & Alchemic Girl"
+      - "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo"
+    seasons:
+      - season: 1
+        anilist-id: 21874
+        
+  - title: "Ajin"
+    synonyms:
+      - "AJIN: Demi-Human 2"
+      - "Demi-Human"
+    seasons:
+      - season: 1
+        anilist-id: 21341
+      - season: 2
+        anilist-id: 21799
