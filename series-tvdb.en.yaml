@@ -459,11 +459,69 @@ entries:
         anilist-id: 21128
 
   - title: "One Piece"
-    # Currently only works with Season 21, will add more
     seasons:
+      - season: 1
+        anilist-id: 21
+      - season: 2
+        anilist-id: 21
+        start: 9
+      - season: 3
+        anilist-id: 21
+        start: 31
+      - season: 4
+        anilist-id: 21
+        start: 48
+      - season: 5
+        anilist-id: 21
+        start: 61
+      - season: 6
+        anilist-id: 21
+        start: 70
+      - season: 7
+        anilist-id: 21
+        start: 92
+      - season: 8
+        anilist-id: 21
+        start: 131
+      - season: 9
+        anilist-id: 21
+        start: 144
+      - season: 10
+        anilist-id: 21
+        start: 196
+      - season: 11
+        anilist-id: 21
+        start: 227
+      - season: 12
+        anilist-id: 21
+        start: 326
+      - season: 13
+        anilist-id: 21
+        start: 382
+      - season: 14
+        anilist-id: 21
+        start: 482
+      - season: 15
+        anilist-id: 21
+        start: 517
+      - season: 16
+        anilist-id: 21
+        start: 579
+      - season: 17
+        anilist-id: 21
+        start: 629
+      - season: 18
+        anilist-id: 21
+        start: 747
+      - season: 19
+        anilist-id: 21
+        start: 780
+      - season: 20
+        anilist-id: 21
+        start: 878
       - season: 21
         anilist-id: 21
-        start: -890
+        start: 892
 
   - title: "Overlord"
     seasons:
