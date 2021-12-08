@@ -77,6 +77,8 @@ entries:
         anilist-id: 97886
 
   - title: "Boruto: Naruto Next Generations"
+    synonyms:
+      - "Boruto"
     seasons:
       - season: 1
         anilist-id: 97938
@@ -99,6 +101,7 @@ entries:
 
   - title: "Code Geass: Lelouch of the Rebellion"
     synonyms:
+      - "Code Geass"
       - "Code Geass: Hangyaku no Lelouch"
     seasons:
       - season: 1
@@ -177,7 +180,9 @@ entries:
 
   - title: "Food Wars! Shokugeki no Soma"
     synonyms:
-      - "Shokugeki No Souma"
+      - "Shokugeki no Souma"
+      - "Shokugeki no Soma"
+      - "Shokugeki no Sōma"
     seasons:
       - season: 1
         anilist-id: 20923
@@ -258,6 +263,7 @@ entries:
   - title: "Hozuki's Coolheadedness"
     synonyms:
       - "Hoozuki no Reitetsu"
+      - "Hōzuki no Reitetsu"
     seasons:
       - season: 1
         anilist-id: 20431
@@ -303,6 +309,7 @@ entries:
     synonyms:
       - "JoJo's Bizarre Adventure"
       - "JoJo no Kimyou na Bouken"
+      - "Jojo no Kimyō na Bōken"
     seasons:
       - season: 1
         anilist-id: 14719
@@ -370,6 +377,7 @@ entries:
   - title: "Love, Chunibyo & Other Delusions!"
     synonyms:
       - "Chuunibyou demo Koi ga Shitai!"
+      - "Chūnibyō demo Koi ga Shitai!"
     seasons:
       - season: 1
         anilist-id: 14741
@@ -650,6 +658,7 @@ entries:
   - title: "The Rising of the Shield Hero"
     synonyms:
       - "Tate no Yuusha no Nariagari"
+      - "Tate no Yūsha no Nariagari"
     seasons:
       - season: 1
         anilist-id: 99263
