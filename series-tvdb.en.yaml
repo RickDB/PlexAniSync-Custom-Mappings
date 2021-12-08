@@ -118,11 +118,14 @@ entries:
     synonyms:
       - "Demon Slayer"
       - "Kimetsu no Yaiba"
+      - "Blade of Demon Destruction"
     seasons:
       - season: 1
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
+      - season: 3
+        anilist-id: 142329
 
   - title: "Dr. Stone"
     seasons:
