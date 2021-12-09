@@ -365,6 +365,15 @@ entries:
       - season: 4
         anilist-id: 140350
 
+  - title: "Link Click"
+    synonyms:
+      - "Shiguang Dailiren"
+      - "Time Agents"
+      - "CLICK"
+    seasons:
+      - season: 1
+        anilist-id: 126403
+
   - title: "Log Horizon"
     seasons:
       - season: 1
