@@ -617,6 +617,15 @@ entries:
         anilist-id: 116742
         start: 13
 
+  - title: "The Devil is a Part-Timer!"
+    synonyms:
+      - "Hataraku Maou-sama!"
+    seasons:
+      - season: 1
+        anilist-id: 15809
+      - season: 2
+        anilist-id: 130592
+
   - title: "The Garden of Sinners"
     synonyms:
       - "Kara no Kyoukai"
