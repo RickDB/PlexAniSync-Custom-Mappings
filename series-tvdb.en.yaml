@@ -573,6 +573,15 @@ entries:
         anilist-id: 20993
         start: 13
 
+  - title: "Spice and Wolf"
+    synonyms:
+      - "Ookami to Koushinryou"
+    seasons:
+      - season: 1
+        anilist-id: 2966
+      - season: 2
+        anilist-id: 5341
+
   - title: "Star Blazers [Space Battleship Yamato] 2199"
     synonyms:
       - "Uchuu Senkan Yamato 2199"
