@@ -260,6 +260,16 @@ entries:
         anilist-id: 113538
         start: 14
 
+  - title: "How a Realist Hero Rebuilt the Kingdom"
+    synonyms:
+      - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+    seasons:
+      - season: 1
+        anilist-id: 117612
+      - season: 1
+        anilist-id: 139648
+        start: 14
+
   - title: "Hozuki's Coolheadedness"
     synonyms:
       - "Hoozuki no Reitetsu"
