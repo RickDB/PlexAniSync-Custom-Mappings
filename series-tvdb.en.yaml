@@ -260,6 +260,17 @@ entries:
         anilist-id: 113538
         start: 14
 
+  - title: "High School DxD"
+    seasons:
+      - season: 1
+        anilist-id: 11617
+      - season: 2
+        anilist-id: 15451
+      - season: 3
+        anilist-id: 20745
+      - season: 4
+        anilist-id: 97767
+
   - title: "How a Realist Hero Rebuilt the Kingdom"
     synonyms:
       - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
