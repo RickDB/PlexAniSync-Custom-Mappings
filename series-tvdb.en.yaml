@@ -109,6 +109,15 @@ entries:
       - season: 2
         anilist-id: 2904
 
+  - title: "Danganronpa: The Animation"
+    synonyms:
+      - "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 16592
+      - season: 2
+        anilist-id: 21509
+
   - title: "Darker Than Black"
     # PlexAniSync does not support mapping of Specials (Gaiden, 4 episodes)
     seasons:
@@ -259,6 +268,17 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
+
+  - title: "High School DxD"
+    seasons:
+      - season: 1
+        anilist-id: 11617
+      - season: 2
+        anilist-id: 15451
+      - season: 3
+        anilist-id: 20745
+      - season: 4
+        anilist-id: 97767
 
   - title: "How a Realist Hero Rebuilt the Kingdom"
     synonyms:
