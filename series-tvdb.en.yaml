@@ -40,6 +40,9 @@ entries:
       - season: 1
         anilist-id: 113693
         start: 15
+      - season: 1
+        anilist-id: 121176
+        start: 27
 
   - title: "Attack on Titan"
     synonyms:
