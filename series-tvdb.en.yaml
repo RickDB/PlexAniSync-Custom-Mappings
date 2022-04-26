@@ -83,6 +83,15 @@ entries:
       - season: 1
         anilist-id: 97938
 
+  - title: "Bungou Stray Dogs"
+    seasons:
+      - season: 1
+        anilist-id: 21311
+      - season: 2
+        anilist-id: 21679
+      - season: 3
+        anilist-id: 103223
+
   - title: "Chaika the Coffin Princess"
     synonyms:
       - "Hitsugi no Chaika"
@@ -159,6 +168,22 @@ entries:
         anilist-id: 20880
         start: 25
 
+  - title: "EAT-MAN"
+    seasons:
+      - season: 1
+        anilist-id: 1704
+      - season: 2
+        anilist-id: 1599
+
+  - title: "F-Zero: GP Legends"
+    synonyms: 
+      - "F-ZERO: Falcon Densetsu"
+    seasons:
+      - season: 1
+        anilist-id: 3101
+      - season: 2
+        anilist-id: 3101
+
   - title: "Fate/Kaleid Liner Prisma Illya"
     seasons:
       - season: 1
@@ -186,6 +211,26 @@ entries:
       - season: 1
         anilist-id: 11741
         start: 14
+
+  - title: "Fighting Spirit"
+    synonyms:
+      - "Hajime no Ippo"
+    seasons:
+      - season: 1
+        anilist-id: 263
+      - season: 2
+        anilist-id: 5258
+      - season: 3
+        anilist-id: 1964
+
+  - title: "Fire Force"
+    synonyms:
+      - "Enen no Shouboutai"
+    seasons:
+      - season: 1
+        anilist-id: 105310
+      - season: 2
+        anilist-id: 114236
 
   - title: "Food Wars! Shokugeki no Soma"
     synonyms:
@@ -422,6 +467,18 @@ entries:
       - season: 2
         anilist-id: 18671
 
+  - title: "Lupin III"
+    synonyms:
+      - "Lupin the 3rd"
+      - "Lupin the Third"
+    seasons:
+      - season: 1
+        anilist-id: 1412
+      - season: 2
+        anilist-id: 1425
+      - season: 3
+        anilist-id: 1426
+
   - title: "Magi: Adventure of Sinbad"
     synonyms:
       - "Magi: Sinbad no Bouken"
@@ -499,6 +556,13 @@ entries:
         anilist-id: 20698
       - season: 3
         anilist-id: 108489
+
+  - title: "No Guns Life"
+    seasons:
+      - season: 1
+        anilist-id: 108478
+      - season: 2
+        anilist-id: 112803
 
   - title: "Noragami"
     seasons:
@@ -757,6 +821,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
+        
+  - title: "xxxHOLiC"
+    seasons:
+      - season: 1
+        anilist-id: 861
+      - season: 2
+        anilist-id: 3091
+
   - title: "Yamada-kun and the Seven Witches (2015)"
     # Mapped as 2015 since there is a 2013 series as well
     synonyms:
