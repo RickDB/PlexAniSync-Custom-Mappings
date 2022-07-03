@@ -162,6 +162,55 @@ entries:
         anilist-id: 105333
       - season: 2
         anilist-id: 113936
+        
+  - title: "Dragon Ball"
+    seasons:
+      - season: 1
+        anilist-id: 223
+      - season: 2
+        anilist-id: 223
+      - season: 3
+        anilist-id: 223
+      - season: 4
+        anilist-id: 223
+      - season: 5
+        anilist-id: 223
+      - season: 6
+        anilist-id: 223
+        
+  - title: "Dragon Ball Super"
+    seasons:
+      - season: 1
+        anilist-id: 21175
+      - season: 2
+        anilist-id: 21175
+      - season: 3
+        anilist-id: 21175
+      - season: 4
+        anilist-id: 21175
+      - season: 5
+        anilist-id: 21175
+        
+  - title: "Dragon Ball Z"
+    seasons:
+      - season: 1
+        anilist-id: 813
+      - season: 2
+        anilist-id: 813
+      - season: 3
+        anilist-id: 813
+      - season: 4
+        anilist-id: 813
+      - season: 5
+        anilist-id: 813
+      - season: 6
+        anilist-id: 813
+      - season: 7
+        anilist-id: 813
+      - season: 8
+        anilist-id: 813
+      - season: 9
+        anilist-id: 813
 
   - title: "Durarara!!"
     seasons:
