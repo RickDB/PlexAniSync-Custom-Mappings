@@ -75,6 +75,22 @@ entries:
       - season: 1
         anilist-id: 11285
 
+  - title: "Blood+"
+    synonyms:
+      - "Blood Plus"
+    seasons:
+      - season: 1
+        anilist-id: 150
+      - season: 2
+        anilist-id: 150
+        start: 14
+      - season: 3
+        anilist-id: 150
+        start: 26
+      - season: 4
+        anilist-id: 150
+        start: 39
+
   - title: "Blood Blockade Battlefront"
     synonyms:
       - "Kekkai Sensen"
