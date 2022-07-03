@@ -69,6 +69,15 @@ entries:
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
+
+  - title: "Black Butler"
+    seasons:
+      - season: 1
+        anilist-id: 4898
+      - season: 2
+        anilist-id: 6707
+      - season: 3
+        anilist-id: 20606
   
   - title: "Black Rock Shooter"
     seasons:
