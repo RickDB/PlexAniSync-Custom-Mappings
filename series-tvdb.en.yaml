@@ -644,6 +644,13 @@ entries:
       - season: 2
         anilist-id: 18115
 
+  - title: "Masou Gakuen HxH"
+    synonyms:
+      - "Magias Academy Ataraxia Hybrid x Heart"
+    seasons:
+      - season: 1
+        anilist-id: 21378
+
   - title: "Megalobox"
     seasons:
       - season: 1
