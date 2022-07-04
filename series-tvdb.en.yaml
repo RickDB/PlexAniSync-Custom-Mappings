@@ -616,6 +616,66 @@ entries:
         anilist-id: 20698
       - season: 3
         anilist-id: 108489
+        
+  - title: "Naruto"
+    seasons:
+      - season: 1
+        anilist-id: 20
+      - season: 2
+        anilist-id: 20
+      - season: 3
+        anilist-id: 20
+      - season: 4
+        anilist-id: 20
+      - season: 5
+        anilist-id: 20
+        
+  - title: "Naruto Shippuden"
+    seasons:
+      - season: 1
+        anilist-id: 1735
+      - season: 2
+        anilist-id: 1735
+      - season: 3
+        anilist-id: 1735
+      - season: 4
+        anilist-id: 1735
+      - season: 5
+        anilist-id: 1735
+      - season: 6
+        anilist-id: 1735
+      - season: 7
+        anilist-id: 1735
+      - season: 8
+        anilist-id: 1735
+      - season: 9
+        anilist-id: 1735
+      - season: 10
+        anilist-id: 1735
+      - season: 11
+        anilist-id: 1735
+      - season: 12
+        anilist-id: 1735
+      - season: 13
+        anilist-id: 1735
+      - season: 14
+        anilist-id: 1735
+      - season: 15
+        anilist-id: 1735
+      - season: 16
+        anilist-id: 1735
+      - season: 17
+        anilist-id: 1735
+      - season: 18
+        anilist-id: 1735
+      - season: 19
+        anilist-id: 1735
+      - season: 20
+        anilist-id: 1735
+      - season: 21
+        anilist-id: 1735
+      - season: 22
+        anilist-id: 1735
 
   - title: "No Guns Life"
     seasons:
