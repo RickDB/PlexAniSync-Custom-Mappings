@@ -374,6 +374,23 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11013
+        
+  - title: "InuYasha"
+    seasons:
+      - season: 1
+        anilist-id: 249
+      - season: 2
+        anilist-id: 249
+      - season: 3
+        anilist-id: 249
+      - season: 4
+        anilist-id: 249
+      - season: 5
+        anilist-id: 249
+      - season: 6
+        anilist-id: 249
+      - season: 7
+        anilist-id: 6811
 
   - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     synonyms:
