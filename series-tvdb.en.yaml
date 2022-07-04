@@ -768,6 +768,22 @@ entries:
         anilist-id: 114308
         start: 13
 
+  - title: "Symphogear"
+    synonyms:
+      - "Superb Song of the Valkyries: Symphogear"
+      - "Superb Song of the Valkyries"
+    seasons:
+      - season: 1
+        anilist-id: 11751
+      - season: 2
+        anilist-id: 15793
+      - season: 3
+        anilist-id: 20560
+      - season: 4
+        anilist-id: 21672
+      - season: 5
+        anilist-id: 21673
+
   - title: "That Time I Got Reincarnated as a Slime"
     synonyms:
       - "Tensei Shitara Slime Datta Ken"
