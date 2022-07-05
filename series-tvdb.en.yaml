@@ -150,6 +150,15 @@ entries:
         anilist-id: 21679
       - season: 3
         anilist-id: 103223
+        
+  - title: "Cells at Work!"
+    synonyms:
+      - "Hataraku Saibou"
+    seasons:
+      - season: 1
+        anilist-id: 100977
+      - season: 2
+        anilist-id: 108631
 
   - title: "Chaika the Coffin Princess"
     synonyms:
