@@ -101,6 +101,8 @@ entries:
         anilist-id: 103223
         
   - title: "Cells at Work!"
+    synonyms:
+      - "Hataraku Saibou"
     seasons:
       - season: 1
         anilist-id: 100977
