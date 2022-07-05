@@ -71,6 +71,8 @@ entries:
         anilist-id: 114194
 
   - title: "Black Butler"
+    synonyms:
+      - "Kuroshitsuji"
     seasons:
       - season: 1
         anilist-id: 4898
