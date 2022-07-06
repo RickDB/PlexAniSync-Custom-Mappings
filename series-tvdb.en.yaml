@@ -649,8 +649,9 @@ entries:
         anilist-id: 1425
       - season: 3
         anilist-id: 1426
-  
+
   - title: "Made in Abyss"
+    seasons:
       - season: 1
         anilist-id: 97986
       - season: 2
