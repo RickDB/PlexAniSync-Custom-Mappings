@@ -731,6 +731,16 @@ entries:
       - season: 6
         anilist-id: 139630
 
+  - title: "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
+    synonyms:
+      - "Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita"
+      - "Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita"
+      - "Tensei Kenja no Isekai Life"
+      - "My Isekai Life"
+    seasons:
+      - season: 1
+        anilist-id: 129192
+        
   - title: "My Teen Romantic Comedy SNAFU"
     synonyms:
       - "Yahari Ore no Seishun Love Come wa Machigatteiru."
