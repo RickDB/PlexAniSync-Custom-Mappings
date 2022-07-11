@@ -16,17 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python 3.9
+    - name: Set up Python 3.10
       uses: actions/setup-python@v2
       with:
-        python-version: 3.9
-    - name: Install yamale
-      run: |
-        python -m pip install --upgrade pip
-        pip install yamale
+        python-version: 3.10
     - name: Download schema
-      run: wget -O schema.yaml https://raw.githubusercontent.com/RickDB/PlexAniSync/master/custom_mappings_schema.yaml
+      run: wget -O custom_mappings_schema.json https://raw.githubusercontent.com/RickDB/PlexAniSync/master/custom_mappings_schema.json
     - name: Validate mappings
       run: |
-        find series*.yaml -exec yamale -s schema.yaml {} +
-        find movies*.yaml -exec yamale -s schema.yaml {} +
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        python validate.py
