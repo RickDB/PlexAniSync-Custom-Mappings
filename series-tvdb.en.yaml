@@ -665,6 +665,8 @@ entries:
         anilist-id: 21394
 
   - title: "Magi: The Labyrinth of Magic"
+    synonyms:
+      - "Magi"
     seasons:
       - season: 1
         anilist-id: 14513
