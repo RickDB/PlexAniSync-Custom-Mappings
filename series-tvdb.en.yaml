@@ -551,6 +551,14 @@ entries:
       - season: 4
         anilist-id: 129196
 
+  - title: "Harem in the Labyrinth of Another World"
+    synonyms:
+      - "Isekai Meikyuu de Harem wo"
+      - "Isekai Meikyuu de Harem o"
+    seasons:
+      - season: 1
+        anilist-id: 127090
+
   - title: "JoJo's Bizarre Adventure (2012)"
     synonyms:
       - "JoJo's Bizarre Adventure"
