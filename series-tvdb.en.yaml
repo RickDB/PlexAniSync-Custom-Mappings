@@ -22,6 +22,14 @@ entries:
       - season: 3
         anilist-id: 104462
 
+- title: "A Couple of Cuckoos"
+    synonyms:
+      - "Kakkou no Iinazuke"
+      - "Cuckoo no Iinazuke"
+    seasons:
+      - season: 1
+        anilist-id: 132052
+
   - title: "Aldnoah.Zero"
     # AniList treats this as two seasons
     seasons:
