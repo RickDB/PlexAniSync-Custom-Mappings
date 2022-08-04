@@ -1102,7 +1102,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
-        
+
+  - title: "Vermeil in Gold"
+    synonyms:
+      - "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu"
+      - "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu"
+    seasons:
+      - season: 1
+        anilist-id: 146210
+
   - title: "xxxHOLiC"
     seasons:
       - season: 1
