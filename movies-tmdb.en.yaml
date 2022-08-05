@@ -18,6 +18,15 @@ entries:
       - season: 1
         anilist-id: 20954
 
+  - title: "KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson"
+    synonyms:
+      - "KonoSuba: Legend of Crimson"
+      - "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsue"
+      - "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
+    seasons:
+      - season: 1
+        anilist-id: 102976
+
   - title: "Shelter"
     # Categorized as Movie on TMDB and as Music on Anilist
     seasons:
