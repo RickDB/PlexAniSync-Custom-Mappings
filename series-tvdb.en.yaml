@@ -586,6 +586,9 @@ entries:
         anilist-id: 102883
       - season: 5
         anilist-id: 131942
+      - season: 5
+        anilist-id: 146722
+        start: 13
 
   - title: "K"
     synonyms:
