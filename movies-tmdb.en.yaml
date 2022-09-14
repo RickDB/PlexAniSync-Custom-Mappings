@@ -184,3 +184,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21403
+        
+  - title: "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
+    synonyms:
+      - "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
+      - "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
+    seasons:
+      - season: 1
+        anilist-id: 124140
