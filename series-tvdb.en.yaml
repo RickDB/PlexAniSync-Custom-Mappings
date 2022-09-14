@@ -1031,6 +1031,8 @@ entries:
         start: 13
 
   - title: "Showa Genroku Rakugo Shinju"
+    synonyms:
+      - "Shouwa Genroku Rakugo Shinjuu"
     seasons:
       - season: 1
         anilist-id: 20972
@@ -1169,6 +1171,15 @@ entries:
         anilist-id: 102997
       - season: 3
         anilist-id: 137735
+
+  - title: "The Quintessential Quintuplets"
+    synonyms:
+      - "5-toubun no Hanayome"
+    seasons:
+      - season: 1
+        anilist-id: 103572
+      - season: 2
+        anilist-id: 109261
 
   - title: "The Outcast"
     synonyms:
