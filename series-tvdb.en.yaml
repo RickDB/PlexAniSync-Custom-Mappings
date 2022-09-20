@@ -30,6 +30,17 @@ entries:
       - season: 1
         anilist-id: 132052
 
+  - title: "Ace of Diamond"
+    synonyms:
+      - "Diamond no Ace"
+    seasons:
+      - season: 1
+        anilist-id: 18689
+      - season: 2
+        anilist-id: 21085
+      - season: 3
+        anilist-id: 105749
+
   - title: "Aldnoah.Zero"
     # AniList treats this as two seasons
     seasons:
@@ -154,6 +165,15 @@ entries:
       - season: 2
         anilist-id: 97886
 
+  - title: "Blue Exorcist"
+    synonyms:
+      - "Ao no Exorcist"
+    seasons:
+      - season: 1
+        anilist-id: 9919
+      - season: 2
+        anilist-id: 21861
+
   - title: "Boruto: Naruto Next Generations"
     synonyms:
       - "Boruto"
@@ -216,6 +236,8 @@ entries:
 
   - title: "Darker Than Black"
     # PlexAniSync does not support mapping of Specials (Gaiden, 4 episodes)
+    synonyms:
+      - "Darker than Black: Kuro no Keiyakusha"
     seasons:
       - season: 1
         anilist-id: 2025
@@ -604,6 +626,8 @@ entries:
   - title: "Kaguya-sama: Love is War"
     synonyms:
       - "Kaguya-sama wa Kokurasetai"
+      - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+      - "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
     seasons:
       - season: 1
         anilist-id: 101921
@@ -619,6 +643,15 @@ entries:
       - season: 2
         anilist-id: 100876
 
+  - title: "Kamisama Kiss"
+    synonyms:
+      - "Kamisama Hajimemashita"
+    seasons:
+      - season: 1
+        anilist-id: 14713
+      - season: 2
+        anilist-id: 20801
+
   - title: "Kingdom"
     seasons:
       - season: 1
@@ -629,6 +662,15 @@ entries:
         anilist-id: 113108
       - season: 4
         anilist-id: 140350
+
+  - title: "Knights of Sidonia"
+    synonyms:
+      - "Sidonia no Kishi"
+    seasons:
+      - season: 1
+        anilist-id: 19775
+      - season: 2
+        anilist-id: 20762
 
   - title: "Link Click"
     synonyms:
@@ -692,6 +734,23 @@ entries:
       - season: 2
         anilist-id: 18115
 
+  - title: "Major"
+    synonyms:
+      - "Major S1"
+    seasons:
+      - season: 1
+        anilist-id: 627
+      - season: 2
+        anilist-id: 558
+      - season: 3
+        anilist-id: 1842
+      - season: 4
+        anilist-id: 3226
+      - season: 5
+        anilist-id: 5028
+      - season: 6
+        anilist-id: 7655
+
   - title: "Masou Gakuen HxH"
     synonyms:
       - "Magias Academy Ataraxia Hybrid x Heart"
@@ -709,6 +768,7 @@ entries:
   - title: "Miss Kobayashi's Dragon Maid"
     synonyms:
       - "Kobayashi-san Chi no Maidragon"
+      - "Kobayashi-san Chi no Maid Dragon"
     seasons:
       - season: 1
         anilist-id: 21776
@@ -723,6 +783,15 @@ entries:
         anilist-id: 101338
       - season: 3
         anilist-id: 140439
+
+  - title: "Mobile Suit Gundam 00"
+    synonyms:
+      - "Kidou Senshi Gundam 00"
+    seasons:
+      - season: 1
+        anilist-id: 2581
+      - season: 2
+        anilist-id: 3927
 
   - title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
@@ -755,6 +824,7 @@ entries:
   - title: "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
     synonyms:
       - "Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita"
+      - "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
       - "Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita"
       - "Tensei Kenja no Isekai Life"
       - "My Isekai Life"
@@ -832,6 +902,23 @@ entries:
         anilist-id: 1735
       - season: 22
         anilist-id: 1735
+
+  - title: "Natsume's Book of Friends"
+    synonyms:
+      - "Natsume Yuujinchou"
+    seasons:
+      - season: 1
+        anilist-id: 4081
+      - season: 2
+        anilist-id: 5300
+      - season: 3
+        anilist-id: 10379
+      - season: 4
+        anilist-id: 11665
+      - season: 5
+        anilist-id: 21710
+      - season: 6
+        anilist-id: 97983
 
   - title: "No Guns Life"
     seasons:
@@ -943,6 +1030,15 @@ entries:
         anilist-id: 20993
         start: 13
 
+  - title: "Showa Genroku Rakugo Shinju"
+    synonyms:
+      - "Shouwa Genroku Rakugo Shinjuu"
+    seasons:
+      - season: 1
+        anilist-id: 20972
+      - season: 2
+        anilist-id: 21733
+
   - title: "Spice and Wolf"
     synonyms:
       - "Ookami to Koushinryou"
@@ -1012,6 +1108,15 @@ entries:
         anilist-id: 116742
         start: 13
 
+  - title: "The Demon Girl Next Door"
+    synonyms:
+      - "Machikado Mazoku"
+    seasons:
+      - season: 1
+        anilist-id: 107490
+      - season: 2
+        anilist-id: 123330
+
   - title: "The Devil is a Part-Timer!"
     synonyms:
       - "Hataraku Maou-sama!"
@@ -1067,6 +1172,42 @@ entries:
       - season: 3
         anilist-id: 137735
 
+  - title: "The Quintessential Quintuplets"
+    synonyms:
+      - "5-toubun no Hanayome"
+    seasons:
+      - season: 1
+        anilist-id: 103572
+      - season: 2
+        anilist-id: 109261
+
+  - title: "The Outcast"
+    synonyms:
+      - "Hitori no Shita: The Outcast"
+      - "Yi Ren Zhi Xia"
+    seasons:
+      - season: 1
+        anilist-id: 21840
+      - season: 2
+        anilist-id: 98574
+      - season: 3
+        anilist-id: 105401
+      - season: 4
+        anilist-id: 122631
+
+  - title: "The Seven Deadly Sins"
+    synonyms:
+      - "Nanatsu no Taizai"
+    seasons:
+      - season: 1
+        anilist-id: 20789
+      - season: 2
+        anilist-id: 99539
+      - season: 3
+        anilist-id: 108928
+      - season: 4
+        anilist-id: 116752
+
   - title: "The Rising of the Shield Hero"
     synonyms:
       - "Tate no Yuusha no Nariagari"
@@ -1114,6 +1255,14 @@ entries:
       - season: 1
         anilist-id: 21499
 
+  - title: "The Yakuza's Guide to Babysitting"
+    synonyms:
+      - "Kumichou Musume to Sewagakari"
+      - "Kumicho Musume to Sewagakari"
+    seasons:
+      - season: 1
+        anilist-id: 138882
+
   - title: "Vermeil in Gold"
     synonyms:
       - "Kinsou no Vermeil"
@@ -1122,6 +1271,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 146210
+
+  - title: "Wagnaria!!"
+    synonyms:
+      - "Working!!"
+    seasons:
+      - season: 1
+        anilist-id: 6956
+      - season: 2
+        anilist-id: 10521
+      - season: 3
+        anilist-id: 20819
 
   - title: "xxxHOLiC"
     seasons:

@@ -18,17 +18,178 @@ entries:
       - season: 1
         anilist-id: 20954
 
+  - title: "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
+    synonyms:
+      - "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
+      - "Kimetsu no Yaiba: Mugen Ressha-hen"
+    seasons:
+      - season: 1
+        anilist-id: 112151
+
+  - title: "Gintama: The Movie"
+    synonyms:
+      - "Gintama: Shinyaku Benizakura-hen"
+      - "Gintama Movie 1: Shinyaku Benizakura-hen"
+    seasons:
+      - season: 1
+        anilist-id: 7472
+
+  - title: "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya"
+    synonyms:
+      - "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare"
+      - "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare"
+    seasons:
+      - season: 1
+        anilist-id: 15335
+
   - title: "KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson"
     synonyms:
       - "KonoSuba: Legend of Crimson"
       - "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsue"
       - "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
+      - "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu"
     seasons:
       - season: 1
         anilist-id: 102976
+
+  - title: "Kabaneri of the Iron Fortress: The Battle of Unato"
+    synonyms:
+      - "Koutetsujou no Kabaneri Movie 3: Unato Kessen"
+      - "Koutetsujou no Kabaneri: Unato Kessen"
+    seasons:
+      - season: 1
+        anilist-id: 97918
+
+  - title: "Love, Chunibyo & Other Delusions! -Take On Me"
+    synonyms:
+      - "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
+      - "Chuunibyou demo Koi ga Shitai!: Take On Me"
+    seasons:
+      - season: 1
+        anilist-id: 98762
+
+  - title: "Made in Abyss: Journey's Dawn"
+    synonyms:
+      - "Made in Abyss Movie 1: Tabidachi no Yoake"
+      - "Made in Abyss: Tabidachi no Yoake"
+    seasons:
+      - season: 1
+        anilist-id: 101343
+
+  - title: "Made in Abyss: Wandering Twilight"
+    synonyms:
+      - "Made in Abyss Movie 2: Hourou Suru Tasogare"
+      - "Made in Abyss: Hourou Suru Tasogare"
+    seasons:
+      - season: 1
+        anilist-id: 101344
+
+  - title: "Made in Abyss: Dawn of the Deep Soul"
+    synonyms:
+      - "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
+      - "Made in Abyss: Fukaki Tamashii no Reimei"
+    seasons:
+      - season: 1
+        anilist-id: 100643
+
+  - title: "My Hero Academia: Two Heroes"
+    synonyms:
+      - "Boku no Hero Academia the Movie 1: Futari no Hero"
+      - "Boku no Hero Academia THE MOVIE: Futari no Hero"
+    seasons:
+      - season: 1
+        anilist-id: 100723
+  - title: "My Hero Academia: Heroes Rising"
+    synonyms:
+      - "Boku no Hero Academia the Movie 2: Heroes:Rising"
+      - "Boku no Hero Academia THE MOVIE: Heroes:Rising"
+    seasons:
+      - season: 1
+        anilist-id: 108553
 
   - title: "Shelter"
     # Categorized as Movie on TMDB and as Music on Anilist
     seasons:
       - season: 1
         anilist-id: 97731
+
+  - title: "The Garden of Sinners: Overlooking View"
+    synonyms:
+      - "Kara no Kyoukai Movie 1: Fukan Fuukei"
+      - "Kara no Kyoukai: Fukan Fuukei"
+    seasons:
+      - season: 1
+        anilist-id: 2593
+  - title: "The Garden of Sinners: A Study in Murder (Part 1)"
+    synonyms:
+      - "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)"
+      - "Kara no Kyoukai: Satsujin Kousatsu (Zen)"
+    seasons:
+      - season: 1
+        anilist-id: 3782
+  - title: "The Garden of Sinners: Remaining Sense of Pain"
+    synonyms:
+      - "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu"
+      - "Kara no Kyoukai: Tsuukaku Zanryuu"
+    seasons:
+      - season: 1
+        anilist-id: 3783
+  - title: "The Garden of Sinners: The Hollow Shrine"
+    synonyms:
+      - "Kara no Kyoukai Movie 4: Garan no Dou"
+      - "Kara no Kyoukai: Garan no Dou"
+    seasons:
+      - season: 1
+        anilist-id: 4280
+  - title: "The Garden of Sinners: Paradox Spiral"
+    synonyms:
+      - "Kara no Kyoukai Movie 5: Mujun Rasen"
+      - "Kara no Kyoukai: Mujun Rasen"
+    seasons:
+      - season: 1
+        anilist-id: 4282
+  - title: "The Garden of Sinners: Oblivion Recording"
+    synonyms:
+      - "Kara no Kyoukai Movie 6: Boukyaku Rokuon"
+      - "Kara no Kyoukai: Boukyaku Rokuon"
+    seasons:
+      - season: 1
+        anilist-id: 5204
+  - title: "The Garden of Sinners: A Study in Murder (Part 2)"
+    synonyms:
+      - "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)"
+      - "Kara no Kyoukai: Satsujin Kousatsu (Kou)"
+    seasons:
+      - season: 1
+        anilist-id: 5205
+  - title: "The Garden of Sinners: Epilogue"
+    synonyms:
+      - "Kara no Kyoukai Movie 8: Shuushou"
+      - "Kara no Kyoukai: Shuushou"
+    seasons:
+      - season: 1
+        anilist-id: 6954
+
+  - title: "The Irregular at Magic High School: The Girl Who Summons the Stars"
+    synonyms:
+      - "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo"
+      - "Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo"
+    seasons:
+      - season: 1
+        anilist-id: 21684
+
+  - title: "Sword Art Online: The Movie – Ordinal Scale"
+    synonyms:
+      - "Sword Art Online Movie: Ordinal Scale"
+      - "Sword Art Online: Ordinal Scale"
+    seasons:
+      - season: 1
+        anilist-id: 21403
+        
+  - title: "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
+    synonyms:
+      - "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
+      - "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
+    seasons:
+      - season: 1
+        anilist-id: 124140
