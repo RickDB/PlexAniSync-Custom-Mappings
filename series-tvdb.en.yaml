@@ -1047,7 +1047,17 @@ entries:
         anilist-id: 2966
       - season: 2
         anilist-id: 5341
-
+        
+  - title: "SPY x FAMILY"
+    synonyms:
+      - "SPY×FAMILY"
+    seasons:
+    - season: 1
+      anilist-id: 140960
+    - season: 1
+      anilist-id: 142838
+      start: 13
+      
   - title: "Star Blazers [Space Battleship Yamato] 2199"
     synonyms:
       - "Uchuu Senkan Yamato 2199"
