@@ -89,6 +89,14 @@ entries:
       - season: 2
         anilist-id: 114194
 
+  - title: "Beast Tamer"
+    synonyms:
+      - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
+      - "Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
+    seasons:
+      - season: 1
+        anilist-id: 150695
+
   - title: "Black Butler"
     synonyms:
       - "Kuroshitsuji"
