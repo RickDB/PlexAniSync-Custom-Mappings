@@ -1116,7 +1116,7 @@ entries:
         anilist-id: 12431
         start: 52
 
-- title: "Spice and Wolf"
+  - title: "Spice and Wolf"
     synonyms:
       - "Ookami to Koushinryou"
     seasons:
@@ -1342,7 +1342,7 @@ entries:
       - season: 2
         anilist-id: 138565
 
-- title: "Tokyo Ghoul"
+  - title: "Tokyo Ghoul"
     seasons:
       - season: 1
         anilist-id: 20605
@@ -1387,7 +1387,7 @@ entries:
       - season: 2
         anilist-id: 124395
 
-- title: "Vermeil in Gold"
+  - title: "Vermeil in Gold"
     synonyms:
       - "Kinsou no Vermeil"
       - "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu"
@@ -1425,7 +1425,7 @@ entries:
       - season: 3
         anilist-id: 139092
 
-- title: "xxxHOLiC"
+  - title: "xxxHOLiC"
     seasons:
       - season: 1
         anilist-id: 861
