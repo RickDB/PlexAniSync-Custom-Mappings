@@ -247,7 +247,15 @@ entries:
       - season: 2
         anilist-id: 2904
 
-  - title: "Danganronpa: The Animation"
+  - title: "D.Gray-man"
+    seasons:
+      - season: 1
+        anilist-id: 1482
+      - season: 2
+        anilist-id: 1482
+        start: 52
+
+- title: "Danganronpa: The Animation"
     synonyms:
       - "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation"
     seasons:
@@ -278,6 +286,15 @@ entries:
         anilist-id: 129874
       - season: 3
         anilist-id: 142329
+
+  - title: "Don't Toy With Me, Miss Nagatoro"
+    synonyms:
+      - "Ijiranaide, Nagatoro-san"
+    seasons:
+      - season: 1
+        anilist-id: 120697
+      - season: 2
+        anilist-id: 140596
 
   - title: "Dr. Stone"
     seasons:
@@ -531,7 +548,14 @@ entries:
       - season: 4
         anilist-id: 97767
 
-  - title: "How a Realist Hero Rebuilt the Kingdom"
+  - title: "Himouto! Umaru-chan"
+    seasons:
+      - season: 1
+        anilist-id: 20987
+      - season: 2
+        anilist-id: 98572
+
+- title: "How a Realist Hero Rebuilt the Kingdom"
     synonyms:
       - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
     seasons:
@@ -566,7 +590,16 @@ entries:
       - season: 3
         anilist-id: 11061
 
-  - title: "Inu × Boku Secret Service"
+  - title: "In/Spectre"
+    synonyms:
+      - "Kyokou Suiri"
+    seasons:
+      - season: 1
+        anilist-id: 107201
+      - season: 2
+        anilist-id: 126529
+
+- title: "Inu × Boku Secret Service"
     synonyms:
       - "Inu x Boku SS"
     seasons:
@@ -602,6 +635,9 @@ entries:
         anilist-id: 112124
       - season: 4
         anilist-id: 129196
+      - season: 4
+        anilist-id: 155211
+        start : 12
 
   - title: "Harem in the Labyrinth of Another World"
     synonyms:
@@ -1014,6 +1050,13 @@ entries:
       - season: 4
         anilist-id: 133844
 
+  - title: "Princess Connect! Re:Dive"
+    seasons:
+      - season: 1
+        anilist-id: 107871
+      - season: 2
+        anilist-id: 122808
+
   - title: "Psycho-Pass"
     seasons:
       - season: 1
@@ -1063,7 +1106,17 @@ entries:
       - season: 2
         anilist-id: 21733
 
-  - title: "Spice and Wolf"
+  - title: "Space Brothers"
+    synonyms:
+      - "Uchuu Kyoudai"
+    seasons:
+      - season: 1
+        anilist-id: 12431
+      - season: 2
+        anilist-id: 12431
+        start: 52
+
+- title: "Spice and Wolf"
     synonyms:
       - "Ookami to Koushinryou"
     seasons:
@@ -1186,6 +1239,15 @@ entries:
         anilist-id: 5205
         start: 7
 
+  - title: "The Heroic Legend of Arslan (2015)"
+    synonyms:
+      - "Arslan Senki (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 20935
+      - season: 2
+        anilist-id: 21424
+
   - title: "The Irregular at Magic High School"
     synonyms:
       - "Mahouka Koukou no Rettousei"
@@ -1209,6 +1271,7 @@ entries:
   - title: "The Quintessential Quintuplets"
     synonyms:
       - "5-toubun no Hanayome"
+      - "Go-toubun no Hanayome"
     seasons:
       - season: 1
         anilist-id: 103572
@@ -1270,7 +1333,16 @@ entries:
       - season: 1
         anilist-id: 129898
 
-  - title: "Tokyo Ghoul"
+  - title: "To Your Eternity"
+    synonyms:
+      - "Fumetsu no Anata e"
+    seasons:
+      - season: 1
+        anilist-id: 114535
+      - season: 2
+        anilist-id: 138565
+
+- title: "Tokyo Ghoul"
     seasons:
       - season: 1
         anilist-id: 20605
@@ -1281,6 +1353,15 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
+
+  - title: "Tsurune"
+    synonyms:
+      - "Tsurune: Kazemai Koukou Kyuudou-bu"
+    seasons:
+      - season: 1
+        anilist-id: 100402
+      - season: 2
+        anilist-id: 153841
 
   - title: "Twin Star Exorcists"
     synonyms:
@@ -1297,7 +1378,16 @@ entries:
       - season: 1
         anilist-id: 138882
 
-  - title: "Vermeil in Gold"
+  - title: "Uzaki-chan Wants to Hang Out!"
+    synonyms:
+      - "Uzaki-chan wa Asobitai!"
+    seasons:
+      - season: 1
+        anilist-id: 115113
+      - season: 2
+        anilist-id: 124395
+
+- title: "Vermeil in Gold"
     synonyms:
       - "Kinsou no Vermeil"
       - "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu"
@@ -1324,7 +1414,18 @@ entries:
       - season: 3
         anilist-id: 20819
 
-  - title: "xxxHOLiC"
+  - title: "Welcome to Demon School! Iruma-kun"
+    synonyms:
+      - "Mairimashita! Iruma-kun"
+    seasons:
+      - season: 1
+        anilist-id: 107693
+      - season: 2
+        anilist-id: 116338
+      - season: 3
+        anilist-id: 139092
+
+- title: "xxxHOLiC"
     seasons:
       - season: 1
         anilist-id: 861
@@ -1356,3 +1457,16 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
+
+  - title: "Yowamushi Pedal"
+    seasons:
+      - season: 1
+        anilist-id: 18179
+      - season: 2
+        anilist-id: 20723
+      - season: 3
+        anilist-id: 21407
+      - season: 4
+        anilist-id: 99476
+      - season: 5
+        anilist-id: 142481
