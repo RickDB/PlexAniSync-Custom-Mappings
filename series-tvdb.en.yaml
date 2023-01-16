@@ -112,7 +112,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11285
-        
+
+  - title: "Blast of Tempest"
+    synonyms:
+      - "Zetsuen no Tempest"
+      - "Blast of Tempest: The Civilization Blaster"
+    seasons:
+      - season: 1
+        anilist-id: 14075
+
   - title: "Bleach"
     seasons:
       - season: 1
@@ -372,6 +380,13 @@ entries:
       - season: 2
         anilist-id: 1599
 
+  - title: "Elfen Lied"
+    synonyms: 
+      - "Erufen rîto"
+    seasons:
+      - season: 1
+        anilist-id: 226
+
   - title: "F-Zero: GP Legends"
     synonyms: 
       - "F-ZERO: Falcon Densetsu"
@@ -517,6 +532,7 @@ entries:
     synonyms:
       - "Grimgar of Fantasy and Ash"
       - "Hai to Gensou no Grimgar"
+      - "Hai to gensô no Grimgar"
     seasons:
       - season: 1
         anilist-id: 21428
@@ -1039,6 +1055,15 @@ entries:
       - season: 21
         anilist-id: 21
 
+  - title: "One Punch Man"
+    synonyms:
+      - "One-Punch Man"
+      - "One Punch Man: Wanpanman"
+      - "Wanpanman"
+    seasons:
+      - season: 1
+        anilist-id: 21087
+
   - title: "Overlord"
     seasons:
       - season: 1
@@ -1096,6 +1121,14 @@ entries:
       - season: 1
         anilist-id: 20993
         start: 13
+
+  - title: "Shikimori's Not Just a Cutie"
+    synonyms:
+      - "Kawaii dake ja Nai Shikimori-san"
+      - "Miss Shikimori Is Not Just Cute"
+    seasons:
+      - season: 1
+        anilist-id: 127911
 
   - title: "Showa Genroku Rakugo Shinju"
     synonyms:
@@ -1267,6 +1300,13 @@ entries:
         anilist-id: 102997
       - season: 3
         anilist-id: 137735
+
+  - title: "The Master of Ragnarok and Blesser of Einherjar"
+    synonyms:
+      - "Hyakuren no Haou to Seiyaku no Valkyria"
+    seasons:
+      - season: 1
+        anilist-id: 101289
 
   - title: "The Quintessential Quintuplets"
     synonyms:
