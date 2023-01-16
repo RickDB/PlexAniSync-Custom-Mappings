@@ -112,7 +112,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11285
-        
+
+  - title: "Blast of Tempest"
+    synonyms:
+      - "Zetsuen no Tempest"
+      - "Blast of Tempest: The Civilization Blaster"
+    seasons:
+      - season: 1
+        anilist-id: 14075
+
   - title: "Bleach"
     seasons:
       - season: 1
@@ -597,14 +605,6 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
-
-
-  - title: "The Master of Ragnarok and Blesser of Einherjar"
-    synonyms:
-      - "Hyakuren no Haou to Seiyaku no Valkyria"
-    seasons:
-      - season: 1
-        anilist-id: 101289
 
   - title: "In/Spectre"
     synonyms:
@@ -1301,6 +1301,13 @@ entries:
       - season: 3
         anilist-id: 137735
 
+  - title: "The Master of Ragnarok and Blesser of Einherjar"
+    synonyms:
+      - "Hyakuren no Haou to Seiyaku no Valkyria"
+    seasons:
+      - season: 1
+        anilist-id: 101289
+
   - title: "The Quintessential Quintuplets"
     synonyms:
       - "5-toubun no Hanayome"
@@ -1490,14 +1497,6 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
-
-  - title: "Blast of Tempest"
-    synonyms:
-      - "Zetsuen no Tempest"
-      - "Blast of Tempest: The Civilization Blaster"
-    seasons:
-      - season: 1
-        anilist-id: 14075
 
   - title: "Yowamushi Pedal"
     seasons:
