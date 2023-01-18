@@ -261,7 +261,7 @@ entries:
         anilist-id: 1482
       - season: 2
         anilist-id: 1482
-        start: 52
+        start: -52
 
   - title: "Danganronpa: The Animation"
     synonyms:
@@ -1307,6 +1307,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101289
+
+  - title: "The Misfit of Demon King Academy"
+    synonyms:
+      - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
+    seasons:
+      - season: 1
+        anilist-id: 112301
+      - season: 2
+        anilist-id: 130588
+      - season: 2
+        anilist-id: 130590        
+        start: 13
 
   - title: "The Quintessential Quintuplets"
     synonyms:
