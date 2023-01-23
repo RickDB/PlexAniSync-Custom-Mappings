@@ -199,6 +199,15 @@ entries:
       - season: 1
         anilist-id: 137822
 
+  - title: "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense."
+    synonyms:
+      - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+    seasons:
+      - season: 1
+        anilist-id: 106479
+      - season: 2
+        anilist-id: 116867
+
   - title: "Boruto: Naruto Next Generations"
     synonyms:
       - "Boruto"
@@ -261,7 +270,7 @@ entries:
         anilist-id: 1482
       - season: 2
         anilist-id: 1482
-        start: -52
+        start: -50
 
   - title: "Danganronpa: The Animation"
     synonyms:
@@ -1145,13 +1154,13 @@ entries:
         anilist-id: 170
       - season: 2
         anilist-id: 170
-        start: -26
+        start: -25
       - season: 3
         anilist-id: 170
-        start: -52
+        start: -51
       - season: 4
         anilist-id: 170
-        start: -78
+        start: -77
 
   - title: "Space Brothers"
     synonyms:
