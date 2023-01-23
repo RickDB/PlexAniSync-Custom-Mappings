@@ -1139,6 +1139,20 @@ entries:
       - season: 2
         anilist-id: 21733
 
+  - title: "Slam Dunk"
+    seasons:
+      - season: 1
+        anilist-id: 170
+      - season: 2
+        anilist-id: 170
+        start: -26
+      - season: 3
+        anilist-id: 170
+        start: -52
+      - season: 4
+        anilist-id: 170
+        start: -78
+
   - title: "Space Brothers"
     synonyms:
       - "Uchuu Kyoudai"
