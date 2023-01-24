@@ -199,6 +199,15 @@ entries:
       - season: 1
         anilist-id: 137822
 
+  - title: "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense."
+    synonyms:
+      - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+    seasons:
+      - season: 1
+        anilist-id: 106479
+      - season: 2
+        anilist-id: 116867
+
   - title: "Boruto: Naruto Next Generations"
     synonyms:
       - "Boruto"
@@ -261,7 +270,6 @@ entries:
         anilist-id: 1482
       - season: 2
         anilist-id: 1482
-        start: 52
 
   - title: "Danganronpa: The Animation"
     synonyms:
@@ -1139,6 +1147,17 @@ entries:
       - season: 2
         anilist-id: 21733
 
+  - title: "Slam Dunk"
+    seasons:
+      - season: 1
+        anilist-id: 170
+      - season: 2
+        anilist-id: 170
+      - season: 3
+        anilist-id: 170
+      - season: 4
+        anilist-id: 170
+
   - title: "Space Brothers"
     synonyms:
       - "Uchuu Kyoudai"
@@ -1147,7 +1166,6 @@ entries:
         anilist-id: 12431
       - season: 2
         anilist-id: 12431
-        start: -50
 
   - title: "Spice and Wolf"
     synonyms:
@@ -1307,6 +1325,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101289
+
+  - title: "The Misfit of Demon King Academy"
+    synonyms:
+      - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
+    seasons:
+      - season: 1
+        anilist-id: 112301
+      - season: 2
+        anilist-id: 130588
+      - season: 2
+        anilist-id: 130590        
+        start: 13
 
   - title: "The Quintessential Quintuplets"
     synonyms:
