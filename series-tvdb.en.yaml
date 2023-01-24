@@ -270,7 +270,6 @@ entries:
         anilist-id: 1482
       - season: 2
         anilist-id: 1482
-        start: -50
 
   - title: "Danganronpa: The Animation"
     synonyms:
@@ -1154,13 +1153,10 @@ entries:
         anilist-id: 170
       - season: 2
         anilist-id: 170
-        start: -25
       - season: 3
         anilist-id: 170
-        start: -51
       - season: 4
         anilist-id: 170
-        start: -77
 
   - title: "Space Brothers"
     synonyms:
@@ -1170,7 +1166,6 @@ entries:
         anilist-id: 12431
       - season: 2
         anilist-id: 12431
-        start: -50
 
   - title: "Spice and Wolf"
     synonyms:
