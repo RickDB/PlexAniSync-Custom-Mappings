@@ -1541,3 +1541,9 @@ entries:
         anilist-id: 99476
       - season: 5
         anilist-id: 142481
+  - title: "The tale of the outcasts"
+    synonyms:
+      - "Nokemono-tachi no Yoru"
+    seasons:
+      - season: 1
+        anilist-id: 151679
