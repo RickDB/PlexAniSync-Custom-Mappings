@@ -1397,6 +1397,14 @@ entries:
       - season: 1
         anilist-id: 116741
 
+  - title: "The Tale of the Outcasts"
+    synonyms:
+      - "The Tale of Outcasts"
+      - "Nokemono-tachi no Yoru"
+    seasons:
+      - season: 1
+        anilist-id: 151679
+
   - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
     synonyms:
       - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
