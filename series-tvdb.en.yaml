@@ -664,6 +664,13 @@ entries:
         anilist-id: 155211
         start : 12
 
+  - title: "I'm Now Your Sister!"
+    synonyms:
+      - "ONIMAI: I'm Now Your Sister!"
+    seasons:
+      - season: 1
+        anilist-id: 147864
+ 
   - title: "Harem in the Labyrinth of Another World"
     synonyms:
       - "Isekai Meikyuu de Harem wo"
