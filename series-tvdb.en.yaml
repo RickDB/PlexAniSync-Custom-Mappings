@@ -1556,3 +1556,16 @@ entries:
         anilist-id: 99476
       - season: 5
         anilist-id: 142481
+
+  - title: "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…"
+    synonyms:
+      - "My Next Life as a Villainess"
+      - "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags.."
+      - "Hamefura"
+      - "Hamehura"
+      - "Bakarina"
+    seasons:
+      - season: 1
+        anilist-id: 104647
+      - season: 2
+        anilist-id: 120209
