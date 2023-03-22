@@ -1614,3 +1614,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21361
+
+  - title: "Shikkakumon no Saikyou Kenja"
+    synonyms:
+      - "The Strongest Sage with the Weakest Crest"
+      - "Der stärkste Held mit dem Mal der Schwäche"
+    seasons:
+      - season: 1
+        anilist-id: 129191
