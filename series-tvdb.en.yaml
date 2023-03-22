@@ -1606,3 +1606,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112649
+
+  - title: "GRANBLUE FANTASY The Animation"
+    synonyms:
+      - "Granblue Fantasy: The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 21361
