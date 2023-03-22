@@ -1598,3 +1598,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129201
+
+  - title: "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
+    synonyms:
+      - "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?"
+      - "Ein Landei aus dem Dorf vor dem letzten Dungeon sucht das Abenteuer in der Stadt"
+    seasons:
+      - season: 1
+        anilist-id: 112649
