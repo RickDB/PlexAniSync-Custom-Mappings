@@ -1587,3 +1587,11 @@ entries:
         anilist-id: 100668
       - season: 2
         anilist-id: 112323
+
+  - title: "Summer Time Render"
+    synonyms:
+      - "Summer Time Rendering"
+      - "Bright Sun - Dark Shadows"
+    seasons:
+      - season: 1
+        anilist-id: 129201
