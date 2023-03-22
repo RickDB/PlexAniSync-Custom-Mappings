@@ -51,6 +51,16 @@ entries:
         anilist-id: 20853
         start: 13
 
+  - title: "Arifureta Shokugyou de Sekai Saikyou"
+    synonyms:
+      - "Arifureta: From Commonplace to World's Strongest"
+      - "Arifureta"
+    seasons:
+      - season: 1
+        anilist-id: 100668
+      - season: 2
+        anilist-id: 112323
+
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou"
@@ -530,7 +540,17 @@ entries:
       - season: 10
         anilist-id: 101925
         start: 13
-        
+
+  - title: "GRANBLUE FANTASY The Animation"
+    synonyms:
+      - "Granblue Fantasy: The Animation"
+      - "Granblue Fantasy"
+    seasons:
+      - season: 1
+        anilist-id: 21361
+      - season: 2
+        anilist-id: 107346
+
   - title: "Great Pretender"
     seasons:
       - season: 1
@@ -1083,6 +1103,19 @@ entries:
       - season: 1
         anilist-id: 21087
 
+  - title: "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…"
+    synonyms:
+      - "My Next Life as a Villainess"
+      - "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags.."
+      - "Hamefura"
+      - "Hamehura"
+      - "Bakarina"
+    seasons:
+      - season: 1
+        anilist-id: 104647
+      - season: 2
+        anilist-id: 120209
+
   - title: "Overlord"
     seasons:
       - season: 1
@@ -1149,6 +1182,13 @@ entries:
       - season: 1
         anilist-id: 127911
 
+  - title: "Shikkakumon no Saikyou Kenja"
+    synonyms:
+      - "The Strongest Sage with the Weakest Crest"
+      - "Der stärkste Held mit dem Mal der Schwäche"
+    seasons:
+      - season: 1
+        anilist-id: 129191
   - title: "Showa Genroku Rakugo Shinju"
     synonyms:
       - "Shouwa Genroku Rakugo Shinjuu"
@@ -1208,6 +1248,14 @@ entries:
       - season: 2
         anilist-id: 21730
 
+  - title: "Summer Time Render"
+    synonyms:
+      - "Summer Time Rendering"
+      - "Bright Sun - Dark Shadows"
+    seasons:
+      - season: 1
+        anilist-id: 129201
+
   - title: "Sweetness & Lightning"
     synonyms:
       - "Amaama to Inazuma"
@@ -1244,6 +1292,22 @@ entries:
         anilist-id: 21672
       - season: 5
         anilist-id: 21673
+
+  - title: "Taimadou Gakuen 35 Shiken Shoutai"
+    synonyms:
+      - "Anti-Magic Academy: The 35th Test Platoon"
+      - "Anti Magic Academy: Test-Trupp 35"
+    seasons:
+      - season: 1
+        anilist-id: 20704
+
+  - title: "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
+    synonyms:
+      - "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?"
+      - "Ein Landei aus dem Dorf vor dem letzten Dungeon sucht das Abenteuer in der Stadt"
+    seasons:
+      - season: 1
+        anilist-id: 112649
 
   - title: "That Time I Got Reincarnated as a Slime"
     synonyms:
@@ -1562,67 +1626,20 @@ entries:
       - season: 5
         anilist-id: 142481
 
-  - title: "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…"
+  - title: "Yuki Yuna is a Hero"
     synonyms:
-      - "My Next Life as a Villainess"
-      - "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags.."
-      - "Hamefura"
-      - "Hamehura"
-      - "Bakarina"
+      - "Yuuki Yuuna wa Yuusha de Aru"
+      - "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
+      - "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+      - "Yuuki Yuuna wa Yuusha de Aru: Dai-Mankai no Shou"
     seasons:
       - season: 1
-        anilist-id: 104647
+        anilist-id: 20800
       - season: 2
-        anilist-id: 120209
-
-  - title: "Taimadou Gakuen 35 Shiken Shoutai"
-    synonyms:
-      - "Anti-Magic Academy: The 35th Test Platoon"
-      - "Anti Magic Academy: Test-Trupp 35"
-    seasons:
-      - season: 1
-        anilist-id: 20704
-
-  - title: "Arifureta Shokugyou de Sekai Saikyou"
-    synonyms:
-      - "Arifureta: From Commonplace to World's Strongest"
-      - "Arifureta"
-    seasons:
-      - season: 1
-        anilist-id: 100668
+        anilist-id: 100791
       - season: 2
-        anilist-id: 112323
+        anilist-id: 97769
+        start: 7
+      - season: 3
+        anilist-id: 122292
 
-  - title: "Summer Time Render"
-    synonyms:
-      - "Summer Time Rendering"
-      - "Bright Sun - Dark Shadows"
-    seasons:
-      - season: 1
-        anilist-id: 129201
-
-  - title: "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
-    synonyms:
-      - "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?"
-      - "Ein Landei aus dem Dorf vor dem letzten Dungeon sucht das Abenteuer in der Stadt"
-    seasons:
-      - season: 1
-        anilist-id: 112649
-
-  - title: "GRANBLUE FANTASY The Animation"
-    synonyms:
-      - "Granblue Fantasy: The Animation"
-      - "Granblue Fantasy"
-    seasons:
-      - season: 1
-        anilist-id: 21361
-      - season: 2
-        anilist-id: 107346
-
-  - title: "Shikkakumon no Saikyou Kenja"
-    synonyms:
-      - "The Strongest Sage with the Weakest Crest"
-      - "Der stärkste Held mit dem Mal der Schwäche"
-    seasons:
-      - season: 1
-        anilist-id: 129191
