@@ -1577,3 +1577,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20704
+
+  - title: "Arifureta Shokugyou de Sekai Saikyou"
+    synonyms:
+      - "Arifureta: From Commonplace to World's Strongest"
+      - "Arifureta"
+    seasons:
+      - season: 1
+        anilist-id: 100668
+      - season: 2
+        anilist-id: 112323
