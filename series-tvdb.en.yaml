@@ -1616,6 +1616,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21361
+      - season: 2
+        anilist-id: 107346
 
   - title: "Shikkakumon no Saikyou Kenja"
     synonyms:
