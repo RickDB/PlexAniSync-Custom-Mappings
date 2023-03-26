@@ -18,10 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python $PYTHON_VERSION
+    - name: Set up Python ${{ env.PYTHON_VERSION }}
       uses: actions/setup-python@v2
       with:
-        python-version: $PYTHON_VERSION
+        python-version: ${{ env.PYTHON_VERSION }}
     - name: Download schema
       run: wget -O custom_mappings_schema.json https://raw.githubusercontent.com/RickDB/PlexAniSync/master/custom_mappings_schema.json
     - name: Validate mappings
@@ -34,10 +34,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python $PYTHON_VERSION
+    - name: Set up Python ${{ env.PYTHON_VERSION }}
       uses: actions/setup-python@v2
       with:
-        python-version: $PYTHON_VERSION
+        python-version: ${{ env.PYTHON_VERSION }}
     - name: Sort entries
       run: |
         python -m pip install --upgrade pip
