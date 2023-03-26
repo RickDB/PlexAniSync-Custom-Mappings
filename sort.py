@@ -13,10 +13,10 @@ yaml.indent(sequence=4, offset=2)
 yaml.width = 1024
 
 for file in glob.glob("*.yaml"):
-    with open(file, 'r', encoding='utf-8') as f:
+    with open(file, 'r+', encoding='utf-8') as f:
         file_mappings = yaml.load(f)
-        file_mappings["entries"] = sorted(file_mappings["entries"], key=lambda entry: entry["title"].lower())
-        ff = open(file, "w", encoding='utf-8')
-        yaml.dump(file_mappings, ff)
-        ff.close()
-        f.close()
+        file_mappings["entries"].sort(key=lambda entry: entry["title"].lower())
+        # Jump to beginning of file and overwrite with sorted entries
+        f.seek(0)
+        yaml.dump(file_mappings, f)
+        f.truncate()
