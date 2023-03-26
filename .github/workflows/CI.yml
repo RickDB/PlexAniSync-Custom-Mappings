@@ -31,7 +31,7 @@ jobs:
         python validate.py
   sort-mappings:
     if: github.event_name == 'push'
-    runs:on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python $PYTHON_VERSION
