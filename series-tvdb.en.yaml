@@ -83,13 +83,6 @@ entries:
         anilist-id: 131681
         start: 17
 
-  - title: "BEASTARS"
-    seasons:
-      - season: 1
-        anilist-id: 107660
-      - season: 2
-        anilist-id: 114194
-
   - title: "Beast Tamer"
     synonyms:
       - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
@@ -97,6 +90,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150695
+
+  - title: "BEASTARS"
+    seasons:
+      - season: 1
+        anilist-id: 107660
+      - season: 2
+        anilist-id: 114194
 
   - title: "Black Butler"
     synonyms:
@@ -108,7 +108,7 @@ entries:
         anilist-id: 6707
       - season: 3
         anilist-id: 20606
-  
+
   - title: "Black Rock Shooter"
     seasons:
       - season: 1
@@ -159,6 +159,15 @@ entries:
       - season: 17
         anilist-id: 116674
 
+  - title: "Blood Blockade Battlefront"
+    synonyms:
+      - "Kekkai Sensen"
+    seasons:
+      - season: 1
+        anilist-id: 20727
+      - season: 2
+        anilist-id: 97886
+
   - title: "Blood+"
     synonyms:
       - "Blood Plus"
@@ -174,15 +183,6 @@ entries:
       - season: 4
         anilist-id: 150
         start: 39
-
-  - title: "Blood Blockade Battlefront"
-    synonyms:
-      - "Kekkai Sensen"
-    seasons:
-      - season: 1
-        anilist-id: 20727
-      - season: 2
-        anilist-id: 97886
 
   - title: "Blue Exorcist"
     synonyms:
@@ -224,7 +224,7 @@ entries:
         anilist-id: 21679
       - season: 3
         anilist-id: 103223
-        
+
   - title: "Cells at Work!"
     synonyms:
       - "Hataraku Saibou"
@@ -319,7 +319,7 @@ entries:
         anilist-id: 105333
       - season: 2
         anilist-id: 113936
-        
+
   - title: "Dragon Ball"
     seasons:
       - season: 1
@@ -334,7 +334,7 @@ entries:
         anilist-id: 223
       - season: 6
         anilist-id: 223
-        
+
   - title: "Dragon Ball Super"
     seasons:
       - season: 1
@@ -347,7 +347,7 @@ entries:
         anilist-id: 21175
       - season: 5
         anilist-id: 21175
-        
+
   - title: "Dragon Ball Z"
     seasons:
       - season: 1
@@ -390,21 +390,21 @@ entries:
         anilist-id: 1599
 
   - title: "Elfen Lied"
-    synonyms: 
+    synonyms:
       - "Erufen rîto"
     seasons:
       - season: 1
         anilist-id: 226
 
   - title: "F-Zero: GP Legends"
-    synonyms: 
+    synonyms:
       - "F-ZERO: Falcon Densetsu"
     seasons:
       - season: 1
         anilist-id: 3101
       - season: 2
         anilist-id: 3101
-        
+
   - title: "Fairy Tail"
     seasons:
       - season: 1
@@ -529,7 +529,7 @@ entries:
       - season: 10
         anilist-id: 101925
         start: 13
-        
+
   - title: "Great Pretender"
     seasons:
       - season: 1
@@ -561,6 +561,14 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
+
+  - title: "Harem in the Labyrinth of Another World"
+    synonyms:
+      - "Isekai Meikyuu de Harem wo"
+      - "Isekai Meikyuu de Harem o"
+    seasons:
+      - season: 1
+        anilist-id: 127090
 
   - title: "High School DxD"
     seasons:
@@ -615,6 +623,13 @@ entries:
       - season: 3
         anilist-id: 11061
 
+  - title: "I'm Now Your Sister!"
+    synonyms:
+      - "ONIMAI: I'm Now Your Sister!"
+    seasons:
+      - season: 1
+        anilist-id: 147864
+
   - title: "In/Spectre"
     synonyms:
       - "Kyokou Suiri"
@@ -630,7 +645,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11013
-        
+
   - title: "InuYasha"
     seasons:
       - season: 1
@@ -662,22 +677,7 @@ entries:
         anilist-id: 129196
       - season: 4
         anilist-id: 155211
-        start : 12
-
-  - title: "I'm Now Your Sister!"
-    synonyms:
-      - "ONIMAI: I'm Now Your Sister!"
-    seasons:
-      - season: 1
-        anilist-id: 147864
- 
-  - title: "Harem in the Labyrinth of Another World"
-    synonyms:
-      - "Isekai Meikyuu de Harem wo"
-      - "Isekai Meikyuu de Harem o"
-    seasons:
-      - season: 1
-        anilist-id: 127090
+        start: 12
 
   - title: "JoJo's Bizarre Adventure (2012)"
     synonyms:
@@ -923,7 +923,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129192
-        
+
   - title: "My Teen Romantic Comedy SNAFU"
     synonyms:
       - "Yahari Ore no Seishun Love Come wa Machigatteiru."
@@ -934,7 +934,7 @@ entries:
         anilist-id: 20698
       - season: 3
         anilist-id: 108489
-        
+
   - title: "Naruto"
     seasons:
       - season: 1
@@ -947,7 +947,7 @@ entries:
         anilist-id: 20
       - season: 5
         anilist-id: 20
-        
+
   - title: "Naruto Shippuden"
     seasons:
       - season: 1
@@ -1183,17 +1183,17 @@ entries:
         anilist-id: 2966
       - season: 2
         anilist-id: 5341
-        
+
   - title: "SPY x FAMILY"
     synonyms:
       - "SPY×FAMILY"
     seasons:
-    - season: 1
-      anilist-id: 140960
-    - season: 1
-      anilist-id: 142838
-      start: 13
-      
+      - season: 1
+        anilist-id: 140960
+      - season: 1
+        anilist-id: 142838
+        start: 13
+
   - title: "Star Blazers [Space Battleship Yamato] 2199"
     synonyms:
       - "Uchuu Senkan Yamato 2199"
@@ -1343,18 +1343,8 @@ entries:
       - season: 2
         anilist-id: 130588
       - season: 2
-        anilist-id: 130590        
+        anilist-id: 130590
         start: 13
-
-  - title: "The Quintessential Quintuplets"
-    synonyms:
-      - "5-toubun no Hanayome"
-      - "Go-toubun no Hanayome"
-    seasons:
-      - season: 1
-        anilist-id: 103572
-      - season: 2
-        anilist-id: 109261
 
   - title: "The Outcast"
     synonyms:
@@ -1370,18 +1360,15 @@ entries:
       - season: 4
         anilist-id: 122631
 
-  - title: "The Seven Deadly Sins"
+  - title: "The Quintessential Quintuplets"
     synonyms:
-      - "Nanatsu no Taizai"
+      - "5-toubun no Hanayome"
+      - "Go-toubun no Hanayome"
     seasons:
       - season: 1
-        anilist-id: 20789
+        anilist-id: 103572
       - season: 2
-        anilist-id: 99539
-      - season: 3
-        anilist-id: 108928
-      - season: 4
-        anilist-id: 116752
+        anilist-id: 109261
 
   - title: "The Rising of the Shield Hero"
     synonyms:
@@ -1394,6 +1381,19 @@ entries:
         anilist-id: 111321
       - season: 3
         anilist-id: 111322
+
+  - title: "The Seven Deadly Sins"
+    synonyms:
+      - "Nanatsu no Taizai"
+    seasons:
+      - season: 1
+        anilist-id: 20789
+      - season: 2
+        anilist-id: 99539
+      - season: 3
+        anilist-id: 108928
+      - season: 4
+        anilist-id: 116752
 
   - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
     synonyms:
@@ -1418,6 +1418,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129898
+
+  - title: "The Yakuza's Guide to Babysitting"
+    synonyms:
+      - "Kumichou Musume to Sewagakari"
+      - "Kumicho Musume to Sewagakari"
+    seasons:
+      - season: 1
+        anilist-id: 138882
 
   - title: "To Your Eternity"
     synonyms:
@@ -1455,14 +1463,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
-
-  - title: "The Yakuza's Guide to Babysitting"
-    synonyms:
-      - "Kumichou Musume to Sewagakari"
-      - "Kumicho Musume to Sewagakari"
-    seasons:
-      - season: 1
-        anilist-id: 138882
 
   - title: "Uzaki-chan Wants to Hang Out!"
     synonyms:
@@ -1527,6 +1527,18 @@ entries:
       - season: 1
         anilist-id: 20966
 
+  - title: "Yowamushi Pedal"
+    seasons:
+      - season: 1
+        anilist-id: 18179
+      - season: 2
+        anilist-id: 20723
+      - season: 3
+        anilist-id: 21407
+      - season: 4
+        anilist-id: 99476
+      - season: 5
+        anilist-id: 142481
   - title: "Yuki Yuna is a Hero"
     synonyms:
       - "Yuuki Yuuna wa Yuusha de Aru"
@@ -1544,15 +1556,3 @@ entries:
       - season: 3
         anilist-id: 122292
 
-  - title: "Yowamushi Pedal"
-    seasons:
-      - season: 1
-        anilist-id: 18179
-      - season: 2
-        anilist-id: 20723
-      - season: 3
-        anilist-id: 21407
-      - season: 4
-        anilist-id: 99476
-      - season: 5
-        anilist-id: 142481

@@ -42,6 +42,14 @@ entries:
       - season: 1
         anilist-id: 15335
 
+  - title: "Kabaneri of the Iron Fortress: The Battle of Unato"
+    synonyms:
+      - "Koutetsujou no Kabaneri Movie 3: Unato Kessen"
+      - "Koutetsujou no Kabaneri: Unato Kessen"
+    seasons:
+      - season: 1
+        anilist-id: 97918
+
   - title: "KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson"
     synonyms:
       - "KonoSuba: Legend of Crimson"
@@ -52,14 +60,6 @@ entries:
       - season: 1
         anilist-id: 102976
 
-  - title: "Kabaneri of the Iron Fortress: The Battle of Unato"
-    synonyms:
-      - "Koutetsujou no Kabaneri Movie 3: Unato Kessen"
-      - "Koutetsujou no Kabaneri: Unato Kessen"
-    seasons:
-      - season: 1
-        anilist-id: 97918
-
   - title: "Love, Chunibyo & Other Delusions! -Take On Me"
     synonyms:
       - "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
@@ -67,6 +67,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98762
+
+  - title: "Made in Abyss: Dawn of the Deep Soul"
+    synonyms:
+      - "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
+      - "Made in Abyss: Fukaki Tamashii no Reimei"
+    seasons:
+      - season: 1
+        anilist-id: 100643
 
   - title: "Made in Abyss: Journey's Dawn"
     synonyms:
@@ -84,21 +92,6 @@ entries:
       - season: 1
         anilist-id: 101344
 
-  - title: "Made in Abyss: Dawn of the Deep Soul"
-    synonyms:
-      - "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
-      - "Made in Abyss: Fukaki Tamashii no Reimei"
-    seasons:
-      - season: 1
-        anilist-id: 100643
-
-  - title: "My Hero Academia: Two Heroes"
-    synonyms:
-      - "Boku no Hero Academia the Movie 1: Futari no Hero"
-      - "Boku no Hero Academia THE MOVIE: Futari no Hero"
-    seasons:
-      - season: 1
-        anilist-id: 100723
   - title: "My Hero Academia: Heroes Rising"
     synonyms:
       - "Boku no Hero Academia the Movie 2: Heroes:Rising"
@@ -107,19 +100,34 @@ entries:
       - season: 1
         anilist-id: 108553
 
+  - title: "My Hero Academia: Two Heroes"
+    synonyms:
+      - "Boku no Hero Academia the Movie 1: Futari no Hero"
+      - "Boku no Hero Academia THE MOVIE: Futari no Hero"
+    seasons:
+      - season: 1
+        anilist-id: 100723
   - title: "Shelter"
     # Categorized as Movie on TMDB and as Music on Anilist
     seasons:
       - season: 1
         anilist-id: 97731
 
-  - title: "The Garden of Sinners: Overlooking View"
+  - title: "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
     synonyms:
-      - "Kara no Kyoukai Movie 1: Fukan Fuukei"
-      - "Kara no Kyoukai: Fukan Fuukei"
+      - "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
+      - "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
     seasons:
       - season: 1
-        anilist-id: 2593
+        anilist-id: 124140
+  - title: "Sword Art Online: The Movie – Ordinal Scale"
+    synonyms:
+      - "Sword Art Online Movie: Ordinal Scale"
+      - "Sword Art Online: Ordinal Scale"
+    seasons:
+      - season: 1
+        anilist-id: 21403
+
   - title: "The Garden of Sinners: A Study in Murder (Part 1)"
     synonyms:
       - "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)"
@@ -127,34 +135,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 3782
-  - title: "The Garden of Sinners: Remaining Sense of Pain"
-    synonyms:
-      - "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu"
-      - "Kara no Kyoukai: Tsuukaku Zanryuu"
-    seasons:
-      - season: 1
-        anilist-id: 3783
-  - title: "The Garden of Sinners: The Hollow Shrine"
-    synonyms:
-      - "Kara no Kyoukai Movie 4: Garan no Dou"
-      - "Kara no Kyoukai: Garan no Dou"
-    seasons:
-      - season: 1
-        anilist-id: 4280
-  - title: "The Garden of Sinners: Paradox Spiral"
-    synonyms:
-      - "Kara no Kyoukai Movie 5: Mujun Rasen"
-      - "Kara no Kyoukai: Mujun Rasen"
-    seasons:
-      - season: 1
-        anilist-id: 4282
-  - title: "The Garden of Sinners: Oblivion Recording"
-    synonyms:
-      - "Kara no Kyoukai Movie 6: Boukyaku Rokuon"
-      - "Kara no Kyoukai: Boukyaku Rokuon"
-    seasons:
-      - season: 1
-        anilist-id: 5204
   - title: "The Garden of Sinners: A Study in Murder (Part 2)"
     synonyms:
       - "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)"
@@ -170,6 +150,41 @@ entries:
       - season: 1
         anilist-id: 6954
 
+  - title: "The Garden of Sinners: Oblivion Recording"
+    synonyms:
+      - "Kara no Kyoukai Movie 6: Boukyaku Rokuon"
+      - "Kara no Kyoukai: Boukyaku Rokuon"
+    seasons:
+      - season: 1
+        anilist-id: 5204
+  - title: "The Garden of Sinners: Overlooking View"
+    synonyms:
+      - "Kara no Kyoukai Movie 1: Fukan Fuukei"
+      - "Kara no Kyoukai: Fukan Fuukei"
+    seasons:
+      - season: 1
+        anilist-id: 2593
+  - title: "The Garden of Sinners: Paradox Spiral"
+    synonyms:
+      - "Kara no Kyoukai Movie 5: Mujun Rasen"
+      - "Kara no Kyoukai: Mujun Rasen"
+    seasons:
+      - season: 1
+        anilist-id: 4282
+  - title: "The Garden of Sinners: Remaining Sense of Pain"
+    synonyms:
+      - "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu"
+      - "Kara no Kyoukai: Tsuukaku Zanryuu"
+    seasons:
+      - season: 1
+        anilist-id: 3783
+  - title: "The Garden of Sinners: The Hollow Shrine"
+    synonyms:
+      - "Kara no Kyoukai Movie 4: Garan no Dou"
+      - "Kara no Kyoukai: Garan no Dou"
+    seasons:
+      - season: 1
+        anilist-id: 4280
   - title: "The Irregular at Magic High School: The Girl Who Summons the Stars"
     synonyms:
       - "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo"
@@ -178,18 +193,3 @@ entries:
       - season: 1
         anilist-id: 21684
 
-  - title: "Sword Art Online: The Movie – Ordinal Scale"
-    synonyms:
-      - "Sword Art Online Movie: Ordinal Scale"
-      - "Sword Art Online: Ordinal Scale"
-    seasons:
-      - season: 1
-        anilist-id: 21403
-        
-  - title: "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
-    synonyms:
-      - "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
-      - "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
-    seasons:
-      - season: 1
-        anilist-id: 124140
