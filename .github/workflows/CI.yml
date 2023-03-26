@@ -12,7 +12,7 @@ on:
       - 'README.md'
       - 'LICENSE'
 env:
-  PYTHON_VERSION: 3.10
+  PYTHON_VERSION: "3.10"
 jobs:
   validate-mappings:
     runs-on: ubuntu-latest
