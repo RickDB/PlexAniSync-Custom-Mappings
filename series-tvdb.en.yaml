@@ -322,6 +322,8 @@ entries:
         anilist-id: 129874
       - season: 3
         anilist-id: 142329
+      - season: 4
+        anilist-id: 145139
 
   - title: "Don't Toy With Me, Miss Nagatoro"
     synonyms:
@@ -797,6 +799,13 @@ entries:
       - season: 2
         anilist-id: 20762
 
+  - title: "Kuma Kuma Kuma Bear"
+    seasons:
+      - season: 1
+        anilist-id: 114340
+      - season: 2
+        anilist-id: 127550
+
   - title: "Link Click"
     synonyms:
       - "Shiguang Dailiren"
@@ -1162,6 +1171,15 @@ entries:
         anilist-id: 20590
       - season: 2
         anilist-id: 21184
+
+  - title: "Ranking of Kings"
+    synonyms:
+      - "Ousama Ranking"
+    seasons:
+      - season: 1
+        anilist-id: 113717
+      - season: 2
+        anilist-id: 153452
 
   - title: "Re:ZERO -Starting Life in Another World-"
     synonyms:
