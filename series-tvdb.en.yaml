@@ -766,6 +766,14 @@ entries:
       - season: 2
         anilist-id: 100876
 
+  - title: "KamiKatsu: Working for God in a Godless World"
+    synonyms:
+      - "Kaminaki Sekai no Kamisama Katsudou"
+      - "KamiKatsu: Meine Arbeit als Missionar in einer gottlosen Welt"
+    seasons:
+      - season: 1
+        anilist-id: 148048
+
   - title: "Kamisama Kiss"
     synonyms:
       - "Kamisama Hajimemashita"
