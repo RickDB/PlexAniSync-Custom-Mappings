@@ -1,0 +1,445 @@
+# PlexAniSync: TMDB Series Mappings in English
+entries:
+  - title: "86: Eighty-Six"
+    # https://www.themoviedb.org/tv/100565
+    # https://www.thetvdb.com/dereferrer/series/378609
+    # https://www.imdb.com/title/tt13718450/
+    synonyms:
+      - "86"
+      - "86 EIGHTY-SIX"
+      - "86 – EIGHTY-SIX"
+      - "86-エイティシックス-"
+      - "86: Eighty Six"
+      - "Eighty Six"
+    seasons:
+      - season: 1
+        anilist-id: 116589
+      - season: 1
+        anilist-id: 131586
+        start: 12
+
+  - title: "A Certain Scientific Railgun"
+    # https://www.themoviedb.org/tv/30977
+    # https://www.thetvdb.com/dereferrer/series/114921
+    # https://www.imdb.com/title/tt1515996/
+    synonyms:
+      - "To Aru Kagaku no Railgun"
+      - "Toaru Kagakuno Railgun"
+    seasons:
+      - season: 1
+        anilist-id: 6213
+      - season: 2
+        anilist-id: 16049
+      - season: 3
+        anilist-id: 104462
+
+  - title: "A Couple of Cuckoos"
+    # https://www.themoviedb.org/tv/122587
+    # https://www.thetvdb.com/dereferrer/series/400585
+    # https://www.imdb.com/title/tt14400866/
+    synonyms:
+      - "Kakkou no Iinazuke"
+      - "Kakkou no Iinazuke (A Couple of Cuckoos)"
+      - "Kakkō no Iinazuke"
+    seasons:
+      - season: 1
+        anilist-id: 132052
+
+  - title: "Ace of Diamond"
+    # https://www.themoviedb.org/tv/60761
+    # https://www.thetvdb.com/dereferrer/series/273005
+    # https://www.imdb.com/title/tt3105422/
+    synonyms:
+      - "Daiya no A"
+      - "Dia no Ace"
+      - "Diamond no Ace"
+      - "Diamond's Ace"
+      - "ダイヤのA actⅡ"
+    seasons:
+      - season: 1
+        anilist-id: 18689
+      - season: 2
+        anilist-id: 21085
+      - season: 3
+        anilist-id: 105749
+
+  - title: "Aldnoah.Zero"
+    # https://www.themoviedb.org/tv/61259
+    # https://www.thetvdb.com/dereferrer/series/279827
+    # https://www.imdb.com/title/tt3544556/
+    synonyms:
+      - "ΛLDNOΛH.ZERO"
+    seasons:
+      - season: 1
+        anilist-id: 20632
+      - season: 1
+        anilist-id: 20853
+        start: 13
+
+  - title: "Anti-Magic Academy: The 35th Test Platoon"
+    # https://www.themoviedb.org/tv/70296
+    # https://www.thetvdb.com/dereferrer/series/299511
+    # https://www.imdb.com/title/tt5236254/
+    synonyms:
+      - "AntiMagic Academy \"The 35th Test Platoon\""
+      - "Tai-Madō Gakuen 35 Shiken Shōtai"
+      - "Taimadou Gakuen 35 Shiken Shoutai"
+      - "Taimadō Gakuen 35 Shiken Shōtai"
+    seasons:
+      - season: 1
+        anilist-id: 20704
+
+  - title: "Arifureta: From Commonplace to World's Strongest"
+    # https://www.themoviedb.org/tv/86034
+    # https://www.thetvdb.com/dereferrer/series/357019
+    # https://www.imdb.com/title/tt10431290/
+    synonyms:
+      - "Arifureta - From Commonplace to World’s Strongest"
+      - "Arifureta Commonplace to Worlds Strongest"
+      - "Arifureta From Commonplace to World's Strongest"
+      - "Arifureta Shokugyou de Sekai Saikyou"
+      - "Arifureta Shokugyō de Sekai Saikyō"
+      - "Arifureta World's Strongest"
+      - "Arifureta Worlds Strongest"
+      - "From Common Job Class to the Strongest in the World"
+    seasons:
+      - season: 1
+        anilist-id: 100668
+      - season: 2
+        anilist-id: 112323
+      - season: 3
+        anilist-id: 154473
+
+  - title: "Ascendance of a Bookworm"
+    # https://www.themoviedb.org/tv/91768
+    # https://www.thetvdb.com/dereferrer/series/366263
+    # https://www.imdb.com/title/tt10885406/
+    synonyms:
+      - "Ascendance of a Bookworm: I'll do anything to become a librarian"
+      - "Honzuki no Gekokujou"
+      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen"
+      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+      - "Honzuki no Gekokujô"
+      - "Honzuki no Gekokujō"
+      - "本好きの下剋上"
+      - "本好きの下剋上 司書になるためには手段を選んでいられません 第3期"
+      - "本好きの下剋上～司書になるためには手段を選んでいられません～ 第3部"
+    seasons:
+      - season: 1
+        anilist-id: 108268
+      - season: 1
+        anilist-id: 113693
+        start: 15
+      - season: 1
+        anilist-id: 121176
+        start: 27
+
+  - title: "Attack on Titan"
+    # https://www.themoviedb.org/tv/1429
+    # https://www.thetvdb.com/dereferrer/series/267440
+    # https://www.imdb.com/title/tt2560140/
+    synonyms:
+      - "Attack on Titan Shingeki no Kyojin"
+      - "SNK"
+      - "Shingeki no Kyojin"
+      - "进撃の巨人"
+    seasons:
+      - season: 1
+        anilist-id: 16498
+      - season: 2
+        anilist-id: 20958
+      - season: 3
+        anilist-id: 99147
+      - season: 3
+        anilist-id: 104578
+        start: 13
+      - season: 4
+        anilist-id: 110277
+      - season: 4
+        anilist-id: 131681
+        start: 17
+
+  - title: "Beast Tamer"
+    # https://www.themoviedb.org/tv/203780
+    # https://www.thetvdb.com/dereferrer/series/421092
+    # https://www.imdb.com/title/tt21345944/
+    synonyms:
+      - "Beast.Tamer"
+      - "Beastema"
+      - "The Beast Tamer Who Was Exiled From His Party Meets a Cat Girl From the Strongest Race"
+      - "Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
+      - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
+      - "Yūsha Party wo Tsuihou Sareta Beast Tamer, Saikyōshu no Nekomimi Shōjo to Deau"
+      - "ビステマ"
+      - "勇者パーティーを追放されたビーストテイマー"
+      - "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
+    seasons:
+      - season: 1
+        anilist-id: 150695
+
+  - title: "BEASTARS"
+    # https://www.themoviedb.org/tv/90937
+    # https://www.thetvdb.com/dereferrer/series/361013
+    # https://www.imdb.com/title/tt11043632/
+    synonyms:
+      - "BEASTARS 第2期"
+      - "ビースターズ"
+    seasons:
+      - season: 1
+        anilist-id: 107660
+      - season: 2
+        anilist-id: 114194
+
+  - title: "Black Butler"
+    # https://www.themoviedb.org/tv/50712
+    # https://www.thetvdb.com/dereferrer/series/83996
+    # https://www.imdb.com/title/tt1316554/
+    synonyms:
+      - "Kuroshitsuji"
+      - "Kuroshitsuzi"
+      - "黒執事 Book of Circus"
+    seasons:
+      - season: 1
+        anilist-id: 4898
+      - season: 2
+        anilist-id: 6707
+      - season: 3
+        anilist-id: 20606
+
+  - title: "Black Rock Shooter"
+    # https://www.themoviedb.org/tv/43079
+    # https://www.thetvdb.com/dereferrer/series/162711
+    # https://www.imdb.com/title/tt2198397/
+    synonyms:
+      - "BLACK★ROCK SHOOTER"
+      - "B★RS"
+    seasons:
+      - season: 1
+        anilist-id: 11285
+
+  - title: "Black Rock Shooter: Dawn Fall"
+    # https://www.themoviedb.org/tv/133733
+    # https://www.thetvdb.com/dereferrer/series/410063
+    # https://www.imdb.com/title/tt15582422/
+    synonyms:
+      - "Black Rock Shooter Dawn Fall"
+      - "ブラックロックシューター DAWN FALL"
+    seasons:
+      - season: 1
+        anilist-id: 139303
+
+  - title: "Blast of Tempest"
+    # https://www.themoviedb.org/tv/46283
+    # https://www.thetvdb.com/dereferrer/series/262109
+    # https://www.imdb.com/title/tt2294048/
+    synonyms:
+      - "Blast of Tempest: The Civilization Blaster"
+      - "Zetsuen no Tempest"
+      - "Zetsuen no Tempest: The Civilization Blaster"
+    seasons:
+      - season: 1
+        anilist-id: 14075
+
+  - title: "Bleach"
+    # https://www.themoviedb.org/tv/30984
+    # https://www.thetvdb.com/dereferrer/series/74796
+    # https://www.imdb.com/title/tt0434665/
+    synonyms:
+      - "BLEACH 千年血戦篇"
+      - "Bleach Sennen Kessen-hen"
+      - "Bleach: Thousand-Year Blood War"
+      - "Burīchi"
+    seasons:
+      - season: 1
+        anilist-id: 269
+      - season: 2
+        anilist-id: 116674
+
+  - title: "Blood Blockade Battlefront"
+    # https://www.themoviedb.org/tv/62327
+    # https://www.thetvdb.com/dereferrer/series/289886
+    # https://www.imdb.com/title/tt4379632/
+    synonyms:
+      - "Bloodline Battlefront"
+      - "Kekkai Sensen"
+      - "Kekkai Sensen & Beyond"
+      - "血界戦線 & BEYOND"
+    seasons:
+      - season: 1
+        anilist-id: 20727
+      - season: 2
+        anilist-id: 97886
+
+  - title: "Blood+"
+    # https://www.themoviedb.org/tv/19849
+    # https://www.thetvdb.com/dereferrer/series/78960
+    # https://www.imdb.com/title/tt0482855/
+    synonyms:
+      - "Blood Plus"
+      - "ブラッドプラス"
+    seasons:
+      - season: 1
+        anilist-id: 150
+
+  - title: "Blue Exorcist"
+    # https://www.themoviedb.org/tv/38464
+    # https://www.thetvdb.com/dereferrer/series/248035
+    # https://www.imdb.com/title/tt1799631/
+    synonyms:
+      - "Ao no Ekusoshisuto"
+      - "Ao no Exorcist"
+      - "Ao no Exorcist: Kyoto Fujouou-hen"
+      - "Ao no Exorcist: Kyoto Fujō Ō-hen"
+      - "Ao no Futsumashi"
+      - "Blue Exorcist: Kyoto Saga"
+      - "Blue Exꚛrcis♰"
+      - "Blue Exꚛrcis♰: Kyoto Saga"
+      - "エクソシスト"
+      - "青の祓魔師 京都不浄王篇"
+    seasons:
+      - season: 1
+        anilist-id: 9919
+      - season: 2
+        anilist-id: 21861
+
+  - title: "BLUELOCK"
+    # https://www.themoviedb.org/tv/131041
+    # https://www.thetvdb.com/dereferrer/series/408629
+    # https://www.imdb.com/title/tt15222080/
+    synonyms:
+      - "Blue Lock"
+    seasons:
+      - season: 1
+        anilist-id: 137822
+
+  - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
+    # https://www.themoviedb.org/tv/96402
+    # https://www.thetvdb.com/dereferrer/series/373679
+    # https://www.imdb.com/title/tt11428630/
+    synonyms:
+      - "BoFuri"
+      - "I Hate Being in Pain, So I Think I'll Make a Full Defense Build"
+      - "I Hate Getting Hurt, So I Put All My Skill Points Into Defense"
+      - "I do not want pain, so I would like to focus on Defense"
+      - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+      - "痛いのは嫌なので防御力に極振りしたいと思います。2"
+    seasons:
+      - season: 1
+        anilist-id: 106479
+      - season: 2
+        anilist-id: 116867
+
+  - title: "Boruto: Naruto Next Generations"
+    # https://www.themoviedb.org/tv/70881
+    # https://www.thetvdb.com/dereferrer/series/321285
+    # https://www.imdb.com/title/tt6342474/
+    synonyms:
+      - "Boruto: Naruto Next Generations"
+    seasons:
+      - season: 1
+        anilist-id: 97938
+
+  - title: "Bungo Stray Dogs"
+    # https://www.themoviedb.org/tv/65931
+    # https://www.thetvdb.com/dereferrer/series/305075
+    # https://www.imdb.com/title/tt5679720/
+    synonyms:
+      - "Bungou Stray Dogs"
+      - "Bungō Stray Dogs"
+      - "Literary Stray Dogs"
+    seasons:
+      - season: 1
+        anilist-id: 21311
+      - season: 1
+        anilist-id: 21679
+        start: 13
+      - season: 1
+        anilist-id: 103223
+        start: 25
+      - season: 1
+        anilist-id: 141249
+        start: 37
+      - season: 1
+        anilist-id: 163263
+        start: 50
+
+  - title: "Cells at Work!"
+    # https://www.themoviedb.org/tv/80671
+    # https://www.thetvdb.com/dereferrer/series/346931
+    # https://www.imdb.com/title/tt8673610/
+    synonyms:
+      - "Cells at Work!!"
+      - "Hataraku Saibou"
+      - "Hataraku Saibō"
+      - "はたらく細胞!!"
+      - "はたらく細胞!!(2021)"
+      - "働く細胞"
+    seasons:
+      - season: 1
+        anilist-id: 100977
+      - season: 2
+        anilist-id: 108631
+
+  - title: "Cells at Work! Code Black"
+    # https://www.themoviedb.org/tv/101873
+    # https://www.thetvdb.com/dereferrer/series/380402
+    # https://www.imdb.com/title/tt12150836/
+    synonyms:
+      - "Hataraku Saibou Black"
+      - "Hataraku Saibō Black"
+    seasons:
+      - season: 1
+        anilist-id: 117533
+
+  - title: "Chaika - The Coffin Princess"
+    # https://www.themoviedb.org/tv/60825
+    # https://www.thetvdb.com/dereferrer/series/278127
+    # https://www.imdb.com/title/tt3517016/
+    synonyms:
+      - "Chaika the Coffin Princess"
+      - "Hitsugi no Chaika"
+      - "棺姫のチャイカ AVENGING BATTLE"
+    seasons:
+      - season: 1
+        anilist-id: 20462
+      - season: 2
+        anilist-id: 20719
+
+  - title: "Chainsaw Man"
+    # https://www.themoviedb.org/tv/114410
+    # https://www.thetvdb.com/dereferrer/series/397934
+    # https://www.imdb.com/title/tt13616990/
+    synonyms:
+      - "CSM"
+      - "Chainsaw.Man"
+      - "Chainsawman"
+    seasons:
+      - season: 1
+        anilist-id: 127230
+
+  - title: "Clannad"
+    # https://www.themoviedb.org/tv/24835
+    # https://www.thetvdb.com/dereferrer/series/80644
+    # https://www.imdb.com/title/tt1118804/
+    synonyms:
+      - "Kuranado"
+      - "クラナド"
+    seasons:
+      - season: 1
+        anilist-id: 2167
+      - season: 2
+        anilist-id: 4181
+
+  - title: "Code Geass: Lelouch of the Rebellion"
+    # https://www.themoviedb.org/tv/31724
+    # https://www.thetvdb.com/dereferrer/series/79525
+    # https://www.imdb.com/title/tt0994314/
+    synonyms:
+      - "Code Geass"
+      - "Code Geass Hangyaku no Lelouch"
+      - "Code Geass: Hangyaku no Lelouch"
+    seasons:
+      - season: 1
+        anilist-id: 1575
+      - season: 2
+        anilist-id: 2904
