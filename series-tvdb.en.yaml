@@ -51,6 +51,13 @@ entries:
         anilist-id: 20853
         start: 13
 
+  - title: "Amagami SS"
+    seasons:
+      - season: 1
+        anilist-id: 8676
+      - season: 2
+        anilist-id: 11235
+
   - title: "Anti-Magic Academy: The 35th Test Platoon"
     synonyms:
       - "Taimadou Gakuen 35 Shiken Shoutai"
@@ -515,6 +522,13 @@ entries:
       - season: 5
         anilist-id: 114043
 
+  - title: "Freezing"
+    seasons:
+      - season: 1
+        anilist-id: 9367
+      - season: 2
+        anilist-id: 18001
+
   - title: "Fruits Basket (2019)"
     # Mapped as 2019 since there is a 2001 series as well
     synonyms:
@@ -570,6 +584,13 @@ entries:
       - season: 2
         anilist-id: 110349
 
+  - title: "Great Teacher Onizuka"
+    synonyms:
+      - "GTO"
+    seasons:
+      - season: 1
+        anilist-id: 245
+
   - title: "Grimgar of Fantasy & Ash"
     synonyms:
       - "Grimgar of Fantasy and Ash"
@@ -578,6 +599,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21428
+
+  - title: "Haganai: I Don't Have Many Friends"
+    synonyms:
+      - "Boku wa Tomodachi ga Sukunai"
+    seasons:
+      - season: 1
+        anilist-id: 10719
+      - season: 2
+        anilist-id: 14967
 
   - title: "Haikyu!!"
     synonyms:
@@ -602,6 +632,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127090
+
+  - title: "Heaven's Lost Property"
+    synonyms:
+      - "Sora no Otoshimono"
+    seasons:
+      - season: 1
+        anilist-id: 5958
+      - season: 2
+        anilist-id: 8407
 
   - title: "High School DxD"
     seasons:
