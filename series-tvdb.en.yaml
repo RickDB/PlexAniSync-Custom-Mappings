@@ -927,7 +927,19 @@ entries:
       - season: 2
         anilist-id: 3927
 
-  - title: "Mushoku Tensei: Jobless Reincarnation"
+- title: "Mobile Suit Gundam: The Witch from Mercury"
+    synonyms:
+      - "Kidou Senshi Gundam: Suisei no Majo"
+      - "G-Witch"
+      - "Mobile Suit Gundam: Penyihir dari Mercury"
+    seasons:
+      - season: 1
+        anilist-id: 139274
+      - season: 1
+        anilist-id: 155158
+        start: 13
+
+- title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
       - "Mushoku Tensei"
       - "Jobless Reincarnation"
