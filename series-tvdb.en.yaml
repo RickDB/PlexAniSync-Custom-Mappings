@@ -641,7 +641,6 @@ entries:
         anilist-id: 5958
       - season: 2
         anilist-id: 8407
-
   - title: "High School DxD"
     seasons:
       - season: 1
@@ -1593,6 +1592,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
+
+  - title: "Urusei Yatsura (2022)"
+    seasons:
+      - season: 1
+        anilist-id: 143277
+      - season: 2
+        anilist-id: 155645
 
   - title: "Uzaki-chan Wants to Hang Out!"
     synonyms:
