@@ -443,3 +443,419 @@ entries:
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
+
+  - title: "D.Gray-man"
+    # https://www.themoviedb.org/tv/34141
+    # https://www.thetvdb.com/dereferrer/series/79635
+    # https://www.imdb.com/title/tt0899258/
+    synonyms:
+      - "D.Gray-man"
+      - "ディー・グレイマン"
+    seasons:
+      - season: 1
+        anilist-id: 1482
+      - season: 2
+        anilist-id: 1482
+        start: 52
+
+  - title: "D.Gray-man Hallow"
+    # https://www.themoviedb.org/tv/67145
+    # https://www.thetvdb.com/dereferrer/series/312878
+    # https://www.imdb.com/title/tt5954268/
+    synonyms:
+      - "D.Gray-man HALLOW"
+      - "ディーグレイマンハロー"
+      - "ディー・グレイマン ハロー"
+    seasons:
+      - season: 1
+        anilist-id: 21558
+
+  - title: "Danganronpa: The Animation"
+    # https://www.themoviedb.org/tv/49471
+    # https://www.thetvdb.com/dereferrer/series/270058
+    # https://www.imdb.com/title/tt2902582/
+    synonyms:
+      - "Danganronpa"
+      - "Danganronpa The Animation"
+      - "ダンガンロンパ"
+    seasons:
+      - season: 1
+        anilist-id: 16592
+      - season: 2
+        anilist-id: 21509
+
+  - title: "Danganronpa 3: The End of Hope's Peak High School"
+    # https://www.themoviedb.org/tv/67674
+    # https://www.imdb.com/title/tt6027642/
+    synonyms:
+      - "Danganronpa 3 The End Of Kibougamine Gakuen Zetsubou Hen"
+      - "Danganronpa 3 Zetsubou Hen"
+    seasons:
+      - season: 1
+        anilist-id: 21825
+
+  # PlexAniSync does not support mapping of Specials (Gaiden, 4 episodes)
+  - title: "Darker than Black"
+    # https://www.themoviedb.org/tv/31718
+    # https://www.thetvdb.com/dereferrer/series/80042
+    # https://www.imdb.com/title/tt0995941/
+    synonyms:
+      - "Darker Than Black: Gemini of the Meteor"
+      - "Darker than Black: Kuro no Keiyakusha"
+      - "Darker than Black: Ryuusei No Gemini"
+      - "DARKER THAN BLACK 流星の双子"
+      - "DARKER THAN BLACKー流星の双子（ジェミニ）ー"
+      - "Darker than BLACK -黒の契約者-"
+    seasons:
+      - season: 1
+        anilist-id: 2025
+      - season: 2
+        anilist-id: 6573
+
+  - title: "Demon Slayer: Kimetsu no Yaiba"
+    # https://www.themoviedb.org/tv/85937
+    # https://www.thetvdb.com/dereferrer/series/348545
+    # https://www.imdb.com/title/tt9335498/
+    synonyms:
+      - "Blade of Demon Destruction"
+      - "Demon Slayer"
+      - "Kimetsu no Yaiba"
+      - "鬼滅の刃"
+    seasons:
+      - season: 1
+        anilist-id: 101922
+      - season: 2
+        anilist-id: 129874
+      - season: 3
+        anilist-id: 142329
+      - season: 4
+        anilist-id: 145139
+
+  - title: "Don't Toy with Me, Miss Nagatoro"
+    # https://www.themoviedb.org/tv/105556
+    # https://www.thetvdb.com/dereferrer/series/385278
+    # https://www.imdb.com/title/tt12635162/
+    synonyms:
+      - "Ijiranaide, Nagatoro-san"
+      - "イジらないで、長瀞さん"
+    seasons:
+      - season: 1
+        anilist-id: 120697
+      - season: 2
+        anilist-id: 140596
+
+  - title: "Dr. STONE"
+    # https://www.themoviedb.org/tv/86031
+    # https://www.thetvdb.com/dereferrer/series/355774
+    # https://www.imdb.com/title/tt9679542/
+    synonyms:
+      - "Dr.STONE"
+      - "ドクターストーン"
+    seasons:
+      - season: 1
+        anilist-id: 105333
+      - season: 2
+        anilist-id: 113936
+      - season: 3
+        anilist-id: 131518
+
+  - title: "Dragon Ball"
+    # https://www.themoviedb.org/tv/12609
+    # https://www.thetvdb.com/dereferrer/series/76666
+    # https://www.imdb.com/title/tt0088509/
+    synonyms:
+      - "Doragon bôru"
+      - "ドラゴンボール"
+    seasons:
+      - season: 1
+        anilist-id: 223
+
+  - title: "Dragon Ball Super"
+    # https://www.themoviedb.org/tv/62715
+    # https://www.thetvdb.com/dereferrer/series/295068
+    # https://www.imdb.com/title/tt4644488/
+    synonyms:
+      - "DBS"
+      - "Doragon bōru sūpā"
+      - "ドラゴンボールスーパー"
+    seasons:
+      - season: 1
+        anilist-id: 21175
+
+  - title: "Dragon Ball Z"
+    # https://www.themoviedb.org/tv/12971
+    # https://www.thetvdb.com/dereferrer/series/81472
+    # https://www.imdb.com/title/tt0121220/
+    synonyms:
+      - "Doragon Bōru Zetto"
+      - "Dragon Ball Z"
+      - "Dragon Ball Z"
+      - "ドラゴンボール Z"
+    seasons:
+      - season: 1
+        anilist-id: 813
+      - season: 2
+        anilist-id: 813
+      - season: 3
+        anilist-id: 813
+      - season: 4
+        anilist-id: 813
+      - season: 5
+        anilist-id: 813
+      - season: 6
+        anilist-id: 813
+      - season: 7
+        anilist-id: 813
+      - season: 8
+        anilist-id: 813
+      - season: 9
+        anilist-id: 813
+
+  # Anilist includes Bluray specials in its episode count for 2014 Kai, while TMDB has it specifically as Specials
+  - title: "Dragon Ball Z Kai"
+    # https://www.themoviedb.org/tv/61709
+    # https://www.thetvdb.com/dereferrer/series/88031
+    # https://www.imdb.com/title/tt1409055/
+    synonyms:
+      - "Doragon Boru Kai"
+      - "Dragon Ball Kai"
+      - "Dragon Ball Revised"
+      - "Dragon Ball Z Kai"
+      - "Dragon Ball Z Kai : The Final Chapters"
+      - "Dragon ball Kai: Doragon bôru Kai"
+    seasons:
+      - season: 1
+        anilist-id: 6033
+      - season: 2
+        anilist-id: 6033
+      - season: 3
+        anilist-id: 6033
+      - season: 4
+        anilist-id: 6033
+      - season: 5
+        anilist-id: 20635
+      - season: 6
+        anilist-id: 20635
+
+  - title: "Durarara!!"
+    # https://www.themoviedb.org/tv/42410
+    # https://www.thetvdb.com/dereferrer/series/133341
+    # https://www.imdb.com/title/tt1584000/
+    synonyms:
+      - "DRRR!!"
+      - "Dullalala!!"
+      - "Durarara!!"
+      - "Dyurarara!!"
+    seasons:
+      - season: 1
+        anilist-id: 6746
+      - season: 2
+        anilist-id: 20652
+      - season: 2
+        anilist-id: 20879
+        start: 13
+      - season: 2
+        anilist-id: 20880
+        start: 25
+
+  # This entry feels odd
+  - title: "Eat-Man"
+    # https://www.themoviedb.org/tv/34209
+    # https://www.thetvdb.com/dereferrer/series/87941
+    # https://www.imdb.com/title/tt0239361/
+    seasons:
+      - season: 1
+        anilist-id: 1704
+      - season: 2
+        anilist-id: 1599
+
+  - title: "Elfen Lied"
+    # https://www.themoviedb.org/tv/42671
+    # https://www.thetvdb.com/dereferrer/series/75941
+    # https://www.imdb.com/title/tt0480489/
+    synonyms:
+      - "Elfen_Lied"
+      - "Erufen rîto"
+    seasons:
+      - season: 1
+        anilist-id: 226
+
+  - title: "F-Zero: GP Legend"
+    # https://www.themoviedb.org/tv/25408
+    # https://www.thetvdb.com/dereferrer/series/258124
+    # https://www.imdb.com/title/tt0433289/
+    synonyms:
+      - "F-Zero: GP Legend"
+      - "F-Zero: The Legend of Falcon"
+      - "F-ZERO: Falcon Densetsu"
+    seasons:
+      - season: 1
+        anilist-id: 3101
+
+  - title: "Fairy Tail"
+    # https://www.themoviedb.org/tv/46261
+    # https://www.thetvdb.com/dereferrer/series/114801
+    # https://www.imdb.com/title/tt1528406/
+    synonyms:
+      - "Fearī Teiru"
+      - "フェアリーテイル"
+    seasons:
+      - season: 1
+        anilist-id: 6702
+      - season: 2
+        anilist-id: 6702
+      - season: 3
+        anilist-id: 6702
+      - season: 4
+        anilist-id: 6702
+      - season: 5
+        anilist-id: 20626
+      - season: 6
+        anilist-id: 20626
+      - season: 7
+        anilist-id: 20626
+      - season: 8
+        anilist-id: 99749
+
+  - title: "Fate/kaleid liner Prisma Illya"
+    # https://www.themoviedb.org/tv/63576
+    # https://www.thetvdb.com/dereferrer/series/269319
+    # https://www.imdb.com/title/tt2904426/
+    synonyms:
+      - "Fate/kaleid liner プリズマ☆イリヤ"
+    seasons:
+      - season: 1
+        anilist-id: 14829
+      - season: 2
+        anilist-id: 20467
+      - season: 3
+        anilist-id: 20845
+      - season: 4
+        anilist-id: 21379
+
+  - title: "Fate/stay night"
+    # https://www.themoviedb.org/tv/37858
+    # https://www.thetvdb.com/dereferrer/series/79151
+    # https://www.imdb.com/title/tt0774809/
+    synonyms:
+      - "フェイト/ステイナイト"
+    seasons:
+      - season: 1
+        anilist-id: 356
+
+  # Anilist has 26 Episodes (includes Special EP) while TMDB has 25 Episodes (excludes Special EP)
+  - title: "Fate/stay night [Unlimited Blade Works]"
+    # https://www.themoviedb.org/tv/61415
+    # https://www.thetvdb.com/dereferrer/series/278626
+    # https://www.imdb.com/title/tt3621796/
+    synonyms:
+      - "FSN UBW"
+      - "Fate/Stay Night: Unlimited Blade Works"
+      - "Fate⁄stay night [Unlimited Blade Works]"
+      - "Fate／stay night - UNLIMITED BLADE WORKS"
+      - "UBW"
+      - "Unlimited Blade Works"
+      - "フェイト/ステイナイト"
+    seasons:
+      - season: 1
+        anilist-id: 19603
+        start: 0
+      - season: 2
+        anilist-id: 20792
+
+  - title: "Fate/Zero"
+    # https://www.themoviedb.org/tv/45845
+    # https://www.thetvdb.com/dereferrer/series/275798
+    # https://www.imdb.com/title/tt2051178/
+    synonyms:
+      - "Fate Zero"
+      - "Feito/Zero"
+      - "フェイト/ゼロ"
+    seasons:
+      - season: 1
+        anilist-id: 10087
+      - season: 2
+        anilist-id: 11741
+
+  - title: "Fighting Spirit"
+    # https://www.themoviedb.org/tv/42705
+    # https://www.thetvdb.com/dereferrer/series/79685
+    # https://www.imdb.com/title/tt0481256/
+    synonyms:
+      - "Hajime no Ippo"
+    seasons:
+      - season: 1
+        anilist-id: 263
+      - season: 2
+        anilist-id: 5258
+      - season: 3
+        anilist-id: 19647
+
+  - title: "Fire Force"
+    # https://www.themoviedb.org/tv/88046
+    # https://www.thetvdb.com/dereferrer/series/355480
+    # https://www.imdb.com/title/tt9307686/
+    synonyms:
+      - "Blazing Fire Brigade"
+      - "En'en no Shouboutai"
+      - "Enen no Shouboutai"
+      - "Enen no Shōbōtai"
+      - "Enen no shôbôtai"
+      - "Enn Enn no Shouboutai"
+      - "Enn Enn no Shōbōtai"
+      - "Fire Brigade of Flames"
+      - "Fireforce"
+      - "炎炎ノ消防隊 弐ノ章"
+    seasons:
+      - season: 1
+        anilist-id: 105310
+      - season: 2
+        anilist-id: 114236
+      - season: 3
+        anilist-id: 149118
+
+  - title: "Food Wars! Shokugeki no Soma"
+    # https://www.themoviedb.org/tv/62273
+    # https://www.thetvdb.com/dereferrer/series/289909
+    # https://www.imdb.com/title/tt4731072/
+    synonyms:
+      - "Food Wars! Shokugeki no Souma"
+      - "Food Wars!: Shokugeki no Soma"
+      - "Food Wars!: Shokugeki no Souma"
+      - "Shokugeki No Souma"
+      - "Shokugeki no Soma"
+      - "Shokugeki no Sōma"
+      - "Soma's Cafeteria Drama"
+    seasons:
+      - season: 1
+        anilist-id: 20923
+      - season: 2
+        anilist-id: 21518
+      - season: 3
+        anilist-id: 99255
+      - season: 3
+        anilist-id: 100773
+        start: 13
+      - season: 4
+        anilist-id: 109963
+      - season: 5
+        anilist-id: 114043
+
+  # There's a 2001 series as well, but no way to distinguish without a year marker
+  - title: "Fruits Basket"
+    # https://www.themoviedb.org/tv/85991
+    # https://www.thetvdb.com/dereferrer/series/357488
+    # https://www.imdb.com/title/tt9304350/
+    synonyms:
+      - "Fruits Basket (2019)"
+      - "Fruba"
+      - "Furuba"
+      - "Furūtsu Basuketto"
+      - "フルバ"
+    seasons:
+      - season: 1
+        anilist-id: 105334
+      - season: 2
+        anilist-id: 111762
+      - season: 3
+        anilist-id: 124194
