@@ -806,6 +806,13 @@ entries:
       - season: 2
         anilist-id: 127550
 
+  - title: "L/R: Licensed by Royalty"
+    synonyms:
+      - "Licensed by Royalty"
+      - "Licensed by Royal"
+    seasons:
+      - season: 1
+        anilist-id: 1456
   - title: "Link Click"
     synonyms:
       - "Shiguang Dailiren"
@@ -1630,7 +1637,7 @@ entries:
         anilist-id: 99476
       - season: 5
         anilist-id: 142481
-        
+
   - title: "Yuki Yuna is a Hero"
     synonyms:
       - "Yuuki Yuuna wa Yuusha de Aru"
@@ -1664,11 +1671,4 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
-        
-  - title: "L/R: Licensed by Royalty"
-    synonyms:
-      - "Licensed by Royalty"
-      - "Licensed by Royal"
-    seasons:
-      - season: 1
-        anilist-id: 1456
+
