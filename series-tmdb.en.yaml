@@ -859,3 +859,285 @@ entries:
         anilist-id: 111762
       - season: 3
         anilist-id: 124194
+
+  - title: "Gintama"
+    # https://www.themoviedb.org/tv/57041
+    # https://www.thetvdb.com/dereferrer/series/79895
+    # https://www.imdb.com/title/tt0988818/
+    synonyms:
+      - "Gin Tama"
+      - "Silver Soul"
+      - "銀魂"
+    seasons:
+      - season: 1
+        anilist-id: 918
+      - season: 2
+        anilist-id: 918
+      - season: 3
+        anilist-id: 918
+      - season: 4
+        anilist-id: 918
+      - season: 5
+        anilist-id: 9969
+      - season: 6
+        anilist-id: 15417
+      - season: 7
+        anilist-id: 20996
+      - season: 8
+        anilist-id: 97889
+      - season: 9
+        anilist-id: 99714
+      - season: 10
+        anilist-id: 100784
+      - season: 11
+        anilist-id: 101925
+
+  - title: "Granblue Fantasy: The Animation"
+    # https://www.themoviedb.org/tv/69820
+    # https://www.thetvdb.com/dereferrer/series/319981
+    # https://www.imdb.com/title/tt6138612/
+    synonyms:
+      - "Granblue Fantasy"
+      - "Granblue Fantasy The Animation"
+      - "グランブルーファンタジー ジ・アニメーション"
+    seasons:
+      - season: 1
+        anilist-id: 21361
+      - season: 2
+        anilist-id: 107346
+
+  - title: "Great Pretender"
+    # https://www.themoviedb.org/tv/93816
+    # https://www.thetvdb.com/dereferrer/series/376144
+    # https://www.imdb.com/title/tt11680468/
+    synonyms:
+      - "グレートプリテンダー"
+    seasons:
+      - season: 1
+        anilist-id: 110349
+
+  - title: "Grimgar of Fantasy and Ash"
+    # https://www.themoviedb.org/tv/65369
+    # https://www.thetvdb.com/dereferrer/series/303868
+    # https://www.imdb.com/title/tt5341430/
+    synonyms:
+      - "Grimgal - Ashes and Illusions"
+      - "Grimgal of Ashes and Fantasies"
+      - "Grimgal of Fantasy & Ash"
+      - "Grimgal, Ashes and Illusions"
+      - "Grimgal: Ashes and Illusions"
+      - "Grimgar - Ashes and Illusions"
+      - "Grimgar of Ashes and Fantasies"
+      - "Grimgar of Fantasy & Ash"
+      - "Grimgar, Ashes and Illusions"
+      - "Grimgar: Ashes and Illusions"
+      - "Hai to Gensou no Grimgal"
+      - "Hai to Gensou no Grimgar"
+      - "Hai to Gensō no Grimgal"
+      - "Hai to Gensō no Grimgar"
+      - "Hai to Gensō no Gurimugaru"
+      - "Hai to gensô no Grimgal"
+      - "Hai to gensô no Grimgar"
+    seasons:
+      - season: 1
+        anilist-id: 21428
+
+  - title: "Haikyu!!"
+    # https://www.themoviedb.org/tv/60863
+    # https://www.thetvdb.com/dereferrer/series/278157
+    # https://www.imdb.com/title/tt3398540/
+    synonyms:
+      - "Haikyuu!!"
+      - "High Kyuu!!"
+      - "ハイキュー!!"
+    seasons:
+      - season: 1
+        anilist-id: 20464
+      - season: 2
+        anilist-id: 20992
+      - season: 3
+        anilist-id: 21698
+      - season: 4
+        anilist-id: 106625
+      - season: 4
+        anilist-id: 113538
+        start: 14
+
+  - title: "Harem in the Labyrinth of Another World"
+    # https://www.themoviedb.org/tv/114477
+    # https://www.thetvdb.com/dereferrer/series/393301
+    # https://www.imdb.com/title/tt13628870/
+    synonyms:
+      - "A Harem in an Alternate World Dungeon"
+      - "Isekai Meikyuu de Harem o"
+      - "Isekai Meikyuu de Harem wo"
+      - "Isekai Meikyū de Harem wo"
+    seasons:
+      - season: 1
+        anilist-id: 127090
+
+  - title: "High School D×D"
+    # https://www.themoviedb.org/tv/45950
+    # https://www.thetvdb.com/dereferrer/series/254653
+    # https://www.imdb.com/title/tt2230051/
+    synonyms:
+      - "High School D×D"
+      - "ハイスクールDxD"
+    seasons:
+      - season: 1
+        anilist-id: 11617
+      - season: 2
+        anilist-id: 15451
+      - season: 3
+        anilist-id: 20745
+      - season: 4
+        anilist-id: 97767
+
+  - title: "Himouto! Umaru-chan"
+    # https://www.themoviedb.org/tv/67126
+    # https://www.thetvdb.com/dereferrer/series/293121
+    # https://www.imdb.com/title/tt5059866/
+    synonyms:
+      - "Beautiful Little Sister! Umaru-chan"
+      - "My Two-Faced Little Sister"
+    seasons:
+      - season: 1
+        anilist-id: 20987
+      - season: 2
+        anilist-id: 98572
+
+  - title: "How a Realist Hero Rebuilt the Kingdom"
+    # https://www.themoviedb.org/tv/102088
+    # https://www.thetvdb.com/dereferrer/series/389422
+    # https://www.imdb.com/title/tt13399402/
+    synonyms:
+      - "A Realist Hero's Kingdom Restoration Chronicle"
+      - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+      - "Genjitsushugi Yuusha no Oukoku Saikenki"
+      - "Genjitsushugi Yūsha no Ōkoku Saikenki"
+      - "Genkoku"
+      - "How a Realist Hero Rebuilt the Kingdom"
+      - "現国"
+      - "現実主義勇者の王国再建記 第二部"
+    seasons:
+      - season: 1
+        anilist-id: 117612
+      - season: 1
+        anilist-id: 139648
+        start: 14
+
+  - title: "Hozuki's Coolheadedness"
+    # https://www.themoviedb.org/tv/61529
+    # https://www.thetvdb.com/dereferrer/series/275613
+    # https://www.imdb.com/title/tt3306838/
+    synonyms:
+      - "Cool-headed Hoozuki"
+      - "Hoozuki no Reitetsu"
+    seasons:
+      - season: 1
+        anilist-id: 20431
+      - season: 2
+        anilist-id: 98438
+      - season: 2
+        anilist-id: 100852
+        start: 14
+
+  # There's a 1999 series as well, but no way to distinguish without a year marker
+  - title: "Hunter x Hunter"
+    # https://www.themoviedb.org/tv/46298
+    # https://www.thetvdb.com/dereferrer/series/252322
+    # https://www.imdb.com/title/tt2098220/
+    synonyms:
+      - "Hunter x Hunter (2011)"
+      - "Hunter × Hunter"
+      - "HxH"
+      - "HxH 2011"
+    seasons:
+      - season: 1
+        anilist-id: 11061
+      - season: 2
+        anilist-id: 11061
+      - season: 3
+        anilist-id: 11061
+
+  - title: "ONIMAI: I'm Now Your Sister!"
+    # https://www.themoviedb.org/tv/198152
+    # https://www.thetvdb.com/dereferrer/series/419278
+    # https://www.imdb.com/title/tt21929424/
+    synonyms:
+      - "Onii-chan ha Oshimai!"
+      - "Onii-chan wa Oshimai!"
+      - "Oniichan ha Oshimai!"
+      - "Oniichan wa Oshimai!"
+      - "Onimai"
+    seasons:
+      - season: 1
+        anilist-id: 147864
+
+  - title: "In/Spectre"
+    # https://www.themoviedb.org/tv/93653
+    # https://www.thetvdb.com/dereferrer/series/368565
+    # https://www.imdb.com/title/tt11328872/
+    synonyms:
+      - "Inspectre"
+      - "Invented Inference"
+      - "Kyokou Suiri"
+      - "Kyokō Suiri"
+      - "虚構推理"
+    seasons:
+      - season: 1
+        anilist-id: 107201
+      - season: 1
+        anilist-id: 126529
+        start: 13
+
+  - title: "Inu X Boku Secret Service"
+    # https://www.themoviedb.org/tv/45282
+    # https://www.thetvdb.com/dereferrer/series/255133
+    # https://www.imdb.com/title/tt2196757/
+    synonyms:
+      - "Inu × Boku SS"
+      - "Youko x Boku SS"
+      - "いぬぼくシークレットサービス"
+      - "妖狐×僕SS（いぬぼくシークレットサービス）"
+    seasons:
+      - season: 1
+        anilist-id: 11013
+
+  - title: "InuYasha"
+    # https://www.themoviedb.org/tv/35610
+    # https://www.thetvdb.com/dereferrer/series/71361
+    # https://www.imdb.com/title/tt0290223/
+    synonyms:
+      - "Inu-Yasha"
+      - "Inuyasha: A Feudal Fairy Tale"
+      - "Sengoku Otogizoshi Inuyasha"
+      - "犬夜叉"
+    seasons:
+      - season: 1
+        anilist-id: 249
+      - season: 2
+        anilist-id: 6811
+
+  - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    # https://www.themoviedb.org/tv/62745
+    # https://www.thetvdb.com/dereferrer/series/289882
+    # https://www.imdb.com/title/tt4728568/
+    synonyms:
+      - "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka"
+      - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+      - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+      - "ダンまち"
+      - "ダンジョンに出会いを求めるのは間違っているだろうか"
+    seasons:
+      - season: 1
+        anilist-id: 20920
+      - season: 2
+        anilist-id: 101167
+      - season: 3
+        anilist-id: 112124
+      - season: 4
+        anilist-id: 129196
+      - season: 4
+        anilist-id: 155211
+        start: 12
