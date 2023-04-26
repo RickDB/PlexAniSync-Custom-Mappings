@@ -916,6 +916,17 @@ entries:
       - season: 1
         anilist-id: 110349
 
+  - title: "Great Teacher Onizuka"
+    # https://www.themoviedb.org/tv/43017
+    # https://www.thetvdb.com/dereferrer/series/79071
+    # https://www.imdb.com/title/tt0315008/
+    synonyms:
+      - "GTO"
+      - "GTO: Great Teacher Onizuka"
+    seasons:
+      - season: 1
+        anilist-id: 245
+
   - title: "Grimgar of Fantasy and Ash"
     # https://www.themoviedb.org/tv/65369
     # https://www.thetvdb.com/dereferrer/series/303868
@@ -1793,56 +1804,6 @@ entries:
       - season: 2
         anilist-id: 21128
 
-  - title: "One Piece"
-    # https://www.themoviedb.org/tv/37854
-    # https://www.thetvdb.com/dereferrer/series/81797
-    # https://www.imdb.com/title/tt0388629/
-    synonyms:
-      - "ワンピース"
-    seasons:
-      - season: 1
-        anilist-id: 21
-      - season: 2
-        anilist-id: 21
-      - season: 3
-        anilist-id: 21
-      - season: 4
-        anilist-id: 21
-      - season: 5
-        anilist-id: 21
-      - season: 6
-        anilist-id: 21
-      - season: 7
-        anilist-id: 21
-      - season: 8
-        anilist-id: 21
-      - season: 9
-        anilist-id: 21
-      - season: 10
-        anilist-id: 21
-      - season: 11
-        anilist-id: 21
-      - season: 12
-        anilist-id: 21
-      - season: 13
-        anilist-id: 21
-      - season: 14
-        anilist-id: 21
-      - season: 15
-        anilist-id: 21
-      - season: 16
-        anilist-id: 21
-      - season: 17
-        anilist-id: 21
-      - season: 18
-        anilist-id: 21
-      - season: 19
-        anilist-id: 21
-      - season: 20
-        anilist-id: 21
-      - season: 21
-        anilist-id: 21
-
   - title: "One-Punch Man"
     # https://www.themoviedb.org/tv/63926
     # https://www.thetvdb.com/dereferrer/series/293088
@@ -1961,10 +1922,13 @@ entries:
         anilist-id: 21355
       - season: 1
         anilist-id: 108632
+        start: 26
       - season: 1
         anilist-id: 119661
+        start: 39
       - season: 1
         anilist-id: 163134
+        start: 51
 
   - title: "Seraph of the End"
     # https://www.themoviedb.org/tv/62255
@@ -2065,8 +2029,9 @@ entries:
     # https://www.thetvdb.com/dereferrer/series/259675
     # https://www.imdb.com/title/tt2496120/
     synonyms:
-      - "Space Battleship Yamato 2199"
+      - "Star Blazers"
       - "Star Blazers 2199"
+      - "Space Battleship Yamato 2199"
       - "Uchuu Senkan Yamato 2199"
       - "宇宙戦艦ヤマト"
     seasons:
@@ -2074,6 +2039,16 @@ entries:
         anilist-id: 12029
       - season: 2
         anilist-id: 21730
+
+  - title: "Star Wars: Visions"
+    # https://www.themoviedb.org/tv/114478
+    # https://www.thetvdb.com/dereferrer/series/393190
+    # https://www.imdb.com/title/tt13622982/
+    synonyms:
+      - "Star Wars: Visions"
+    seasons:
+      - season: 1
+        anilist-id: 138060
 
   - title: "Summer Time Rendering"
     # https://www.themoviedb.org/tv/117933
