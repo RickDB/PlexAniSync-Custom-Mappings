@@ -1325,6 +1325,17 @@ entries:
       - season: 2
         anilist-id: 127550
 
+  - title: "Licensed by Royalty"
+    # https://www.themoviedb.org/tv/42787
+    # https://www.thetvdb.com/dereferrer/series/83406
+    # https://www.imdb.com/title/tt0435972/
+    synonyms:
+      - "L/R: Licensed by Royalty"
+      - "LR Licensed by Royalty"
+    seasons:
+      - season: 1
+        anilist-id: 1456
+
   - title: "LINK CLICK"
     # https://www.themoviedb.org/tv/123542
     # https://www.thetvdb.com/dereferrer/series/402033
