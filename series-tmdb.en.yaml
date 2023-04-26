@@ -1354,3 +1354,436 @@ entries:
       - season: 6
         anilist-id: 134623
         start: 0
+
+  - title: "Made In Abyss"
+    # https://www.themoviedb.org/tv/72636
+    # https://www.thetvdb.com/dereferrer/series/326109
+    # https://www.imdb.com/title/tt7222086/
+    synonyms:
+      - "Meidoinabisu"
+      - "メイドインアビス"
+      - "来自深渊"
+    seasons:
+      - season: 1
+        anilist-id: 97986
+      - season: 2
+        anilist-id: 114745
+      - season: 3
+        anilist-id: 160275
+
+  - title: "Magi: Adventure of Sinbad"
+    # https://www.themoviedb.org/tv/66870
+    # https://www.thetvdb.com/dereferrer/series/310718
+    # https://www.imdb.com/title/tt4431276/
+    synonyms:
+      - "Magi: Adventures of Sinbad"
+      - "Magi: Sinbad no Bōken"
+    seasons:
+      - season: 1
+        anilist-id: 21394
+
+  - title: "Magi"
+    # https://www.themoviedb.org/tv/60654
+    # https://www.thetvdb.com/dereferrer/series/262094
+    # https://www.imdb.com/title/tt2425098/
+    synonyms:
+      - "Magi: The Kingdom of Magic"
+      - "Magi: The Labyrinth of Magic"
+      - "マギ The Kingdom of Magic"
+      - "マギ The Labyrinth of Magic"
+    seasons:
+      - season: 1
+        anilist-id: 14513
+      - season: 2
+        anilist-id: 18115
+
+  - title: "Major"
+    # https://www.themoviedb.org/tv/29602
+    # https://www.thetvdb.com/dereferrer/series/76013
+    # https://www.imdb.com/title/tt1693435/
+    seasons:
+      - season: 1
+        anilist-id: 627
+      - season: 2
+        anilist-id: 558
+      - season: 3
+        anilist-id: 1842
+      - season: 4
+        anilist-id: 3226
+      - season: 5
+        anilist-id: 5028
+      - season: 6
+        anilist-id: 7655
+
+  - title: "Magias Academy Ataraxia Hybrid × Heart"
+    # https://www.themoviedb.org/tv/67011
+    # https://www.thetvdb.com/dereferrer/series/307112
+    # https://www.imdb.com/title/tt5867902/
+    synonyms:
+      - "Masou Gakuen HxH"
+    seasons:
+      - season: 1
+        anilist-id: 21378
+
+  - title: "MEGALOBOX"
+    # https://www.themoviedb.org/tv/77939
+    # https://www.thetvdb.com/dereferrer/series/341437
+    # https://www.imdb.com/title/tt7965802/
+    synonyms:
+      - "Megalo Box"
+      - "ストーリー"
+    seasons:
+      - season: 1
+        anilist-id: 100298
+      - season: 2
+        anilist-id: 113359
+
+  - title: "Miss Kobayashi's Dragon Maid"
+    # https://www.themoviedb.org/tv/69291
+    # https://www.thetvdb.com/dereferrer/series/318893
+    # https://www.imdb.com/title/tt6185782/
+    synonyms:
+      - "The Maid Dragon of Kobayashi-san"
+      - "Kobayashi-san Chi no Maid Dragon"
+      - "Kobayashi-san Chi no Maidragon"
+      - "小林さんちのメイドラゴン"
+    seasons:
+      - season: 1
+        anilist-id: 21776
+      - season: 2
+        anilist-id: 107717
+
+  - title: "Mob Psycho 100"
+    # https://www.themoviedb.org/tv/67075
+    # https://www.thetvdb.com/dereferrer/series/307375
+    # https://www.imdb.com/title/tt5897304/
+    synonyms:
+      - "モブサイコ100"
+      - "モブサイコ１００"
+    seasons:
+      - season: 1
+        anilist-id: 21507
+      - season: 2
+        anilist-id: 101338
+      - season: 3
+        anilist-id: 140439
+
+  - title: "Mobile Suit Gundam 00"
+    # https://www.themoviedb.org/tv/21732
+    # https://www.thetvdb.com/dereferrer/series/80675
+    # https://www.imdb.com/title/tt1134000/
+    synonyms:
+      - "Kidou Senshi Gundam 00"
+    seasons:
+      - season: 1
+        anilist-id: 2581
+      - season: 2
+        anilist-id: 3927
+
+  - title: "Mushoku Tensei: Jobless Reincarnation"
+    # https://www.themoviedb.org/tv/94664
+    # https://www.thetvdb.com/dereferrer/series/371310
+    # https://www.imdb.com/title/tt13293588/
+    synonyms:
+      - "Jobless Reincarnation: I Will Seriously Try If I Go to Another World"
+      - "Mushoku Tensei"
+      - "Mushoku Tensei Jobless Reincarnation"
+      - "Mushoku Tensei: Isekai Ittara Honki Dasu"
+      - "無職転生 ～異世界行ったら本気だす～"
+    seasons:
+      - season: 1
+        anilist-id: 108465
+      - season: 1
+        anilist-id: 127720
+        start: 12
+      - season: 2
+        anilist-id: 146065
+
+  - title: "My Hero Academia"
+    # https://www.themoviedb.org/tv/65930
+    # https://www.thetvdb.com/dereferrer/series/305074
+    # https://www.imdb.com/title/tt5626028/
+    synonyms:
+      - "Boku no Hero Academia"
+      - "MHA"
+      - "ヒロアカ"
+    seasons:
+      - season: 1
+        anilist-id: 21459
+      - season: 2
+        anilist-id: 21856
+      - season: 3
+        anilist-id: 100166
+      - season: 4
+        anilist-id: 104276
+      - season: 5
+        anilist-id: 117193
+      - season: 6
+        anilist-id: 139630
+
+  - title: "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
+    # https://www.themoviedb.org/tv/117889
+    # https://www.thetvdb.com/dereferrer/series/402637
+    # https://www.imdb.com/title/tt15441076/
+    synonyms:
+      - "My Isekai Life"
+      - "Tensei Kenja no Isekai Life"
+      - "The Reincarnated Sage's Alternate World Life: I Got a Second Profession, and Became the Most Powerful in the World"
+      - "Tensei Kenja no Isekai Life ~Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita~"
+      - "Tensei Kenja no Isekai Life ~Daini no Shokugyō o Ete, Sekai Saikyō ni Narimashita~"
+    seasons:
+      - season: 1
+        anilist-id: 129192
+
+  - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
+    # https://www.themoviedb.org/tv/94904
+    # https://www.thetvdb.com/dereferrer/series/371437
+    # https://www.imdb.com/title/tt11821792/
+    synonyms:
+      - "Bakarina"
+      - "Destruction Flag Noble Girl Villainess"
+      - "Destruction Flag Otome"
+      - "Hamefura"
+      - "Hamehura"
+      - "I Reincarnated Into an Otome Game as a Villainess With Only Destruction Flags..."
+      - "Otome Game no Hametsu Flag"
+      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta..."
+      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijō ni Tensei shiteshimatta..."
+      - "はめフラ"
+      - "ハメフラ"
+      - "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
+    seasons:
+      - season: 1
+        anilist-id: 104647
+      - season: 2
+        anilist-id: 120209
+
+  - title: "My Teen Romantic Comedy SNAFU"
+    # https://www.themoviedb.org/tv/65676
+    # https://www.thetvdb.com/dereferrer/series/267435
+    # https://www.imdb.com/title/tt2703720/
+    synonyms:
+      - "Hamachi"
+      - "My Teen RomCom SNAFU"
+      - "My Teen Romantic Comedy: SNAFU"
+      - "My Teenage RomCom SNAFU"
+      - "My Youth Romantic Comedy Is Wrong as I Expected"
+      - "Oregairu"
+      - "SNAFU"
+      - "Yahari Ore no Seishun Love Come wa Machigatte Iru."
+      - "Yahari Ore no Seishun Love Come wa Machigatteiru."
+      - "Yahari Ore no Seishun Love Comedy wa Machigatte Iru."
+      - "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
+      - "Yahari Ore no Seishun LoveCome wa Machigatte Iru."
+      - "はまち"
+      - "俺ガイル"
+    seasons:
+      - season: 1
+        anilist-id: 14813
+      - season: 2
+        anilist-id: 20698
+      - season: 3
+        anilist-id: 108489
+
+  - title: "Naruto"
+    # https://www.themoviedb.org/tv/46260
+    # https://www.thetvdb.com/dereferrer/series/78857
+    # https://www.imdb.com/title/tt0409591/
+    synonyms:
+      - "NARUTO -ナルト-"
+      - "ナルト"
+    seasons:
+      - season: 1
+        anilist-id: 20
+      - season: 2
+        anilist-id: 20
+      - season: 3
+        anilist-id: 20
+      - season: 4
+        anilist-id: 20
+
+  - title: "Naruto Shippūden"
+    # https://www.themoviedb.org/tv/31910
+    # https://www.thetvdb.com/dereferrer/series/79824
+    # https://www.imdb.com/title/tt0988824/
+    synonyms:
+      - "Naruto Shippuden"
+      - "Naruto Shippuuden"
+      - "Naruto Shippûden"
+      - "Naruto: Shippuden"
+    seasons:
+      - season: 1
+        anilist-id: 1735
+      - season: 2
+        anilist-id: 1735
+      - season: 3
+        anilist-id: 1735
+      - season: 4
+        anilist-id: 1735
+      - season: 5
+        anilist-id: 1735
+      - season: 6
+        anilist-id: 1735
+      - season: 7
+        anilist-id: 1735
+      - season: 8
+        anilist-id: 1735
+      - season: 9
+        anilist-id: 1735
+      - season: 10
+        anilist-id: 1735
+      - season: 11
+        anilist-id: 1735
+      - season: 12
+        anilist-id: 1735
+      - season: 13
+        anilist-id: 1735
+      - season: 14
+        anilist-id: 1735
+      - season: 15
+        anilist-id: 1735
+      - season: 16
+        anilist-id: 1735
+      - season: 17
+        anilist-id: 1735
+      - season: 18
+        anilist-id: 1735
+      - season: 19
+        anilist-id: 1735
+      - season: 20
+        anilist-id: 1735
+
+  - title: "Natsume Yujin-cho"
+    # https://www.themoviedb.org/tv/69500
+    # https://www.thetvdb.com/dereferrer/series/82788
+    # https://www.imdb.com/title/tt1352421/
+    synonyms:
+      - "Natsume Yuujinchou"
+      - "Natsume Yūjin-Chō"
+      - "Natsume Yūjinchō"
+      - "Natsume yûjinchô"
+      - "Natsume's Book of Friends"
+      - "Natsume's Friend Book"
+      - "Zoku Natsume Yuujinchou"
+      - "夏目友人帳"
+    seasons:
+      - season: 1
+        anilist-id: 4081
+      - season: 2
+        anilist-id: 5300
+      - season: 3
+        anilist-id: 10379
+      - season: 4
+        anilist-id: 11665
+      - season: 5
+        anilist-id: 21710
+      - season: 6
+        anilist-id: 97983
+
+  - title: "No Guns Life"
+    # https://www.themoviedb.org/tv/91270
+    # https://www.thetvdb.com/dereferrer/series/367067
+    # https://www.imdb.com/title/tt10981954/
+    synonyms:
+      - "ノー・ガンズ・ライフ"
+    seasons:
+      - season: 1
+        anilist-id: 108478
+      - season: 1
+        anilist-id: 112803
+        start: 13
+
+  - title: "Noragami"
+    # https://www.themoviedb.org/tv/64710
+    # https://www.thetvdb.com/dereferrer/series/275610
+    # https://www.imdb.com/title/tt3225270/
+    synonyms:
+      - "ノラガミ"
+    seasons:
+      - season: 1
+        anilist-id: 20447
+      - season: 2
+        anilist-id: 21128
+
+  - title: "One Piece"
+    # https://www.themoviedb.org/tv/37854
+    # https://www.thetvdb.com/dereferrer/series/81797
+    # https://www.imdb.com/title/tt0388629/
+    synonyms:
+      - "ワンピース"
+    seasons:
+      - season: 1
+        anilist-id: 21
+      - season: 2
+        anilist-id: 21
+      - season: 3
+        anilist-id: 21
+      - season: 4
+        anilist-id: 21
+      - season: 5
+        anilist-id: 21
+      - season: 6
+        anilist-id: 21
+      - season: 7
+        anilist-id: 21
+      - season: 8
+        anilist-id: 21
+      - season: 9
+        anilist-id: 21
+      - season: 10
+        anilist-id: 21
+      - season: 11
+        anilist-id: 21
+      - season: 12
+        anilist-id: 21
+      - season: 13
+        anilist-id: 21
+      - season: 14
+        anilist-id: 21
+      - season: 15
+        anilist-id: 21
+      - season: 16
+        anilist-id: 21
+      - season: 17
+        anilist-id: 21
+      - season: 18
+        anilist-id: 21
+      - season: 19
+        anilist-id: 21
+      - season: 20
+        anilist-id: 21
+      - season: 21
+        anilist-id: 21
+
+  - title: "One-Punch Man"
+    # https://www.themoviedb.org/tv/63926
+    # https://www.thetvdb.com/dereferrer/series/293088
+    # https://www.imdb.com/title/tt4508902/
+    synonyms:
+      - "One Punch Man"
+      - "Onepunchman"
+      - "Wanpanman"
+    seasons:
+      - season: 1
+        anilist-id: 21087
+      - season: 2
+        anilist-id: 97668
+      - season: 3
+        anilist-id: 153800
+
+  - title: "Overlord"
+    # https://www.themoviedb.org/tv/64196
+    # https://www.thetvdb.com/dereferrer/series/294002
+    # https://www.imdb.com/title/tt4869896/
+    synonyms:
+      - "Ōbārōdo"
+      - "オーバーロード"
+    seasons:
+      - season: 1
+        anilist-id: 20832
+      - season: 2
+        anilist-id: 98437
+      - season: 3
+        anilist-id: 101474
+      - season: 4
+        anilist-id: 133844
