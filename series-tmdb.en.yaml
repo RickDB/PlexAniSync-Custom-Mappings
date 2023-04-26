@@ -1141,3 +1141,216 @@ entries:
       - season: 4
         anilist-id: 155211
         start: 12
+
+  # There's a 1993 series as well, but no way to distinguish without a year marker
+  - title: "JoJo's Bizarre Adventure"
+    # https://www.themoviedb.org/tv/45790
+    # https://www.thetvdb.com/dereferrer/series/262954
+    # https://www.imdb.com/title/tt2359704/
+    synonyms:
+      - "JoJo's Bizarre Adventure (2012)"
+      - "JoJo no Kimyou na Bouken"
+      - "JoJo no Kimyō na Bōken"
+      - "ジョジョの奇妙な冒険"
+    seasons:
+      - season: 1
+        anilist-id: 14719
+      - season: 2
+        anilist-id: 20474
+      - season: 2
+        anilist-id: 20799
+        start: 25
+      - season: 3
+        anilist-id: 21450
+      - season: 4
+        anilist-id: 102883
+      - season: 5
+        anilist-id: 131942
+      - season: 5
+        anilist-id: 146722
+        start: 13
+
+  - title: "K-Project"
+    # https://www.themoviedb.org/tv/45799
+    # https://www.thetvdb.com/dereferrer/series/261249
+    # https://www.imdb.com/title/tt2377452/
+    synonyms:
+      - "K"
+      - "K Project"
+      - "Project K"
+    seasons:
+      - season: 1
+        anilist-id: 14467
+      - season: 2
+        anilist-id: 20913
+
+  - title: "Kaguya-sama: Love Is War"
+    # https://www.themoviedb.org/tv/83121
+    # https://www.thetvdb.com/dereferrer/series/354198
+    # https://www.imdb.com/title/tt9522300/
+    synonyms:
+      - "Kaguya sama wa Kokurasetai"
+      - "Kaguya-sama Love is War"
+      - "Kaguya-sama wa Kokurasetai"
+      - "Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen"
+      - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen"
+      - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+      - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+      - "Kaguya-sama wa Kokurasetai꞉ Tensai-tachi no Renai Zunousen"
+      - "かぐや様は告らせたい"
+      - "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+    seasons:
+      - season: 1
+        anilist-id: 101921
+      - season: 2
+        anilist-id: 112641
+      - season: 3
+        anilist-id: 125367
+
+  - title: "Kakegurui"
+    # https://www.themoviedb.org/tv/72305
+    # https://www.thetvdb.com/dereferrer/series/327572
+    # https://www.imdb.com/title/tt7131720/
+    synonyms:
+      - "Kakegurui: Compulsive Gambler"
+      - "賭ケグルイ"
+    seasons:
+      - season: 1
+        anilist-id: 98314
+      - season: 2
+        anilist-id: 100876
+
+  - title: "Kamisama Kiss"
+    # https://www.themoviedb.org/tv/62741
+    # https://www.thetvdb.com/dereferrer/series/262106
+    # https://www.imdb.com/title/tt2320220/
+    synonyms:
+      - "Divine Nanami"
+      - "Kami-sama Hajimemashita"
+      - "Kami-sama Kiss"
+      - "Kamihaji"
+      - "Kamisama Hajimemashita"
+      - "神様はじめました◎"
+    seasons:
+      - season: 1
+        anilist-id: 14713
+      - season: 2
+        anilist-id: 20801
+
+  - title: "Kingdom"
+    # https://www.themoviedb.org/tv/46437
+    # https://www.thetvdb.com/dereferrer/series/259635
+    # https://www.imdb.com/title/tt2404499/
+    synonyms:
+      - "Kingudamu"
+    seasons:
+      - season: 1
+        anilist-id: 12031
+      - season: 2
+        anilist-id: 17389
+      - season: 3
+        anilist-id: 113108
+      - season: 4
+        anilist-id: 140350
+      - season: 5
+        anilist-id: 155227
+
+  - title: "Knights of Sidonia"
+    # https://www.themoviedb.org/tv/60831
+    # https://www.thetvdb.com/dereferrer/series/278154
+    # https://www.imdb.com/title/tt3398976/
+    synonyms:
+      - "Sidonia no Kishi"
+      - "シドニアの騎士"
+    seasons:
+      - season: 1
+        anilist-id: 19775
+      - season: 2
+        anilist-id: 20762
+
+  - title: "Kuma Kuma Kuma Bear"
+    # https://www.themoviedb.org/tv/97782
+    # https://www.thetvdb.com/dereferrer/series/386572
+    # https://www.imdb.com/title/tt12415504/
+    synonyms:
+      - "Bear Bear Bear Kuma"
+      - "Kuma desu ga, Nani ka?"
+      - "Kumaku"
+      - "くまクマ熊ベアー"
+    seasons:
+      - season: 1
+        anilist-id: 114340
+      - season: 2
+        anilist-id: 127550
+
+  - title: "LINK CLICK"
+    # https://www.themoviedb.org/tv/123542
+    # https://www.thetvdb.com/dereferrer/series/402033
+    # https://www.imdb.com/title/tt14976292/
+    synonyms:
+      - "LINK CLICK"
+      - "Shi Guang Dai Li Ren"
+      - "Shi Guang Daili Ren"
+      - "Shiguang Daili Ren"
+      - "Shiguang Dailiren"
+      - "Time Agents"
+      - "CLICK"
+    seasons:
+      - season: 1
+        anilist-id: 126403
+
+  - title: "Log Horizon"
+    # https://www.themoviedb.org/tv/60846
+    # https://www.thetvdb.com/dereferrer/series/272128
+    # https://www.imdb.com/title/tt2942218/
+    synonyms:
+      - "Rogu Horaizun"
+    seasons:
+      - season: 1
+        anilist-id: 17265
+      - season: 2
+        anilist-id: 20671
+      - season: 3
+        anilist-id: 114862
+
+  - title: "Love, Chunibyo & Other Delusions!"
+    # https://www.themoviedb.org/tv/45501
+    # https://www.thetvdb.com/dereferrer/series/261862
+    # https://www.imdb.com/title/tt2321542/
+    synonyms:
+      - "Chu 2 Koi"
+      - "Chu 2 Koi Ren"
+      - "Chu-2 Byou demo Koi ga Shitai!"
+      - "Love, Chunibyo and Other Delusions!"
+      - "Love, Chūnibyō & Other Delusions"
+      - "中二病でも恋がしたい!"
+      - "中二病でも恋がしたい！"
+    seasons:
+      - season: 1
+        anilist-id: 14741
+      - season: 2
+        anilist-id: 18671
+
+  - title: "Lupin the Third"
+    # https://www.themoviedb.org/tv/31572
+    # https://www.thetvdb.com/dereferrer/series/71863
+    # https://www.imdb.com/title/tt0159175/
+    synonyms:
+      - "Lupin III"
+      - "Lupin Sansei"
+      - "Lupin the 3rd"
+      - "ルパン三世"
+    seasons:
+      - season: 1
+        anilist-id: 1412
+      - season: 2
+        anilist-id: 1425
+      - season: 3
+        anilist-id: 1426
+      - season: 4
+        anilist-id: 20906
+      - season: 5
+        anilist-id: 100957
+      - season: 6
+        anilist-id: 134623
+        start: 0
