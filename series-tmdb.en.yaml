@@ -2421,3 +2421,132 @@ entries:
         anilist-id: 115113
       - season: 2
         anilist-id: 124395
+
+  - title: "Vermeil in Gold"
+    # https://www.themoviedb.org/tv/194774
+    # https://www.thetvdb.com/dereferrer/series/417658
+    # https://www.imdb.com/title/tt18561422/
+    synonyms:
+      - "Kinsou no Vermeil"
+      - "Kinsō no Vermeil"
+      - "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu"
+      - "Kinsō no Vermeil: Gakeppuchi Majutsushi wa Saikyō no Yakusai to Mahō Sekai wo Tsukisusumu"
+      - "Vermeil in Gold ~A Magician Pushes Through the Magical World With the Strongest Disaster~"
+      - "Vermeil in Gold: A Desperate Magician Barges Into the Magical World Sideside the Strongest Calamity"
+    seasons:
+      - season: 1
+        anilist-id: 146210
+
+  - title: "Vinland Saga"
+    # https://www.themoviedb.org/tv/88803
+    # https://www.thetvdb.com/dereferrer/series/359274
+    # https://www.imdb.com/title/tt10233448/
+    synonyms:
+      - "ヴィンランドサガ"
+    seasons:
+      - season: 1
+        anilist-id: 101348
+      - season: 2
+        anilist-id: 136430
+
+  - title: "Wagnaria!!"
+    # https://www.themoviedb.org/tv/46153
+    # https://www.thetvdb.com/dereferrer/series/145211
+    # https://www.imdb.com/title/tt1685484/
+    synonyms:
+      - "WORKING!!"
+      - "ワーキング!!"
+    seasons:
+      - season: 1
+        anilist-id: 6956
+      - season: 2
+        anilist-id: 10521
+      - season: 3
+        anilist-id: 20819
+
+  - title: "Welcome to Demon School! Iruma-kun"
+    # https://www.themoviedb.org/tv/91801
+    # https://www.thetvdb.com/dereferrer/series/369144
+    # https://www.imdb.com/title/tt11034066/
+    synonyms:
+      - "Enrolled Demon Iruma!"
+      - "The Misfit Class's New Term"
+      - "Here's Come The Demon! Iruma Kun"
+      - "The Demon, Iruma-kun, Came and Enrolled!"
+      - "Mairimashita! Iruma-kun"
+      - "Mairimashita, Iruma-kun"
+      - "Welcome to Demon-School! Iruma-kun"
+      - "Welcome to Demon School, Iruma-kun"
+      - "Welcome to Demon-School, Iruma-kun"
+    seasons:
+      - season: 1
+        anilist-id: 107693
+      - season: 2
+        anilist-id: 116338
+      - season: 3
+        anilist-id: 139092
+
+  - title: "xxxHOLiC"
+    # https://www.themoviedb.org/tv/36250
+    # https://www.thetvdb.com/dereferrer/series/79283
+    # https://www.imdb.com/title/tt0488477/
+    synonyms:
+      - "×××HOLiC"
+      - "×××ホリック"
+    seasons:
+      - season: 1
+        anilist-id: 861
+      - season: 2
+        anilist-id: 3091
+
+  # There's a live-action 2013 series as well
+  - title: "Yamada-kun and the Seven Witches"
+    # https://www.themoviedb.org/tv/62568
+    # https://www.thetvdb.com/dereferrer/series/289744
+    # https://www.imdb.com/title/tt4623042/
+    synonyms:
+      - "Yamada-kun and the Seven Witches (2015)"
+      - "Yamada-kun to 7-nin no Majo"
+    seasons:
+      - season: 1
+        anilist-id: 20966
+
+  - title: "Yowamushi Pedal"
+    # https://www.themoviedb.org/tv/61441
+    # https://www.thetvdb.com/dereferrer/series/272309
+    # https://www.imdb.com/title/tt2942228/
+    synonyms:
+      - "Yowamushi Pedaru"
+      - "Yowapeda"
+      - "弱虫ペダル"
+    seasons:
+      - season: 1
+        anilist-id: 18179
+      - season: 2
+        anilist-id: 20723
+      - season: 3
+        anilist-id: 21407
+      - season: 4
+        anilist-id: 99476
+      - season: 5
+        anilist-id: 142481
+
+  - title: "Yuki Yuna Is a Hero"
+    # https://www.themoviedb.org/tv/71493
+    # https://www.thetvdb.com/dereferrer/series/284263
+    # https://www.imdb.com/title/tt3981902/
+    synonyms:
+      - "Yuuki Yuuna Is a Hero"
+      - "Yuki Yuna wa Yusha de Aru"
+      - "Yuuki Yuuna wa Yuusha de Aru"
+      - "結城友奈は勇者である"
+    seasons:
+      - season: 1
+        anilist-id: 20800
+      - season: 2
+        anilist-id: 100791
+      - season: 2
+        anilist-id: 97769
+        start: 7
+      - season: 3
+        anilist-id: 122292
