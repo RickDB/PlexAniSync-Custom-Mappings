@@ -1074,6 +1074,20 @@ entries:
       - season: 1
         anilist-id: 147864
 
+  - title: "Oshi no Ko"
+    # https://www.themoviedb.org/tv/203737
+    # https://www.thetvdb.com/dereferrer/series/421069
+    # https://www.imdb.com/title/tt21030032/
+    synonyms:
+      - "Favorite Girl"
+      - "My Idol's Child"
+      - "My Star"
+      - "\"Oshi no Ko\""
+      - "【OSHI NO KO】"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+
   - title: "In/Spectre"
     # https://www.themoviedb.org/tv/93653
     # https://www.thetvdb.com/dereferrer/series/368565
@@ -1267,6 +1281,34 @@ entries:
         anilist-id: 19775
       - season: 2
         anilist-id: 20762
+
+  - title: "KONOSUBA – God's blessing on this wonderful world!!"
+    # https://www.themoviedb.org/tv/65844
+    # https://www.thetvdb.com/dereferrer/series/303867
+    # https://www.imdb.com/title/tt5370118/
+    synonyms:
+      - "KonoSuba"
+      - "Give Blessings to This Wonderful World!"
+      - "Kono Subarashii Sekai ni Shukufuku o!"
+      - "このすば"
+    seasons:
+      - season: 1
+        anilist-id: 21202
+      - season: 2
+        anilist-id: 21699
+      - season: 3
+        anilist-id: 136804
+
+  - title: "KONOSUBA – An Explosion on This Wonderful World!"
+    # https://www.themoviedb.org/tv/203040
+    # https://www.thetvdb.com/dereferrer/series/420657
+    # https://www.imdb.com/title/tt27329086/
+    synonyms:
+      - "Kono Subarashii Sekai ni Bakuen o"
+      - "Kono Subarashii Sekai ni Bakuen wo!"
+    seasons:
+      - season: 1
+        anilist-id: 150075
 
   - title: "Kuma Kuma Kuma Bear"
     # https://www.themoviedb.org/tv/97782
@@ -1479,6 +1521,41 @@ entries:
         anilist-id: 2581
       - season: 2
         anilist-id: 3927
+
+  - title: "Mobile Suit Gundam: Iron-Blooded Orphans"
+    # https://www.themoviedb.org/tv/64375
+    # https://www.thetvdb.com/dereferrer/series/299497
+    # https://www.imdb.com/title/tt5344382/
+    synonyms:
+      - "G-Tekketsu"
+      - "Gundam IBO"
+      - "Gの鉄血"
+      - "IRON-BLOODED ORPHANS"
+      - "Kidou Senshi Gundam: Tekketsu no Orphans"
+      - "Mobile Suit Gundam IRON-BLOODED ORPHANS"
+    seasons:
+      - season: 1
+        anilist-id: 21268
+      - season: 1
+        anilist-id: 21749
+        start: 26
+
+  - title: "Mobile Suit Gundam: The Witch from Mercury"
+    # https://www.themoviedb.org/tv/196400
+    # https://www.thetvdb.com/dereferrer/series/418364
+    # https://www.imdb.com/title/tt15433166/
+    synonyms:
+      - "G-Witch"
+      - "Gundam: The Witch from Mercury"
+      - "Kidou Senshi Gundam: Suisei no Majo"
+      - "Kidō Senshi Gundam: Suisei no Majo"
+      - "機動戦士ガンダム 水星の魔女"
+    seasons:
+      - season: 1
+        anilist-id: 139274
+      - season: 1
+        anilist-id: 155158
+        start: 13
 
   - title: "Mushoku Tensei: Jobless Reincarnation"
     # https://www.themoviedb.org/tv/94664
@@ -2089,6 +2166,21 @@ entries:
         anilist-id: 116742
         start: 13
 
+  - title: "The Ancient Magus' Bride"
+    # https://www.themoviedb.org/tv/73833
+    # https://www.thetvdb.com/dereferrer/series/316842
+    # https://www.imdb.com/title/tt7326322/
+    synonyms:
+      - "Mahou Tsukai no Yome"
+      - "Mahoutsukai no Yome"
+      - "Mahô Tsukai no Yome"
+      - "魔法使いの嫁 SEASON2"
+    seasons:
+      - season: 1
+        anilist-id: 98436
+      - season: 2
+        anilist-id: 154364
+
   - title: "The Demon Girl Next Door"
     # https://www.themoviedb.org/tv/88806
     # https://www.thetvdb.com/dereferrer/series/363143
@@ -2209,6 +2301,18 @@ entries:
         anilist-id: 130590
         start: 13
 
+  - title: "Hell's Paradise"
+    # https://www.themoviedb.org/tv/117465
+    # https://www.thetvdb.com/dereferrer/series/402474
+    # https://www.imdb.com/title/tt13911284/
+    synonyms:
+      - "Hell's Paradise: Jigokuraku"
+      - "Jigoku Raku"
+      - "Jigokuraku"
+    seasons:
+      - season: 1
+        anilist-id: 128893
+
   - title: "Hitori no Shita: The Outcast"
     # https://www.themoviedb.org/tv/67063
     # https://www.thetvdb.com/dereferrer/series/313488
@@ -2235,6 +2339,22 @@ entries:
         anilist-id: 122631
       - season: 5
         anilist-id: 142298
+
+  - title: "Tengoku Daimakyo"
+    # https://www.themoviedb.org/tv/208891
+    # https://www.thetvdb.com/dereferrer/series/426165
+    # https://www.imdb.com/title/tt22817632/
+    synonyms:
+      - "Heavenly Delusion"
+      - "Tengoku Dai Makyou"
+      - "Tengoku Dai Makyō"
+      - "Tengoku Daimakyou"
+      - "Tengoku Daimakyō"
+      - "Tengoku-Daimakyo"
+      - "天国大魔境"
+    seasons:
+      - season: 1
+        anilist-id: 155783
 
   - title: "The Quintessential Quintuplets"
     # https://www.themoviedb.org/tv/84669
@@ -2380,6 +2500,31 @@ entries:
         anilist-id: 100240
       - season: 4
         anilist-id: 102351
+
+  - title: "TONIKAWA: Over the Moon for You"
+    # https://www.themoviedb.org/tv/100049
+    # https://www.thetvdb.com/dereferrer/series/385077
+    # https://www.imdb.com/title/tt12311976/
+    synonyms:
+      - "Cute Anyways"
+      - "Fly Me to the Moon"
+      - "Generally Cute"
+      - "Kyoot Anyways"
+      - "TONIKAWA - Fly Me to the Moon"
+      - "TONIKAWA - Over the Moon for You"
+      - "TONIKAWA Over the Moon for You"
+      - "TONIKAWA: Fly Me to the Moon"
+      - "Tonikaku Cawaii"
+      - "Tonikaku Kawaii"
+      - "Tonikaku Kawaii - Fly Me to the Moon"
+      - "Tonikaku Kawaii: Fly Me to the Moon"
+      - "Tonikawa"
+      - "Totally Cute"
+    seasons:
+      - season: 1
+        anilist-id: 116267
+      - season: 2
+        anilist-id: 141208
 
   - title: "Tsurune"
     # https://www.themoviedb.org/tv/83314
