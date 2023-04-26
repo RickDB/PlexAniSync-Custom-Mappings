@@ -1787,3 +1787,93 @@ entries:
         anilist-id: 101474
       - season: 4
         anilist-id: 133844
+
+  - title: "Princess Connect! Re:Dive"
+    # https://www.themoviedb.org/tv/99084
+    # https://www.thetvdb.com/dereferrer/series/377034
+    # https://www.imdb.com/title/tt11886236/
+    synonyms:
+      - "Priconne"
+      - "Princess Connect Re Dive"
+      - "Princess Connect! ReDive"
+      - "プリンセスコネクト！Re：Dive"
+    seasons:
+      - season: 1
+        anilist-id: 107871
+      - season: 2
+        anilist-id: 122808
+
+  - title: "Psycho-Pass"
+    # https://www.themoviedb.org/tv/43865
+    # https://www.thetvdb.com/dereferrer/series/262090
+    # https://www.imdb.com/title/tt2379308/
+    synonyms:
+      - "Saiko Pasu"
+      - "サイコパス"
+    seasons:
+      - season: 1
+        anilist-id: 13601
+      - season: 2
+        anilist-id: 20513
+      - season: 3
+        anilist-id: 108307
+
+  - title: "Rage of Bahamut"
+    # https://www.themoviedb.org/tv/61445
+    # https://www.thetvdb.com/dereferrer/series/284133
+    # https://www.imdb.com/title/tt3981938/
+    synonyms:
+      - "Shingeki no Bahamut"
+      - "神撃のバハムート"
+    seasons:
+      - season: 1
+        anilist-id: 20590
+      - season: 2
+        anilist-id: 21184
+
+  - title: "Ranking of Kings"
+    # https://www.themoviedb.org/tv/112613
+    # https://www.thetvdb.com/dereferrer/series/391625
+    # https://www.imdb.com/title/tt13409432/
+    synonyms:
+      - "Ousama Ranking"
+      - "Ōsama Ranking"
+    seasons:
+      - season: 1
+        anilist-id: 113717
+
+  - title: "Ranking of Kings: The Treasure Chest of Courage"
+    # https://www.themoviedb.org/tv/207743
+    # https://www.thetvdb.com/dereferrer/series/432080
+    # https://www.imdb.com/title/tt27504251/
+    synonyms:
+      - "Ousama Ranking: Yuuki no Takarabako"
+      - "Ōsama Ranking: Yūki no Takarabako"
+    seasons:
+      - season: 1
+        anilist-id: 153452
+
+  - title: "Re:ZERO -Starting Life in Another World-"
+    # https://www.themoviedb.org/tv/65942
+    # https://www.thetvdb.com/dereferrer/series/305089
+    # https://www.imdb.com/title/tt5607616/
+    synonyms:
+      - "Re:Zero"
+      - "Re Zero"
+      - "ReZero"
+      - "Re: Life in a Different World From Zero"
+      - "Re ZERO -Starting Life in Another World-"
+      - "ReZERO -Starting Life in Another World-"
+      - "Re:Zero kara Hajimeru Isekai Seikatsu"
+      - "Re Zero kara Hajimeru Isekai Seikatsu"
+      - "ReZero kara Hajimeru Isekai Seikatsu"
+      - "Re:ゼロから始める異世界生活"
+    seasons:
+      - season: 1
+        anilist-id: 21355
+      - season: 1
+        anilist-id: 108632
+      - season: 1
+        anilist-id: 119661
+      - season: 1
+        anilist-id: 163134
