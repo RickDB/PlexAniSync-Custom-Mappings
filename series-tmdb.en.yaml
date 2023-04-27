@@ -470,6 +470,16 @@ entries:
       - season: 1
         anilist-id: 21558
 
+  - title: "Danganronpa 3: The End of Hope's Peak High School"
+    # https://www.themoviedb.org/tv/67674
+    # https://www.imdb.com/title/tt6027642/
+    synonyms:
+      - "Danganronpa 3 The End Of Kibougamine Gakuen Zetsubou Hen"
+      - "Danganronpa 3 Zetsubou Hen"
+    seasons:
+      - season: 1
+        anilist-id: 21825
+
   - title: "Danganronpa: The Animation"
     # https://www.themoviedb.org/tv/49471
     # https://www.thetvdb.com/dereferrer/series/270058
@@ -483,16 +493,6 @@ entries:
         anilist-id: 16592
       - season: 2
         anilist-id: 21509
-
-  - title: "Danganronpa 3: The End of Hope's Peak High School"
-    # https://www.themoviedb.org/tv/67674
-    # https://www.imdb.com/title/tt6027642/
-    synonyms:
-      - "Danganronpa 3 The End Of Kibougamine Gakuen Zetsubou Hen"
-      - "Danganronpa 3 Zetsubou Hen"
-    seasons:
-      - season: 1
-        anilist-id: 21825
 
   - title: "Darker than Black"
     # https://www.themoviedb.org/tv/31718
@@ -986,6 +986,18 @@ entries:
       - season: 1
         anilist-id: 127090
 
+  - title: "Hell's Paradise"
+    # https://www.themoviedb.org/tv/117465
+    # https://www.thetvdb.com/dereferrer/series/402474
+    # https://www.imdb.com/title/tt13911284/
+    synonyms:
+      - "Hell's Paradise: Jigokuraku"
+      - "Jigoku Raku"
+      - "Jigokuraku"
+    seasons:
+      - season: 1
+        anilist-id: 128893
+
   - title: "High School D×D"
     # https://www.themoviedb.org/tv/45950
     # https://www.thetvdb.com/dereferrer/series/254653
@@ -1015,6 +1027,33 @@ entries:
         anilist-id: 20987
       - season: 2
         anilist-id: 98572
+
+  - title: "Hitori no Shita: The Outcast"
+    # https://www.themoviedb.org/tv/67063
+    # https://www.thetvdb.com/dereferrer/series/313488
+    # https://www.imdb.com/title/tt12882132/
+    synonyms:
+      - "Fengqi Yunyong, Luotian Dajiao"
+      - "Hitori no Shita"
+      - "Hitorinoshita: The Outcast"
+      - "The Outcast"
+      - "Under One Person"
+      - "Yi Ren Zhi Xia"
+      - "一人の下"
+      - "一人之下"
+      - "一人之下 THE OUTCAST"
+      - "异人"
+    seasons:
+      - season: 1
+        anilist-id: 21840
+      - season: 2
+        anilist-id: 98574
+      - season: 3
+        anilist-id: 105401
+      - season: 4
+        anilist-id: 122631
+      - season: 5
+        anilist-id: 142298
 
   - title: "How a Realist Hero Rebuilt the Kingdom"
     # https://www.themoviedb.org/tv/102088
@@ -1069,34 +1108,6 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
-
-  - title: "ONIMAI: I'm Now Your Sister!"
-    # https://www.themoviedb.org/tv/198152
-    # https://www.thetvdb.com/dereferrer/series/419278
-    # https://www.imdb.com/title/tt21929424/
-    synonyms:
-      - "Onii-chan ha Oshimai!"
-      - "Onii-chan wa Oshimai!"
-      - "Oniichan ha Oshimai!"
-      - "Oniichan wa Oshimai!"
-      - "Onimai"
-    seasons:
-      - season: 1
-        anilist-id: 147864
-
-  - title: "Oshi no Ko"
-    # https://www.themoviedb.org/tv/203737
-    # https://www.thetvdb.com/dereferrer/series/421069
-    # https://www.imdb.com/title/tt21030032/
-    synonyms:
-      - "Favorite Girl"
-      - "My Idol's Child"
-      - "My Star"
-      - "\"Oshi no Ko\""
-      - "【OSHI NO KO】"
-    seasons:
-      - season: 1
-        anilist-id: 150672
 
   - title: "In/Spectre"
     # https://www.themoviedb.org/tv/93653
@@ -1292,6 +1303,17 @@ entries:
       - season: 2
         anilist-id: 20762
 
+  - title: "KONOSUBA – An Explosion on This Wonderful World!"
+    # https://www.themoviedb.org/tv/203040
+    # https://www.thetvdb.com/dereferrer/series/420657
+    # https://www.imdb.com/title/tt27329086/
+    synonyms:
+      - "Kono Subarashii Sekai ni Bakuen o"
+      - "Kono Subarashii Sekai ni Bakuen wo!"
+    seasons:
+      - season: 1
+        anilist-id: 150075
+
   - title: "KONOSUBA – God's blessing on this wonderful world!!"
     # https://www.themoviedb.org/tv/65844
     # https://www.thetvdb.com/dereferrer/series/303867
@@ -1308,17 +1330,6 @@ entries:
         anilist-id: 21699
       - season: 3
         anilist-id: 136804
-
-  - title: "KONOSUBA – An Explosion on This Wonderful World!"
-    # https://www.themoviedb.org/tv/203040
-    # https://www.thetvdb.com/dereferrer/series/420657
-    # https://www.imdb.com/title/tt27329086/
-    synonyms:
-      - "Kono Subarashii Sekai ni Bakuen o"
-      - "Kono Subarashii Sekai ni Bakuen wo!"
-    seasons:
-      - season: 1
-        anilist-id: 150075
 
   - title: "Kuma Kuma Kuma Bear"
     # https://www.themoviedb.org/tv/97782
@@ -1434,17 +1445,6 @@ entries:
       - season: 3
         anilist-id: 160275
 
-  - title: "Magi: Adventure of Sinbad"
-    # https://www.themoviedb.org/tv/66870
-    # https://www.thetvdb.com/dereferrer/series/310718
-    # https://www.imdb.com/title/tt4431276/
-    synonyms:
-      - "Magi: Adventures of Sinbad"
-      - "Magi: Sinbad no Bōken"
-    seasons:
-      - season: 1
-        anilist-id: 21394
-
   - title: "Magi"
     # https://www.themoviedb.org/tv/60654
     # https://www.thetvdb.com/dereferrer/series/262094
@@ -1459,6 +1459,27 @@ entries:
         anilist-id: 14513
       - season: 2
         anilist-id: 18115
+
+  - title: "Magi: Adventure of Sinbad"
+    # https://www.themoviedb.org/tv/66870
+    # https://www.thetvdb.com/dereferrer/series/310718
+    # https://www.imdb.com/title/tt4431276/
+    synonyms:
+      - "Magi: Adventures of Sinbad"
+      - "Magi: Sinbad no Bōken"
+    seasons:
+      - season: 1
+        anilist-id: 21394
+
+  - title: "Magias Academy Ataraxia Hybrid × Heart"
+    # https://www.themoviedb.org/tv/67011
+    # https://www.thetvdb.com/dereferrer/series/307112
+    # https://www.imdb.com/title/tt5867902/
+    synonyms:
+      - "Masou Gakuen HxH"
+    seasons:
+      - season: 1
+        anilist-id: 21378
 
   - title: "Major"
     # https://www.themoviedb.org/tv/29602
@@ -1477,16 +1498,6 @@ entries:
         anilist-id: 5028
       - season: 6
         anilist-id: 7655
-
-  - title: "Magias Academy Ataraxia Hybrid × Heart"
-    # https://www.themoviedb.org/tv/67011
-    # https://www.thetvdb.com/dereferrer/series/307112
-    # https://www.imdb.com/title/tt5867902/
-    synonyms:
-      - "Masou Gakuen HxH"
-    seasons:
-      - season: 1
-        anilist-id: 21378
 
   - title: "MEGALOBOX"
     # https://www.themoviedb.org/tv/77939
@@ -1819,6 +1830,34 @@ entries:
       - season: 3
         anilist-id: 153800
 
+  - title: "ONIMAI: I'm Now Your Sister!"
+    # https://www.themoviedb.org/tv/198152
+    # https://www.thetvdb.com/dereferrer/series/419278
+    # https://www.imdb.com/title/tt21929424/
+    synonyms:
+      - "Onii-chan ha Oshimai!"
+      - "Onii-chan wa Oshimai!"
+      - "Oniichan ha Oshimai!"
+      - "Oniichan wa Oshimai!"
+      - "Onimai"
+    seasons:
+      - season: 1
+        anilist-id: 147864
+
+  - title: "Oshi no Ko"
+    # https://www.themoviedb.org/tv/203737
+    # https://www.thetvdb.com/dereferrer/series/421069
+    # https://www.imdb.com/title/tt21030032/
+    synonyms:
+      - "Favorite Girl"
+      - "My Idol's Child"
+      - "My Star"
+      - "\"Oshi no Ko\""
+      - "【OSHI NO KO】"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+
   - title: "Overlord"
     # https://www.themoviedb.org/tv/64196
     # https://www.thetvdb.com/dereferrer/series/294002
@@ -2061,6 +2100,28 @@ entries:
       - season: 1
         anilist-id: 129201
 
+  - title: "Superb Song of the Valkyries: Symphogear"
+    # https://www.themoviedb.org/tv/63322
+    # https://www.thetvdb.com/dereferrer/series/254667
+    # https://www.imdb.com/title/tt2230531/
+    synonyms:
+      - "Symphogear"
+      - "Climax Song of the Valkyries: Symphogear"
+      - "Swan Song of the Valkyries: Symphogear"
+      - "Senki Zesshou Symphogear"
+      - "戦姫絶唱シンフォギア"
+    seasons:
+      - season: 1
+        anilist-id: 11751
+      - season: 2
+        anilist-id: 15793
+      - season: 3
+        anilist-id: 20560
+      - season: 4
+        anilist-id: 21672
+      - season: 5
+        anilist-id: 21673
+
   - title: "Suppose a Kid From the Last Dungeon Boonies Moved to a Starter Town?"
     # https://www.themoviedb.org/tv/100825
     # https://www.thetvdb.com/dereferrer/series/386933
@@ -2106,27 +2167,21 @@ entries:
         anilist-id: 114308
         start: 13
 
-  - title: "Superb Song of the Valkyries: Symphogear"
-    # https://www.themoviedb.org/tv/63322
-    # https://www.thetvdb.com/dereferrer/series/254667
-    # https://www.imdb.com/title/tt2230531/
+  - title: "Tengoku Daimakyo"
+    # https://www.themoviedb.org/tv/208891
+    # https://www.thetvdb.com/dereferrer/series/426165
+    # https://www.imdb.com/title/tt22817632/
     synonyms:
-      - "Symphogear"
-      - "Climax Song of the Valkyries: Symphogear"
-      - "Swan Song of the Valkyries: Symphogear"
-      - "Senki Zesshou Symphogear"
-      - "戦姫絶唱シンフォギア"
+      - "Heavenly Delusion"
+      - "Tengoku Dai Makyou"
+      - "Tengoku Dai Makyō"
+      - "Tengoku Daimakyou"
+      - "Tengoku Daimakyō"
+      - "Tengoku-Daimakyo"
+      - "天国大魔境"
     seasons:
       - season: 1
-        anilist-id: 11751
-      - season: 2
-        anilist-id: 15793
-      - season: 3
-        anilist-id: 20560
-      - season: 4
-        anilist-id: 21672
-      - season: 5
-        anilist-id: 21673
+        anilist-id: 155783
 
   - title: "That Time I Got Reincarnated as a Slime"
     # https://www.themoviedb.org/tv/82684
@@ -2284,61 +2339,6 @@ entries:
       - season: 2
         anilist-id: 130590
         start: 13
-
-  - title: "Hell's Paradise"
-    # https://www.themoviedb.org/tv/117465
-    # https://www.thetvdb.com/dereferrer/series/402474
-    # https://www.imdb.com/title/tt13911284/
-    synonyms:
-      - "Hell's Paradise: Jigokuraku"
-      - "Jigoku Raku"
-      - "Jigokuraku"
-    seasons:
-      - season: 1
-        anilist-id: 128893
-
-  - title: "Hitori no Shita: The Outcast"
-    # https://www.themoviedb.org/tv/67063
-    # https://www.thetvdb.com/dereferrer/series/313488
-    # https://www.imdb.com/title/tt12882132/
-    synonyms:
-      - "Fengqi Yunyong, Luotian Dajiao"
-      - "Hitori no Shita"
-      - "Hitorinoshita: The Outcast"
-      - "The Outcast"
-      - "Under One Person"
-      - "Yi Ren Zhi Xia"
-      - "一人の下"
-      - "一人之下"
-      - "一人之下 THE OUTCAST"
-      - "异人"
-    seasons:
-      - season: 1
-        anilist-id: 21840
-      - season: 2
-        anilist-id: 98574
-      - season: 3
-        anilist-id: 105401
-      - season: 4
-        anilist-id: 122631
-      - season: 5
-        anilist-id: 142298
-
-  - title: "Tengoku Daimakyo"
-    # https://www.themoviedb.org/tv/208891
-    # https://www.thetvdb.com/dereferrer/series/426165
-    # https://www.imdb.com/title/tt22817632/
-    synonyms:
-      - "Heavenly Delusion"
-      - "Tengoku Dai Makyou"
-      - "Tengoku Dai Makyō"
-      - "Tengoku Daimakyou"
-      - "Tengoku Daimakyō"
-      - "Tengoku-Daimakyo"
-      - "天国大魔境"
-    seasons:
-      - season: 1
-        anilist-id: 155783
 
   - title: "The Quintessential Quintuplets"
     # https://www.themoviedb.org/tv/84669
