@@ -494,7 +494,6 @@ entries:
       - season: 1
         anilist-id: 21825
 
-  # PlexAniSync does not support mapping of Specials (Gaiden, 4 episodes)
   - title: "Darker than Black"
     # https://www.themoviedb.org/tv/31718
     # https://www.thetvdb.com/dereferrer/series/80042
@@ -507,6 +506,7 @@ entries:
       - "DARKER THAN BLACKー流星の双子（ジェミニ）ー"
       - "Darker than BLACK -黒の契約者-"
     seasons:
+      # PlexAniSync does not support mapping of Specials (Gaiden, 4 episodes)
       - season: 1
         anilist-id: 2025
       - season: 2
@@ -611,7 +611,6 @@ entries:
       - season: 9
         anilist-id: 813
 
-  # Anilist includes Bluray specials in its episode count for 2014 Kai, while TMDB has it specifically as Specials
   - title: "Dragon Ball Z Kai"
     # https://www.themoviedb.org/tv/61709
     # https://www.thetvdb.com/dereferrer/series/88031
@@ -624,6 +623,7 @@ entries:
       - "Dragon Ball Z Kai : The Final Chapters"
       - "Dragon ball Kai: Doragon bôru Kai"
     seasons:
+      # Anilist includes Bluray specials in its episode count for 2014 Kai, while TMDB has it specifically as Specials
       - season: 1
         anilist-id: 6033
       - season: 2
@@ -658,7 +658,6 @@ entries:
         anilist-id: 20880
         start: 25
 
-  # This entry feels odd
   - title: "Eat-Man"
     # https://www.themoviedb.org/tv/34209
     # https://www.thetvdb.com/dereferrer/series/87941
@@ -743,7 +742,6 @@ entries:
       - season: 1
         anilist-id: 356
 
-  # Anilist has 26 Episodes (includes Special EP) while TMDB has 25 Episodes (excludes Special EP)
   - title: "Fate/stay night [Unlimited Blade Works]"
     # https://www.themoviedb.org/tv/61415
     # https://www.thetvdb.com/dereferrer/series/278626
@@ -757,6 +755,7 @@ entries:
       - "Unlimited Blade Works"
       - "フェイト/ステイナイト"
     seasons:
+      # Anilist has 26 Episodes (includes Special EP) while TMDB has 25 Episodes (excludes Special EP)
       - season: 1
         anilist-id: 19603
         start: 0
@@ -841,12 +840,12 @@ entries:
       - season: 5
         anilist-id: 114043
 
-  # There's a 2001 series as well, but no way to distinguish without a year marker
   - title: "Fruits Basket"
     # https://www.themoviedb.org/tv/85991
     # https://www.thetvdb.com/dereferrer/series/357488
     # https://www.imdb.com/title/tt9304350/
     synonyms:
+      # There's a 2001 series as well, but no way to distinguish without a year marker
       - "Fruits Basket (2019)"
       - "Fruba"
       - "Furuba"
@@ -1053,12 +1052,12 @@ entries:
         anilist-id: 100852
         start: 14
 
-  # There's a 1999 series as well, but no way to distinguish without a year marker
   - title: "Hunter x Hunter"
     # https://www.themoviedb.org/tv/46298
     # https://www.thetvdb.com/dereferrer/series/252322
     # https://www.imdb.com/title/tt2098220/
     synonyms:
+      # There's a 1999 series as well, but no way to distinguish without a year marker
       - "Hunter x Hunter (2011)"
       - "Hunter × Hunter"
       - "HxH"
@@ -1167,12 +1166,12 @@ entries:
         anilist-id: 155211
         start: 12
 
-  # There's a 1993 series as well, but no way to distinguish without a year marker
   - title: "JoJo's Bizarre Adventure"
     # https://www.themoviedb.org/tv/45790
     # https://www.thetvdb.com/dereferrer/series/262954
     # https://www.imdb.com/title/tt2359704/
     synonyms:
+      # There's a 1993 series as well, but no way to distinguish without a year marker
       - "JoJo's Bizarre Adventure (2012)"
       - "JoJo no Kimyou na Bouken"
       - "JoJo no Kimyō na Bōken"
@@ -2023,7 +2022,6 @@ entries:
       - season: 2
         anilist-id: 158927
 
-  # There's a 1974 series as well, but no way to distinguish without a year marker
   - title: "Star Blazers [Space Battleship Yamato] 2199"
     # https://www.themoviedb.org/tv/45844
     # https://www.thetvdb.com/dereferrer/series/259675
@@ -2630,12 +2628,12 @@ entries:
       - season: 2
         anilist-id: 3091
 
-  # There's a live-action 2013 series as well
   - title: "Yamada-kun and the Seven Witches"
     # https://www.themoviedb.org/tv/62568
     # https://www.thetvdb.com/dereferrer/series/289744
     # https://www.imdb.com/title/tt4623042/
     synonyms:
+      # There's a live-action 2013 series as well
       - "Yamada-kun and the Seven Witches (2015)"
       - "Yamada-kun to 7-nin no Majo"
     seasons:
