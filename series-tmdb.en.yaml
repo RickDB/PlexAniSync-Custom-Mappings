@@ -159,6 +159,20 @@ entries:
         anilist-id: 131681
         start: 17
 
+  - title: "Bakuman。"
+    # https://www.themoviedb.org/tv/36041
+    # https://www.thetvdb.com/dereferrer/series/193811
+    # https://www.imdb.com/title/tt1738419/
+    synonyms:
+      - "Bakuman"
+    seasons:
+      - season: 1
+        anilist-id: 7674
+      - season: 2
+        anilist-id: 10030
+      - season: 3
+        anilist-id: 12365
+
   - title: "Beast Tamer"
     # https://www.themoviedb.org/tv/203780
     # https://www.thetvdb.com/dereferrer/series/421092
@@ -205,6 +219,21 @@ entries:
         anilist-id: 6707
       - season: 3
         anilist-id: 20606
+
+  - title: "Black Lagoon"
+    # https://www.themoviedb.org/tv/12598
+    # https://www.thetvdb.com/dereferrer/series/79604
+    # https://www.imdb.com/title/tt0962826/
+    synonyms:
+      - "Burakku ragûn"
+      - "ブラックラグーン"
+      - "ブラック・ラグーン"
+    seasons:
+      - season: 1
+        anilist-id: 889
+      - season: 1
+        anilist-id: 1519
+        start: 13
 
   - title: "Black Rock Shooter"
     # https://www.themoviedb.org/tv/43079
@@ -430,6 +459,26 @@ entries:
       - season: 2
         anilist-id: 4181
 
+  - title: "Classroom of the Elite"
+    # https://www.themoviedb.org/tv/72517
+    # https://www.thetvdb.com/dereferrer/series/329822
+    # https://www.imdb.com/title/tt7263328/
+    synonyms:
+      - "You-Jitsu"
+      - "You-Zitsu"
+      - "Youjitsu"
+      - "Youzitsu"
+      - "Welcome to the Classroom of the Elite"
+      - "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+      - "Yôkoso jitsuryoku shijô shugi no kyôshitsu e"
+      - "ようこそ実力至上主義の教室へ"
+    seasons:
+      - season: 1
+        anilist-id: 98659
+      - season: 2
+        anilist-id: 145545
+      - season: 3
+        anilist-id: 146066
   - title: "Code Geass: Lelouch of the Rebellion"
     # https://www.themoviedb.org/tv/31724
     # https://www.thetvdb.com/dereferrer/series/79525
@@ -679,6 +728,14 @@ entries:
       - season: 1
         anilist-id: 226
 
+  - title: "Ergo Proxy"
+    # https://www.themoviedb.org/tv/1097
+    # https://www.thetvdb.com/dereferrer/series/79228
+    # https://www.imdb.com/title/tt0791205/
+    seasons:
+      - season: 1
+        anilist-id: 790
+
   - title: "F-Zero: GP Legend"
     # https://www.themoviedb.org/tv/25408
     # https://www.thetvdb.com/dereferrer/series/258124
@@ -776,6 +833,17 @@ entries:
       - season: 2
         anilist-id: 11741
 
+  - title: "Fena: Pirate Princess"
+    # https://www.themoviedb.org/tv/106480
+    # https://www.thetvdb.com/dereferrer/series/386570
+    # https://www.imdb.com/title/tt12779780/
+    synonyms:
+      - "Kaizoku Oujo"
+      - "Kaizoku Ōjo"
+    seasons:
+      - season: 1
+        anilist-id: 122052
+
   - title: "Fighting Spirit"
     # https://www.themoviedb.org/tv/42705
     # https://www.thetvdb.com/dereferrer/series/79685
@@ -840,6 +908,18 @@ entries:
       - season: 5
         anilist-id: 114043
 
+  - title: "Frieren: Beyond Journey's End"
+    # https://www.themoviedb.org/tv/209867
+    # https://www.thetvdb.com/dereferrer/series/424536
+    # https://www.imdb.com/title/tt22248376/
+    synonyms:
+      - "Frieren of the Funeral"
+      - "Sousou no Frieren"
+      - "Sōsō no Frieren"
+    seasons:
+      - season: 1
+        anilist-id: 154587
+
   - title: "Fruits Basket"
     # https://www.themoviedb.org/tv/85991
     # https://www.thetvdb.com/dereferrer/series/357488
@@ -858,6 +938,31 @@ entries:
         anilist-id: 111762
       - season: 3
         anilist-id: 124194
+
+  - title: "Fullmetal Alchemist"
+    # https://www.themoviedb.org/tv/37863
+    # https://www.thetvdb.com/dereferrer/series/75579
+    # https://www.imdb.com/title/tt0421357/
+    synonyms:
+      - "FMA"
+      - "Full Metal Alchemist"
+      - "Hagane no Renkinjutsushi"
+      - "Hagaren"
+    seasons:
+      - season: 1
+        anilist-id: 121
+
+  - title: "Fullmetal Alchemist: Brotherhood"
+    # https://www.themoviedb.org/tv/31911
+    # https://www.thetvdb.com/dereferrer/series/85249
+    # https://www.imdb.com/title/tt1355642/
+    synonyms:
+      - "FMAB"
+      - "Fullmetal Alchemist Brotherhood"
+      - "Hagane no Renkinjutsushi FULLMETAL ALCHEMIST"
+    seasons:
+      - season: 1
+        anilist-id: 5114
 
   - title: "Gintama"
     # https://www.themoviedb.org/tv/57041
@@ -1205,6 +1310,19 @@ entries:
         anilist-id: 146722
         start: 13
 
+  - title: "Jujutsu Kaisen"
+    # https://www.themoviedb.org/tv/95479
+    # https://www.thetvdb.com/dereferrer/series/377543
+    # https://www.imdb.com/title/tt12343534/
+    synonyms:
+      - "JJK"
+      - "Sorcery Fight"
+    seasons:
+      - season: 1
+        anilist-id: 113415
+      - season: 2
+        anilist-id: 145064
+
   - title: "K-Project"
     # https://www.themoviedb.org/tv/45799
     # https://www.thetvdb.com/dereferrer/series/261249
@@ -1241,6 +1359,17 @@ entries:
         anilist-id: 112641
       - season: 3
         anilist-id: 125367
+
+  - title: "Kaiju No. 8"
+    # https://www.themoviedb.org/tv/207468
+    # https://www.thetvdb.com/dereferrer/series/423075
+    # https://www.imdb.com/title/tt21975436/
+    synonyms:
+      - "Kaiju No.8"
+      - "Kaijuu 8-gou"
+    seasons:
+      - season: 1
+        anilist-id: 153288
 
   - title: "Kakegurui"
     # https://www.themoviedb.org/tv/72305
@@ -1302,6 +1431,22 @@ entries:
         anilist-id: 19775
       - season: 2
         anilist-id: 20762
+
+  - title: "Komi Can't Communicate"
+    # https://www.themoviedb.org/tv/123876
+    # https://www.thetvdb.com/dereferrer/series/402412
+    # https://www.imdb.com/title/tt14626352/
+    synonyms:
+      - "Komi-san wa, Comyushou desu."
+      - "Komi-san wa, Komyushou desu."
+      - "Komi-san wa, Komyushō desu."
+      - "古見さんは、コミュ症です。(アニメ)"
+    seasons:
+      - season: 1
+        anilist-id: 133965
+      - season: 1
+        anilist-id: 142984
+        start: 13
 
   - title: "KONOSUBA – An Explosion on This Wonderful World!"
     # https://www.themoviedb.org/tv/203040
@@ -1499,6 +1644,16 @@ entries:
       - season: 6
         anilist-id: 7655
 
+  - title: "MASHLE: MAGIC AND MUSCLES"
+    # https://www.themoviedb.org/tv/204832
+    # https://www.thetvdb.com/dereferrer/series/421737
+    # https://www.imdb.com/title/tt21209804/
+    synonyms:
+      - "Mashle: Magic and Muscles"
+    seasons:
+      - season: 1
+        anilist-id: 151801
+
   - title: "MEGALOBOX"
     # https://www.themoviedb.org/tv/77939
     # https://www.thetvdb.com/dereferrer/series/341437
@@ -1589,6 +1744,40 @@ entries:
         anilist-id: 155158
         start: 13
 
+  - title: "Monogatari"
+    # https://www.themoviedb.org/tv/46195
+    # https://www.thetvdb.com/dereferrer/series/102261
+    # https://www.imdb.com/title/tt1480925/
+    synonyms:
+      - "Monogatari Series"
+      - "物語"
+    seasons:
+      # Bakemonogatari, 12 episodes on TMDB, 15 on AniList
+      - season: 1
+        anilist-id: 5081
+        start: 4
+      # Nisemonogatari
+      - season: 2
+        anilist-id: 11597
+      # Monogatari Series: Second Season, 23 episodes on TMDB, 26 on AniList
+      - season: 3
+        anilist-id: 17074
+        start: 4
+      # Owarimonogatari
+      - season: 4
+        anilist-id: 21262
+
+  - title: "Monster"
+    # https://www.themoviedb.org/tv/30981
+    # https://www.thetvdb.com/dereferrer/series/74599
+    # https://www.imdb.com/title/tt0434706/
+    synonyms:
+      - "Monster"
+      - "モンスター"
+    seasons:
+      - season: 1
+        anilist-id: 19
+
   - title: "Mushoku Tensei: Jobless Reincarnation"
     # https://www.themoviedb.org/tv/94664
     # https://www.thetvdb.com/dereferrer/series/371310
@@ -1607,6 +1796,23 @@ entries:
         start: 12
       - season: 2
         anilist-id: 146065
+
+  - title: "My Dress-Up Darling"
+    # https://www.themoviedb.org/tv/123249
+    # https://www.thetvdb.com/dereferrer/series/401233
+    # https://www.imdb.com/title/tt15765670/
+    synonyms:
+      - "Kisekoi"
+      - "Sono Bisque Doll wa Koi wo Suru"
+      - "Sono Bisuku Douru wa Koi wo Suru"
+      - "Sono Bisuku Dōru wa Koi wo Suru"
+      - "Sono Kisekae Ningyou wa Koi wo suru"
+      - "Sono Kisekae Ningyō wa Koi wo suru"
+    seasons:
+      - season: 1
+        anilist-id: 132405
+      - season: 2
+        anilist-id: 154768
 
   - title: "My Hero Academia"
     # https://www.themoviedb.org/tv/65930
@@ -2018,6 +2224,26 @@ entries:
         anilist-id: 163134
         start: 51
 
+  - title: "Rent-a-Girlfriend"
+    # https://www.themoviedb.org/tv/96316
+    # https://www.thetvdb.com/dereferrer/series/380654
+    # https://www.imdb.com/title/tt11448214/
+    synonyms:
+      - "I'd Like to Borrow a Girlfriend"
+      - "KanoKari"
+      - "Kanojo, Okarishimasu"
+      - "Rent a Girlfriend"
+      - "Rental Girlfriend"
+    seasons:
+      - season: 1
+        anilist-id: 113813
+      - season: 1
+        anilist-id: 124410
+        start: 13
+      - season: 1
+        anilist-id: 154745
+        start: 25
+
   - title: "Seraph of the End"
     # https://www.themoviedb.org/tv/62255
     # https://www.thetvdb.com/dereferrer/series/289906
@@ -2057,6 +2283,17 @@ entries:
       - season: 2
         anilist-id: 21733
 
+  - title: "Skip and Loafer"
+    # https://www.themoviedb.org/tv/139130
+    # https://www.thetvdb.com/dereferrer/series/412696
+    # https://www.imdb.com/title/tt16156718/
+    synonyms:
+      - "Skip to Loafer"
+      - "跳跃和乐福鞋"
+    seasons:
+      - season: 1
+        anilist-id: 141911
+
   - title: "Slam Dunk"
     # https://www.themoviedb.org/tv/42573
     # https://www.thetvdb.com/dereferrer/series/72491
@@ -2064,6 +2301,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 170
+
+  - title: "Slave of the Magic Capital's Elite Troops"
+    # https://www.themoviedb.org/tv/139060
+    # https://www.thetvdb.com/dereferrer/series/412656
+    synonyms:
+      - "Demon Slave"
+      - "Mato Seihei no Slave"
+    seasons:
+      - season: 1
+        anilist-id: 141821
 
   - title: "Space Brothers"
     # https://www.themoviedb.org/tv/45209
@@ -2136,6 +2383,33 @@ entries:
     seasons:
       - season: 1
         anilist-id: 138060
+
+  - title: "Steins;Gate"
+    # https://www.themoviedb.org/tv/42509
+    # https://www.thetvdb.com/dereferrer/series/244061
+    # https://www.imdb.com/title/tt1910272/
+    synonyms:
+      - "STEINS;GATE"
+      - "Steins Gate"
+      - "Steins;Gate 聡明叡智のコグニティブコンピューティング"
+      - "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+      - "シュタインズ・ゲート"
+    seasons:
+      - season: 1
+        anilist-id: 9253
+
+  - title: "Steins;Gate 0"
+    # https://www.themoviedb.org/tv/78102
+    # https://www.thetvdb.com/dereferrer/series/339268
+    # https://www.imdb.com/title/tt5514358/
+    synonyms:
+      - "Shutainzu Gēto Zero"
+      - "Steins;Gate 0"
+      - "Steins;Gate Zero"
+      - "シュタインズ ゲート ゼロ"
+    seasons:
+      - season: 1
+        anilist-id: 21127
 
   - title: "Summer Time Rendering"
     # https://www.themoviedb.org/tv/117933
@@ -2298,6 +2572,8 @@ entries:
         anilist-id: 15809
       - season: 2
         anilist-id: 130592
+      - season: 3
+        anilist-id: 155168
 
   - title: "The Heroic Legend of Arslan"
     # https://www.themoviedb.org/tv/62430
@@ -2389,6 +2665,19 @@ entries:
       - season: 2
         anilist-id: 130590
         start: 13
+
+  - title: "The Promised Neverland"
+    # https://www.themoviedb.org/tv/83097
+    # https://www.thetvdb.com/dereferrer/series/348002
+    # https://www.imdb.com/title/tt8788458/
+    synonyms:
+      - "Yakusoku no Neverland"
+      - "約束のネバーランド"
+    seasons:
+      - season: 1
+        anilist-id: 101759
+      - season: 2
+        anilist-id: 108725
 
   - title: "The Quintessential Quintuplets"
     # https://www.themoviedb.org/tv/84669
@@ -2534,6 +2823,23 @@ entries:
         anilist-id: 100240
       - season: 4
         anilist-id: 102351
+
+  - title: "Tokyo Revengers"
+    # https://www.themoviedb.org/tv/105009
+    # https://www.thetvdb.com/dereferrer/series/393478
+    # https://www.imdb.com/title/tt13196080/
+    synonyms:
+      - "東京リベンジャーズ"
+      - "東京卍リベンジャーズ"
+    seasons:
+      - season: 1
+        anilist-id: 120120
+      - season: 1
+        anilist-id: 142853
+        start: 25
+      - season: 1
+        anilist-id: 163329
+        start: 38
 
   - title: "TONIKAWA: Over the Moon for You"
     # https://www.themoviedb.org/tv/100049
