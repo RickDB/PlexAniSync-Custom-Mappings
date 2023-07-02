@@ -82,6 +82,13 @@ entries:
         anilist-id: 121176
         start: 27
 
+  - title: "Atelier Ryza: Ever Darkness & the Secret Hideout"
+    synonyms:
+      - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
+    seasons:
+      - season: 1
+        anilist-id: 162893
+
   - title: "Attack on Titan"
     synonyms:
       - "Shingeki no Kyojin"
@@ -770,6 +777,14 @@ entries:
       - season: 2
         anilist-id: 100876
 
+  - title: "KamiKatsu: Working for God in a Godless World"
+    synonyms:
+      - "Kaminaki Sekai no Kamisama Katsudou"
+      - "KamiKatsu: Meine Arbeit als Missionar in einer gottlosen Welt"
+    seasons:
+      - season: 1
+        anilist-id: 148048
+
   - title: "Kamisama Kiss"
     synonyms:
       - "Kamisama Hajimemashita"
@@ -1356,6 +1371,14 @@ entries:
         anilist-id: 116742
         start: 13
 
+  - title: "The Aristocrat’s Otherworldly Adventure: Servings Gods Who Go Too Far"
+    synonyms:
+      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
+      - "Die Parallelwelt-Chroniken des Aristokraten"
+    seasons:
+      - season: 1
+        anilist-id: 153332
+
   - title: "The Demon Girl Next Door"
     synonyms:
       - "Machikado Mazoku"
@@ -1650,23 +1673,6 @@ entries:
         anilist-id: 99476
       - season: 5
         anilist-id: 142481
-
-  - title: "Yuki Yuna is a Hero"
-    synonyms:
-      - "Yuuki Yuuna wa Yuusha de Aru"
-      - "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
-      - "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
-      - "Yuuki Yuuna wa Yuusha de Aru: Dai-Mankai no Shou"
-    seasons:
-      - season: 1
-        anilist-id: 20800
-      - season: 2
-        anilist-id: 100791
-      - season: 2
-        anilist-id: 97769
-        start: 7
-      - season: 3
-        anilist-id: 122292
 
   - title: "Yuki Yuna is a Hero"
     synonyms:
