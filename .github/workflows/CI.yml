@@ -43,6 +43,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         python sort.py
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    - name: Commit changes from sorting
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Sort entries
