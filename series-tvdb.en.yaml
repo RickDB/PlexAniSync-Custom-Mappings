@@ -82,6 +82,13 @@ entries:
         anilist-id: 121176
         start: 27
 
+  - title: "Atelier Ryza: Ever Darkness & the Secret Hideout"
+    synonyms:
+      - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
+    seasons:
+      - season: 1
+        anilist-id: 162893
+
   - title: "Attack on Titan"
     synonyms:
       - "Shingeki no Kyojin"
