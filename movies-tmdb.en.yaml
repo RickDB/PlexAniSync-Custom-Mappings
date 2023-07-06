@@ -363,3 +363,75 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21684
+
+  - title: "Towa no Quon 1: The Ephemeral Petals"
+    # https://www.themoviedb.org/tv/179923
+    # https://www.imdb.com/title/tt3565112/
+    synonyms:
+      - "Towa no Quon 1"
+      - "Towa no Quon 1: Utakata no Kaben"
+      - "Towanoquon: The Ephemeral Petals"
+      - "トワノクオン 第1章 泡沫の花弁"
+    seasons:
+      - season: 1
+        anilist-id: 10294
+
+  - title: "Towa no Quon 2: Dancing Orchid in Chaos"
+    # https://www.themoviedb.org/tv/179930
+    # https://www.imdb.com/title/tt3565136/
+    synonyms:
+      - "Towa no Quon 2"
+      - "Towa no Quon 2 : Dancing Orchid in Chaos"
+      - "Towa no Quon 2: Konton no Ranbu"
+      - "トワノクオン 第２章 混沌の乱舞"
+    seasons:
+      - season: 1
+        anilist-id: 10713
+
+  - title: "Towa no Quon 3: The Complicity of Dreams"
+    # https://www.themoviedb.org/tv/179931
+    # https://www.imdb.com/title/tt3565148/
+    synonyms:
+      - "Towa no Quon 3"
+      - "Towa no Quon 3 : The Complicity of Dreams"
+      - "Towa no Quon 3: Mugen no Renza"
+      - "トワノクオン 第３章 夢幻の連座"
+    seasons:
+      - season: 1
+        anilist-id: 10714
+
+  - title: "Towa no Quon 4: The Roaring Anxiety"
+    # https://www.themoviedb.org/tv/179932
+    # https://www.imdb.com/title/tt3565158/
+    synonyms:
+      - "Towa no Quon 4"
+      - "Towa no Quon 4 : The Roaring Anxiety"
+      - "Towa no Quon 4: Guren no Shoushin"
+    seasons:
+      - season: 1
+        anilist-id: 10715
+
+  - title: "Towa no Quon 5: The Return of the Invincible"
+    # https://www.themoviedb.org/tv/179933
+    # https://www.imdb.com/title/tt3565160/
+    synonyms:
+      - "Towa no Quon 5"
+      - "Towa no Quon 5 : The Return of the Invincible"
+      - "Towa no Quon 5: Souzetsu no Raifuku"
+    seasons:
+      - season: 1
+        anilist-id: 10716
+
+  - title: "Towa no Quon 6: Eternal Quon"
+    # https://www.themoviedb.org/tv/179934
+    # https://www.imdb.com/title/tt3565164/
+    synonyms:
+      - "Eternal Quon"
+      - "Towa no Quon 6"
+      - "Towa no Quon 6"
+      - "Towa no Quon 6: Towa no Quon"
+      - "トワノクオン 第６章 永久の久遠"
+      - "永久の久遠"
+    seasons:
+      - season: 1
+        anilist-id: 10717
