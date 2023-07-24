@@ -1808,6 +1808,7 @@ entries:
         start: 12
       - season: 2
         anilist-id: 146065
+        start: 0
 
   - title: "My Dress-Up Darling"
     # https://www.themoviedb.org/tv/123249
