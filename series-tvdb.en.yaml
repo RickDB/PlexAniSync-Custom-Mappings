@@ -651,7 +651,7 @@ entries:
         anilist-id: 100852
         start: 14
 
-- title: "Hunter x Hunter"
+  - title: "Hunter x Hunter"
     # 1999 series. Not to be confused by the 2011 series.
     synonyms:
       - "Hunter x Hunter (1999)"
