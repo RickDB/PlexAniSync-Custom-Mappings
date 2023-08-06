@@ -651,10 +651,25 @@ entries:
         anilist-id: 100852
         start: 14
 
+- title: "Hunter x Hunter (1999)"
+    # Mapped as 1999 since there is a 2011 series as well
+    synonyms:
+      - "Hunter x Hunter 1999"
+      - "Hunter x Hunter"
+    seasons:
+      - season: 1
+        anilist-id: 136
+      - season: 2
+        anilist-id: 137
+      - season: 3
+        anilist-id: 138
+      - season: 4
+        anilist-id: 139
+
   - title: "Hunter x Hunter (2011)"
     # Mapped as 2011 since there is a 1999 series as well
     synonyms:
-      - "Hunter x Hunter"
+      - "Hunter x Hunter 2011"
     seasons:
       - season: 1
         anilist-id: 11061
