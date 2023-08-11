@@ -283,6 +283,9 @@ entries:
         anilist-id: 269
       - season: 2
         anilist-id: 116674
+      - season: 2
+        anilist-id: 159322
+        start: 14
 
   - title: "Blood Blockade Battlefront"
     # https://www.themoviedb.org/tv/62327
@@ -1172,6 +1175,31 @@ entries:
       - season: 5
         anilist-id: 142298
 
+  - title: "Horimiya"
+    # https://www.themoviedb.org/tv/110070
+    # https://www.thetvdb.com/dereferrer/series/388593
+    # https://www.imdb.com/title/tt13103134/
+    synonyms:
+      - "Hori-san and Miyamura-kun"
+      - "Hori-san to Miyamura-kun"
+      - "Horimiya: Hori-san to Miyamura-kun"
+    seasons:
+      - season: 1
+        anilist-id: 124080
+
+  - title: "Horimiya: The Missing Pieces"
+    # https://www.themoviedb.org/tv/228663
+    # https://www.thetvdb.com/dereferrer/series/436124
+    # https://www.imdb.com/title/tt28261206/
+    synonyms:
+      - "Horimiya -piece-"
+      - "Horimiya -the missing pieces-"
+      - "Horimiya: Piece"
+      - "ホリミヤーpieceー"
+    seasons:
+      - season: 1
+        anilist-id: 163132
+
   - title: "How a Realist Hero Rebuilt the Kingdom"
     # https://www.themoviedb.org/tv/102088
     # https://www.thetvdb.com/dereferrer/series/389422
@@ -1332,8 +1360,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113415
-      - season: 2
+      - season: 1
         anilist-id: 145064
+        start: 25
 
   - title: "K-Project"
     # https://www.themoviedb.org/tv/45799
@@ -1656,6 +1685,20 @@ entries:
       - season: 6
         anilist-id: 7655
 
+  - title: "Masamune-kun's Revenge"
+    # https://www.themoviedb.org/tv/69295
+    # https://www.thetvdb.com/dereferrer/series/318860
+    # https://www.imdb.com/title/tt6402190/
+    synonyms:
+      - "Masamunekuns Revenge"
+      - "Masamune-kun no Revenge"
+      - "政宗くんのリベンジ"
+    seasons:
+      - season: 1
+        anilist-id: 21857
+      - season: 1
+        anilist-id: 146953
+
   - title: "MASHLE: MAGIC AND MUSCLES"
     # https://www.themoviedb.org/tv/204832
     # https://www.thetvdb.com/dereferrer/series/421737
@@ -1826,6 +1869,18 @@ entries:
         anilist-id: 132405
       - season: 2
         anilist-id: 154768
+
+  - title: "My Happy Marriage"
+    # https://www.themoviedb.org/tv/196944
+    # https://www.thetvdb.com/dereferrer/series/418665
+    # https://www.imdb.com/title/tt19869172/
+    synonyms:
+      - "Watashi no Shiawase na Kekkon"
+      - "わたしのしあわせなけっこん"
+      - "わたしの幸せな結婚・アニメーション"
+    seasons:
+      - season: 1
+        anilist-id: 147103
 
   - title: "My Hero Academia"
     # https://www.themoviedb.org/tv/65930
@@ -2908,6 +2963,17 @@ entries:
       - season: 1
         anilist-id: 21499
 
+  - title: "Undead Murder Farce"
+    # https://www.themoviedb.org/tv/222785
+    # https://www.thetvdb.com/dereferrer/series/432748
+    # https://www.imdb.com/title/tt27206542/
+    synonyms:
+      - "Undead Girl Murder Farce"
+      - "Andeddo Gaaru Maadaafarusu"
+      - "Andeddo Gāru Mādā Farusu"
+    seasons:
+      - season: 1
+        anilist-id: 162983
   - title: "Uzaki-chan Wants to Hang Out!"
     # https://www.themoviedb.org/tv/98986
     # https://www.thetvdb.com/dereferrer/series/381406
@@ -3050,3 +3116,15 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
+
+  - title: "Zom 100: Bucket List of the Dead"
+    # https://www.themoviedb.org/tv/217766
+    # https://www.thetvdb.com/dereferrer/series/429310
+    # https://www.imdb.com/title/tt25811262/
+    synonyms:
+      - "Zom 100"
+      - "Bucket List of the Dead"
+      - "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"
+    seasons:
+      - season: 1
+        anilist-id: 159831
