@@ -654,8 +654,8 @@ entries:
   - title: "Hunter x Hunter"
     # 1999 series. Not to be confused by the 2011 series.
     synonyms:
-      - "HUNTER×HUNTER"
       - "Hunter x Hunter (1999)"
+      - "HUNTER×HUNTER"
       - "HUNTER×HUNTER (1999)"
     seasons:
       - season: 1
@@ -741,11 +741,12 @@ entries:
     synonyms:
       - "JoJo's Bizarre Adventure (OVA)"
       - "JoJo's Bizarre Adventure (1993)"
-      - "JoJo's Bizarre Adventure (2000)"
       - "JoJo no Kimyou na Bouken"
       - "JoJo no Kimyou na Bouken (OVA)"
+      - "JoJo no Kimyou na Bouken (1993)"
       - "Jojo no Kimyō na Bōken"
       - "Jojo no Kimyō na Bōken (OVA)"
+      - "Jojo no Kimyō na Bōken (1993)"
     seasons:
       - season: 1
         anilist-id: 666
