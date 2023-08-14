@@ -651,10 +651,26 @@ entries:
         anilist-id: 100852
         start: 14
 
+  - title: "Hunter x Hunter"
+    # 1999 series. Not to be confused by the 2011 series.
+    synonyms:
+      - "Hunter x Hunter (1999)"
+      - "HUNTER×HUNTER"
+      - "HUNTER×HUNTER (1999)"
+    seasons:
+      - season: 1
+        anilist-id: 136
+      - season: 2
+        anilist-id: 137
+      - season: 3
+        anilist-id: 138
+      - season: 4
+        anilist-id: 139
+
   - title: "Hunter x Hunter (2011)"
     # Mapped as 2011 since there is a 1999 series as well
     synonyms:
-      - "Hunter x Hunter"
+      - "HUNTER×HUNTER (2011)"
     seasons:
       - season: 1
         anilist-id: 11061
@@ -721,11 +737,26 @@ entries:
         anilist-id: 155211
         start: 12
 
+  - title: "JoJo's Bizarre Adventure"
+    synonyms:
+      - "JoJo's Bizarre Adventure (OVA)"
+      - "JoJo's Bizarre Adventure (1993)"
+      - "JoJo no Kimyou na Bouken"
+      - "JoJo no Kimyou na Bouken (OVA)"
+      - "JoJo no Kimyou na Bouken (1993)"
+      - "Jojo no Kimyō na Bōken"
+      - "Jojo no Kimyō na Bōken (OVA)"
+      - "Jojo no Kimyō na Bōken (1993)"
+    seasons:
+      - season: 1
+        anilist-id: 666
+      - season: 2
+        anilist-id: 665
+
   - title: "JoJo's Bizarre Adventure (2012)"
     synonyms:
-      - "JoJo's Bizarre Adventure"
-      - "JoJo no Kimyou na Bouken"
-      - "Jojo no Kimyō na Bōken"
+      - "JoJo no Kimyou na Bouken (2012)"
+      - "Jojo no Kimyō na Bōken (2012)"
     seasons:
       - season: 1
         anilist-id: 14719
@@ -970,6 +1001,9 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
+      - season: 2
+        anilist-id: 146065
+        start: 0
 
   - title: "My Hero Academia"
     synonyms:
