@@ -1693,6 +1693,17 @@ entries:
         anilist-id: 102351
         start: 13
 
+  - title: "Tokyo Revengers"
+    synonyms:
+      - "Tokyo卍Revengers"
+    seasons:
+      - season: 1
+        anilist-id: 120120
+      - season: 2
+        anilist-id: 142853
+      - season: 3
+        anilist-id: 163329
+
   - title: "Tower of God"
     synonyms:
       - "Kami no Tou"
