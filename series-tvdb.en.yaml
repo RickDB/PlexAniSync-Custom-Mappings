@@ -249,6 +249,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137822
+      - season: 2
+        anilist-id: 163146
 
   - title: "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense."
     synonyms:
