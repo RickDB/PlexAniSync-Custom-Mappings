@@ -1790,6 +1790,17 @@ entries:
       - season: 2
         anilist-id: 136430
 
+  - title: "World Trigger"
+    synonyms:
+      - "World Trigger (2014)"
+    seasons:
+      - season: 1
+        anilist-id: 20729
+      - season: 2
+        anilist-id: 114087
+      - season: 3
+        anilist-id: 127400
+
   - title: "Wagnaria!!"
     synonyms:
       - "Working!!"
