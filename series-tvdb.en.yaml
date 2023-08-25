@@ -116,6 +116,12 @@ entries:
       - season: 4
         anilist-id: 131681
         start: 17
+      - season: 4
+        anilist-id: 146984
+        start: 29
+      - season: 4
+        anilist-id: 162314
+        start: 30
 
   - title: "Beast Tamer"
     synonyms:
@@ -1300,9 +1306,12 @@ entries:
       - season: 2
         anilist-id: 153452
 
-  - title: "Re:ZERO -Starting Life in Another World-"
+  - title: "Re: ZERO, Starting Life in Another World"
     synonyms:
-      - "Re:Zero kara Hajimeru Isekai Seikatsu"
+      - "Re: Zero Kara Hajimeru Isekai Seikatsu"
+      - "Re: Life in a different world from zero"
+      - "Re:ZERO -Starting Life in Another World-"
+      - "Re Zero -Starting Life in Another World-"
     seasons:
       - season: 1
         anilist-id: 21355
