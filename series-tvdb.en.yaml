@@ -1242,14 +1242,18 @@ entries:
       - season: 21
         anilist-id: 21
 
-  - title: "One Punch Man"
+  - title: "One-Punch Man"
     synonyms:
-      - "One-Punch Man"
+      - "One Punch Man"
       - "One Punch Man: Wanpanman"
       - "Wanpanman"
     seasons:
       - season: 1
         anilist-id: 21087
+      - season: 2
+        anilist-id: 97668
+      - season: 3
+        anilist-id: 153800
 
   - title: "Overlord"
     seasons:
