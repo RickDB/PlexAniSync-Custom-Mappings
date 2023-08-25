@@ -205,6 +205,9 @@ entries:
         anilist-id: 269
       - season: 17
         anilist-id: 116674
+      - season: 17
+        anilist-id: 159322
+        start: 14
 
   - title: "Blood Blockade Battlefront"
     synonyms:
