@@ -1618,6 +1618,8 @@ entries:
         anilist-id: 114535
       - season: 2
         anilist-id: 138565
+      - season: 3
+        anilist-id: 162669
 
   - title: "Tokyo Ghoul"
     seasons:
