@@ -1047,6 +1047,9 @@ entries:
       - season: 2
         anilist-id: 146065
         start: 0
+      - season: 2
+        anilist-id: 166873
+        start: 13
 
   - title: "My Hero Academia"
     synonyms:
