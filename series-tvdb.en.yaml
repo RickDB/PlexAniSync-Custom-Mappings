@@ -82,6 +82,15 @@ entries:
         anilist-id: 121176
         start: 27
 
+  - title: "Assassination Classroom"
+    synonyms:
+      - "Ansatsu Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 20755
+      - season: 2
+        anilist-id: 21170
+
   - title: "Atelier Ryza: Ever Darkness & the Secret Hideout"
     synonyms:
       - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
