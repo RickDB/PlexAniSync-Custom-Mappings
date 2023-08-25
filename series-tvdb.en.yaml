@@ -1422,6 +1422,19 @@ entries:
       - season: 2
         anilist-id: 21733
 
+  - title: "SK8 the Infinity"
+    synonyms:
+      - "SK∞"
+      - "SK Eight"
+      - "Project SK8"
+      - "Project SK∞"
+      - "Our Infinity!"
+    seasons:
+      - season: 1
+        anilist-id: 124153
+      - season: 2
+        anilist-id: 153676
+
   - title: "Slam Dunk"
     seasons:
       - season: 1
