@@ -1296,6 +1296,13 @@ entries:
       - season: 3
         anilist-id: 153800
 
+  - title: "Oshi no Ko"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
+
   - title: "Overlord"
     seasons:
       - season: 1
