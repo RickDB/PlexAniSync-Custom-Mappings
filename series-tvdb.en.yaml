@@ -123,6 +123,13 @@ entries:
         anilist-id: 162314
         start: 30
 
+  - title: "B: The Beginning"
+    seasons:
+      - season: 1
+        anilist-id: 21665
+      - season: 2
+        anilist-id: 102498
+
   - title: "Beast Tamer"
     synonyms:
       - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
