@@ -1585,6 +1585,15 @@ entries:
       - season: 4
         anilist-id: 122631
 
+  - title: "The Promised Neverland"
+    synonyms:
+      - "Yakusoku no Neverland"
+    seasons:
+      - season: 1
+        anilist-id: 101759
+      - season: 2
+        anilist-id: 108725
+
   - title: "The Quintessential Quintuplets"
     synonyms:
       - "5-toubun no Hanayome"
