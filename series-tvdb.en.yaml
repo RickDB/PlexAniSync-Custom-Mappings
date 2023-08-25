@@ -254,10 +254,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21311
-      - season: 2
+      - season: 1
         anilist-id: 21679
-      - season: 3
+        start: 13
+      - season: 2
         anilist-id: 103223
+      - season: 3
+        anilist-id: 141249
+      - season: 3
+        anilist-id: 163263
+        start: 14
 
   - title: "Cells at Work!"
     synonyms:
