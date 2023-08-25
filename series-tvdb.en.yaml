@@ -575,6 +575,13 @@ entries:
         anilist-id: 101925
         start: 13
 
+  - title: "Goblin Slayer"
+    seasons:
+      - season: 1
+        anilist-id: 101165
+      - season: 2
+        anilist-id: 129188
+
   - title: "GRANBLUE FANTASY The Animation"
     synonyms:
       - "Granblue Fantasy: The Animation"
