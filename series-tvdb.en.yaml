@@ -1654,6 +1654,16 @@ entries:
         anilist-id: 102351
         start: 13
 
+  - title: "Tower of God"
+    synonyms:
+      - "Kami no Tou"
+      - "Kami no Tō"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+      - season: 2
+        anilist-id: 153406
+
   - title: "Tsurune"
     synonyms:
       - "Tsurune: Kazemai Koukou Kyuudou-bu"
