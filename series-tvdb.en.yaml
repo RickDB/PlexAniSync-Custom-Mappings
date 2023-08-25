@@ -920,8 +920,8 @@ entries:
 
   - title: "KonoSuba – God's blessing on this wonderful world!!"
     synonyms:
-      "Kono Subarashii Sekai ni Shukufuku wo!"
-      "Kono Subarashii Sekai ni Shukufuku o!"
+      - "Kono Subarashii Sekai ni Shukufuku wo!"
+      - "Kono Subarashii Sekai ni Shukufuku o!"
     seasons:
       - season: 1
         anilist-id: 21202
