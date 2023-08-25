@@ -1577,6 +1577,8 @@ entries:
         anilist-id: 20458
       - season: 2
         anilist-id: 112300
+      - season: 3
+        anilist-id: 143271
 
   - title: "The King's Avatar"
     synonyms:
