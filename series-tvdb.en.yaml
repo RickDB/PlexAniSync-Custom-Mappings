@@ -652,6 +652,15 @@ entries:
       - season: 1
         anilist-id: 127090
 
+  - title: "Hell's Paradise"
+    synonyms:
+      - "Jigokuraku"
+    seasons:
+      - season: 1
+        anilist-id: 128893
+      - season: 2
+        anilist-id: 166613
+
   - title: "High School DxD"
     seasons:
       - season: 1
