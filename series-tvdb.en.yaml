@@ -1355,6 +1355,8 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+      - season: 3
+        anilist-id: 163134
 
   - title: "Seraph of the End"
     synonyms:
