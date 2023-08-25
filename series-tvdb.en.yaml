@@ -1057,6 +1057,16 @@ entries:
         anilist-id: 166873
         start: 13
 
+  - title: "My Dress-Up Darling"
+    synonyms:
+      - "Sono Bisuku Dōru wa Koi o Suru"
+      - "Sono Bisque Doll wa Koi wo suru"
+    seasons:
+      - season: 1
+        anilist-id: 132405
+      - season: 2
+        anilist-id: 154768
+
   - title: "My Hero Academia"
     synonyms:
       - "Boku no Hero Academia"
