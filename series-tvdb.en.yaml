@@ -1460,6 +1460,13 @@ entries:
       - season: 2
         anilist-id: 130592
 
+  - title: "The Eminence in Shadow"
+    seasons:
+      - season: 1
+        anilist-id: 130298
+      - season: 2
+        anilist-id: 161964
+
   - title: "The Garden of Sinners"
     synonyms:
       - "Kara no Kyoukai"
