@@ -1023,6 +1023,17 @@ entries:
       - season: 6
         anilist-id: 7655
 
+  - title: "Mashle: Magic and Muscles"
+    synonyms:
+      - "Mashle"
+      - "-MASHLE-"
+      - "Masshuru"
+    seasons:
+      - season: 1
+        anilist-id: 151801
+      - season: 2
+        anilist-id: 166610
+
   - title: "Masou Gakuen HxH"
     synonyms:
       - "Magias Academy Ataraxia Hybrid x Heart"
