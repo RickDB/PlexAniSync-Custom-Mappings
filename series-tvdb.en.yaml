@@ -1246,6 +1246,14 @@ entries:
       - season: 6
         anilist-id: 97983
 
+  - title: "NieR:Automata Ver1.1a"
+    seasons:
+      - season: 1
+        anilist-id: 145665
+      - season: 1
+        anilist-id: 167420
+        start: 13
+
   - title: "No Guns Life"
     seasons:
       - season: 1
