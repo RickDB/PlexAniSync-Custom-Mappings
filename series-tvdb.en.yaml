@@ -892,6 +892,21 @@ entries:
       - season: 2
         anilist-id: 20762
 
+  - title: "Komi Can't Communicate"
+    synonyms:
+      - "Comi-san wa Comyushō desu."
+      - "Komi-san wa, Comyushou desu."
+      - "Komi-san wa Commu-shou desu."
+      - "Komi-san wa, Komyushō desu."
+      - "Komi-san wa, Komyushou desu."
+      - "Komi-san wa Komyushou Desu"
+    seasons:
+      - season: 1
+        anilist-id: 133965
+      - season: 1
+        anilist-id: 142984
+        start: 13
+
   - title: "KonoSuba – God's blessing on this wonderful world!!"
     synonyms:
       "Kono Subarashii Sekai ni Shukufuku wo!"
