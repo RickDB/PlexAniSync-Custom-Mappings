@@ -268,7 +268,10 @@ entries:
       - season: 1
         anilist-id: 97938
 
-  - title: "Bungou Stray Dogs"
+  - title: "Bungo Stray Dogs"
+    synonyms:
+      - "Bungou Stray Dogs"
+      - "Bungō Stray Dogs"
     seasons:
       - season: 1
         anilist-id: 21311
