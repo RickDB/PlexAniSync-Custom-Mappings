@@ -333,6 +333,8 @@ entries:
         anilist-id: 9919
       - season: 2
         anilist-id: 21861
+      - season: 3
+        anilist-id: 158931
 
   - title: "Blue Orchestra"
     # https://www.themoviedb.org/tv/197368
