@@ -952,6 +952,20 @@ entries:
       - season: 1
         anilist-id: 154587
 
+  - title: "Frieren: Beyond Journey's End"
+    # https://www.themoviedb.org/tv/209867
+    # https://www.thetvdb.com/dereferrer/series/424536
+    # https://www.imdb.com/title/tt22248376/
+    synonyms:
+      - "Frieren of the Funeral"
+      - "Sousou no Frieren"
+      - "Sōsō no Frieren"
+      - "そうそうのフリーレン"
+      - "葬送のフリーレン ～旅立ちの章～"
+    seasons:
+      - season: 1
+        anilist-id: 154587
+
   - title: "Fruits Basket"
     # https://www.themoviedb.org/tv/85991
     # https://www.thetvdb.com/dereferrer/series/357488
