@@ -69,6 +69,15 @@ entries:
       - season: 2
         anilist-id: 112323
 
+  - title: "Arknights"
+    synonyms:
+      - "Arknights: Reimei Zensou"
+    seasons:
+      - season: 1
+        anilist-id: 140660
+      - season: 2
+        anilist-id: 158895
+
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou"
@@ -1585,11 +1594,22 @@ entries:
         anilist-id: 130592
 
   - title: "The Eminence in Shadow"
+    synonyms:
+      - "Kage no Jitsuryokusha ni Naritakute!"
     seasons:
       - season: 1
         anilist-id: 130298
       - season: 2
         anilist-id: 161964
+
+  - title: "The Faraway Paladin"
+    synonyms:
+      - "Saihate no Paladin"
+    seasons:
+      - season: 1
+        anilist-id: 132473
+      - season: 2
+        anilist-id: 143085
 
   - title: "The Garden of Sinners"
     synonyms:
