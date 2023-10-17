@@ -389,6 +389,9 @@ entries:
         anilist-id: 113936
       - season: 3
         anilist-id: 131518
+      - season: 3
+        anilist-id: 162670
+        start: 12
 
   - title: "Dragon Ball"
     seasons:
