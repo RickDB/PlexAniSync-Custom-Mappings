@@ -110,6 +110,19 @@ entries:
       - season: 3
         anilist-id: 154473
 
+  - title: "Arknights"
+    # https://www.themoviedb.org/tv/137065
+    # https://www.thetvdb.com/dereferrer/series/411800
+    # https://www.imdb.com/title/tt22443832/
+    synonyms:
+      - "アークナイツ"
+      - "明日方舟"
+    seasons:
+      - season: 1
+        anilist-id: 140660
+      - season: 2
+        anilist-id: 158895
+
   - title: "Ascendance of a Bookworm"
     # https://www.themoviedb.org/tv/91768
     # https://www.thetvdb.com/dereferrer/series/366263
@@ -2700,6 +2713,21 @@ entries:
         anilist-id: 130298
       - season: 2
         anilist-id: 161964
+
+  - title: "The Faraway Paladin"
+    # https://www.themoviedb.org/tv/123525
+    # https://www.thetvdb.com/dereferrer/series/401915
+    # https://www.imdb.com/title/tt14476244/
+    synonyms:
+      - "Paladin of the End"
+      - "Saihate no Paladin"
+      - "世界尽头的圣骑士"
+      - "最果てのパラディン"
+    seasons:
+      - season: 1
+        anilist-id: 132473
+      - season: 2
+        anilist-id: 143085
 
   - title: "The Heroic Legend of Arslan"
     # https://www.themoviedb.org/tv/62430
