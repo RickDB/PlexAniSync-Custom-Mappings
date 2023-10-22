@@ -1570,6 +1570,13 @@ entries:
         anilist-id: 116742
         start: 13
 
+  - title: "The Apothecary Diaries"
+    synonyms:
+      - "Kusuriya no Hitorigoto"
+    seasons:
+      - season: 1
+        anilist-id: 161645
+
   - title: "The Aristocrat’s Otherworldly Adventure: Servings Gods Who Go Too Far"
     synonyms:
       - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"

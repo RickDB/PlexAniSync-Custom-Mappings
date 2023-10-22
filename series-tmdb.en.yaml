@@ -2645,6 +2645,17 @@ entries:
       - season: 2
         anilist-id: 154364
 
+  - title: "The Apothecary Diaries"
+    # https://www.themoviedb.org/tv/220542
+    # https://www.thetvdb.com/dereferrer/series/431162
+    # https://www.imdb.com/title/tt26743760/
+    synonyms:
+      - "Drugstore Soliloquy"
+      - "Kusuriya no Hitorigoto"
+    seasons:
+      - season: 1
+        anilist-id: 161645
+
   - title: "The Demon Girl Next Door"
     # https://www.themoviedb.org/tv/88806
     # https://www.thetvdb.com/dereferrer/series/363143
