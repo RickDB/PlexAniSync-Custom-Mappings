@@ -586,6 +586,20 @@ entries:
       - season: 3
         anilist-id: 124194
 
+  - title: "Ghost in the Shell: Stand Alone Complex"
+    # https://www.themoviedb.org/tv/1095
+    # https://www.thetvdb.com/dereferrer/series/73749
+    # https://www.imdb.com/title/tt0346314/
+    seasons:
+      - season: 1
+        anilist-id: 467
+      - season: 2
+        anilist-id: 801
+      - season: 3
+        anilist-id: 106154
+      - season: 4
+        anilist-id: 117756
+
   - title: "Gintama"
     seasons:
       - season: 1

@@ -42,6 +42,11 @@ entries:
       - season: 1
         anilist-id: 112151
 
+  - title: "Fate/strange Fake: Whispers of Dawn"
+    seasons:
+      - season: 1
+        anilist-id: 154966
+
   - title: "Gintama: The Movie"
     # https://www.themoviedb.org/tv/71172
     # https://www.imdb.com/title/tt1636780/
