@@ -32,7 +32,7 @@ remote-urls:
 
 Pull requests are welcome. For questions and major changes, please open an issue first to discuss what you would like to change.
 
-If you got any questions, join our [Discord server](https://discord.gg/g3aQSAMn).
+If you got any questions, join our [Discord server](https://discord.gg/a9cu5t5fKc).
 
 ## Credits
 
