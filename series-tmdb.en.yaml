@@ -604,6 +604,19 @@ entries:
       - season: 2
         anilist-id: 6573
 
+  - title: "Dead Mount Death Play"
+    # https://www.themoviedb.org/tv/214540
+    # https://www.thetvdb.com/dereferrer/series/427239
+    # https://www.imdb.com/title/tt27489241/
+    synonyms:
+      - "屍體如山的死亡遊戲 第二季"
+    seasons:
+      - season: 1
+        anilist-id: 159831
+      - season: 1
+        anilist-id: 162803
+        start: 13
+
   - title: "Demon Slayer: Kimetsu no Yaiba"
     # https://www.themoviedb.org/tv/85937
     # https://www.thetvdb.com/dereferrer/series/348545
