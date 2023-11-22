@@ -364,6 +364,16 @@ entries:
       - season: 2
         anilist-id: 6573
 
+  - title: "Dead Mount Death Play"
+    synonyms:
+      - "屍體如山的死亡遊戲 第二季"
+    seasons:
+      - season: 1
+        anilist-id: 157198
+      - season: 1
+        anilist-id: 162803
+        start: 13
+
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
