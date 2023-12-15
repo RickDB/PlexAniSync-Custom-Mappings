@@ -489,6 +489,13 @@ entries:
       - season: 1
         anilist-id: 127230
 
+  - title: "Chivalry of a Failed Knight"
+    aliases:
+      - "Rakudai Kishi no Cavalry"
+    seasons:
+      - season: 1
+        anilist-id: 21092
+
   - title: "Clannad"
     # https://www.themoviedb.org/tv/24835
     # https://www.thetvdb.com/dereferrer/series/80644
@@ -1014,6 +1021,22 @@ entries:
       - season: 3
         anilist-id: 124194
 
+  - title: "Full-Time Magister"
+    synonyms:
+      - "Quanzhi Fashi"
+    seasons:
+      - season: 1
+        anilist-id: 99200
+      - season: 2
+        anilist-id: 100294
+      - season: 3
+        anilist-id: 104745
+      - season: 4
+        anilist-id: 115800
+      - season: 5
+        anilist-id: 122671
+      - season: 6
+        anilist-id: 137726
   - title: "Fullmetal Alchemist"
     # https://www.themoviedb.org/tv/37863
     # https://www.thetvdb.com/dereferrer/series/75579
@@ -1316,6 +1339,15 @@ entries:
         anilist-id: 139648
         start: 14
 
+  - title: "How Not to Summon a Demon Lord"
+    aliases:
+      - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+    seasons:
+      - season: 1
+        anilist-id: 101004
+      - season: 2
+        anilist-id: 117448
+
   - title: "Hozuki's Coolheadedness"
     # https://www.themoviedb.org/tv/61529
     # https://www.thetvdb.com/dereferrer/series/275613
@@ -1349,6 +1381,15 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
+
+  - title: "In Another World with My Smartphone"
+    aliases:
+      - "Isekai wa Smartphone to Tomo ni."
+    seasons:
+      - season: 1
+        anilist-id: 98491
+      - season: 2
+        anilist-id: 147571
 
   - title: "In/Spectre"
     # https://www.themoviedb.org/tv/93653
@@ -1628,6 +1669,14 @@ entries:
       - season: 2
         anilist-id: 127550
 
+  - title: "Level 1 Demon Lord and One Room Hero"
+    synonyms:
+      - "Level 1 Demon Lord & One Room Hero"
+      - "Lv1 Maou to One Room Yuusha"
+    seasons:
+      - season: 1
+        anilist-id: 146836
+
   - title: "Licensed by Royalty"
     # https://www.themoviedb.org/tv/42787
     # https://www.thetvdb.com/dereferrer/series/83406
@@ -1654,6 +1703,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126403
+
+  - title: "Little Witch Academia"
+    aliases:
+      - "Little Witch Academia (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 21858
 
   - title: "Log Horizon"
     # https://www.themoviedb.org/tv/60846
@@ -2378,6 +2434,14 @@ entries:
         anilist-id: 154745
         start: 25
 
+  - title: "Saint Cecilia and Pastor Lawrence"
+    aliases:
+      - "Saint Cecilia & Pastor Lawrence"
+      - "Shiro Seijo to Kuro Bokushi"
+    seasons:
+      - season: 1
+        anilist-id: 150972
+
   - title: "Seraph of the End"
     # https://www.themoviedb.org/tv/62255
     # https://www.thetvdb.com/dereferrer/series/289906
@@ -2746,6 +2810,19 @@ entries:
         anilist-id: 130298
       - season: 2
         anilist-id: 161964
+
+  - title: "The Familiar of Zero"
+    synonyms:
+      - "Zero no Tsukaima"
+    seasons:
+      - season: 1
+        anilist-id: 1195
+      - season: 2
+        anilist-id: 1840
+      - season: 3
+        anilist-id: 3712
+      - season: 4
+        anilist-id: 11319
 
   - title: "The Faraway Paladin"
     # https://www.themoviedb.org/tv/123525
@@ -3274,80 +3351,3 @@ entries:
       - season: 1
         anilist-id: 159831
 
-  - title: "In Another World with My Smartphone"
-    aliases:
-      - "Isekai wa Smartphone to Tomo ni."
-    seasons:
-      - season: 1
-        anilist-id: 98491
-      - season: 2
-        anilist-id: 147571
-
-  - title: "Little Witch Academia"
-    aliases:
-      - "Little Witch Academia (TV)"
-    seasons:
-      - season: 1
-        anilist-id: 21858
-
-  - title: "Chivalry of a Failed Knight"
-    aliases:
-      - "Rakudai Kishi no Cavalry"
-    seasons:
-      - season: 1
-        anilist-id: 21092
-
-  - title: "The Familiar of Zero"
-    synonyms:
-      - "Zero no Tsukaima"
-    seasons:
-      - season: 1
-        anilist-id: 1195
-      - season: 2
-        anilist-id: 1840
-      - season: 3
-        anilist-id: 3712
-      - season: 4
-        anilist-id: 11319
-
-  - title: "How Not to Summon a Demon Lord"
-    aliases:
-      - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
-    seasons:
-      - season: 1
-        anilist-id: 101004
-      - season: 2
-        anilist-id: 117448
-
-  - title: "Level 1 Demon Lord and One Room Hero"
-    synonyms:
-      - "Level 1 Demon Lord & One Room Hero"
-      - "Lv1 Maou to One Room Yuusha"
-    seasons:
-      - season: 1
-        anilist-id: 146836
-
-  - title: "Saint Cecilia and Pastor Lawrence"
-    aliases:
-      - "Saint Cecilia & Pastor Lawrence"
-      - "Shiro Seijo to Kuro Bokushi"
-    seasons:
-      - season: 1
-        anilist-id: 150972
-
-  - title: "Full-Time Magister"
-    synonyms:
-      - "Quanzhi Fashi"
-    seasons:
-      - season: 1
-        anilist-id: 99200
-      - season: 2
-        anilist-id: 100294
-      - season: 3
-        anilist-id: 104745
-      - season: 4
-        anilist-id: 115800
-      - season: 5
-        anilist-id: 122671
-      - season: 6
-        anilist-id: 137726
