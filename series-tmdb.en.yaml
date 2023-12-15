@@ -3274,3 +3274,80 @@ entries:
       - season: 1
         anilist-id: 159831
 
+  - title: "In Another World with My Smartphone"
+    aliases:
+      - "Isekai wa Smartphone to Tomo ni."
+    seasons:
+      - season: 1
+        anilist-id: 98491
+      - season: 2
+        anilist-id: 147571
+
+  - title: "Little Witch Academia"
+    aliases:
+      - "Little Witch Academia (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 21858
+
+  - title: "Chivalry of a Failed Knight"
+    aliases:
+      - "Rakudai Kishi no Cavalry"
+    seasons:
+      - season: 1
+        anilist-id: 21092
+
+  - title: "The Familiar of Zero"
+    synonyms:
+      - "Zero no Tsukaima"
+    seasons:
+      - season: 1
+        anilist-id: 1195
+      - season: 2
+        anilist-id: 1840
+      - season: 3
+        anilist-id: 3712
+      - season: 4
+        anilist-id: 11319
+
+  - title: "How Not to Summon a Demon Lord"
+    aliases:
+      - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+    seasons:
+      - season: 1
+        anilist-id: 101004
+      - season: 2
+        anilist-id: 117448
+
+  - title: "Level 1 Demon Lord and One Room Hero"
+    synonyms:
+      - "Level 1 Demon Lord & One Room Hero"
+      - "Lv1 Maou to One Room Yuusha"
+    seasons:
+      - season: 1
+        anilist-id: 146836
+
+  - title: "Saint Cecilia and Pastor Lawrence"
+    aliases:
+      - "Saint Cecilia & Pastor Lawrence"
+      - "Shiro Seijo to Kuro Bokushi"
+    seasons:
+      - season: 1
+        anilist-id: 150972
+
+  - title: "Full-Time Magister"
+    synonyms:
+      - "Quanzhi Fashi"
+    seasons:
+      - season: 1
+        anilist-id: 99200
+      - season: 2
+        anilist-id: 100294
+      - season: 3
+        anilist-id: 104745
+      - season: 4
+        anilist-id: 115800
+      - season: 5
+        anilist-id: 122671
+      - season: 6
+        anilist-id: 137726
