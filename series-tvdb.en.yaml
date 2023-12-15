@@ -2028,3 +2028,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150972
+        
+  - title: Full-Time Magister
+    synonyms:
+      - Quanzhi Fashi
+    seasons:
+      - season: 1
+        anilist-id: 99200
+      - season: 2
+        anilist-id: 100294
+      - season: 3
+        anilist-id: 104745
+      - season: 4
+        anilist-id: 115800
+      - season: 5
+        anilist-id: 122671
+      - season: 6
+        anilist-id: 137726
