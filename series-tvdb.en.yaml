@@ -2016,3 +2016,14 @@ entries:
         anilist-id: 101004
       - season: 2
         anilist-id: 117448
+        
+  - title: Level 1 Demon Lord and One Room Hero
+    synonyms: Level 1 Demon Lord & One Room Hero
+    seasons:
+      - season: 1
+        anilist-id: 146836
+        
+  - title: Saint Cecilia and Pastor Lawrence
+    seasons:
+      - season: 1
+        anilist-id: 150972
