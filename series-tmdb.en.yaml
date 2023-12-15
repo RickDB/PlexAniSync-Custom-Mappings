@@ -490,7 +490,7 @@ entries:
         anilist-id: 127230
 
   - title: "Chivalry of a Failed Knight"
-    aliases:
+    synonyms:
       - "Rakudai Kishi no Cavalry"
     seasons:
       - season: 1
@@ -1340,7 +1340,7 @@ entries:
         start: 14
 
   - title: "How Not to Summon a Demon Lord"
-    aliases:
+    synonyms:
       - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
     seasons:
       - season: 1
@@ -1383,7 +1383,7 @@ entries:
         anilist-id: 11061
 
   - title: "In Another World with My Smartphone"
-    aliases:
+    synonyms:
       - "Isekai wa Smartphone to Tomo ni."
     seasons:
       - season: 1
@@ -1705,7 +1705,7 @@ entries:
         anilist-id: 126403
 
   - title: "Little Witch Academia"
-    aliases:
+    synonyms:
       - "Little Witch Academia (TV)"
     seasons:
       - season: 1
@@ -2435,7 +2435,7 @@ entries:
         start: 25
 
   - title: "Saint Cecilia and Pastor Lawrence"
-    aliases:
+    synonyms:
       - "Saint Cecilia & Pastor Lawrence"
       - "Shiro Seijo to Kuro Bokushi"
     seasons:
