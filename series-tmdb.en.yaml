@@ -477,6 +477,18 @@ entries:
       - season: 2
         anilist-id: 20719
 
+  - title: "Chained Soldier"
+    # https://www.themoviedb.org/tv/139060
+    # https://www.thetvdb.com/dereferrer/series/412656
+    # https://www.imdb.com/title/tt16156736/
+    synonyms:
+      - "Demon Slave"
+      - "Mato Seihei no Slave"
+      - "Slave of the Magic Capital's Elite Troops"
+    seasons:
+      - season: 1
+        anilist-id: 141821
+
   - title: "Chainsaw Man"
     # https://www.themoviedb.org/tv/114410
     # https://www.thetvdb.com/dereferrer/series/397934
@@ -629,6 +641,17 @@ entries:
       - season: 1
         anilist-id: 162803
         start: 13
+
+  - title: "Delicious in Dungeon"
+    # https://www.themoviedb.org/tv/207784
+    # https://www.thetvdb.com/dereferrer/series/423257
+    # https://www.imdb.com/title/tt21621494/
+    synonyms:
+      - "Dungeon Food"
+      - "Dungeon Meshi"
+    seasons:
+      - season: 1
+        anilist-id: 153518
 
   - title: "Demon Slayer: Kimetsu no Yaiba"
     # https://www.themoviedb.org/tv/85937
@@ -2550,16 +2573,6 @@ entries:
       - season: 1
         anilist-id: 170
 
-  - title: "Slave of the Magic Capital's Elite Troops"
-    # https://www.themoviedb.org/tv/139060
-    # https://www.thetvdb.com/dereferrer/series/412656
-    synonyms:
-      - "Demon Slave"
-      - "Mato Seihei no Slave"
-    seasons:
-      - season: 1
-        anilist-id: 141821
-
   - title: "Space Brothers"
     # https://www.themoviedb.org/tv/45209
     # https://www.thetvdb.com/dereferrer/series/256705
@@ -2802,6 +2815,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 161645
+
+  - title: "The Dangers in My Heart"
+    # https://www.themoviedb.org/tv/207250
+    # https://www.thetvdb.com/dereferrer/series/422981
+    # https://www.imdb.com/title/tt21423786/
+    synonyms:
+      - "Boku no Kokoro no Yabai Yatsu"
+    seasons:
+      - season: 1
+        anilist-id: 153152
+      - season: 2
+        anilist-id: 166216
 
   - title: "The Demon Girl Next Door"
     # https://www.themoviedb.org/tv/88806
@@ -3395,4 +3420,3 @@ entries:
     seasons:
       - season: 1
         anilist-id: 159831
-

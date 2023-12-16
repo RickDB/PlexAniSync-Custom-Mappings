@@ -316,6 +316,18 @@ entries:
       - season: 2
         anilist-id: 20719
 
+  - title: "Chained Soldier"
+    # https://www.themoviedb.org/tv/139060
+    # https://www.thetvdb.com/dereferrer/series/412656
+    # https://www.imdb.com/title/tt16156736/
+    synonyms:
+      - "Demon Slave"
+      - "Mato Seihei no Slave"
+      - "Slave of the Magic Capital's Elite Troops"
+    seasons:
+      - season: 1
+        anilist-id: 141821
+
   - title: "Chainsaw Man"
     seasons:
       - season: 1
@@ -380,6 +392,17 @@ entries:
       - season: 1
         anilist-id: 162803
         start: 13
+
+  - title: "Delicious in Dungeon"
+    # https://www.themoviedb.org/tv/207784
+    # https://www.thetvdb.com/dereferrer/series/423257
+    # https://www.imdb.com/title/tt21621494/
+    synonyms:
+      - "Dungeon Food"
+      - "Dungeon Meshi"
+    seasons:
+      - season: 1
+        anilist-id: 153518
 
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
@@ -1675,6 +1698,18 @@ entries:
       - season: 1
         anilist-id: 153332
 
+  - title: "The Dangers in My Heart"
+    # https://www.themoviedb.org/tv/207250
+    # https://www.thetvdb.com/dereferrer/series/422981
+    # https://www.imdb.com/title/tt21423786/
+    synonyms:
+      - "Boku no Kokoro no Yabai Yatsu"
+    seasons:
+      - season: 1
+        anilist-id: 153152
+      - season: 2
+        anilist-id: 166216
+
   - title: "The Demon Girl Next Door"
     synonyms:
       - "Machikado Mazoku"
@@ -2062,4 +2097,3 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
-
