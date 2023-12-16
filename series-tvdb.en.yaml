@@ -619,6 +619,7 @@ entries:
         anilist-id: 122671
       - season: 6
         anilist-id: 137726
+
   - title: "Ghost in the Shell: Stand Alone Complex"
     # https://www.themoviedb.org/tv/1095
     # https://www.thetvdb.com/dereferrer/series/73749
@@ -1026,6 +1027,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1456
+
   - title: "Level 1 Demon Lord and One Room Hero"
     synonyms:
       - "Level 1 Demon Lord & One Room Hero"

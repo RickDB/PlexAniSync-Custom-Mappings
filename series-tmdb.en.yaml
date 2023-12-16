@@ -534,6 +534,7 @@ entries:
         anilist-id: 145545
       - season: 3
         anilist-id: 146066
+
   - title: "Code Geass: Lelouch of the Rebellion"
     # https://www.themoviedb.org/tv/31724
     # https://www.thetvdb.com/dereferrer/series/79525
@@ -3227,6 +3228,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 162983
+
   - title: "Uzaki-chan Wants to Hang Out!"
     # https://www.themoviedb.org/tv/98986
     # https://www.thetvdb.com/dereferrer/series/381406
@@ -3316,6 +3318,7 @@ entries:
         anilist-id: 114087
       - season: 3
         anilist-id: 127400
+
   - title: "xxxHOLiC"
     # https://www.themoviedb.org/tv/36250
     # https://www.thetvdb.com/dereferrer/series/79283
