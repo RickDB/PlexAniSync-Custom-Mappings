@@ -490,8 +490,13 @@ entries:
         anilist-id: 127230
 
   - title: "Chivalry of a Failed Knight"
+    # https://www.themoviedb.org/tv/67154
+    # https://www.thetvdb.com/dereferrer/series/299506
+    # https://www.imdb.com/title/tt5100366/
     synonyms:
+      - "A Tale of Worst One"
       - "Rakudai Kishi no Cavalry"
+      - "落第騎士の英雄譚（キャバルリィ）"
     seasons:
       - season: 1
         anilist-id: 21092
@@ -1021,22 +1026,6 @@ entries:
       - season: 3
         anilist-id: 124194
 
-  - title: "Full-Time Magister"
-    synonyms:
-      - "Quanzhi Fashi"
-    seasons:
-      - season: 1
-        anilist-id: 99200
-      - season: 2
-        anilist-id: 100294
-      - season: 3
-        anilist-id: 104745
-      - season: 4
-        anilist-id: 115800
-      - season: 5
-        anilist-id: 122671
-      - season: 6
-        anilist-id: 137726
   - title: "Fullmetal Alchemist"
     # https://www.themoviedb.org/tv/37863
     # https://www.thetvdb.com/dereferrer/series/75579
@@ -1340,8 +1329,17 @@ entries:
         start: 14
 
   - title: "How Not to Summon a Demon Lord"
+    # https://www.themoviedb.org/tv/80563
+    # https://www.thetvdb.com/dereferrer/series/347425
+    # https://www.imdb.com/title/tt8438524/
     synonyms:
+      - "How Not to Summon a Demon Lord!"
+      - "The Otherworldly Demon King and the Summoner Girls' Slave Magic"
+      - "Isekai Maō"
+      - "Isekai Maou"
+      - "Isekai Maō to Shōkan Shōjo no Dorei Majutsu"
       - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+      - "異世界魔王と召喚少女の奴隷魔術"
     seasons:
       - season: 1
         anilist-id: 101004
@@ -1383,8 +1381,15 @@ entries:
         anilist-id: 11061
 
   - title: "In Another World with My Smartphone"
+    # https://www.themoviedb.org/tv/72505
+    # https://www.thetvdb.com/dereferrer/series/329992
+    # https://www.imdb.com/title/tt7088332/
     synonyms:
-      - "Isekai wa Smartphone to Tomo ni."
+      - "Isekai Wa Smartphone"
+      - "Isekai Wa Smartphone To Tomo Ni"
+      - "Isekai Wa Smartphone To Tomo Ni."
+      - "Isesuma"
+      - "異世界はスマートフォンとともに。"
     seasons:
       - season: 1
         anilist-id: 98491
@@ -1669,10 +1674,14 @@ entries:
       - season: 2
         anilist-id: 127550
 
-  - title: "Level 1 Demon Lord and One Room Hero"
+  - title: "Level 1 Demon Lord & One Room Hero"
+    # https://www.themoviedb.org/tv/196220
+    # https://www.thetvdb.com/dereferrer/series/418340
+    # https://www.imdb.com/title/tt19244410/
     synonyms:
-      - "Level 1 Demon Lord & One Room Hero"
+      - "Level 1 Demon Lord and One Room Hero"
       - "Lv1 Maou to One Room Yuusha"
+      - "Lv1 Maō to One Room Yūsha"
     seasons:
       - season: 1
         anilist-id: 146836
@@ -1705,6 +1714,9 @@ entries:
         anilist-id: 126403
 
   - title: "Little Witch Academia"
+    # https://www.themoviedb.org/tv/69293
+    # https://www.thetvdb.com/dereferrer/series/318161
+    # https://www.imdb.com/title/tt6352180/
     synonyms:
       - "Little Witch Academia (TV)"
     seasons:
@@ -2351,6 +2363,27 @@ entries:
       - season: 3
         anilist-id: 108307
 
+  - title: "Quanzhi Fashi"
+    # https://www.themoviedb.org/tv/70311
+    # https://www.thetvdb.com/dereferrer/series/328670
+    # https://www.imdb.com/title/tt11317074/
+    synonyms:
+      - "Full-Time Magister"
+      - "Quan Zhi Fa Shi"
+    seasons:
+      - season: 1
+        anilist-id: 99200
+      - season: 2
+        anilist-id: 100294
+      - season: 3
+        anilist-id: 104745
+      - season: 4
+        anilist-id: 115800
+      - season: 5
+        anilist-id: 122671
+      - season: 6
+        anilist-id: 137726
+
   - title: "Rage of Bahamut"
     # https://www.themoviedb.org/tv/61445
     # https://www.thetvdb.com/dereferrer/series/284133
@@ -2435,6 +2468,9 @@ entries:
         start: 25
 
   - title: "Saint Cecilia and Pastor Lawrence"
+    # https://www.themoviedb.org/tv/204148
+    # https://www.thetvdb.com/dereferrer/series/421283
+    # https://www.imdb.com/title/tt22297732/
     synonyms:
       - "Saint Cecilia & Pastor Lawrence"
       - "Shiro Seijo to Kuro Bokushi"
@@ -2812,8 +2848,14 @@ entries:
         anilist-id: 161964
 
   - title: "The Familiar of Zero"
+    # https://www.themoviedb.org/tv/35753
+    # https://www.thetvdb.com/dereferrer/series/79719
+    # https://www.imdb.com/title/tt0978553/
     synonyms:
+      - "Familiar of Zero"
       - "Zero no Tsukaima"
+      - "Zero's Familiar"
+      - "ゼロの使い魔"
     seasons:
       - season: 1
         anilist-id: 1195
