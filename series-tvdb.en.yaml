@@ -1683,6 +1683,20 @@ entries:
         anilist-id: 116742
         start: 13
 
+  - title: "The Ancient Magus' Bride"
+    synonyms:
+      - "The Magician's Bride"
+      - "The Ancient Magus Bride"
+      - "The Ancient Magus' Bride: Those Awaiting a Star"
+    seasons:
+      - season: 1
+        anilist-id: 98436
+      - season: 2
+        anilist-id: 154364
+      - season: 2
+        anilist-id: 166452
+        start: 13
+
   - title: "The Apothecary Diaries"
     synonyms:
       - "Kusuriya no Hitorigoto"
