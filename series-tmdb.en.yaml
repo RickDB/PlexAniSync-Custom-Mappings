@@ -2792,18 +2792,24 @@ entries:
 
   - title: "The Ancient Magus' Bride"
     # https://www.themoviedb.org/tv/73833
-    # https://www.thetvdb.com/dereferrer/series/316842
+    # https://thetvdb.com/dereferrer/series/316842
     # https://www.imdb.com/title/tt7326322/
     synonyms:
+      - "The Magician's Bride"
+      - "The Ancient Magus Bride"
       - "Mahou Tsukai no Yome"
       - "Mahoutsukai no Yome"
       - "Mahô Tsukai no Yome"
-      - "魔法使いの嫁 SEASON2"
+      - "Mahoyome"
+      - "魔法使いの嫁"
     seasons:
       - season: 1
         anilist-id: 98436
       - season: 2
         anilist-id: 154364
+      - season: 2
+        anilist-id: 166452
+        start: 13
 
   - title: "The Apothecary Diaries"
     # https://www.themoviedb.org/tv/220542
