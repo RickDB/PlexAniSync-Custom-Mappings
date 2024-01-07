@@ -76,6 +76,17 @@ entries:
       - season: 1
         anilist-id: 15335
 
+  - title: "Howl's Moving Castle"
+    # https://www.themoviedb.org/movie/4935
+    # https://www.imdb.com/title/tt0347149/
+    synonyms:
+      - "Howl no Ugoku Shiro"
+      - "Hauru no Ugoku Shiro"
+      - "ハウルの動く城"
+    seasons:
+      - season: 1
+        anilist-id: 431
+
   - title: "Kabaneri of the Iron Fortress: The Battle of Unato"
     # https://www.themoviedb.org/tv/567006
     # https://www.imdb.com/title/tt10253816/
