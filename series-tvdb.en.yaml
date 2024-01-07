@@ -2115,3 +2115,12 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
+        
+  - title: "Rurouni Kenshin"
+    synonyms:
+      - "Rurouni Kenshin (2023)"
+      - "Samurai X (2023)"
+      - "Kenshin le vagabond (2023)"
+    seasons:
+      - season: 1
+        anilist-id: 142877
