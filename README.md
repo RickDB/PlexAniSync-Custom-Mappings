@@ -1,5 +1,9 @@
 <h1><a href="https://github.com/RickDB/PlexAniSync">PlexAniSync</a> Custom Mappings</h1>
 
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=TMDB%20Movies&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fmovies-tmdb.en.yaml)
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=TMDB%20Series&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tmdb.en.yaml)
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=tvdb%20Movies&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tvdb.en.yaml)
+
 <a href="https://github.com/RickDB/PlexAniSync"><img src="./.github/assets/logo.png" width="90"/></a>
 
 [![Discord Shield](https://discordapp.com/api/guilds/903407293541023754/widget.png?style=banner2)](https://discord.gg/a9cu5t5fKc)
