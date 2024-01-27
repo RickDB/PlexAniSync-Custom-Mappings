@@ -2,7 +2,7 @@
 
 ![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=TMDB%20Movies&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fmovies-tmdb.en.yaml)
 ![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=TMDB%20Series&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tmdb.en.yaml)
-![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=tvdb%20Movies&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tvdb.en.yaml)
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=tvdb%20Series&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tvdb.en.yaml)
 
 <a href="https://github.com/RickDB/PlexAniSync"><img src="./.github/assets/logo.png" width="90"/></a>
 
