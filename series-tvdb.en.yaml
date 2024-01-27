@@ -165,6 +165,18 @@ entries:
       - season: 3
         anilist-id: 20606
 
+  - title: "Black Lagoon"
+    synonyms:
+      - "Burakku ragûn"
+      - "ブラックラグーン"
+      - "ブラック・ラグーン"
+    seasons:
+      - season: 1
+        anilist-id: 889
+      - season: 1
+        anilist-id: 1519
+        start: 13
+
   - title: "Black Rock Shooter"
     seasons:
       - season: 1
