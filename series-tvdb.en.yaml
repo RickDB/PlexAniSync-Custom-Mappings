@@ -359,6 +359,26 @@ entries:
       - season: 2
         anilist-id: 4181
 
+  - title: "Crest of the Stars"
+    # https://www.themoviedb.org/tv/26209-banner-of-the-stars-jp
+    # https://thetvdb.com/series/crest-of-the-stars
+    # https://www.imdb.com/title/tt0286390/
+    synonyms:
+      - "Banner of the Stars"
+      - "Seikai no Monshou"
+      - "Seikai no Senki"
+    seasons:
+      # - season: 0
+      #   anilist-id: 398
+      #   start: 5
+      # PlexAniSync does not support mapping of Specials (season 4 is specials 5 and 6)
+      - season: 1
+        anilist-id: 290
+      - season: 2
+        anilist-id: 396
+      - season: 3
+        anilist-id: 397
+
   - title: "Code Geass: Lelouch of the Rebellion"
     synonyms:
       - "Code Geass"

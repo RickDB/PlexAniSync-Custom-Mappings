@@ -561,6 +561,24 @@ entries:
       - season: 2
         anilist-id: 2904
 
+  - title: "Crest of the Stars"
+    # https://www.themoviedb.org/tv/26209-banner-of-the-stars-jp
+    # https://thetvdb.com/series/crest-of-the-stars
+    # https://www.imdb.com/title/tt0286390/
+    synonyms:
+      - "Banner of the Stars"
+      - "Seikai no Monshou"
+      - "Seikai no Senki"
+    seasons:
+      - season: 1
+        anilist-id: 290
+      - season: 2
+        anilist-id: 396
+      - season: 3
+        anilist-id: 397
+      - season: 4
+        anilist-id: 398
+
   - title: "D.Gray-man"
     # https://www.themoviedb.org/tv/34141
     # https://www.thetvdb.com/dereferrer/series/79635
