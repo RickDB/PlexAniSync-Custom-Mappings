@@ -1,16 +1,16 @@
 # PlexAniSync: TMDB Series Mappings in English
 entries:
-  - title: "86: Eighty-Six"
-    # https://www.themoviedb.org/tv/100565
-    # https://www.thetvdb.com/dereferrer/series/378609
-    # https://www.imdb.com/title/tt13718450/
+  - title: "86 EIGHTY-SIX"
+    # TMDB: https://www.themoviedb.org/tv/100565
+    # TVDB: https://www.thetvdb.com/dereferrer/series/378609
+    # IMDB: https://www.imdb.com/title/tt13718450/
     synonyms:
       - "86"
-      - "86 EIGHTY-SIX"
       - "86 – EIGHTY-SIX"
       - "86-エイティシックス-"
       - "86: Eighty Six"
       - "Eighty Six"
+    # guid: plex://show/5e7362fb4a62f90040e89827
     seasons:
       - season: 1
         anilist-id: 116589
@@ -19,12 +19,13 @@ entries:
         start: 12
 
   - title: "A Certain Scientific Railgun"
-    # https://www.themoviedb.org/tv/30977
-    # https://www.thetvdb.com/dereferrer/series/114921
-    # https://www.imdb.com/title/tt1515996/
+    # TMDB: https://www.themoviedb.org/tv/30977
+    # TVDB: https://www.thetvdb.com/dereferrer/series/114921
+    # IMDB: https://www.imdb.com/title/tt1515996/
     synonyms:
       - "To Aru Kagaku no Railgun"
       - "Toaru Kagakuno Railgun"
+    # guid: plex://show/5d9c07fdec357c001f9a8ac5
     seasons:
       - season: 1
         anilist-id: 6213
@@ -34,13 +35,14 @@ entries:
         anilist-id: 104462
 
   - title: "A Couple of Cuckoos"
-    # https://www.themoviedb.org/tv/122587
-    # https://www.thetvdb.com/dereferrer/series/400585
-    # https://www.imdb.com/title/tt14400866/
+    # TMDB: https://www.themoviedb.org/tv/122587
+    # TVDB: https://www.thetvdb.com/dereferrer/series/400585
+    # IMDB: https://www.imdb.com/title/tt14400866/
     synonyms:
       - "Kakkou no Iinazuke"
       - "Kakkou no Iinazuke (A Couple of Cuckoos)"
       - "Kakkō no Iinazuke"
+    # guid: plex://show/606dda0b1e9ff70037d05c31
     seasons:
       - season: 1
         anilist-id: 132052
