@@ -359,6 +359,16 @@ entries:
       - season: 2
         anilist-id: 4181
 
+  - title: "Code Geass: Lelouch of the Rebellion"
+    synonyms:
+      - "Code Geass"
+      - "Code Geass: Hangyaku no Lelouch"
+    seasons:
+      - season: 1
+        anilist-id: 1575
+      - season: 2
+        anilist-id: 2904
+
   - title: "Crest of the Stars"
     # https://www.themoviedb.org/tv/26209-banner-of-the-stars-jp
     # https://thetvdb.com/series/crest-of-the-stars
@@ -378,16 +388,6 @@ entries:
         anilist-id: 396
       - season: 3
         anilist-id: 397
-
-  - title: "Code Geass: Lelouch of the Rebellion"
-    synonyms:
-      - "Code Geass"
-      - "Code Geass: Hangyaku no Lelouch"
-    seasons:
-      - season: 1
-        anilist-id: 1575
-      - season: 2
-        anilist-id: 2904
 
   - title: "D.Gray-man"
     seasons:
