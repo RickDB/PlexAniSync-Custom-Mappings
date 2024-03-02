@@ -215,6 +215,22 @@ entries:
       - season: 3
         anilist-id: 12365
 
+  - title: "B: The Beginning"
+    # imdb: https://www.imdb.com/title/tt7944664/
+    # tmdb: https://www.themoviedb.org/tv/77529
+    # tvdb: https://www.thetvdb.com/dereferrer/series/339353
+    synonyms:
+      - "B The Beginning"
+      - "B：the Beginning"
+      - "パーフェクト・ボーンズ"
+      - "ビーザビギニング"
+    # guid: plex://show/5d9c08eeba6eb9001fbace50
+    seasons:
+      - season: 1
+        anilist-id: 21665
+      - season: 2
+        anilist-id: 102498
+
   - title: "Beast Tamer"
     # imdb: https://www.imdb.com/title/tt21345944/
     # tmdb: https://www.themoviedb.org/tv/203780
