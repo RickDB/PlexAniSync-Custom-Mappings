@@ -1149,6 +1149,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/357488
     synonyms:
       # There's a 2001 series as well, but no way to distinguish without a year marker
+      # With GUID it could possibly work
       - "Fruits Basket (2019)"
       - "Fruba"
       - "Furuba"
@@ -1555,6 +1556,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/252322
     synonyms:
       # There's a 1999 series as well, but no way to distinguish without a year marker
+      # With GUID it could possibly work
       - "Hunter x Hunter (2011)"
       - "Hunter × Hunter"
       - "HxH"
@@ -1667,6 +1669,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/262954
     synonyms:
       # There's a 1993 series as well, but no way to distinguish without a year marker
+      # With GUID it could possibly work
       - "JoJo's Bizarre Adventure (2012)"
       - "JoJo no Kimyou na Bouken"
       - "JoJo no Kimyō na Bōken"
@@ -1777,6 +1780,18 @@ entries:
         anilist-id: 98314
       - season: 2
         anilist-id: 100876
+
+  - title: "KamiKatsu: Working for God in a Godless World"
+    # imdb: https://www.imdb.com/title/tt27419998/
+    # tmdb: https://www.themoviedb.org/tv/199920
+    # tvdb: https://www.thetvdb.com/dereferrer/series/419126
+    synonyms:
+      - "What God Does in a World Without Gods"
+      - "Kaminaki Sekai no Kamisama Katsudou"
+    # guid: plex://show/626976f1b67e4bfb53428dd0
+    seasons:
+      - season: 1
+        anilist-id: 148048
 
   - title: "Kamisama Kiss"
     # imdb: https://www.imdb.com/title/tt2320220/
