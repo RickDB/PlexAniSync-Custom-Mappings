@@ -3315,6 +3315,34 @@ entries:
       - season: 2
         anilist-id: 143085
 
+  - title: "The Garden of Sinners"
+    # tmdb: https://www.themoviedb.org/tv/97825
+    # tvdb: https://www.thetvdb.com/dereferrer/series/82099
+    synonyms:
+      - "Kara no Kyoukai"
+      - "空の境界"
+    # guid: plex://show/5e269a89f43239003ed31363
+    seasons:
+      # The Hollow Shrine 1-2
+      - season: 1
+        anilist-id: 4280
+      # Remaining Sense of Pain: 1-2
+      - season: 1
+        anilist-id: 3783
+        start: 3
+      # Overlooking View: 1-2
+      - season: 1
+        anilist-id: 2593
+        start: 5
+      # Murder Speculation: Part 1: 1-2
+      - season: 1
+        anilist-id: 3782
+        start: 7
+      # Murder Speculation: Part 2: 1-5
+      - season: 1
+        anilist-id: 5205
+        start: 9
+
   - title: "The Heroic Legend of Arslan"
     # imdb: https://www.imdb.com/title/tt5023666/
     # tmdb: https://www.themoviedb.org/tv/62430
