@@ -3098,34 +3098,39 @@ entries:
         start: 13
 
   - title: "Tengoku Daimakyo"
-    # https://www.themoviedb.org/tv/208891
-    # https://www.thetvdb.com/dereferrer/series/426165
-    # https://www.imdb.com/title/tt22817632/
+    # imdb: https://www.imdb.com/title/tt22817632/
+    # tmdb: https://www.themoviedb.org/tv/208891
+    # tvdb: https://www.thetvdb.com/dereferrer/series/426165
     synonyms:
       - "Heavenly Delusion"
-      - "Tengoku Dai Makyou"
-      - "Tengoku Dai Makyō"
-      - "Tengoku Daimakyou"
-      - "Tengoku Daimakyō"
       - "Tengoku-Daimakyo"
+      - "Tengoku dai makyou"
+      - "Tengoku dai makyō"
+      - "Tengoku dai-makyou"
+      - "Tengoku dai-makyō"
+      - "Tengoku daimakyou"
+      - "Tengoku daimakyō"
       - "天国大魔境"
+    # guid: plex://show/630a1270571e44d463bae92f
     seasons:
       - season: 1
         anilist-id: 155783
 
   - title: "That Time I Got Reincarnated as a Slime"
-    # https://www.themoviedb.org/tv/82684
-    # https://www.thetvdb.com/dereferrer/series/352408
-    # https://www.imdb.com/title/tt9054364/
+    # imdb: https://www.imdb.com/title/tt9054364/
+    # tmdb: https://www.themoviedb.org/tv/82684
+    # tvdb: https://www.thetvdb.com/dereferrer/series/352408
     synonyms:
-      - "TenSura"
+      - "That Time I Got Reincarnated as a Slime 2"
       - "Slime Isekai"
-      - "My Reincarnation as a Slime"
-      - "Regarding Reincarnated to Slime"
+      - "TenSura"
+      - "TenSura 2"
       - "Tensei Slime"
       - "Tensei shitara Slime Datta Ken"
+      - "Tensei shitara Slime Datta Ken 2"
       - "転スラ"
       - "転生したらスライムだった件"
+    # guid: plex://show/5d9c090e08fddd001f2a6a98
     seasons:
       - season: 1
         anilist-id: 101280
@@ -3134,11 +3139,13 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
+      - season: 3
+        anilist-id: 156822
 
   - title: "The Ancient Magus' Bride"
-    # https://www.themoviedb.org/tv/73833
-    # https://thetvdb.com/dereferrer/series/316842
-    # https://www.imdb.com/title/tt7326322/
+    # imdb: https://www.imdb.com/title/tt7326322/
+    # tmdb: https://www.themoviedb.org/tv/73833
+    # tvdb: https://www.thetvdb.com/dereferrer/series/316842
     synonyms:
       - "The Magician's Bride"
       - "The Ancient Magus Bride"
@@ -3147,6 +3154,7 @@ entries:
       - "Mahô Tsukai no Yome"
       - "Mahoyome"
       - "魔法使いの嫁"
+    # guid: plex://show/5d9c0809e98e47001eb060ff
     seasons:
       - season: 1
         anilist-id: 98436
@@ -3157,36 +3165,39 @@ entries:
         start: 13
 
   - title: "The Apothecary Diaries"
-    # https://www.themoviedb.org/tv/220542
-    # https://www.thetvdb.com/dereferrer/series/431162
-    # https://www.imdb.com/title/tt26743760/
+    # imdb: https://www.imdb.com/title/tt26743760/
+    # tmdb: https://www.themoviedb.org/tv/220542
+    # tvdb: https://www.thetvdb.com/dereferrer/series/431162
     synonyms:
-      - "Drugstore Soliloquy"
       - "Kusuriya no Hitorigoto"
+    # guid: plex://show/63edda20eaab3bc0ed18bff2
     seasons:
       - season: 1
         anilist-id: 161645
 
   - title: "The Dangers in My Heart"
-    # https://www.themoviedb.org/tv/207250
-    # https://www.thetvdb.com/dereferrer/series/422981
-    # https://www.imdb.com/title/tt21423786/
+    # imdb: https://www.imdb.com/title/tt21423786/
+    # tmdb: https://www.themoviedb.org/tv/207250
+    # tvdb: https://www.thetvdb.com/dereferrer/series/422981
     synonyms:
       - "Boku no Kokoro no Yabai Yatsu"
+    # guid: plex://show/638ef90a92bb2fdc322d2db2
     seasons:
       - season: 1
         anilist-id: 153152
-      - season: 2
+      - season: 1
         anilist-id: 166216
+        start: 13
 
   - title: "The Demon Girl Next Door"
-    # https://www.themoviedb.org/tv/88806
-    # https://www.thetvdb.com/dereferrer/series/363143
-    # https://www.imdb.com/title/tt10417572/
+    # imdb: https://www.imdb.com/title/tt10417572/
+    # tmdb: https://www.themoviedb.org/tv/88806
+    # tvdb: https://www.thetvdb.com/dereferrer/series/363143
     synonyms:
-      - "Machikado Mazoku"
       - "Street Corner Demon"
+      - "Machikado Mazoku"
       - "まちカドまぞく"
+    # guid: plex://show/5d9c092302391c001f595f57
     seasons:
       - season: 1
         anilist-id: 107490
@@ -3194,30 +3205,34 @@ entries:
         anilist-id: 123330
 
   - title: "The Devil Is a Part-Timer!"
-    # https://www.themoviedb.org/tv/45997
-    # https://www.thetvdb.com/dereferrer/series/267441
-    # https://www.imdb.com/title/tt2622982/
+    # imdb: https://www.imdb.com/title/tt2622982/
+    # tmdb: https://www.themoviedb.org/tv/45997
+    # tvdb: https://www.thetvdb.com/dereferrer/series/267441
     synonyms:
-      - "Hataraku Maou-sama!"
-      - "Hataraku Maō-sama!"
-      - "The Devil Is a Part-Timer!!"
-      - "はたらく魔王さま!!"
+      - "The Devil is a Part-Timer!"
+      - "Hataraku Maousama!"
+      - "はたらく魔王さま!"
+    # guid: plex://show/5d9c082702391c001f5827b1
     seasons:
       - season: 1
         anilist-id: 15809
       - season: 2
         anilist-id: 130592
-      - season: 3
+      - season: 2
         anilist-id: 155168
+        start: 13
 
   - title: "The Eminence in Shadow"
-    # https://www.themoviedb.org/tv/119495
-    # https://www.thetvdb.com/dereferrer/series/407520
-    # https://www.imdb.com/title/tt14115938/
+    # imdb: https://www.imdb.com/title/tt14115938/
+    # tmdb: https://www.themoviedb.org/tv/119495
+    # tvdb: https://www.thetvdb.com/dereferrer/series/407520
     synonyms:
       - "Shadow Garden"
-      - "To Be a Power in the Shadows!"
+      - "I Want to Be a Power in the Shadows!"
       - "Kage no Jitsuryokusha ni Naritakute!"
+      - "Kage-Jitsu!"
+      - "かげじつ！"
+    # guid: plex://show/603a881229be08002d3dee69
     seasons:
       - season: 1
         anilist-id: 130298
@@ -3225,14 +3240,15 @@ entries:
         anilist-id: 161964
 
   - title: "The Familiar of Zero"
-    # https://www.themoviedb.org/tv/35753
-    # https://www.thetvdb.com/dereferrer/series/79719
-    # https://www.imdb.com/title/tt0978553/
+    # imdb: https://www.imdb.com/title/tt0978553/
+    # tmdb: https://www.themoviedb.org/tv/35753
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79719
     synonyms:
       - "Familiar of Zero"
       - "Zero no Tsukaima"
       - "Zero's Familiar"
       - "ゼロの使い魔"
+    # guid: plex://show/5d9c082e705e7a001e6d4fe1
     seasons:
       - season: 1
         anilist-id: 1195
@@ -3244,14 +3260,15 @@ entries:
         anilist-id: 11319
 
   - title: "The Faraway Paladin"
-    # https://www.themoviedb.org/tv/123525
-    # https://www.thetvdb.com/dereferrer/series/401915
-    # https://www.imdb.com/title/tt14476244/
+    # imdb: https://www.imdb.com/title/tt14476244/
+    # tmdb: https://www.themoviedb.org/tv/123525
+    # tvdb: https://www.thetvdb.com/dereferrer/series/401915
     synonyms:
       - "Paladin of the End"
       - "Saihate no Paladin"
       - "世界尽头的圣骑士"
       - "最果てのパラディン"
+    # guid: plex://show/607c5f8e7ce89d0035158fbf
     seasons:
       - season: 1
         anilist-id: 132473
@@ -3259,14 +3276,14 @@ entries:
         anilist-id: 143085
 
   - title: "The Heroic Legend of Arslan"
-    # https://www.themoviedb.org/tv/62430
-    # https://www.thetvdb.com/dereferrer/series/291630
-    # https://www.imdb.com/title/tt5023666/
+    # imdb: https://www.imdb.com/title/tt5023666/
+    # tmdb: https://www.themoviedb.org/tv/62430
+    # tvdb: https://www.thetvdb.com/dereferrer/series/291630
     synonyms:
       - "Arslan Senki"
-      - "Arslan Senki: Fuujin Ranbu"
-      - "Heroic Legend of Arslan: Dust Storm Dance"
-      - "アルスラーン戦記 風塵乱舞"
+      - "Heroic Legend of Arslan"
+      - "アルスラーン戦記"
+    # guid: plex://show/5d9c0852ba6eb9001fba0f1a
     seasons:
       - season: 1
         anilist-id: 20935
@@ -3274,9 +3291,9 @@ entries:
         anilist-id: 21424
 
   - title: "The Irregular at Magic High School"
-    # https://www.themoviedb.org/tv/60833
-    # https://www.thetvdb.com/dereferrer/series/278329
-    # https://www.imdb.com/title/tt3874528/
+    # imdb: https://www.imdb.com/title/tt3874528/
+    # tmdb: https://www.themoviedb.org/tv/60833
+    # tvdb: https://www.thetvdb.com/dereferrer/series/278329
     synonyms:
       - "Mahouka"
       - "The Irregular of a Magic High School"
@@ -3286,6 +3303,7 @@ entries:
       - "Mahouka Koukou no Rettousei"
       - "Mahōka Kōkō no Rettōsei"
       - "魔法科高校の劣等生"
+    # guid: plex://show/5d9c083c705e7a001e6d6b4e
     seasons:
       - season: 1
         anilist-id: 20458
@@ -3295,14 +3313,15 @@ entries:
         anilist-id: 143271
 
   - title: "The King's Avatar"
-    # https://www.themoviedb.org/tv/71194
-    # https://www.thetvdb.com/dereferrer/series/326270
-    # https://www.imdb.com/title/tt6859260/
+    # imdb: https://www.imdb.com/title/tt6859260/
+    # tmdb: https://www.themoviedb.org/tv/71194
+    # tvdb: https://www.thetvdb.com/dereferrer/series/326270
     synonyms:
       - "Full-Time Expert"
       - "Quan Zhi Gao Shou"
       - "Quanzhi Gaoshou"
       - "全职高手 动画版"
+    # guid: plex://show/5d9c08cc705e7a001e6e4247
     seasons:
       - season: 1
         anilist-id: 98861
@@ -3312,34 +3331,33 @@ entries:
         anilist-id: 137735
 
   - title: "The Master of Ragnarok & Blesser of Einherjar"
-    # https://www.themoviedb.org/tv/80670
-    # https://www.thetvdb.com/dereferrer/series/347294
-    # https://www.imdb.com/title/tt9042408/
+    # imdb: https://www.imdb.com/title/tt9042408/
+    # tmdb: https://www.themoviedb.org/tv/80670
+    # tvdb: https://www.thetvdb.com/dereferrer/series/347294
     synonyms:
       - "Hyakuren no Haou to Seiyaku no Ikusa Otome"
       - "Hyakuren no Haō to Seiyaku no Valkyria"
+    # guid: plex://show/5d9c09052df347001e3bbb66
     seasons:
       - season: 1
         anilist-id: 101289
 
   - title: "The Misfit of Demon King Academy"
-    # https://www.themoviedb.org/tv/97617
-    # https://www.thetvdb.com/dereferrer/series/375927
-    # https://www.imdb.com/title/tt12432936/
+    # imdb: https://www.imdb.com/title/tt12432936/
+    # tmdb: https://www.themoviedb.org/tv/97617
+    # tvdb: https://www.thetvdb.com/dereferrer/series/375927
     synonyms:
       - "Demon King Academy"
-      - "Maou Gakuin no Futekigousha"
+      - "Demon King Mismatched School"
+      - "The Misfit of Demon King Academy"
+      - "The Unqualified Student of Demon Lord Academy"
+      - "The Unqualified Student at the Demon Lord Academy"
       - "The Greatest Demon Lord Is Reborn as a Typical Nobody"
-      - "Demon King Mismatched School ~The Founder of the Strongest Demon King in History, He Arrives at School as Descendants After Reincarnating~"
-      - "Maou Gakuin no Futekigousha ~Shijo Saikyou no Maou no Shiso, Tenseishite Shison-tachi no Gakkou e Kayou~"
-      - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou"
-      - "Maō Gakuin no Futekigōsha ~Shijo Saikyō no Maō no Shiso, Tenseishite Shison-tachi no Gakkō e Kayō~"
-      - "Maō Gakuin no Futekigōsha: Shijō Saikyō no Maō no Shiso, Tensei shite Shison-tachi no Gakkō e"
-      - "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
-      - "The Unqualified Student at the Demon Lord Academy ~ The Strongest Demon Lord in History, the Founder, Reincarnates and Attends a School With His Descendants ~"
-      - "The Unqualified Student of Demon Lord Academy ~The Strongest Demon Lord in History, the Founder, Attends the School of his Descendants After Reincarnation~"
+      - "Maou Gakuin no Futekigousha"
+      - "Maō Gakuin no Futekigōsha"
       - "魔王学院"
-      - "魔王学院の不適合者"
+      - "🈟魔王学院の不適合者"
+    # guid: plex://show/5e204255072b9e003ca5c160
     seasons:
       - season: 1
         anilist-id: 112301
@@ -3350,12 +3368,13 @@ entries:
         start: 13
 
   - title: "The Promised Neverland"
-    # https://www.themoviedb.org/tv/83097
-    # https://www.thetvdb.com/dereferrer/series/348002
-    # https://www.imdb.com/title/tt8788458/
+    # imdb: https://www.imdb.com/title/tt8788458/
+    # tmdb: https://www.themoviedb.org/tv/83097
+    # tvdb: https://www.thetvdb.com/dereferrer/series/348002
     synonyms:
       - "Yakusoku no Neverland"
       - "約束のネバーランド"
+    # guid: plex://show/5d9c09002df347001e3bb5d6
     seasons:
       - season: 1
         anilist-id: 101759
@@ -3363,15 +3382,16 @@ entries:
         anilist-id: 108725
 
   - title: "The Quintessential Quintuplets"
-    # https://www.themoviedb.org/tv/84669
-    # https://www.thetvdb.com/dereferrer/series/355966
-    # https://www.imdb.com/title/tt9584920/
+    # imdb: https://www.imdb.com/title/tt9584920/
+    # tmdb: https://www.themoviedb.org/tv/84669
+    # tvdb: https://www.thetvdb.com/dereferrer/series/355966
     synonyms:
       - "5-toubun no Hanayome"
       - "Go Toubun no Hanayome"
       - "Go-Toubun no Hanayome"
       - "Go-Tōbun no Hanayome"
       - "Gotoubun no Hanayome"
+    # guid: plex://show/5d9c09147b5c2e001e66656f
     seasons:
       - season: 1
         anilist-id: 103572
@@ -3379,13 +3399,15 @@ entries:
         anilist-id: 109261
 
   - title: "The Rising of the Shield Hero"
-    # https://www.themoviedb.org/tv/83095
-    # https://www.thetvdb.com/dereferrer/series/353712
-    # https://www.imdb.com/title/tt9529546/
+    # imdb: https://www.imdb.com/title/tt9529546/
+    # tmdb: https://www.themoviedb.org/tv/83095
+    # tvdb: https://www.thetvdb.com/dereferrer/series/353712
     synonyms:
       - "Shield Hero"
       - "Tate no Yuusha no Nariagari"
+      - "盾の勇者の成り上がり"
       - "방패용사성공담"
+    # guid: plex://show/5d9c090e3c3f87001f35b455
     seasons:
       - season: 1
         anilist-id: 99263
@@ -3395,12 +3417,13 @@ entries:
         anilist-id: 111322
 
   - title: "The Seven Deadly Sins"
-    # https://www.themoviedb.org/tv/62104
-    # https://www.thetvdb.com/dereferrer/series/284131
-    # https://www.imdb.com/title/tt3909224/
+    # imdb: https://www.imdb.com/title/tt3909224/
+    # tmdb: https://www.themoviedb.org/tv/62104
+    # tvdb: https://www.thetvdb.com/dereferrer/series/284131
     synonyms:
       - "Nanatsu no Taizai"
       - "七つの大罪"
+    # guid: plex://show/5d9c08510aaccd001f8eefde
     seasons:
       - season: 1
         anilist-id: 20789
@@ -3412,74 +3435,82 @@ entries:
         anilist-id: 116752
 
   - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
-    # https://www.themoviedb.org/tv/118541
-    # https://www.thetvdb.com/dereferrer/series/385374
-    # https://www.imdb.com/title/tt14408130/
+    # imdb: https://www.imdb.com/title/tt14408130/
+    # tmdb: https://www.themoviedb.org/tv/118541
+    # tvdb: https://www.thetvdb.com/dereferrer/series/385374
     synonyms:
+      - "The Slime Diaries"
       - "Tensura Nikki Tensei Shitara Slime Datta Ken"
-      - "Tensura Nikki: Tensei Shitara Slime Datta Ken"
-      - "The Slime Diaries: That Time I Got Reincarnated as a Slime"
+      - "Tensura Nikki: Tensei shitara Slime Datta Ken"
       - "転スラ日記"
+    # guid: plex://show/5f0d5a3130f204003a174487
     seasons:
       - season: 1
         anilist-id: 116741
 
   - title: "The Strongest Sage With the Weakest Crest"
-    # https://www.themoviedb.org/tv/117884
-    # https://www.thetvdb.com/dereferrer/series/402374
-    # https://www.imdb.com/title/tt15441424/
+    # imdb: https://www.imdb.com/title/tt15441424/
+    # tmdb: https://www.themoviedb.org/tv/117884
+    # tvdb: https://www.thetvdb.com/dereferrer/series/402374
     synonyms:
+      - "The Strongest Sage of Disqualified Crest"
       - "Shikkaku Mon no Saikyou Kenja"
       - "Shikkaku Mon no Saikyō Kenja"
-      - "The Strongest Sage of Disqualified Crest"
       - "失格紋の最強賢者～世界最強の賢者が更に強くなるために転生しました～"
+    # guid: plex://show/601838cea21011002c8ede34
     seasons:
       - season: 1
         anilist-id: 129191
 
   - title: "The Tale of Outcasts"
-    # https://www.themoviedb.org/tv/205111
-    # https://www.thetvdb.com/dereferrer/series/421893
-    # https://www.imdb.com/title/tt25814162/
+    # imdb: https://www.imdb.com/title/tt25814162/
+    # tmdb: https://www.themoviedb.org/tv/205111
+    # tvdb: https://www.thetvdb.com/dereferrer/series/421893
     synonyms:
-      - "Nokemono-tachi no Yoru"
       - "The Tale of the Outcasts"
+      - "Nokemono-tachi no Yoru"
+    # guid: plex://show/62bf053a2e062c3286eb98d3
     seasons:
       - season: 1
         anilist-id: 151679
 
   - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
-    # https://www.themoviedb.org/tv/118821
-    # https://www.thetvdb.com/dereferrer/series/398193
-    # https://www.imdb.com/title/tt14061838/
+    # imdb: https://www.imdb.com/title/tt14061838/
+    # tmdb: https://www.themoviedb.org/tv/118821
+    # tvdb: https://www.thetvdb.com/dereferrer/series/398193
     synonyms:
       - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
       - "Sekai Saikou no Assassin, Isekai Kizoku ni Tensei Suru"
       - "Sekai Saikō no Ansatsusha, Isekai Kizoku ni Tensei Suru"
       - "暗殺貴族"
+    # guid: plex://show/602c2f9b2f194a002c0099f9
     seasons:
       - season: 1
         anilist-id: 129898
+      - season: 2
+        anilist-id: 169579
 
   - title: "The Yakuza's Guide to Babysitting"
-    # https://www.themoviedb.org/tv/133197
-    # https://www.thetvdb.com/dereferrer/series/409723
-    # https://www.imdb.com/title/tt21230432/
+    # imdb: https://www.imdb.com/title/tt21230432/
+    # tmdb: https://www.themoviedb.org/tv/133197
+    # tvdb: https://www.thetvdb.com/dereferrer/series/409723
     synonyms:
       - "Kumichou Musume to Sewagakari"
       - "Kumichō Musume to Sewagakari"
+    # guid: plex://show/613b6f3ab193f92d44a9809f
     seasons:
       - season: 1
         anilist-id: 138882
 
   - title: "To Your Eternity"
-    # https://www.themoviedb.org/tv/97525
-    # https://www.thetvdb.com/dereferrer/series/375271
-    # https://www.imdb.com/title/tt12063450/
+    # imdb: https://www.imdb.com/title/tt12063450/
+    # tmdb: https://www.themoviedb.org/tv/97525
+    # tvdb: https://www.thetvdb.com/dereferrer/series/375271
     synonyms:
-      - "Fumetsu no Anata e"
       - "To You, the Immortal"
+      - "Fumetsu no Anata e"
       - "不滅のあなたへ"
+    # guid: plex://show/5e1b0c604c78f7003eaab1c8
     seasons:
       - season: 1
         anilist-id: 114535
@@ -3489,14 +3520,15 @@ entries:
         anilist-id: 162669
 
   - title: "Tokyo Ghoul"
-    # https://www.themoviedb.org/tv/61374
-    # https://www.thetvdb.com/dereferrer/series/281249
-    # https://www.imdb.com/title/tt3741634/
+    # imdb: https://www.imdb.com/title/tt3741634/
+    # tmdb: https://www.themoviedb.org/tv/61374
+    # tvdb: https://www.thetvdb.com/dereferrer/series/281249
     synonyms:
       - "Tokyo Kushu"
       - "Toukyou Kushu"
       - "Tōkyō Gūru"
       - "東京喰種"
+    # guid: plex://show/5d9c08474eefaa001f5d9978
     seasons:
       - season: 1
         anilist-id: 20605
@@ -3508,12 +3540,13 @@ entries:
         anilist-id: 102351
 
   - title: "Tokyo Revengers"
-    # https://www.themoviedb.org/tv/105009
-    # https://www.thetvdb.com/dereferrer/series/393478
-    # https://www.imdb.com/title/tt13196080/
+    # imdb: https://www.imdb.com/title/tt13196080/
+    # tmdb: https://www.themoviedb.org/tv/105009
+    # tvdb: https://www.thetvdb.com/dereferrer/series/393478
     synonyms:
       - "東京リベンジャーズ"
       - "東京卍リベンジャーズ"
+    # guid: plex://show/5ef15400f689e800405d8b2b
     seasons:
       - season: 1
         anilist-id: 120120
@@ -3525,24 +3558,20 @@ entries:
         start: 38
 
   - title: "TONIKAWA: Over the Moon for You"
-    # https://www.themoviedb.org/tv/100049
-    # https://www.thetvdb.com/dereferrer/series/385077
-    # https://www.imdb.com/title/tt12311976/
+    # imdb: https://www.imdb.com/title/tt12311976/
+    # tmdb: https://www.themoviedb.org/tv/100049
+    # tvdb: https://www.thetvdb.com/dereferrer/series/385077
     synonyms:
       - "Cute Anyways"
       - "Fly Me to the Moon"
-      - "Generally Cute"
-      - "Kyoot Anyways"
-      - "TONIKAWA - Fly Me to the Moon"
-      - "TONIKAWA - Over the Moon for You"
-      - "TONIKAWA Over the Moon for You"
       - "TONIKAWA: Fly Me to the Moon"
-      - "Tonikaku Cawaii"
       - "Tonikaku Kawaii"
-      - "Tonikaku Kawaii - Fly Me to the Moon"
-      - "Tonikaku Kawaii: Fly Me to the Moon"
+      - "Tonikaku Kawaii: Joshikou-hen"
       - "Tonikawa"
-      - "Totally Cute"
+      - "トニカクカワイイ Fly Me to the Moon"
+      - "トニカクカワイイ 女子高編"
+      - "トニカワ"
+    # guid: plex://show/5e69c6f5874db7003e2dd56f
     seasons:
       - season: 1
         anilist-id: 116267
@@ -3550,16 +3579,17 @@ entries:
         anilist-id: 141208
 
   - title: "Tower of God"
-    # https://www.themoviedb.org/tv/97860
-    # https://www.thetvdb.com/dereferrer/series/376729
-    # https://www.imdb.com/title/tt12057106/
+    # imdb: https://www.imdb.com/title/tt12057106/
+    # tmdb: https://www.themoviedb.org/tv/97860
+    # tvdb: https://www.thetvdb.com/dereferrer/series/376729
     synonyms:
+      - "ToG"
       - "Kami no Tou"
       - "Sin-ui Tap"
       - "Sinui Tap"
-      - "ToG"
       - "神之塔"
       - "신의 탑"
+    # guid: plex://show/5e269a8b619e33003efe0578
     seasons:
       - season: 1
         anilist-id: 115230
@@ -3567,15 +3597,18 @@ entries:
         anilist-id: 153406
 
   - title: "Tsurune"
-    # https://www.themoviedb.org/tv/83314
-    # https://www.thetvdb.com/dereferrer/series/352796
-    # https://www.imdb.com/title/tt8994044/
+    # imdb: https://www.imdb.com/title/tt8994044/
+    # tmdb: https://www.themoviedb.org/tv/83314
+    # tvdb: https://www.thetvdb.com/dereferrer/series/352796
     synonyms:
-      - "Tsurune  Kazemai Koukou Kyuudoubu"
       - "Tsurune: Kazemai High School Kyudo Club"
+      - "Tsurune  Kazemai Koukou Kyuudoubu"
       - "Tsurune: Kazemai Koukou Kyuudou-bu"
       - "Tsurune: Kazemai Kōkō Kyūdō-bu"
+      - "Tsurune: Tsunagari no Issha"
       - "ツルネ"
+      - "ツルネ -つながりの一射-"
+    # guid: plex://show/5d9c09107b5c2e001e6662d2
     seasons:
       - season: 1
         anilist-id: 100402
@@ -3583,36 +3616,43 @@ entries:
         anilist-id: 153841
 
   - title: "Twin Star Exorcists"
-    # https://www.themoviedb.org/tv/66078
-    # https://www.thetvdb.com/dereferrer/series/307061
-    # https://www.imdb.com/title/tt5637108/
+    # imdb: https://www.imdb.com/title/tt5637108/
+    # tmdb: https://www.themoviedb.org/tv/66078
+    # tvdb: https://www.thetvdb.com/dereferrer/series/307061
     synonyms:
       - "Sousei no Onmyouji"
       - "Sōsei no Onmyōji"
+    # guid: plex://show/5d9c0818ffd9ef001e98cc3b
     seasons:
       - season: 1
         anilist-id: 21499
 
   - title: "Undead Murder Farce"
-    # https://www.themoviedb.org/tv/222785
-    # https://www.thetvdb.com/dereferrer/series/432748
-    # https://www.imdb.com/title/tt27206542/
+    # imdb: https://www.imdb.com/title/tt27206542/
+    # tmdb: https://www.themoviedb.org/tv/222785
+    # tvdb: https://www.thetvdb.com/dereferrer/series/432748
     synonyms:
-      - "Undead Girl Murder Farce"
       - "Andeddo Gaaru Maadaafarusu"
       - "Andeddo Gāru Mādā Farusu"
+      - "Undead Girl Murder Farce"
+    # guid: plex://show/641c6665fdc66b08daeb7435
     seasons:
       - season: 1
         anilist-id: 162983
 
   - title: "Uzaki-chan Wants to Hang Out!"
-    # https://www.themoviedb.org/tv/98986
-    # https://www.thetvdb.com/dereferrer/series/381406
-    # https://www.imdb.com/title/tt12464182/
+    # imdb: https://www.imdb.com/title/tt12464182/
+    # tmdb: https://www.themoviedb.org/tv/98986
+    # tvdb: https://www.thetvdb.com/dereferrer/series/381406
     synonyms:
+      - "Uzaki-chan Wants to Hang Out! 2"
       - "Uzaki-chan Wants to Play!"
+      - "Uzaki-chan Wants to Play! 2"
       - "Uzaki-chan wa Asobitai!"
-      - "宇崎ちゃんは遊びたい！"
+      - "Uzaki-chan wa Asobitai! 2"
+      - "Uzaki-chan wa Asobitai! Double"
+      - "宇崎ちゃんは遊びたい！ω"
+    # guid: plex://show/5e457fe0d7a37f003ed3f28c
     seasons:
       - season: 1
         anilist-id: 115113
@@ -3620,26 +3660,27 @@ entries:
         anilist-id: 124395
 
   - title: "Vermeil in Gold"
-    # https://www.themoviedb.org/tv/194774
-    # https://www.thetvdb.com/dereferrer/series/417658
-    # https://www.imdb.com/title/tt18561422/
+    # imdb: https://www.imdb.com/title/tt18561422/
+    # tmdb: https://www.themoviedb.org/tv/194774
+    # tvdb: https://www.thetvdb.com/dereferrer/series/417658
     synonyms:
-      - "Kinsou no Vermeil"
-      - "Kinsō no Vermeil"
+      - "Vermeil in Gold: A Desperate Magician Barges Into the Magical World Sideside the Strongest Calamity"
       - "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu"
       - "Kinsō no Vermeil: Gakeppuchi Majutsushi wa Saikyō no Yakusai to Mahō Sekai wo Tsukisusumu"
       - "Vermeil in Gold ~A Magician Pushes Through the Magical World With the Strongest Disaster~"
-      - "Vermeil in Gold: A Desperate Magician Barges Into the Magical World Sideside the Strongest Calamity"
+    # guid: plex://show/622aa1c01217c186d261f5fd
     seasons:
       - season: 1
         anilist-id: 146210
 
   - title: "Vinland Saga"
-    # https://www.themoviedb.org/tv/88803
-    # https://www.thetvdb.com/dereferrer/series/359274
-    # https://www.imdb.com/title/tt10233448/
+    # imdb: https://www.imdb.com/title/tt10233448/
+    # tmdb: https://www.themoviedb.org/tv/88803
+    # tvdb: https://www.thetvdb.com/dereferrer/series/359274
     synonyms:
       - "ヴィンランドサガ"
+      - "ヴィンランド・サガ"
+    # guid: plex://show/5d9c09184eefaa001f5e81a4
     seasons:
       - season: 1
         anilist-id: 101348
@@ -3647,12 +3688,13 @@ entries:
         anilist-id: 136430
 
   - title: "Wagnaria!!"
-    # https://www.themoviedb.org/tv/46153
-    # https://www.thetvdb.com/dereferrer/series/145211
-    # https://www.imdb.com/title/tt1685484/
+    # imdb: https://www.imdb.com/title/tt1685484/
+    # tmdb: https://www.themoviedb.org/tv/46153
+    # tvdb: https://www.thetvdb.com/dereferrer/series/145211
     synonyms:
       - "WORKING!!"
       - "ワーキング!!"
+    # guid: plex://show/5d9c082d705e7a001e6d4d6b
     seasons:
       - season: 1
         anilist-id: 6956
@@ -3662,9 +3704,9 @@ entries:
         anilist-id: 20819
 
   - title: "Welcome to Demon School! Iruma-kun"
-    # https://www.themoviedb.org/tv/91801
-    # https://www.thetvdb.com/dereferrer/series/369144
-    # https://www.imdb.com/title/tt11034066/
+    # imdb: https://www.imdb.com/title/tt11034066/
+    # tmdb: https://www.themoviedb.org/tv/91801
+    # tvdb: https://www.thetvdb.com/dereferrer/series/369144
     synonyms:
       - "Enrolled Demon Iruma!"
       - "The Misfit Class's New Term"
@@ -3675,6 +3717,7 @@ entries:
       - "Welcome to Demon-School! Iruma-kun"
       - "Welcome to Demon School, Iruma-kun"
       - "Welcome to Demon-School, Iruma-kun"
+    # guid: plex://show/5df5b931d0c35a001d581fb4
     seasons:
       - season: 1
         anilist-id: 107693
@@ -3684,9 +3727,10 @@ entries:
         anilist-id: 139092
 
   - title: "World Trigger"
-    # https://www.themoviedb.org/tv/61628
-    # https://www.thetvdb.com/dereferrer/series/283934
-    # https://www.imdb.com/title/tt3950102/
+    # imdb: https://www.imdb.com/title/tt3950102/
+    # tmdb: https://www.themoviedb.org/tv/61628
+    # tvdb: https://www.thetvdb.com/dereferrer/series/283934
+    # guid: plex://show/5d9c084dffd9ef001e991550
     seasons:
       - season: 1
         anilist-id: 20729
@@ -3696,12 +3740,13 @@ entries:
         anilist-id: 127400
 
   - title: "xxxHOLiC"
-    # https://www.themoviedb.org/tv/36250
-    # https://www.thetvdb.com/dereferrer/series/79283
-    # https://www.imdb.com/title/tt0488477/
+    # imdb: https://www.imdb.com/title/tt0488477/
+    # tmdb: https://www.themoviedb.org/tv/36250
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79283
     synonyms:
       - "×××HOLiC"
       - "×××ホリック"
+    # guid: plex://show/5d9c08407b5c2e001e657c10
     seasons:
       - season: 1
         anilist-id: 861
@@ -3709,25 +3754,27 @@ entries:
         anilist-id: 3091
 
   - title: "Yamada-kun and the Seven Witches"
-    # https://www.themoviedb.org/tv/62568
-    # https://www.thetvdb.com/dereferrer/series/289744
-    # https://www.imdb.com/title/tt4623042/
+    # imdb: https://www.imdb.com/title/tt4623042/
+    # tmdb: https://www.themoviedb.org/tv/62568
+    # tvdb: https://www.thetvdb.com/dereferrer/series/289744
     synonyms:
       # There's a live-action 2013 series as well
       - "Yamada-kun and the Seven Witches (2015)"
       - "Yamada-kun to 7-nin no Majo"
+    # guid: plex://show/5d9c0867ba6eb9001fba2e22
     seasons:
       - season: 1
         anilist-id: 20966
 
   - title: "Yowamushi Pedal"
-    # https://www.themoviedb.org/tv/61441
-    # https://www.thetvdb.com/dereferrer/series/272309
-    # https://www.imdb.com/title/tt2942228/
+    # imdb: https://www.imdb.com/title/tt2942228/
+    # tmdb: https://www.themoviedb.org/tv/61441
+    # tvdb: https://www.thetvdb.com/dereferrer/series/272309
     synonyms:
       - "Yowamushi Pedaru"
       - "Yowapeda"
       - "弱虫ペダル"
+    # guid: plex://show/5d9c08493c3f87001f34bc24
     seasons:
       - season: 1
         anilist-id: 18179
@@ -3740,15 +3787,16 @@ entries:
       - season: 5
         anilist-id: 142481
 
-  - title: "Yuki Yuna Is a Hero"
-    # https://www.themoviedb.org/tv/71493
-    # https://www.thetvdb.com/dereferrer/series/284263
-    # https://www.imdb.com/title/tt3981902/
+  - title: "Yuuki Yuuna Is a Hero"
+    # imdb: https://www.imdb.com/title/tt3981902/
+    # tmdb: https://www.themoviedb.org/tv/71493
+    # tvdb: https://www.thetvdb.com/dereferrer/series/284263
     synonyms:
       - "Yuuki Yuuna Is a Hero"
       - "Yuki Yuna wa Yusha de Aru"
       - "Yuuki Yuuna wa Yuusha de Aru"
       - "結城友奈は勇者である"
+    # guid: plex://show/5d9c08ac2192ba001f314b08
     seasons:
       - season: 1
         anilist-id: 20800
@@ -3761,13 +3809,14 @@ entries:
         anilist-id: 122292
 
   - title: "Zom 100: Bucket List of the Dead"
-    # https://www.themoviedb.org/tv/217766
-    # https://www.thetvdb.com/dereferrer/series/429310
-    # https://www.imdb.com/title/tt25811262/
+    # imdb: https://www.imdb.com/title/tt25811262/
+    # tmdb: https://www.themoviedb.org/tv/217766
+    # tvdb: https://www.thetvdb.com/dereferrer/series/429310
     synonyms:
-      - "Zom 100"
       - "Bucket List of the Dead"
+      - "Zom 100"
       - "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"
+    # guid: plex://show/63b89f640d2426385fa072df
     seasons:
       - season: 1
         anilist-id: 159831
