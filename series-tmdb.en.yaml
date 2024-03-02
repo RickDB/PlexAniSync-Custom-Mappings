@@ -3152,13 +3152,10 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/82684
     # tvdb: https://www.thetvdb.com/dereferrer/series/352408
     synonyms:
-      - "That Time I Got Reincarnated as a Slime 2"
       - "Slime Isekai"
       - "TenSura"
-      - "TenSura 2"
       - "Tensei Slime"
       - "Tensei shitara Slime Datta Ken"
-      - "Tensei shitara Slime Datta Ken 2"
       - "転スラ"
       - "転生したらスライムだった件"
     # guid: plex://show/5d9c090e08fddd001f2a6a98
@@ -3205,6 +3202,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 161645
+
+  - title: "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far"
+    # imdb: https://www.imdb.com/title/tt27404658/
+    # tmdb: https://www.themoviedb.org/tv/207493
+    # tvdb: https://www.thetvdb.com/dereferrer/series/423094
+    synonyms:
+      - "Tensei Kizoku no Isekai Boukenroku Jichou o Shiranai Kamigami no Shito"
+      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
+    # guid: plex://show/62ee806c7228b8684ca9dc5e
+    seasons:
+      - season: 1
+        anilist-id: 153332
 
   - title: "The Dangers in My Heart"
     # imdb: https://www.imdb.com/title/tt21423786/
