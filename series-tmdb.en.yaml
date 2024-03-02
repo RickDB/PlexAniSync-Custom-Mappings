@@ -200,21 +200,6 @@ entries:
         anilist-id: 131681
         start: 17
 
-  - title: "Bakuman。"
-    # imdb: https://www.imdb.com/title/tt1738419/
-    # tmdb: https://www.themoviedb.org/tv/36041
-    # tvdb: https://www.thetvdb.com/dereferrer/series/193811
-    synonyms:
-      - "Bakuman"
-    # guid: plex://show/5d9c081bba2e21001f18df7d
-    seasons:
-      - season: 1
-        anilist-id: 7674
-      - season: 2
-        anilist-id: 10030
-      - season: 3
-        anilist-id: 12365
-
   - title: "B: The Beginning"
     # imdb: https://www.imdb.com/title/tt7944664/
     # tmdb: https://www.themoviedb.org/tv/77529
@@ -230,6 +215,21 @@ entries:
         anilist-id: 21665
       - season: 2
         anilist-id: 102498
+
+  - title: "Bakuman。"
+    # imdb: https://www.imdb.com/title/tt1738419/
+    # tmdb: https://www.themoviedb.org/tv/36041
+    # tvdb: https://www.thetvdb.com/dereferrer/series/193811
+    synonyms:
+      - "Bakuman"
+    # guid: plex://show/5d9c081bba2e21001f18df7d
+    seasons:
+      - season: 1
+        anilist-id: 7674
+      - season: 2
+        anilist-id: 10030
+      - season: 3
+        anilist-id: 12365
 
   - title: "Beast Tamer"
     # imdb: https://www.imdb.com/title/tt21345944/
@@ -3424,7 +3424,7 @@ entries:
       - "Maou Gakuin no Futekigousha"
       - "Maō Gakuin no Futekigōsha"
       - "魔王学院"
-      - "🈟魔王学院の不適合者"
+      - "\U0001F21F魔王学院の不適合者"
     # guid: plex://show/5e204255072b9e003ca5c160
     seasons:
       - season: 1

@@ -194,19 +194,6 @@ entries:
         anilist-id: 162314
         start: 30
 
-  - title: "Bakuman"
-    # imdb: https://www.imdb.com/title/tt1738419/
-    # tmdb: https://www.themoviedb.org/tv/36041
-    # tvdb: https://www.thetvdb.com/dereferrer/series/193811
-    # guid: plex://show/5d9c081bba2e21001f18df7d
-    seasons:
-      - season: 1
-        anilist-id: 7674
-      - season: 2
-        anilist-id: 10030
-      - season: 3
-        anilist-id: 12365
-
   - title: "B: The Beginning"
     # imdb: https://www.imdb.com/title/tt7944664/
     # tmdb: https://www.themoviedb.org/tv/77529
@@ -220,6 +207,19 @@ entries:
         anilist-id: 21665
       - season: 2
         anilist-id: 102498
+
+  - title: "Bakuman"
+    # imdb: https://www.imdb.com/title/tt1738419/
+    # tmdb: https://www.themoviedb.org/tv/36041
+    # tvdb: https://www.thetvdb.com/dereferrer/series/193811
+    # guid: plex://show/5d9c081bba2e21001f18df7d
+    seasons:
+      - season: 1
+        anilist-id: 7674
+      - season: 2
+        anilist-id: 10030
+      - season: 3
+        anilist-id: 12365
 
   - title: "Beast Tamer"
     # imdb: https://www.imdb.com/title/tt21345944/
@@ -843,6 +843,24 @@ entries:
       - season: 6
         anilist-id: 223
 
+  - title: "Dragon Ball Kai"
+    # imdb: https://www.imdb.com/title/tt1409055/
+    # tmdb: https://www.themoviedb.org/tv/61709
+    # tvdb: https://www.thetvdb.com/dereferrer/series/88031
+    synonyms:
+      - "Dragon Ball Z Kai"
+      - "Dragonball Z Kai"
+      - "Dragon Ball Kai"
+    # guid: plex://show/5d9c08376c3e37001ecd57da
+    seasons:
+      # Anilist includes Bluray specials in its episode count
+      - season: 1
+        anilist-id: 6033
+        start: 2
+      - season: 2
+        anilist-id: 20635
+        start: -7
+
   - title: "Dragon Ball Super"
     # imdb: https://www.imdb.com/title/tt4644488/
     # tmdb: https://www.themoviedb.org/tv/62715
@@ -891,24 +909,6 @@ entries:
         anilist-id: 813
       - season: 9
         anilist-id: 813
-
-  - title: "Dragon Ball Kai"
-    # imdb: https://www.imdb.com/title/tt1409055/
-    # tmdb: https://www.themoviedb.org/tv/61709
-    # tvdb: https://www.thetvdb.com/dereferrer/series/88031
-    synonyms:
-      - "Dragon Ball Z Kai"
-      - "Dragonball Z Kai"
-      - "Dragon Ball Kai"
-    # guid: plex://show/5d9c08376c3e37001ecd57da
-    seasons:
-      # Anilist includes Bluray specials in its episode count
-      - season: 1
-        anilist-id: 6033
-        start: 2
-      - season: 2
-        anilist-id: 20635
-        start: -7
 
   - title: "Durarara!!"
     # imdb: https://www.imdb.com/title/tt1584000/
@@ -1077,27 +1077,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 122052
-
-  - title: "Hajime no Ippo"
-    # imdb: https://www.imdb.com/title/tt0481256/
-    # tmdb: https://www.themoviedb.org/tv/42705
-    # tvdb: https://www.thetvdb.com/dereferrer/series/79685
-    synonyms:
-      - "Fighting Spirit"
-      - "Hajime no Ippo: New Challenger"
-      - "Hajime no Ippo: Rising"
-      - "Hajime no Ippo: The Fighting!"
-      - "Hajime no Ippo: The Fighting! - New Challenger"
-      - "Hajime no Ippo: The Fighting! –Rising"
-      - "hajime no ippo: boxer no kobushi"
-    # guid: plex://show/5d9c082bffd9ef001e98e90e
-    seasons:
-      - season: 1
-        anilist-id: 263
-      - season: 2
-        anilist-id: 5258
-      - season: 3
-        anilist-id: 19647
 
   - title: "Fire Force"
     # imdb: https://www.imdb.com/title/tt9307686/
@@ -1411,6 +1390,27 @@ entries:
       - season: 5
         anilist-id: 113538
 
+  - title: "Hajime no Ippo"
+    # imdb: https://www.imdb.com/title/tt0481256/
+    # tmdb: https://www.themoviedb.org/tv/42705
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79685
+    synonyms:
+      - "Fighting Spirit"
+      - "Hajime no Ippo: New Challenger"
+      - "Hajime no Ippo: Rising"
+      - "Hajime no Ippo: The Fighting!"
+      - "Hajime no Ippo: The Fighting! - New Challenger"
+      - "Hajime no Ippo: The Fighting! –Rising"
+      - "hajime no ippo: boxer no kobushi"
+    # guid: plex://show/5d9c082bffd9ef001e98e90e
+    seasons:
+      - season: 1
+        anilist-id: 263
+      - season: 2
+        anilist-id: 5258
+      - season: 3
+        anilist-id: 19647
+
   - title: "Harem in the Labyrinth of Another World"
     # imdb: https://www.imdb.com/title/tt13628870/
     # tmdb: https://www.themoviedb.org/tv/114477
@@ -1425,6 +1425,25 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127090
+
+  - title: "Heavenly Delusion"
+    # imdb: https://www.imdb.com/title/tt22817632/
+    # tmdb: https://www.themoviedb.org/tv/208891
+    # tvdb: https://www.thetvdb.com/dereferrer/series/426165
+    synonyms:
+      - "A Journey Beyond Heaven"
+      - "Heavenly Great Demon"
+      - "The Grand Devil's Cave of Heaven"
+      - "The Heaven Delusion"
+      - "Tengoku Dai Makyou"
+      - "Tengoku Dai Makyō"
+      - "Tengoku Daimakyo"
+      - "Tengoku Daimakyou"
+      - "Tengoku Daimakyō"
+    # guid: plex://show/630a1270571e44d463bae92f
+    seasons:
+      - season: 1
+        anilist-id: 155783
 
   - title: "Hell's Paradise"
     # imdb: https://www.imdb.com/title/tt13911284/
@@ -1617,6 +1636,18 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
+
+  - title: "Hybrid x Heart Magias Academy Ataraxia"
+    # imdb: https://www.imdb.com/title/tt5867902/
+    # tmdb: https://www.themoviedb.org/tv/67011
+    # tvdb: https://www.thetvdb.com/dereferrer/series/307112
+    synonyms:
+      - "Masou Gakuen HxH"
+      - "Masou Gakuen Hybrid x Heart"
+    # guid: plex://show/5d9c0803ba6eb9001fb997ee
+    seasons:
+      - season: 1
+        anilist-id: 21378
 
   - title: "I'm Now Your Sister!"
     # imdb: https://www.imdb.com/title/tt21929424/
@@ -2178,18 +2209,6 @@ entries:
         anilist-id: 5028
       - season: 6
         anilist-id: 7655
-
-  - title: "Hybrid x Heart Magias Academy Ataraxia"
-    # imdb: https://www.imdb.com/title/tt5867902/
-    # tmdb: https://www.themoviedb.org/tv/67011
-    # tvdb: https://www.thetvdb.com/dereferrer/series/307112
-    synonyms:
-      - "Masou Gakuen HxH"
-      - "Masou Gakuen Hybrid x Heart"
-    # guid: plex://show/5d9c0803ba6eb9001fb997ee
-    seasons:
-      - season: 1
-        anilist-id: 21378
 
   - title: "Masamune-kun's Revenge"
     # imdb: https://www.imdb.com/title/tt6402190/
@@ -3168,25 +3187,6 @@ entries:
       - season: 4
         anilist-id: 114308
         start: 13
-
-  - title: "Heavenly Delusion"
-    # imdb: https://www.imdb.com/title/tt22817632/
-    # tmdb: https://www.themoviedb.org/tv/208891
-    # tvdb: https://www.thetvdb.com/dereferrer/series/426165
-    synonyms:
-      - "A Journey Beyond Heaven"
-      - "Heavenly Great Demon"
-      - "The Grand Devil's Cave of Heaven"
-      - "The Heaven Delusion"
-      - "Tengoku Dai Makyou"
-      - "Tengoku Dai Makyō"
-      - "Tengoku Daimakyo"
-      - "Tengoku Daimakyou"
-      - "Tengoku Daimakyō"
-    # guid: plex://show/630a1270571e44d463bae92f
-    seasons:
-      - season: 1
-        anilist-id: 155783
 
   - title: "That Time I Got Reincarnated as a Slime"
     # imdb: https://www.imdb.com/title/tt9054364/
