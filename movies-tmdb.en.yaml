@@ -1,189 +1,210 @@
 # PlexAniSync: TMDB Movie Mappings in English
 entries:
   - title: "5 Centimeters per Second"
-    # https://www.themoviedb.org/tv/38142
-    # https://www.imdb.com/title/tt0983213/
+    # imdb: https://www.imdb.com/title/tt0983213/
+    # tmdb: https://www.themoviedb.org/movie/38142
     synonyms:
-      - "Five Centimeters per Second"
       - "5 Centimeters Per Second: A Chain of Short Stories About Their Distance"
       - "5 cm per Second"
+      - "Five Centimeters per Second"
       - "Byousoku 5 Centimeter"
       - "Byōsoku 5 Senchimētoru"
       - "Byōsoku Go Senchimētoru"
+    # guid: plex://movie/5d77686c103a2d001f571373
     seasons:
       - season: 1
         anilist-id: 1689
         start: -1
 
   - title: "A Silent Voice: The Movie"
-    # https://www.themoviedb.org/tv/378064
-    # https://www.imdb.com/title/tt5323662/
+    # imdb: https://www.imdb.com/title/tt5323662/
+    # tmdb: https://www.themoviedb.org/movie/378064
     synonyms:
       - "A Silent Voice"
       - "The Shape of Voice"
       - "Koe no Katachi"
       - "聲の形"
+    # guid: plex://movie/5d776c0ead5437001f7b25d6
     seasons:
       - season: 1
         anilist-id: 20954
 
   - title: "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
-    # https://www.themoviedb.org/tv/635302
-    # https://www.imdb.com/title/tt11032374/
+    # imdb: https://www.imdb.com/title/tt11032374/
+    # tmdb: https://www.themoviedb.org/movie/635302
     synonyms:
       - "Demon Slayer The Movie: Mugen Train"
       - "Demon Slayer: Mugen Train"
       - "Kimetsu no Yaiba Movie: Mugen Ressha hen"
-      - "Kimetsu no Yaiba: Mugen Ressha-hen"
+      - "Gekijouban Kimetsu no Yaiba Mugen Ressha-hen"
       - "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen"
+      - "Kimetsu no Yaiba: Mugen Ressha-hen"
       - "劇場版 鬼滅の刃 無限列車編"
       - "劇場版「鬼滅の刃」無限列車編"
+    # guid: plex://movie/5e1622cf5abc9c003f1ce556
     seasons:
       - season: 1
         anilist-id: 112151
 
-  - title: "Fate/strange Fake: Whispers of Dawn"
+  - title: "Fate/strange Fake -Whispers of Dawn-"
+    # imdb: https://www.imdb.com/title/tt22264336/
+    # tmdb: https://www.themoviedb.org/movie/1145612
+    synonyms:
+      - "Fate strange Fake -Whispers of Dawn-"
+    # guid: plex://movie/633321a4cdf310f03a00c279
     seasons:
       - season: 1
         anilist-id: 154966
 
   - title: "Gintama: The Movie"
-    # https://www.themoviedb.org/tv/71172
-    # https://www.imdb.com/title/tt1636780/
+    # imdb: https://www.imdb.com/title/tt1636780/
+    # tmdb: https://www.themoviedb.org/movie/71172
     synonyms:
-      - "Gintama: The Movie"
-      - "Gintama: Benizakura Arc - A New Retelling"
-      - "Gekijôban Gintama: Shin'yaku Benizakura hen"
       - "Gekijouban Gintama: Shin'yaku benizakura hen"
+      - "Gekijôban Gintama: Shin'yaku Benizakura hen"
+      - "Gintama: Benizakura Arc - A New Retelling"
       - "劇場版 銀魂 新訳紅桜篇"
+    # guid: plex://movie/5d7768b1594b2b001e692fb1
     seasons:
       - season: 1
         anilist-id: 7472
 
   - title: "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya"
-    # https://www.themoviedb.org/tv/245917
-    # https://www.imdb.com/title/tt2374144/
+    # imdb: https://www.imdb.com/title/tt2374144/
+    # tmdb: https://www.themoviedb.org/movie/245917
     synonyms:
-      - "Gintama. Yorozuya Forever!"
       - "Gintama the Movie: The Final Chapter - Be Forever Yorozuya"
+      - "Gintama. Yorozuya Forever!"
       - "Gintama: The Final Chapter - Be Forever Yorozuya"
       - "Gintama: The Final Chapter - Eternal Glory to the Odd Jobs"
-      - "Gintama: The Movie - The Final Chapter: Be Forever Yorozuya"
       - "Gekijouban Gintama Kanketsu-hen: Yorozuyayo eien nare"
       - "Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare"
+      - "Gintama: The Movie - The Final Chapter: Be Forever Yorozuya"
       - "劇場版 銀魂 完結篇 万事屋よ永遠なれ"
+    # guid: plex://movie/5d776a8afb0d55001f5490cf
     seasons:
       - season: 1
         anilist-id: 15335
 
   - title: "Howl's Moving Castle"
-    # https://www.themoviedb.org/movie/4935
-    # https://www.imdb.com/title/tt0347149/
+    # imdb: https://www.imdb.com/title/tt0347149/
+    # tmdb: https://www.themoviedb.org/movie/4935
     synonyms:
-      - "Howl no Ugoku Shiro"
       - "Hauru no Ugoku Shiro"
+      - "Howl no Ugoku Shiro"
       - "ハウルの動く城"
+    # guid: plex://movie/5d77682e6f4521001ea9abd0
     seasons:
       - season: 1
         anilist-id: 431
 
   - title: "Kabaneri of the Iron Fortress: The Battle of Unato"
-    # https://www.themoviedb.org/tv/567006
-    # https://www.imdb.com/title/tt10253816/
+    # imdb: https://www.imdb.com/title/tt10253816/
+    # tmdb: https://www.themoviedb.org/movie/567006
     synonyms:
       - "Kabaneri of the Iron Fortress: Unato Decisive Battle"
-      - "Koutetsujou no Kabaneri : Unato Kessen"
       - "Koutetsujou no Kabaneri Movie 3: Unato Kessen"
       - "Gekijô Chû-hen Animation Kôtetsujô no Kabaneri : Kaimon Kessen"
+      - "Koutetsujou no Kabaneri : Unato Kessen"
+      - "甲鉄城のカバネリ"
+      - "甲鉄城のカバネリ～海門決戦～"
+    # guid: plex://movie/5d7770a86afb3d002061f1ee
     seasons:
       - season: 1
         anilist-id: 97918
 
   - title: "KONOSUBA – God's blessing on this wonderful world! Legend of Crimson"
-    # https://www.themoviedb.org/tv/532067
-    # https://www.imdb.com/title/tt9239552/
+    # imdb: https://www.imdb.com/title/tt9239552/
+    # tmdb: https://www.themoviedb.org/movie/532067
     synonyms:
-      - "KonoSuba: The Movie"
-      - "KonoSuba: Legend of Crimson"
-      - "A Blessing to this Wonderful World! Red Legend"
       - "KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson"
+      - "KonoSuba: Legend of Crimson"
+      - "KonoSuba: The Movie"
+      - "A Blessing to this Wonderful World! Red Legend"
+      - "Gekijouban Kono Subarashii Sekai ni Shukufuku o!  Kurenai Densetsu"
       - "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu"
       - "Kono Subarashii Sekai ni Syukufuku wo! Legend of Crimson"
-      - "Gekijouban Kono Subarashii Sekai ni Shukufuku o!  Kurenai Densetsu"
       - "この素晴らしい世界に祝福を！紅伝説"
-      - "映画 この素晴らしい世界に祝福を！紅伝説"
+    # guid: plex://movie/5d777060fb0d55001f5eed1b
     seasons:
       - season: 1
         anilist-id: 102976
 
   - title: "Love, Chunibyo & Other Delusions! Take On Me"
-    # https://www.themoviedb.org/tv/460399
-    # https://www.imdb.com/title/tt6915208/
+    # imdb: https://www.imdb.com/title/tt6915208/
+    # tmdb: https://www.themoviedb.org/movie/460399
     synonyms:
-      - "Chu 2 Koi Take On Me"
+      - "Even with Eighth Grader Syndrome, I Want to Be in Love: The Movie - Take One Me"
       - "Love, Chunibyo and Other Delusions! Take On Me"
+      - "Chu 2 Koi Take On Me"
       - "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
       - "Eiga Chuunibyou demo Koi ga Shitai! Take On Me"
       - "映画 中二病でも恋がしたい! -Take On Me-"
+    # guid: plex://movie/5d776d4247dd6e001f6f1bdd
     seasons:
       - season: 1
         anilist-id: 98762
 
   - title: "Made in Abyss: Dawn of the Deep Soul"
-    # https://www.themoviedb.org/tv/573730
-    # https://www.imdb.com/title/tt10068916/
+    # imdb: https://www.imdb.com/title/tt10068916/
+    # tmdb: https://www.themoviedb.org/movie/573730
     synonyms:
       - "Made in Abyss - Dawn of the Deep Soul"
-      - "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
       - "Made in Abyss the Movie: Dawn of the Deep Soul"
-      - "Made in Abyss: Fukaki Tamashii no Reimei"
       - "Gekijouban Made in Abyss: Fukaki Tamashii no Reimei"
+      - "Made in Abyss - Fukaki Tamashii no Reimei"
+      - "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
+      - "Made in Abyss: Fukaki Tamashii no Reimei"
+    # guid: plex://movie/5d7770cbfb0d55001f5f9023
     seasons:
       - season: 1
         anilist-id: 100643
 
   - title: "Made in Abyss: Journey's Dawn"
-    # https://www.themoviedb.org/tv/526426
-    # https://www.imdb.com/title/tt10068158/
+    # imdb: https://www.imdb.com/title/tt10068158/
+    # tmdb: https://www.themoviedb.org/movie/526426
     synonyms:
       - "Made in Abyss Journeys Dawn"
       - "Made in Abyss Movie 1: Journey's Dawn"
-      - "Made in Abyss Movie 1: Tabidachi no Yoake"
       - "Made in Abyss the Movies: Journey's Dawn"
-      - "Made in Abyss: Tabidachi no Yoake"
       - "Gekijouban Soushuuhen Made in Abyss"
+      - "Made in Abyss Movie 1: Tabidachi no Yoake"
+      - "Made in Abyss: Tabidachi no Yoake"
       - "劇場版総集編【前編】メイドインアビス 旅立ちの夜明け"
+    # guid: plex://movie/5d777053fb0d55001f5eda75
     seasons:
       - season: 1
         anilist-id: 101343
 
   - title: "Made in Abyss: Wandering Twilight"
-    # https://www.themoviedb.org/tv/526429
-    # https://www.imdb.com/title/tt10068544/
+    # imdb: https://www.imdb.com/title/tt10068544/
+    # tmdb: https://www.themoviedb.org/movie/526429
     synonyms:
-      - "Made in Abyss Movie 2: Hourou Suru Tasogare"
       - "Made in Abyss Movie 2: Wandering Twilight"
+      - "Gekijouban Soushuuhen Made in Abyss"
+      - "Made in Abyss Movie 2: Hourou Suru Tasogare"
       - "Made in Abyss: Hourou Suru Tasogare"
       - "Made in Abyss: Hôrô Suru Tasogare"
-      - "Gekijouban Soushuuhen Made in Abyss"
+    # guid: plex://movie/5d777053dd931c001e38b512
     seasons:
       - season: 1
         anilist-id: 101344
 
   - title: "My Hero Academia: Heroes Rising"
-    # https://www.themoviedb.org/tv/592350
-    # https://www.imdb.com/title/tt11107074/
+    # imdb: https://www.imdb.com/title/tt11107074/
+    # tmdb: https://www.themoviedb.org/movie/592350
     synonyms:
       - "My Hero Academia the Movie - Heroes Rising"
       - "My Hero Academia: The Movie 2 – Heroes : Rising"
       - "僕のヒーローアカデミア THE MOVIE 2"
+    # guid: plex://movie/5d7770cead5437001f82b790
     seasons:
       - season: 1
         anilist-id: 108553
 
   - title: "My Hero Academia: Two Heroes"
-    # https://www.themoviedb.org/tv/505262
-    # https://www.imdb.com/title/tt7745068/
+    # imdb: https://www.imdb.com/title/tt7745068/
+    # tmdb: https://www.themoviedb.org/movie/505262
     synonyms:
       - "My Hero Academia the Movie: Two Heroes"
       - "My Hero Academia: The Movie"
@@ -194,253 +215,294 @@ entries:
       - "僕のヒーローアカデミア THE MOVIE -2人の英雄[ヒーロー]-"
       - "僕のヒーローアカデミア THE MOVIE ～2人の英雄～"
       - "劇場版 僕のヒーローアカデミア"
+    # guid: plex://movie/5d77701596b655001fe8e88f
     seasons:
       - season: 1
         anilist-id: 100723
 
   - title: "Shelter"
-    # https://www.themoviedb.org/tv/763762
-    # https://www.imdb.com/title/tt6443118/
+    # imdb: https://www.imdb.com/title/tt6443118/
+    # tmdb: https://www.themoviedb.org/movie/763762
     synonyms:
       - "Shelter the Animation"
       - "Shelter 短編アニメーション"
       - "シェルター"
+    # guid: plex://movie/5d776c82fb0d55001f5899f4
     seasons:
-      # Categorized as Movie on TMDB and as Music on Anilist
       - season: 1
         anilist-id: 97731
 
-  - title: "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
-    # https://www.themoviedb.org/tv/761898
-    # https://www.imdb.com/title/tt13424422/
+  - title: "Sword Art Online the Movie – Progressive – Aria of a Starless Night"
+    # imdb: https://www.imdb.com/title/tt13424422/
+    # tmdb: https://www.themoviedb.org/movie/761898
     synonyms:
+      - "S.A.O Progressive"
+      - "SAO Progressive"
+      - "Sword Art Online - Progressive"
+      - "Sword Art Online Progressive"
       - "Sword Art Online the Movie: The Aria of the Night Without Stars"
+      - "Sword Art Online: Progressive"
       - "Sword Art Online: Progressive - Aria of a Starless Night"
-      - "Sword Art Online Progressive Movie: Hoshi Naki Yoru no Aria"
       - "Gekijouban Sword Art Online -Progressive- Hoshi naki Yoru no Aria"
       - "Gekijouban Sword Art Online: Progressive - Hoshinaki Yoru no Ari"
       - "Gekijō-ban Sword Art Online: Progressive Hoshi Naki Yoru no Aria"
+      - "Sword Art Online Progressive Movie: Hoshi Naki Yoru no Aria"
+      - "Sōdo Āto Onrain"
+    # guid: plex://movie/5fa9028690715e002d03aa6a
     seasons:
       - season: 1
         anilist-id: 124140
 
   - title: "Sword Art Online: The Movie – Ordinal Scale"
-    # https://www.themoviedb.org/tv/413594
-    # https://www.imdb.com/title/tt5544384/
+    # imdb: https://www.imdb.com/title/tt5544384/
+    # tmdb: https://www.themoviedb.org/movie/413594
     synonyms:
       - "SAO Movie Ordinal Scale"
-      - "Sword Art Online: Ordinal Scale"
       - "Sword Art Online - Ordinal Scale"
       - "Sword Art Online the Movie - Ordinal Scale"
       - "Sword Art Online the Movie: Ordinal Scale"
+      - "Sword Art Online: Ordinal Scale"
       - "Gekijouban SAO Ordinal Scale"
       - "Gekijouban Sword Art Online: Ordinal Scale"
+    # guid: plex://movie/5d9f3d1edfd12800208aa57d
     seasons:
       - season: 1
         anilist-id: 21403
 
   - title: "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond"
-    # https://www.themoviedb.org/movie/876792-that-time-i-got-reincarnated-as-a-slime-movie
+    # imdb: https://www.imdb.com/title/tt15467380/
+    # tmdb: https://www.themoviedb.org/movie/876792
     synonyms:
       - "That Time I Got Reincarnated as a Slime Movie"
+      - "That Time I Got Reincarnated as a Slime: Scarlet Bonds"
+      - "Gekijouban Tensei Shitara Slime Datta Ken"
+      - "Gekijôban Tensei Shitara Slime Datta Ken"
       - "Tensei Shitara Slime Datta Ken Movie"
       - "Tensei Shitara Slime Datta Ken: Guren no Kizuna"
+      - "Tensura"
+      - "劇場版 転生したらスライムだった件"
+      - "転スラ"
+    # guid: plex://movie/614edf3cd485e6b9ff59a6ce
     seasons:
       - season: 1
         anilist-id: 139498
 
   - title: "The Garden of Sinners: A Study in Murder (Part 1)"
-    # https://www.themoviedb.org/tv/23151
-    # https://www.imdb.com/title/tt1155651/
+    # imdb: https://www.imdb.com/title/tt1155651/
+    # tmdb: https://www.themoviedb.org/movie/23151
     synonyms:
-      - "Kara No Kyoukai 2: Satsujin Kousatsu (Zen)"
-      - "Kara No Kyoukai ep2 - Satsujin Kousatsu Zen"
       - "Kara no Kyoukai 2: A Study in Murder (Part 1)"
       - "Kara no Kyoukai 2: Murder Speculation (Part 1)"
+      - "Kara No Kyoukai 2 Satsujin Kousatsu Zen"
+      - "Kara No Kyoukai 2: Satsujin Kousatsu (Zen)"
+      - "Kara No Kyoukai ep2 - Satsujin Kousatsu Zen"
       - "Kara no kyôkai: Dai ni shô - Satsujin kôsatsu (zen)"
       - "劇場版 空の境界: 第二章 殺人考察(前)"
+    # guid: plex://movie/5d77684be870fd001f19dbbd
     seasons:
       - season: 1
         anilist-id: 3782
 
   - title: "The Garden of Sinners: A Study in Murder (Part 2)"
-    # https://www.themoviedb.org/tv/23167
-    # https://www.imdb.com/title/tt1345776/
+    # imdb: https://www.imdb.com/title/tt1345776/
+    # tmdb: https://www.themoviedb.org/movie/23167
     synonyms:
+      - "Kara no Kyoukai 7: A Study in Murder (Part 2)"
+      - "Kara no Kyoukai 7: Murder Speculation (Part 2)"
       - "Kara No Kyoukai 7: Satsujin Kousatsu (Kou)"
       - "Kara No Kyoukai 7: Satsujin Kousatsu Go"
       - "Kara No Kyoukai ep7 - Satsujin Kousatsu Go"
-      - "Kara no Kyoukai 7: A Study in Murder (Part 2)"
-      - "Kara no Kyoukai 7: Murder Speculation (Part 2)"
+      - "Kara no Kyoukai 7 - Satsujin Kousatsu Go"
+      - "Kara no Kyoukai 7 Satsujin Kousatsu Go"
       - "Kara no kyôkai: Satsujin kôsatsu (Go)"
+      - "Satsujin Kousatsu Go"
       - "劇場版 空の境界: 第七章 殺人考察(後)"
+    # guid: plex://movie/5d77684be870fd001f19dbb7
     seasons:
       - season: 1
         anilist-id: 5205
 
   - title: "The Garden of Sinners: Epilogue"
-    # https://www.themoviedb.org/tv/47747
-    # https://www.imdb.com/title/tt3868344/
+    # imdb: https://www.imdb.com/title/tt3868344/
+    # tmdb: https://www.themoviedb.org/movie/47747
     synonyms:
-      - "Kara no Kyoukai ep8 - Shuushou"
       - "Kara no Kyoukai: Epilogue"
+      - "Kara No Kyoukai 8 Epilogue"
+      - "Kara no Kyoukai ep8 - Shuushou"
       - "Kara no Kyoukai: Shuushou"
       - "Kara no kyôkai: Shûshô"
       - "劇場版「空の境界」終章 空の境界"
+    # guid: plex://movie/5d776885ebdf2200209c1570
     seasons:
       - season: 1
         anilist-id: 6954
 
   - title: "The Garden of Sinners: Oblivion Recording"
-    # https://www.themoviedb.org/tv/23166
-    # https://www.imdb.com/title/tt1343089/
+    # imdb: https://www.imdb.com/title/tt1343089/
+    # tmdb: https://www.themoviedb.org/movie/23166
     synonyms:
+      - "Kara no Kyoukai 6: Oblivion Recorder"
+      - "Kara No Kyoukai 6 Boukyaku Rokuon"
       - "Kara No Kyoukai 6: Boukyaku Rokuon"
       - "Kara No Kyoukai ep6 - Boukyaku Rokuon"
-      - "Kara no Kyoukai 6: Oblivion Recorder"
       - "Kara no kyôkai: Dai roku shô - Bôkyaku rokuon"
       - "劇場版 空の境界: 第六章 忘却録音"
+    # guid: plex://movie/5d77684be870fd001f19dbb6
     seasons:
       - season: 1
         anilist-id: 5204
 
   - title: "The Garden of Sinners: Overlooking View"
-    # https://www.themoviedb.org/tv/23150
-    # https://www.imdb.com/title/tt1155650/
+    # imdb: https://www.imdb.com/title/tt1155650/
+    # tmdb: https://www.themoviedb.org/movie/23150
     synonyms:
       - "Fukan Fuukei Thanatos"
-      - "Kara No Kyoukai 1: Fukan Fuukei"
-      - "Kara No Kyoukai ep1 - Fukan Fuukei"
       - "Kara no Kyoukai  The Garden of Sinners Movie 1"
       - "Kara no Kyoukai - the Garden of sinners"
       - "Kara no Kyoukai 1"
       - "Kara no Kyoukai 1: Overlooking View"
       - "Kara no Kyoukai: Overlooking View"
+      - "Kara No Kyoukai 1 Fukan Fuukei"
+      - "Kara No Kyoukai 1: Fukan Fuukei"
+      - "Kara No Kyoukai ep1 - Fukan Fuukei"
       - "Kara no kyôkai: Dai isshô - Fukan fûkei"
+    # guid: plex://movie/5d77684a298480001f4ac07a
     seasons:
       - season: 1
         anilist-id: 2593
 
   - title: "The Garden of Sinners: Paradox Spiral"
-    # https://www.themoviedb.org/tv/23155
-    # https://www.imdb.com/title/tt1278060/
+    # imdb: https://www.imdb.com/title/tt1278060/
+    # tmdb: https://www.themoviedb.org/movie/23155
     synonyms:
-      - "Kara No Kyoukai 5: Mujun Rasen"
-      - "Kara No Kyoukai ep5 - Mujun Rasen"
       - "Kara no Kyoukai 5"
       - "Kara no Kyoukai 5: Paradox Spiral"
       - "Kara no Kyoukai The Garden of Sinners 5"
       - "Kara no Kyoukai: Paradox Spiral"
-      - "Kara no kyôkai: Dai go shô - Mujun rasen"
       - "Mujun Rasen Paradox Paradigm"
+      - "Kara No Kyoukai 5 Mujun Rasen"
+      - "Kara No Kyoukai 5: Mujun Rasen"
+      - "Kara No Kyoukai ep5 - Mujun Rasen"
+      - "Kara no kyôkai: Dai go shô - Mujun rasen"
       - "劇場版 空の境界: 第五章 矛盾螺旋"
+    # guid: plex://movie/5d77684a298480001f4ac075
     seasons:
       - season: 1
         anilist-id: 4282
 
   - title: "The Garden of Sinners: Remaining Sense of Pain"
-    # https://www.themoviedb.org/tv/23153
-    # https://www.imdb.com/title/tt1155652/
+    # imdb: https://www.imdb.com/title/tt1155652/
+    # tmdb: https://www.themoviedb.org/movie/23153
     synonyms:
+      - "Kara no Kyoukai 3: Remaining Sense of Pain"
+      - "Kara No Kyoukai 3 Tsuukaku Zanryuu"
       - "Kara No Kyoukai 3: Tsuukaku Zanryuu"
       - "Kara No Kyoukai ep3 - Tsuukaku Zanryuu"
-      - "Kara no Kyoukai 3: Remaining Sense of Pain"
       - "Kara no kyôkai: Dai san shô - Tsukakû zanryû"
       - "劇場版 空の境界: 第三章 痛覚残留"
+    # guid: plex://movie/5d77684a298480001f4ac07b
     seasons:
       - season: 1
         anilist-id: 3783
 
   - title: "The Garden of Sinners: The Hollow Shrine"
-    # https://www.themoviedb.org/tv/23154
-    # https://www.imdb.com/title/tt1233474/
+    # imdb: https://www.imdb.com/title/tt1233474/
+    # tmdb: https://www.themoviedb.org/movie/23154
     synonyms:
+      - "Kara no Kyoukai - The Garden of Sinners - Chapter 4: The Hollow Shrine"
+      - "Kara No Kyoukai 4 Garan No Dou"
       - "Kara No Kyoukai 4: Garan No Dou"
       - "Kara No Kyoukai ep4 - Garan No Dou"
-      - "Kara no Kyoukai - The Garden of Sinners - Chapter 4: The Hollow Shrine"
       - "Kara no kyôkai: Dai yon shô - Garan no dô"
       - "劇場版 空の境界: 第四章 伽藍の洞"
+    # guid: plex://movie/5d77684b298480001f4ac081
     seasons:
       - season: 1
         anilist-id: 4280
 
   - title: "The Irregular at Magic High School: The Girl Who Summons the Stars"
-    # https://www.themoviedb.org/tv/431821
-    # https://www.imdb.com/title/tt6580380/
+    # imdb: https://www.imdb.com/title/tt6580380/
+    # tmdb: https://www.themoviedb.org/movie/431821
     synonyms:
+      - "The Irregular at Magic High School The Movie"
+      - "The Irregular at Magic High School The Movie - The Girl Who Calls the Stars"
       - "Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo"
       - "Gekijouban Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo"
       - "Gekijōban Mahōka Kōkō no Rettōsei: Hoshi o Yobu Shōjo"
       - "Gekijōban Mahōka Kōkō no Rettōsei: Hoshi wo Yobu Shōjo"
       - "Mahouka Koukou no Rettousei - The Movie"
       - "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo"
-      - "The Irregular at Magic High School The Movie"
-      - "The Irregular at Magic High School The Movie - The Girl Who Calls the Stars"
+    # guid: plex://movie/5d776da4ad5437001f7db9e1
     seasons:
       - season: 1
         anilist-id: 21684
 
   - title: "Towa no Quon 1: The Ephemeral Petals"
-    # https://www.themoviedb.org/tv/179923
-    # https://www.imdb.com/title/tt3565112/
+    # imdb: https://www.imdb.com/title/tt3565112/
+    # tmdb: https://www.themoviedb.org/movie/179923
     synonyms:
+      - "Towanoquon: The Ephemeral Petals"
       - "Towa no Quon 1"
       - "Towa no Quon 1: Utakata no Kaben"
-      - "Towanoquon: The Ephemeral Petals"
       - "トワノクオン 第1章 泡沫の花弁"
+    # guid: plex://movie/5d776d819ab544002151f15e
     seasons:
       - season: 1
         anilist-id: 10294
 
   - title: "Towa no Quon 2: Dancing Orchid in Chaos"
-    # https://www.themoviedb.org/tv/179930
-    # https://www.imdb.com/title/tt3565136/
+    # imdb: https://www.imdb.com/title/tt3565136/
+    # tmdb: https://www.themoviedb.org/movie/179930
     synonyms:
-      - "Towa no Quon 2"
       - "Towa no Quon 2 : Dancing Orchid in Chaos"
+      - "Towa no Quon 2"
       - "Towa no Quon 2: Konton no Ranbu"
       - "トワノクオン 第２章 混沌の乱舞"
+    # guid: plex://movie/5d776d817a53e9001e75b5ed
     seasons:
       - season: 1
         anilist-id: 10713
 
   - title: "Towa no Quon 3: The Complicity of Dreams"
-    # https://www.themoviedb.org/tv/179931
-    # https://www.imdb.com/title/tt3565148/
+    # imdb: https://www.imdb.com/title/tt3565148/
+    # tmdb: https://www.themoviedb.org/movie/179931
     synonyms:
-      - "Towa no Quon 3"
       - "Towa no Quon 3 : The Complicity of Dreams"
+      - "Towa no Quon 3"
       - "Towa no Quon 3: Mugen no Renza"
       - "トワノクオン 第３章 夢幻の連座"
+    # guid: plex://movie/5d776d81ad5437001f7d7e44
     seasons:
       - season: 1
-        anilist-id: 10714
+        anilist-id: 10713
 
   - title: "Towa no Quon 4: The Roaring Anxiety"
-    # https://www.themoviedb.org/tv/179932
-    # https://www.imdb.com/title/tt3565158/
+    # imdb: https://www.imdb.com/title/tt3565158/
+    # tmdb: https://www.themoviedb.org/movie/179932
     synonyms:
-      - "Towa no Quon 4"
       - "Towa no Quon 4 : The Roaring Anxiety"
+      - "Towa no Quon 4"
       - "Towa no Quon 4: Guren no Shoushin"
+    # guid: plex://movie/5d776d8196b655001fe4aa9f
     seasons:
       - season: 1
         anilist-id: 10715
 
   - title: "Towa no Quon 5: The Return of the Invincible"
-    # https://www.themoviedb.org/tv/179933
-    # https://www.imdb.com/title/tt3565160/
+    # imdb: https://www.imdb.com/title/tt3565160/
+    # tmdb: https://www.themoviedb.org/movie/179933
     synonyms:
-      - "Towa no Quon 5"
       - "Towa no Quon 5 : The Return of the Invincible"
+      - "Towa no Quon 5"
       - "Towa no Quon 5: Souzetsu no Raifuku"
+    # guid: plex://movie/5d776d81594b2b001e70ad07
     seasons:
       - season: 1
         anilist-id: 10716
 
   - title: "Towa no Quon 6: Eternal Quon"
-    # https://www.themoviedb.org/tv/179934
-    # https://www.imdb.com/title/tt3565164/
+    # imdb: https://www.imdb.com/title/tt3565164/
+    # tmdb: https://www.themoviedb.org/movie/179934
     synonyms:
       - "Eternal Quon"
       - "Towa no Quon 6"
@@ -448,6 +510,7 @@ entries:
       - "Towa no Quon 6: Towa no Quon"
       - "トワノクオン 第６章 永久の久遠"
       - "永久の久遠"
+    # guid: plex://movie/5d7769fb51dd69001fe1e890
     seasons:
       - season: 1
         anilist-id: 10717
