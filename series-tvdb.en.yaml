@@ -2881,6 +2881,14 @@ entries:
       - season: 1
         anilist-id: 150972
 
+  - title: "Scott Pilgrim Takes Off"
+    # imdb: https://www.imdb.com/title/tt16969708/
+    # tmdb: https://www.themoviedb.org/tv/155292
+    # tvdb: https://www.thetvdb.com/dereferrer/series/433113
+    guid: plex://show/61dd97c364b2acfab575e1c3
+    seasons:
+      - season: 1
+        anilist-id: 170206
   - title: "Seraph of the End"
     # imdb: https://www.imdb.com/title/tt4584326/
     # tmdb: https://www.themoviedb.org/tv/62255
@@ -3969,3 +3977,4 @@ entries:
     seasons:
       - season: 1
         anilist-id: 159831
+
