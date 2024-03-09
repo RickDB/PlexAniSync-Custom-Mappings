@@ -10,7 +10,7 @@ entries:
       - "Eighty Six"
       - "86 – EIGHTY-SIX"
       - "86-エイティシックス-"
-    # guid: plex://show/5e7362fb4a62f90040e89827
+    guid: plex://show/5e7362fb4a62f90040e89827
     seasons:
       - season: 1
         anilist-id: 116589
@@ -26,7 +26,7 @@ entries:
       - "To Aru Kagaku no Railgun"
       - "Toaru Kagakuno Railgun"
       - "とある科学の超電磁砲"
-    # guid: plex://show/5d9c07fdec357c001f9a8ac5
+    guid: plex://show/5d9c07fdec357c001f9a8ac5
     seasons:
       - season: 1
         anilist-id: 6213
@@ -43,7 +43,7 @@ entries:
       - "Kakkou no Iinazuke"
       - "Kakkou no Iinazuke (A Couple of Cuckoos)"
       - "Kakkō no Iinazuke"
-    # guid: plex://show/606dda0b1e9ff70037d05c31
+    guid: plex://show/606dda0b1e9ff70037d05c31
     seasons:
       - season: 1
         anilist-id: 132052
@@ -58,7 +58,7 @@ entries:
       - "Daiya no A"
       - "Dia no Ace"
       - "ダイヤのA"
-    # guid: plex://show/5d9c083c2df347001e3ae2f6
+    guid: plex://show/5d9c083c2df347001e3ae2f6
     seasons:
       - season: 1
         anilist-id: 18689
@@ -73,7 +73,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/279827
     synonyms:
       - "ΛLDNOΛH.ZERO"
-    # guid: plex://show/5d9c0845ffd9ef001e990bb2
+    guid: plex://show/5d9c0845ffd9ef001e990bb2
     seasons:
       - season: 1
         anilist-id: 20632
@@ -90,7 +90,7 @@ entries:
       - "Tai-Madō Gakuen 35 Shiken Shōtai"
       - "Taimadou Gakuen 35 Shiken Shoutai"
       - "Taimadō Gakuen 35 Shiken Shōtai"
-    # guid: plex://show/5d9c08b808fddd001f2a0369
+    guid: plex://show/5d9c08b808fddd001f2a0369
     seasons:
       - season: 1
         anilist-id: 20704
@@ -109,7 +109,7 @@ entries:
       - "Arifureta Shokugyou de Sekai Saikyou"
       - "Arifureta Shokugyō de Sekai Saikyō"
       - "ありふれた職業で世界最強"
-    # guid: plex://show/5d9c09161cae62001f750e5c
+    guid: plex://show/5d9c09161cae62001f750e5c
     seasons:
       - season: 1
         anilist-id: 100668
@@ -125,7 +125,7 @@ entries:
     synonyms:
       - "明日方舟"
       - "アークナイツ"
-    # guid: plex://show/61781a32afc7938b2e668da8
+    guid: plex://show/61781a32afc7938b2e668da8
     seasons:
       - season: 1
         anilist-id: 140660
@@ -146,7 +146,7 @@ entries:
       - "本好きの下剋上"
       - "本好きの下剋上 司書になるためには手段を選んでいられません 第3期"
       - "本好きの下剋上～司書になるためには手段を選んでいられません～ 第3部"
-    # guid: plex://show/5df5b931bc7a03001de20d25
+    guid: plex://show/5df5b931bc7a03001de20d25
     seasons:
       - season: 1
         anilist-id: 108268
@@ -167,7 +167,7 @@ entries:
     synonyms:
       - "Assassination Classrom"
       - "Ansatsu Kyoushitsu"
-    # guid: plex://show/5d9c0850ba6eb9001fba0c60
+    guid: plex://show/5d9c0850ba6eb9001fba0c60
     seasons:
       - season: 1
         anilist-id: 20755
@@ -183,7 +183,7 @@ entries:
       - "SNK"
       - "Shingeki no Kyojin"
       - "进撃の巨人"
-    # guid: plex://show/5d9c086c3c3f87001f34f63c
+    guid: plex://show/5d9c086c3c3f87001f34f63c
     seasons:
       - season: 1
         anilist-id: 16498
@@ -209,7 +209,7 @@ entries:
       - "B：the Beginning"
       - "パーフェクト・ボーンズ"
       - "ビーザビギニング"
-    # guid: plex://show/5d9c08eeba6eb9001fbace50
+    guid: plex://show/5d9c08eeba6eb9001fbace50
     seasons:
       - season: 1
         anilist-id: 21665
@@ -222,7 +222,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/193811
     synonyms:
       - "Bakuman"
-    # guid: plex://show/5d9c081bba2e21001f18df7d
+    guid: plex://show/5d9c081bba2e21001f18df7d
     seasons:
       - season: 1
         anilist-id: 7674
@@ -244,7 +244,7 @@ entries:
       - "ビステマ"
       - "勇者パーティーを追放されたビーストテイマー"
       - "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
-    # guid: plex://show/62a324e005d7ca8cd1da84c7
+    guid: plex://show/62a324e005d7ca8cd1da84c7
     seasons:
       - season: 1
         anilist-id: 150695
@@ -255,7 +255,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/361013
     synonyms:
       - "ビースターズ"
-    # guid: plex://show/5d9c091c2df347001e3bd0c1
+    guid: plex://show/5d9c091c2df347001e3bd0c1
     seasons:
       - season: 1
         anilist-id: 107660
@@ -270,7 +270,7 @@ entries:
       - "Kuroshitsuji"
       - "Kuroshitsuzi"
       - "黒執事"
-    # guid: plex://show/5d9c0825e98e47001eb08cd7
+    guid: plex://show/5d9c0825e98e47001eb08cd7
     seasons:
       - season: 1
         anilist-id: 4898
@@ -289,7 +289,7 @@ entries:
       - "Burakku ragûn"
       - "ブラックラグーン"
       - "ブラック・ラグーン"
-    # guid: plex://show/5d9c080802391c001f57f614
+    guid: plex://show/5d9c080802391c001f57f614
     seasons:
       - season: 1
         anilist-id: 889
@@ -304,7 +304,7 @@ entries:
     synonyms:
       - "BLACK★ROCK SHOOTER"
       - "B★RS"
-    # guid: plex://show/5d9c07f3ba2e21001f18c9ac
+    guid: plex://show/5d9c07f3ba2e21001f18c9ac
     seasons:
       - season: 1
         anilist-id: 11285
@@ -316,7 +316,7 @@ entries:
     synonyms:
       - "Black Rock Shooter Dawn Fall"
       - "ブラックロックシューター DAWN FALL"
-    # guid: plex://show/6144a821781dd3ba26493db3
+    guid: plex://show/6144a821781dd3ba26493db3
     seasons:
       - season: 1
         anilist-id: 139303
@@ -329,7 +329,7 @@ entries:
       - "Blast of Tempest: The Civilization Blaster"
       - "Zetsuen no Tempest"
       - "Zetsuen no Tempest: The Civilization Blaster"
-    # guid: plex://show/5d9c0833e264b7001fc3eb94
+    guid: plex://show/5d9c0833e264b7001fc3eb94
     seasons:
       - season: 1
         anilist-id: 14075
@@ -341,7 +341,7 @@ entries:
     synonyms:
       - "Burīchi"
       - "ブリーチ"
-    # guid: plex://show/5d9c084902391c001f58594b
+    guid: plex://show/5d9c084902391c001f58594b
     seasons:
       - season: 1
         anilist-id: 269
@@ -359,7 +359,7 @@ entries:
       - "Bloodline Battlefront"
       - "Kekkai Sensen"
       - "血界戦線"
-    # guid: plex://show/5d9c0852e264b7001fc413eb
+    guid: plex://show/5d9c0852e264b7001fc413eb
     seasons:
       - season: 1
         anilist-id: 20727
@@ -373,7 +373,7 @@ entries:
     synonyms:
       - "Blood Plus"
       - "ブラッドプラス"
-    # guid: plex://show/5d9c08451cae62001f74afa0
+    guid: plex://show/5d9c08451cae62001f74afa0
     seasons:
       - season: 1
         anilist-id: 150
@@ -389,7 +389,7 @@ entries:
       - "Ao no Futsumashi"
       - "エクソシスト"
       - "青の祓魔師"
-    # guid: plex://show/5d9c081c3c3f87001f347a27
+    guid: plex://show/5d9c081c3c3f87001f347a27
     seasons:
       - season: 1
         anilist-id: 9919
@@ -406,7 +406,7 @@ entries:
       - "The Blue Orchestra"
       - "Ao no Orchestra"
       - "青のオーケストラ"
-    # guid: plex://show/6255972cc9b2f0ed6d27bf01
+    guid: plex://show/6255972cc9b2f0ed6d27bf01
     seasons:
       - season: 1
         anilist-id: 147369
@@ -417,7 +417,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/408629
     synonyms:
       - "Blue Lock"
-    # guid: plex://show/6117a7257843e7002c680b60
+    guid: plex://show/6117a7257843e7002c680b60
     seasons:
       - season: 1
         anilist-id: 137822
@@ -434,7 +434,7 @@ entries:
       - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
       - "Itai no wa Iya nano de Bōgyoryoku ni Kyokufuri Shitai to Omoimasu."
       - "痛いのは嫌なので防御力に極振りしたいと思います。"
-    # guid: plex://show/5df5b93281e1a7001f946b48
+    guid: plex://show/5df5b93281e1a7001f946b48
     seasons:
       - season: 1
         anilist-id: 106479
@@ -447,7 +447,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/321285
     synonyms:
       - "Boruto"
-    # guid: plex://show/5d9f410b68e4c8001fb6c916
+    guid: plex://show/5d9f410b68e4c8001fb6c916
     seasons:
       - season: 1
         anilist-id: 97938
@@ -460,7 +460,7 @@ entries:
       - "Bungou Stray Dogs"
       - "Bungō Stray Dogs"
       - "Literary Stray Dogs"
-    # guid: plex://show/5d9c081702391c001f580ca8
+    guid: plex://show/5d9c081702391c001f580ca8
     seasons:
       - season: 1
         anilist-id: 21311
@@ -486,7 +486,7 @@ entries:
       - "Hataraku Saibō"
       - "はたらく細胞!"
       - "働く細胞"
-    # guid: plex://show/5d9c0905cb3ffa001f1b8ccb
+    guid: plex://show/5d9c0905cb3ffa001f1b8ccb
     seasons:
       - season: 1
         anilist-id: 100977
@@ -500,7 +500,7 @@ entries:
     synonyms:
       - "Hataraku Saibou Black"
       - "Hataraku Saibō Black"
-    # guid: plex://show/5ea395620f75ff0042793113
+    guid: plex://show/5ea395620f75ff0042793113
     seasons:
       - season: 1
         anilist-id: 117533
@@ -513,7 +513,7 @@ entries:
       - "Chaika the Coffin Princess"
       - "Hitsugi no Chaika"
       - "棺姫のチャイカ"
-    # guid: plex://show/5d9c083c4eefaa001f5d8c63
+    guid: plex://show/5d9c083c4eefaa001f5d8c63
     seasons:
       - season: 1
         anilist-id: 20462
@@ -529,7 +529,7 @@ entries:
       - "Slave of the Magic Capital's Elite Troops"
       - "Mato Seihei no Slave"
       - "魔都精兵的奴隸"
-    # guid: plex://show/6198def0046272df6573266f
+    guid: plex://show/6198def0046272df6573266f
     seasons:
       - season: 1
         anilist-id: 141821
@@ -544,7 +544,7 @@ entries:
       - "Chainsawman"
       - "Chensō Man"
       - "チェンソーマン"
-    # guid: plex://show/5fd256ee866352002d84b886
+    guid: plex://show/5fd256ee866352002d84b886
     seasons:
       - season: 1
         anilist-id: 127230
@@ -557,7 +557,7 @@ entries:
       - "A Tale of Worst One"
       - "Rakudai Kishi no Cavalry"
       - "落第騎士の英雄譚（キャバルリィ）"
-    # guid: plex://show/5d9c0805ec357c001f9a92bc
+    guid: plex://show/5d9c0805ec357c001f9a92bc
     seasons:
       - season: 1
         anilist-id: 21092
@@ -569,7 +569,7 @@ entries:
     synonyms:
       - "Kuranado"
       - "クラナド"
-    # guid: plex://show/5d9c081fba2e21001f18e114
+    guid: plex://show/5d9c081fba2e21001f18e114
     seasons:
       - season: 1
         anilist-id: 2167
@@ -589,7 +589,7 @@ entries:
       - "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
       - "Yôkoso jitsuryoku shijô shugi no kyôshitsu e"
       - "ようこそ実力至上主義の教室へ"
-    # guid: plex://show/5d9c08d37b5c2e001e6622a5
+    guid: plex://show/5d9c08d37b5c2e001e6622a5
     seasons:
       - season: 1
         anilist-id: 98659
@@ -607,7 +607,7 @@ entries:
       - "Code Geass Lelouch of the Rebellion"
       - "Code Geass Hangyaku no Lelouch"
       - "Code Geass: Hangyaku no Lelouch"
-    # guid: plex://show/5d9c0826e9d5a1001f4d7ee3
+    guid: plex://show/5d9c0826e9d5a1001f4d7ee3
     seasons:
       - season: 1
         anilist-id: 1575
@@ -623,7 +623,7 @@ entries:
       - "Seikai no Monshou"
       - "Seikai no Senki"
       - "星界の戦旗"
-    # guid: plex://show/5d9c0855705e7a001e6d93e6
+    guid: plex://show/5d9c0855705e7a001e6d93e6
     seasons:
       - season: 1
         anilist-id: 290
@@ -640,7 +640,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/79635
     synonyms:
       - "ディー・グレイマン"
-    # guid: plex://show/5d9c0865e9d5a1001f4d96d5
+    guid: plex://show/5d9c0865e9d5a1001f4d96d5
     seasons:
       - season: 1
         anilist-id: 1482
@@ -655,7 +655,7 @@ entries:
     synonyms:
       - "ディーグレイマンハロー"
       - "ディー・グレイマン ハロー"
-    # guid: plex://show/5d9c0805e9d5a1001f4d6a6c
+    guid: plex://show/5d9c0805e9d5a1001f4d6a6c
     seasons:
       - season: 1
         anilist-id: 21558
@@ -667,7 +667,7 @@ entries:
     synonyms:
       - "Danganronpa 3 The End Of Kibougamine Gakuen Zetsubou Hen"
       - "Danganronpa 3 Zetsubou Hen"
-    # guid: plex://show/5d9c08082df347001e3a919c
+    guid: plex://show/5d9c08082df347001e3a919c
     seasons:
       - season: 1
         anilist-id: 21825
@@ -680,7 +680,7 @@ entries:
       - "Danganronpa"
       - "Danganronpa The Animation"
       - "ダンガンロンパ"
-    # guid: plex://show/5d9c07f5705e7a001e6cd8b6
+    guid: plex://show/5d9c07f5705e7a001e6cd8b6
     seasons:
       - season: 1
         anilist-id: 16592
@@ -691,7 +691,7 @@ entries:
     # imdb: https://www.imdb.com/title/tt0995941/
     # tmdb: https://www.themoviedb.org/tv/31718
     # tvdb: https://www.thetvdb.com/dereferrer/series/80042
-    # guid: plex://show/5d9c08262df347001e3ac11d
+    guid: plex://show/5d9c08262df347001e3ac11d
     seasons:
       # PlexAniSync does not support mapping of Specials (Gaiden, 4 episodes)
       - season: 1
@@ -706,7 +706,7 @@ entries:
     synonyms:
       - "Deddomaunto Desupurei"
       - "デッドマウント・デスプレイ"
-    # guid: plex://show/6376957e253ed1065f95ac14
+    guid: plex://show/6376957e253ed1065f95ac14
     seasons:
       - season: 1
         anilist-id: 157198
@@ -721,7 +721,7 @@ entries:
     synonyms:
       - "Dungeon Food"
       - "Dungeon Meshi"
-    # guid: plex://show/62f321f36da0054963a50a70
+    guid: plex://show/62f321f36da0054963a50a70
     seasons:
       - season: 1
         anilist-id: 153518
@@ -735,7 +735,7 @@ entries:
       - "Demon Slayer"
       - "Kimetsu no Yaiba"
       - "鬼滅の刃"
-    # guid: plex://show/5d9c090246115600200ae731
+    guid: plex://show/5d9c090246115600200ae731
     seasons:
       - season: 1
         anilist-id: 101922
@@ -755,7 +755,7 @@ entries:
     synonyms:
       - "Ijiranaide, Nagatoro-san"
       - "イジらないで、長瀞さん"
-    # guid: plex://show/5eff8efd374eea003c1d1c98
+    guid: plex://show/5eff8efd374eea003c1d1c98
     seasons:
       - season: 1
         anilist-id: 120697
@@ -769,7 +769,7 @@ entries:
     synonyms:
       - "Dr.STONE"
       - "ドクターストーン"
-    # guid: plex://show/5d9c0913ba6eb9001fbaf6ff
+    guid: plex://show/5d9c0913ba6eb9001fbaf6ff
     seasons:
       - season: 1
         anilist-id: 105333
@@ -791,7 +791,7 @@ entries:
       - "Dragonball"
       - "Doragon bôru"
       - "ドラゴンボール"
-    # guid: plex://show/5d9c0808ffd9ef001e98b2cc
+    guid: plex://show/5d9c0808ffd9ef001e98b2cc
     seasons:
       - season: 1
         anilist-id: 223
@@ -805,7 +805,7 @@ entries:
       - "Dragonball Super"
       - "Doragon bōru sūpā"
       - "ドラゴンボールスーパー"
-    # guid: plex://show/5d9c08683c3f87001f34ebd8
+    guid: plex://show/5d9c08683c3f87001f34ebd8
     seasons:
       - season: 1
         anilist-id: 21175
@@ -818,7 +818,7 @@ entries:
       - "Dragonball Z"
       - "Doragon Bōru Zetto"
       - "ドラゴンボール Z"
-    # guid: plex://show/5d9c080fba6eb9001fb9aa70
+    guid: plex://show/5d9c080fba6eb9001fb9aa70
     seasons:
       - season: 1
         anilist-id: 813
@@ -850,7 +850,7 @@ entries:
       - "Doragon Boru Kai"
       - "Dragon Ball Revised"
       - "Dragon ball Kai: Doragon bôru Kai"
-    # guid: plex://show/5d9c08376c3e37001ecd57da
+    guid: plex://show/5d9c08376c3e37001ecd57da
     seasons:
       # Anilist includes Bluray specials in its episode count for 2014 Kai, while TMDB has it specifically as Specials
       - season: 1
@@ -874,7 +874,7 @@ entries:
       - "DRRR!!"
       - "Dullalala!!"
       - "Dyurarara!!"
-    # guid: plex://show/5d9c07f3ba6eb9001fb97be1
+    guid: plex://show/5d9c07f3ba6eb9001fb97be1
     seasons:
       - season: 1
         anilist-id: 6746
@@ -891,7 +891,7 @@ entries:
     # imdb: https://www.imdb.com/title/tt0239361/
     # tmdb: https://www.themoviedb.org/tv/34209
     # tvdb: https://www.thetvdb.com/dereferrer/series/87941
-    # guid: plex://show/5d9c08652192ba001f30edfd
+    guid: plex://show/5d9c08652192ba001f30edfd
     seasons:
       - season: 1
         anilist-id: 1704
@@ -907,7 +907,7 @@ entries:
       - "Elfen_Lied"
       - "Erufen rîto"
       - "エルフェンリート"
-    # guid: plex://show/5d9c082a7b5c2e001e65609e
+    guid: plex://show/5d9c082a7b5c2e001e65609e
     seasons:
       - season: 1
         anilist-id: 226
@@ -916,7 +916,7 @@ entries:
     # imdb: https://www.imdb.com/title/tt0791205/
     # tmdb: https://www.themoviedb.org/tv/1097
     # tvdb: https://www.thetvdb.com/dereferrer/series/79228
-    # guid: plex://show/5d9c086b705e7a001e6dbd9f
+    guid: plex://show/5d9c086b705e7a001e6dbd9f
     seasons:
       - season: 1
         anilist-id: 790
@@ -927,7 +927,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/258124
     synonyms:
       - "F-Zero: The Legend of Falcon"
-    # guid: plex://show/5d9c082c2192ba001f3095c5
+    guid: plex://show/5d9c082c2192ba001f3095c5
     seasons:
       - season: 1
         anilist-id: 3101
@@ -945,7 +945,7 @@ entries:
       - "Fairy Tail 妖精たちの合宿"
       - "Fearī Teiru"
       - "フェアリーテイル ゼロ"
-    # guid: plex://show/5d9c07fb705e7a001e6ce24a
+    guid: plex://show/5d9c07fb705e7a001e6ce24a
     seasons:
       - season: 1
         anilist-id: 6702
@@ -979,7 +979,7 @@ entries:
       - "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！"
       - "Fate/kaleid liner プリズマ☆イリヤ ドライ!!"
       - "Fate⁄kaleid Liner プラズマ☆イリヤ"
-    # guid: plex://show/5d9c08067b5c2e001e652467
+    guid: plex://show/5d9c08067b5c2e001e652467
     seasons:
       - season: 1
         anilist-id: 14829
@@ -996,7 +996,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/79151
     synonyms:
       - "Fate⁄stay night"
-    # guid: plex://show/5d9c08507b5c2e001e658e9f
+    guid: plex://show/5d9c08507b5c2e001e658e9f
     seasons:
       - season: 1
         anilist-id: 356
@@ -1013,7 +1013,7 @@ entries:
       - "Fate／stay night - UNLIMITED BLADE WORKS"
       - "Unlimited Blade Works"
       - "フェイト/ステイナイト"
-    # guid: plex://show/5d9c0849ba6eb9001fb9ffe5
+    guid: plex://show/5d9c0849ba6eb9001fb9ffe5
     seasons:
       # Anilist has 26 Episodes (includes Special EP) while TMDB has 25 Episodes (excludes Special EP)
       - season: 1
@@ -1030,7 +1030,7 @@ entries:
       - "Fate Zero"
       - "Feito/Zero"
       - "フェイト/ゼロ"
-    # guid: plex://show/5d9c0821e264b7001fc3ccd0
+    guid: plex://show/5d9c0821e264b7001fc3ccd0
     seasons:
       - season: 1
         anilist-id: 10087
@@ -1044,7 +1044,7 @@ entries:
     synonyms:
       - "Kaizoku Oujo"
       - "Kaizoku Ōjo"
-    # guid: plex://show/5f1e6cdf4de80e004280f759
+    guid: plex://show/5f1e6cdf4de80e004280f759
     seasons:
       - season: 1
         anilist-id: 122052
@@ -1059,7 +1059,7 @@ entries:
       - "Hajime no Ippo"
       - "Hajime no Ippo: New Challenger"
       - "はじめの一歩 The Fighting!"
-    # guid: plex://show/5d9c082bffd9ef001e98e90e
+    guid: plex://show/5d9c082bffd9ef001e98e90e
     seasons:
       - season: 1
         anilist-id: 263
@@ -1086,7 +1086,7 @@ entries:
       - "Enn Enn no Shouboutai"
       - "Enn Enn no Shōbōtai"
       - "炎炎ノ消防隊 弐ノ章"
-    # guid: plex://show/5d9c09127b5c2e001e6663fd
+    guid: plex://show/5d9c09127b5c2e001e6663fd
     seasons:
       - season: 1
         anilist-id: 105310
@@ -1107,7 +1107,7 @@ entries:
       - "Shokugeki no Soma"
       - "Shokugeki no Sōma"
       - "Soma's Cafeteria Drama"
-    # guid: plex://show/5d9c085202391c001f586b24
+    guid: plex://show/5d9c085202391c001f586b24
     seasons:
       - season: 1
         anilist-id: 20923
@@ -1134,7 +1134,7 @@ entries:
       - "Sōsō no Furīren"
       - "そうそうのフリーレン"
       - "葬送のフリーレン ～旅立ちの章～"
-    # guid: plex://show/631ccdfccbff4464978f9d53
+    guid: plex://show/631ccdfccbff4464978f9d53
     seasons:
       - season: 1
         anilist-id: 154587
@@ -1151,7 +1151,7 @@ entries:
       - "Furuba"
       - "Furūtsu Basuketto"
       - "フルバ"
-    # guid: plex://show/5d9c091708fddd001f2a75c8
+    guid: plex://show/5d9c091708fddd001f2a75c8
     seasons:
       - season: 1
         anilist-id: 105334
@@ -1169,7 +1169,7 @@ entries:
       - "Full Metal Alchemist"
       - "Hagane no Renkinjutsushi"
       - "Hagaren"
-    # guid: plex://show/5d9c0850e264b7001fc41055
+    guid: plex://show/5d9c0850e264b7001fc41055
     seasons:
       - season: 1
         anilist-id: 121
@@ -1183,7 +1183,7 @@ entries:
       - "Hagane no Renkinjutsushi FULLMETAL ALCHEMIST"
       - "鋼の錬金術師 FA"
       - "鋼の錬金術師FA"
-    # guid: plex://show/5d9c0830e264b7001fc3e6bd
+    guid: plex://show/5d9c0830e264b7001fc3e6bd
     seasons:
       - season: 1
         anilist-id: 5114
@@ -1196,7 +1196,7 @@ entries:
       - "Ghost in the Shell SAC2045"
       - "Ghost in the Shell: SAC 2045"
       - "Koukaku Kidoutai SAC 2045"
-    # guid: plex://show/62e293f73fc724eff6185850
+    guid: plex://show/62e293f73fc724eff6185850
     seasons:
       - season: 1
         anilist-id: 106154
@@ -1220,7 +1220,7 @@ entries:
       - "Kôkaku kidôtai: Stand Alone Complex"
       - "攻殻機動隊 S.A.C."
       - "攻殻機動隊 STAND ALONE COMPLEX"
-    # guid: plex://show/5d9c086b705e7a001e6dbd86
+    guid: plex://show/5d9c086b705e7a001e6dbd86
     seasons:
       - season: 1
         anilist-id: 467
@@ -1235,7 +1235,7 @@ entries:
       - "Gin Tama"
       - "Silver Soul"
       - "銀魂"
-    # guid: plex://show/5d9c08273c3f87001f348b54
+    guid: plex://show/5d9c08273c3f87001f348b54
     seasons:
       - season: 1
         anilist-id: 918
@@ -1269,7 +1269,7 @@ entries:
       - "ゴブスレ"
       - "ゴブリンスレイヤー"
       - "ゴブリンスレイヤーⅡ"
-    # guid: plex://show/5d9c090dffd9ef001e99ec5b
+    guid: plex://show/5d9c090dffd9ef001e99ec5b
     seasons:
       - season: 1
         anilist-id: 101165
@@ -1285,7 +1285,7 @@ entries:
       - "GRANBLUEFANTASY TheAnimationSeason2"
       - "Granblue Fantasy The Animation"
       - "グランブルーファンタジー ジ・アニメーション"
-    # guid: plex://show/5d9f40c6dfd12800208ad9ef
+    guid: plex://show/5d9f40c6dfd12800208ad9ef
     seasons:
       - season: 1
         anilist-id: 21361
@@ -1298,7 +1298,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/376144
     synonyms:
       - "グレートプリテンダー"
-    # guid: plex://show/5e317d2ae1fd7c003c06d307
+    guid: plex://show/5e317d2ae1fd7c003c06d307
     seasons:
       - season: 1
         anilist-id: 110349
@@ -1312,7 +1312,7 @@ entries:
     synonyms:
       - "GTO"
       - "GTO: Great Teacher Onizuka"
-    # guid: plex://show/5d9c082fe98e47001eb09bbf
+    guid: plex://show/5d9c082fe98e47001eb09bbf
     seasons:
       - season: 1
         anilist-id: 245
@@ -1339,7 +1339,7 @@ entries:
       - "Hai to Gensō no Gurimugaru"
       - "Hai to gensô no Grimgal"
       - "Hai to gensô no Grimgar"
-    # guid: plex://show/5d9c081602391c001f580ac4
+    guid: plex://show/5d9c081602391c001f580ac4
     seasons:
       - season: 1
         anilist-id: 21428
@@ -1352,7 +1352,7 @@ entries:
       - "Haikyuu!!"
       - "High Kyuu!!"
       - "ハイキュー!!"
-    # guid: plex://show/5d9c083cffd9ef001e990143
+    guid: plex://show/5d9c083cffd9ef001e990143
     seasons:
       - season: 1
         anilist-id: 20464
@@ -1376,7 +1376,7 @@ entries:
       - "Isekai Meikyuu de Harem wo"
       - "Isekai Meikyū de Harem wo"
       - "異世界迷宮でハーレムを"
-    # guid: plex://show/5fd4f9d00ed789002e438964
+    guid: plex://show/5fd4f9d00ed789002e438964
     seasons:
       - season: 1
         anilist-id: 127090
@@ -1389,7 +1389,7 @@ entries:
       - "Hell's Paradise: Jigokuraku"
       - "Jigoku Raku"
       - "Jigokuraku"
-    # guid: plex://show/601054c201c24b002b7025e0
+    guid: plex://show/601054c201c24b002b7025e0
     seasons:
       - season: 1
         anilist-id: 128893
@@ -1402,7 +1402,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/254653
     synonyms:
       - "ハイスクールDxD"
-    # guid: plex://show/5d9c08247d06d9001ffcfef5
+    guid: plex://show/5d9c08247d06d9001ffcfef5
     seasons:
       - season: 1
         anilist-id: 11617
@@ -1420,7 +1420,7 @@ entries:
     synonyms:
       - "Beautiful Little Sister! Umaru-chan"
       - "My Two-Faced Little Sister"
-    # guid: plex://show/5d9c08042192ba001f3051db
+    guid: plex://show/5d9c08042192ba001f3051db
     seasons:
       - season: 1
         anilist-id: 20987
@@ -1443,7 +1443,7 @@ entries:
       - "Hitori no Shita"
       - "一人の下"
       - "一人之下 THE OUTCAST"
-    # guid: plex://show/5d9c0804705e7a001e6cfefd
+    guid: plex://show/5d9c0804705e7a001e6cfefd
     seasons:
       - season: 1
         anilist-id: 21840
@@ -1463,7 +1463,7 @@ entries:
     synonyms:
       - "Hori-san and Miyamura-kun"
       - "ホリミヤ"
-    # guid: plex://show/5f63886575b84d0039f98e66
+    guid: plex://show/5f63886575b84d0039f98e66
     seasons:
       - season: 1
         anilist-id: 124080
@@ -1476,7 +1476,7 @@ entries:
       - "Horimiya -piece-"
       - "Horimiya: Piece"
       - "ホリミヤ -piece-"
-    # guid: plex://show/648d2dec59c84b8d2b82e89b
+    guid: plex://show/648d2dec59c84b8d2b82e89b
     seasons:
       - season: 1
         anilist-id: 163132
@@ -1494,7 +1494,7 @@ entries:
       - "現国"
       - "現実主義勇者の王国再建記 第二部"
       - "现实主义勇者的王国重建记"
-    # guid: plex://show/5ea3956a382f910042ece55e
+    guid: plex://show/5ea3956a382f910042ece55e
     seasons:
       - season: 1
         anilist-id: 117612
@@ -1516,7 +1516,7 @@ entries:
       - "Isekai Maō to Shōkan Shōjo no Dorei Majutsu"
       - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
       - "異世界魔王と召喚少女の奴隷魔術"
-    # guid: plex://show/5d9c09047b5c2e001e6656ea
+    guid: plex://show/5d9c09047b5c2e001e6656ea
     seasons:
       - season: 1
         anilist-id: 101004
@@ -1530,7 +1530,7 @@ entries:
     synonyms:
       - "Cool-headed Hoozuki"
       - "Hoozuki no Reitetsu"
-    # guid: plex://show/5d9c084c08fddd001f296cdd
+    guid: plex://show/5d9c084c08fddd001f296cdd
     seasons:
       - season: 1
         anilist-id: 20431
@@ -1551,7 +1551,7 @@ entries:
       - "Hunter × Hunter"
       - "HxH"
       - "HxH 2011"
-    # guid: plex://show/5d9c0834705e7a001e6d5db9
+    guid: plex://show/5d9c0834705e7a001e6d5db9
     seasons:
       - season: 1
         anilist-id: 11061
@@ -1568,7 +1568,7 @@ entries:
       - "Isekai Wa Smartphone"
       - "Isesuma"
       - "異世界はスマートフォンとともに。"
-    # guid: plex://show/5d9c08d34eefaa001f5e3fe3
+    guid: plex://show/5d9c08d34eefaa001f5e3fe3
     seasons:
       - season: 1
         anilist-id: 98491
@@ -1585,7 +1585,7 @@ entries:
       - "Kyokou Suiri"
       - "Kyokō Suiri"
       - "虚構推理"
-    # guid: plex://show/5e15c733f72429001dd19101
+    guid: plex://show/5e15c733f72429001dd19101
     seasons:
       - season: 1
         anilist-id: 107201
@@ -1602,7 +1602,7 @@ entries:
       - "Youko x Boku SS"
       - "いぬぼくシークレットサービス"
       - "妖狐×僕SS（いぬぼくシークレットサービス）"
-    # guid: plex://show/5d9c084f2df347001e3af465
+    guid: plex://show/5d9c084f2df347001e3af465
     seasons:
       - season: 1
         anilist-id: 11013
@@ -1619,7 +1619,7 @@ entries:
       - "Sengoku Otogizoshi Inuyasha"
       - "犬夜叉 -完結編-"
       - "犬夜叉: 完结篇"
-    # guid: plex://show/5d9c08294eefaa001f5d730b
+    guid: plex://show/5d9c08294eefaa001f5d730b
     seasons:
       - season: 1
         anilist-id: 249
@@ -1635,7 +1635,7 @@ entries:
       - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
       - "ダンまち"
       - "ダンジョンに出会いを求めるのは間違っているだろうか"
-    # guid: plex://show/5d9c0868d4f2a9001f800872
+    guid: plex://show/5d9c0868d4f2a9001f800872
     seasons:
       - season: 1
         anilist-id: 20920
@@ -1662,7 +1662,7 @@ entries:
       - "JoJo no Kimyou na Bouken"
       - "JoJo no Kimyō na Bōken"
       - "ジョジョの奇妙な冒険"
-    # guid: plex://show/5d9c07f04eefaa001f5d1ab7
+    guid: plex://show/5d9c07f04eefaa001f5d1ab7
     seasons:
       - season: 1
         anilist-id: 14719
@@ -1690,7 +1690,7 @@ entries:
       - "Sorcery Fight"
       - "Jujutsu Kasen"
       - "呪術廻戦"
-    # guid: plex://show/5e1622a5124ae9003e3ccd14
+    guid: plex://show/5e1622a5124ae9003e3ccd14
     seasons:
       - season: 1
         anilist-id: 113415
@@ -1706,7 +1706,7 @@ entries:
       - "K"
       - "K Project"
       - "Project K"
-    # guid: plex://show/5d9c07fc08fddd001f28f64b
+    guid: plex://show/5d9c07fc08fddd001f28f64b
     seasons:
       - season: 1
         anilist-id: 14467
@@ -1726,7 +1726,7 @@ entries:
       - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen"
       - "かぐや様は告らせたいーウルトラロマンティックー"
       - "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
-    # guid: plex://show/5d9c090f02391c001f594b8b
+    guid: plex://show/5d9c090f02391c001f594b8b
     seasons:
       - season: 1
         anilist-id: 101921
@@ -1747,7 +1747,7 @@ entries:
       - "Kaijuu hachi-gou"
       - "Kaijū 8-gō"
       - "Kaijū hachi-gō"
-    # guid: plex://show/62ed126ee903875a9223f1c4
+    guid: plex://show/62ed126ee903875a9223f1c4
     seasons:
       - season: 1
         anilist-id: 153288
@@ -1759,7 +1759,7 @@ entries:
     synonyms:
       - "Kakegurui: Compulsive Gambler"
       - "賭ケグルイ"
-    # guid: plex://show/5d9c08d3ba2e21001f19326d
+    guid: plex://show/5d9c08d3ba2e21001f19326d
     seasons:
       - season: 1
         anilist-id: 98314
@@ -1773,7 +1773,7 @@ entries:
     synonyms:
       - "What God Does in a World Without Gods"
       - "Kaminaki Sekai no Kamisama Katsudou"
-    # guid: plex://show/626976f1b67e4bfb53428dd0
+    guid: plex://show/626976f1b67e4bfb53428dd0
     seasons:
       - season: 1
         anilist-id: 148048
@@ -1789,7 +1789,7 @@ entries:
       - "Kamisama Hajimemashita"
       - "Kami-sama Hajimemashita"
       - "神様はじめました◎"
-    # guid: plex://show/5d9c086802391c001f588870
+    guid: plex://show/5d9c086802391c001f588870
     seasons:
       - season: 1
         anilist-id: 14713
@@ -1802,7 +1802,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/259635
     synonyms:
       - "Kingudamu"
-    # guid: plex://show/5d9c083802391c001f5842b4
+    guid: plex://show/5d9c083802391c001f5842b4
     seasons:
       - season: 1
         anilist-id: 12031
@@ -1823,7 +1823,7 @@ entries:
       - "Sidonia no Kishi"
       - "Sidonia no Kishi: Daikyuu Wakusei Seneki"
       - "シドニアの騎士 第九惑星戦役"
-    # guid: plex://show/5d9c083c705e7a001e6d6b33
+    guid: plex://show/5d9c083c705e7a001e6d6b33
     seasons:
       - season: 1
         anilist-id: 19775
@@ -1839,7 +1839,7 @@ entries:
       - "Komi-san wa, Komyushou desu."
       - "Komi-san wa, Komyushō desu."
       - "古見さんは、コミュ症です。(アニメ)"
-    # guid: plex://show/6081ae26a9e3d60035f60cc1
+    guid: plex://show/6081ae26a9e3d60035f60cc1
     seasons:
       - season: 1
         anilist-id: 133965
@@ -1854,7 +1854,7 @@ entries:
     synonyms:
       - "Kono Subarashii Sekai ni Bakuen o"
       - "Kono Subarashii Sekai ni Bakuen wo!"
-    # guid: plex://show/62938698adf7cc0ea6158abc
+    guid: plex://show/62938698adf7cc0ea6158abc
     seasons:
       - season: 1
         anilist-id: 150075
@@ -1868,7 +1868,7 @@ entries:
       - "Give Blessings to This Wonderful World!"
       - "Kono Subarashii Sekai ni Shukufuku o!"
       - "このすば"
-    # guid: plex://show/5d9c0817e264b7001fc3bda1
+    guid: plex://show/5d9c0817e264b7001fc3bda1
     seasons:
       - season: 1
         anilist-id: 21202
@@ -1888,7 +1888,7 @@ entries:
       - "Kuma desu ga, Nani ka?"
       - "Kumaku"
       - "くまクマ熊ベアーぱーんち！"
-    # guid: plex://show/5e269a8560871f0040871c97
+    guid: plex://show/5e269a8560871f0040871c97
     seasons:
       - season: 1
         anilist-id: 114340
@@ -1903,7 +1903,7 @@ entries:
       - "Level 1 Demon Lord and One Room Hero"
       - "Lv1 Maou to One Room Yuusha"
       - "Lv1 Maō to One Room Yūsha"
-    # guid: plex://show/6256a0665ab0ee88371172fb
+    guid: plex://show/6256a0665ab0ee88371172fb
     seasons:
       - season: 1
         anilist-id: 146836
@@ -1914,7 +1914,7 @@ entries:
     synonyms:
       - "L/R: Licensed by Royalty"
       - "LR Licensed by Royalty"
-    # guid: plex://show/61b0ce1c019f58c2253cb486
+    guid: plex://show/61b0ce1c019f58c2253cb486
     seasons:
       - season: 1
         anilist-id: 1456
@@ -1929,7 +1929,7 @@ entries:
       - "Shi Guang Daili Ren"
       - "Shiguang Daili Ren"
       - "Shiguang Dailiren"
-    # guid: plex://show/61b180048f749b300c783a36
+    guid: plex://show/61b180048f749b300c783a36
     seasons:
       - season: 1
         anilist-id: 126403
@@ -1944,7 +1944,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/318161
     synonyms:
       - "Little Witch Academia (TV)"
-    # guid: plex://show/5d9c0814ffd9ef001e98c135
+    guid: plex://show/5d9c0814ffd9ef001e98c135
     seasons:
       - season: 1
         anilist-id: 21858
@@ -1955,7 +1955,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/272128
     synonyms:
       - "Rogu Horaizun"
-    # guid: plex://show/5d9c083c02391c001f5846d0
+    guid: plex://show/5d9c083c02391c001f5846d0
     seasons:
       - season: 1
         anilist-id: 17265
@@ -1980,7 +1980,7 @@ entries:
       - "中二病でも恋がしたい!  戀"
       - "中二病でも恋がしたい！"
       - "中二病でも恋がしたい！戀"
-    # guid: plex://show/5d9c084fba2e21001f18f7fd
+    guid: plex://show/5d9c084fba2e21001f18f7fd
     seasons:
       - season: 1
         anilist-id: 14741
@@ -1999,7 +1999,7 @@ entries:
       - "ルパン三世"
       - "ルパン三世 PART5"
       - "ルパン三世：1971"
-    # guid: plex://show/5d9c07eae264b7001fc37ec3
+    guid: plex://show/5d9c07eae264b7001fc37ec3
     seasons:
       - season: 1
         anilist-id: 1412
@@ -2023,7 +2023,7 @@ entries:
       - "Meidoinabisu"
       - "メイドインアビス"
       - "来自深渊"
-    # guid: plex://show/5d9c08ceba6eb9001fbaab18
+    guid: plex://show/5d9c08ceba6eb9001fbaab18
     seasons:
       - season: 1
         anilist-id: 97986
@@ -2041,7 +2041,7 @@ entries:
       - "Magi: The Labyrinth of Magic"
       - "マギ The Kingdom of Magic"
       - "マギ The Labyrinth of Magic"
-    # guid: plex://show/5d9c08383c3f87001f34a972
+    guid: plex://show/5d9c08383c3f87001f34a972
     seasons:
       - season: 1
         anilist-id: 14513
@@ -2055,7 +2055,7 @@ entries:
     synonyms:
       - "Magi: Adventures of Sinbad"
       - "Magi: Sinbad no Bōken"
-    # guid: plex://show/5d9c0802ba6eb9001fb995d1
+    guid: plex://show/5d9c0802ba6eb9001fb995d1
     seasons:
       - season: 1
         anilist-id: 21394
@@ -2066,7 +2066,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/307112
     synonyms:
       - "Masou Gakuen HxH"
-    # guid: plex://show/5d9c0803ba6eb9001fb997ee
+    guid: plex://show/5d9c0803ba6eb9001fb997ee
     seasons:
       - season: 1
         anilist-id: 21378
@@ -2077,7 +2077,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/76013
     synonyms:
       - "メジャー (Mejaa)"
-    # guid: plex://show/5d9c080a2192ba001f305c2c
+    guid: plex://show/5d9c080a2192ba001f305c2c
     seasons:
       - season: 1
         anilist-id: 627
@@ -2101,7 +2101,7 @@ entries:
       - "Masamune-kun no Revenge"
       - "Masamunekuns Revenge"
       - "政宗くんのリベンジR"
-    # guid: plex://show/5d9c0814ec357c001f9a9998
+    guid: plex://show/5d9c0814ec357c001f9a9998
     seasons:
       - season: 1
         anilist-id: 21857
@@ -2114,7 +2114,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/421737
     synonyms:
       - "MASHLE"
-    # guid: plex://show/632f3453b625a2252ef53517
+    guid: plex://show/632f3453b625a2252ef53517
     seasons:
       - season: 1
         anilist-id: 151801
@@ -2129,7 +2129,7 @@ entries:
     synonyms:
       - "Megalo Box"
       - "ストーリー"
-    # guid: plex://show/5d9c08f9ffd9ef001e99d62b
+    guid: plex://show/5d9c08f9ffd9ef001e99d62b
     seasons:
       - season: 1
         anilist-id: 100298
@@ -2145,7 +2145,7 @@ entries:
       - "Kobayashi-san Chi no Maid Dragon"
       - "Kobayashi-san Chi no Maidragon"
       - "小林さんちのメイドラゴン"
-    # guid: plex://show/5d9c08147b5c2e001e653903
+    guid: plex://show/5d9c08147b5c2e001e653903
     seasons:
       - season: 1
         anilist-id: 21776
@@ -2159,7 +2159,7 @@ entries:
     synonyms:
       - "モブサイコ100"
       - "モブサイコ１００"
-    # guid: plex://show/5d9c08042df347001e3a892b
+    guid: plex://show/5d9c08042df347001e3a892b
     seasons:
       - season: 1
         anilist-id: 21507
@@ -2175,7 +2175,7 @@ entries:
     synonyms:
       - "Gundam Double-0"
       - "Kidou Senshi Gundam 00"
-    # guid: plex://show/5d9c082a2192ba001f309293
+    guid: plex://show/5d9c082a2192ba001f309293
     seasons:
       - season: 1
         anilist-id: 2581
@@ -2193,7 +2193,7 @@ entries:
       - "IRON-BLOODED ORPHANS"
       - "Kidou Senshi Gundam: Tekketsu no Orphans"
       - "Mobile Suit Gundam IRON-BLOODED ORPHANS"
-    # guid: plex://show/5d9c080f02391c001f57fe59
+    guid: plex://show/5d9c080f02391c001f57fe59
     seasons:
       - season: 1
         anilist-id: 21268
@@ -2211,7 +2211,7 @@ entries:
       - "Kidou Senshi Gundam: Suisei no Majo"
       - "Kidō Senshi Gundam: Suisei no Majo"
       - "機動戦士ガンダム 水星の魔女"
-    # guid: plex://show/6256a355c211a93304cf6531
+    guid: plex://show/6256a355c211a93304cf6531
     seasons:
       - season: 1
         anilist-id: 139274
@@ -2226,7 +2226,7 @@ entries:
     synonyms:
       - "Monogatari Series"
       - "物語"
-    # guid: plex://show/5d9c082dffd9ef001e98ec70
+    guid: plex://show/5d9c082dffd9ef001e98ec70
     seasons:
       # Bakemonogatari, 12 episodes on TMDB, 15 on AniList
       - season: 1
@@ -2249,7 +2249,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/74599
     synonyms:
       - "モンスター"
-    # guid: plex://show/5d9c084702391c001f58567d
+    guid: plex://show/5d9c084702391c001f58567d
     seasons:
       - season: 1
         anilist-id: 19
@@ -2264,7 +2264,7 @@ entries:
       - "Mushoku Tensei Jobless Reincarnation"
       - "Mushoku Tensei: Isekai Ittara Honki Dasu"
       - "無職転生 ～異世界行ったら本気だす～"
-    # guid: plex://show/5e01fc33932ff9001db3b242
+    guid: plex://show/5e01fc33932ff9001db3b242
     seasons:
       - season: 1
         anilist-id: 108465
@@ -2289,7 +2289,7 @@ entries:
       - "Sono Bisuku Dōru wa Koi wo Suru"
       - "Sono Kisekae Ningyou wa Koi wo suru"
       - "Sono Kisekae Ningyō wa Koi wo suru"
-    # guid: plex://show/6079b714b9b3140035a86868
+    guid: plex://show/6079b714b9b3140035a86868
     seasons:
       - season: 1
         anilist-id: 132405
@@ -2304,7 +2304,7 @@ entries:
       - "Watashi no Shiawase na Kekkon"
       - "わたしのしあわせなけっこん"
       - "わたしの幸せな結婚・アニメーション"
-    # guid: plex://show/624dbbdae0962bffc6682663
+    guid: plex://show/624dbbdae0962bffc6682663
     seasons:
       - season: 1
         anilist-id: 147103
@@ -2319,7 +2319,7 @@ entries:
       - "MHA"
       - "Boku no Hero Academia"
       - "ヒロアカ"
-    # guid: plex://show/5d9c081702391c001f580ca4
+    guid: plex://show/5d9c081702391c001f580ca4
     seasons:
       - season: 1
         anilist-id: 21459
@@ -2344,7 +2344,7 @@ entries:
       - "The Reincarnated Sage's Alternate World Life: I Got a Second Profession, and Became the Most Powerful in the World"
       - "Tensei Kenja no Isekai Life ~Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita~"
       - "Tensei Kenja no Isekai Life ~Daini no Shokugyō o Ete, Sekai Saikyō ni Narimashita~"
-    # guid: plex://show/615047d21bc41a422fd65ff0
+    guid: plex://show/615047d21bc41a422fd65ff0
     seasons:
       - season: 1
         anilist-id: 129192
@@ -2368,7 +2368,7 @@ entries:
       - "はめフラ"
       - "ハメフラ"
       - "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ"
-    # guid: plex://show/5e01fc33932ff9001db3b23c
+    guid: plex://show/5e01fc33932ff9001db3b23c
     seasons:
       - season: 1
         anilist-id: 104647
@@ -2394,7 +2394,7 @@ entries:
       - "Yahari Ore no Seishun LoveCome wa Machigatte Iru."
       - "はまち"
       - "俺ガイル"
-    # guid: plex://show/5d9c0817e264b7001fc3bcce
+    guid: plex://show/5d9c0817e264b7001fc3bcce
     seasons:
       - season: 1
         anilist-id: 14813
@@ -2410,7 +2410,7 @@ entries:
     synonyms:
       - "NARUTO -ナルト-"
       - "ナルト"
-    # guid: plex://show/5d9c082ee264b7001fc3e3b6
+    guid: plex://show/5d9c082ee264b7001fc3e3b6
     seasons:
       - season: 1
         anilist-id: 20
@@ -2432,7 +2432,7 @@ entries:
       - "Naruto: Shippuden"
       - "Naruto Shippuden"
       - "Naruto Shippûden"
-    # guid: plex://show/5d9c082a3c3f87001f34934e
+    guid: plex://show/5d9c082a3c3f87001f34934e
     seasons:
       - season: 1
         anilist-id: 1735
@@ -2488,7 +2488,7 @@ entries:
       - "Natsume's Friend Book"
       - "Zoku Natsume Yuujinchou"
       - "夏目友人帳"
-    # guid: plex://show/5d9c0815e98e47001eb07102
+    guid: plex://show/5d9c0815e98e47001eb07102
     seasons:
       - season: 1
         anilist-id: 4081
@@ -2513,7 +2513,7 @@ entries:
       - "NieRAutomata"
       - "NieR：Automata Ver1.1a"
       - "ニーア オートマタ Ver1.1a"
-    # guid: plex://show/62178d568b788c6ee0388271
+    guid: plex://show/62178d568b788c6ee0388271
     seasons:
       - season: 1
         anilist-id: 145665
@@ -2527,7 +2527,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/367067
     synonyms:
       - "ノー・ガンズ・ライフ"
-    # guid: plex://show/5df46a3b833806001d5470b8
+    guid: plex://show/5df46a3b833806001d5470b8
     seasons:
       - season: 1
         anilist-id: 108478
@@ -2542,7 +2542,7 @@ entries:
     synonyms:
       - "Stray God"
       - "ノラガミ"
-    # guid: plex://show/5d9c081402391c001f580574
+    guid: plex://show/5d9c081402391c001f580574
     seasons:
       - season: 1
         anilist-id: 20447
@@ -2553,7 +2553,7 @@ entries:
     # imdb: https://www.imdb.com/title/tt0388629/
     # tmdb: https://www.themoviedb.org/tv/37854
     # tvdb: https://www.thetvdb.com/dereferrer/series/81797
-    # guid: plex://show/5d9c084fec357c001f9ab4d8
+    guid: plex://show/5d9c084fec357c001f9ab4d8
     seasons:
       - season: 1
         anilist-id: 21
@@ -2607,7 +2607,7 @@ entries:
     synonyms:
       - "One Punch Man"
       - "Wanpanman"
-    # guid: plex://show/5d9c0808d4f2a9001f7fd5ad
+    guid: plex://show/5d9c0808d4f2a9001f7fd5ad
     seasons:
       - season: 1
         anilist-id: 21087
@@ -2627,7 +2627,7 @@ entries:
       - "Oniichan wa Oshimai!"
       - "Onimai"
       - "お兄ちゃんはおしまい！"
-    # guid: plex://show/626411e42ca794f087527881
+    guid: plex://show/626411e42ca794f087527881
     seasons:
       - season: 1
         anilist-id: 147864
@@ -2641,7 +2641,7 @@ entries:
       - "My Favorite Idol's Children"
       - "My Star"
       - "【OSHI NO KO】"
-    # guid: plex://show/62a3245d52758f8243740884
+    guid: plex://show/62a3245d52758f8243740884
     seasons:
       - season: 1
         anilist-id: 150672
@@ -2655,7 +2655,7 @@ entries:
     synonyms:
       - "Ōbārōdo"
       - "オーバーロード"
-    # guid: plex://show/5d9c080def619b002047c6f0
+    guid: plex://show/5d9c080def619b002047c6f0
     seasons:
       - season: 1
         anilist-id: 20832
@@ -2676,7 +2676,7 @@ entries:
       - "Princess Connect! ReDive"
       - "Princess Connect Re Dive"
       - "プリンセスコネクト！Re：Dive Season 2"
-    # guid: plex://show/5e457feb0f27a1003f4edc54
+    guid: plex://show/5e457feb0f27a1003f4edc54
     seasons:
       - season: 1
         anilist-id: 107871
@@ -2690,7 +2690,7 @@ entries:
     synonyms:
       - "Saiko Pasu"
       - "サイコパス"
-    # guid: plex://show/5d9c0841ba6eb9001fb9f716
+    guid: plex://show/5d9c0841ba6eb9001fb9f716
     seasons:
       - season: 1
         anilist-id: 13601
@@ -2706,7 +2706,7 @@ entries:
     synonyms:
       - "Full-Time Magister"
       - "Quan Zhi Fa Shi"
-    # guid: plex://show/5d9c08ccba6eb9001fbaa50b
+    guid: plex://show/5d9c08ccba6eb9001fbaa50b
     seasons:
       - season: 1
         anilist-id: 99200
@@ -2728,7 +2728,7 @@ entries:
     synonyms:
       - "Shingeki no Bahamut"
       - "神撃のバハムート"
-    # guid: plex://show/5d9c0849ba6eb9001fba0178
+    guid: plex://show/5d9c0849ba6eb9001fba0178
     seasons:
       - season: 1
         anilist-id: 20590
@@ -2742,7 +2742,7 @@ entries:
     synonyms:
       - "Ousama Ranking"
       - "Ōsama Ranking"
-    # guid: plex://show/5fa6c4f7a2df66002ed0f0bc
+    guid: plex://show/5fa6c4f7a2df66002ed0f0bc
     seasons:
       - season: 1
         anilist-id: 113717
@@ -2755,7 +2755,7 @@ entries:
       - "Ousama Ranking: Yuuki no Takarabako"
       - "Ousama Ranking：Yuuki No Takarabako"
       - "Ōsama Ranking: Yūki no Takarabako"
-    # guid: plex://show/62f282c2445f70fb9160e347
+    guid: plex://show/62f282c2445f70fb9160e347
     seasons:
       - season: 1
         anilist-id: 153452
@@ -2775,7 +2775,7 @@ entries:
       - "Re Zero kara Hajimeru Isekai Seikatsu"
       - "ReZero kara Hajimeru Isekai Seikatsu"
       - "Re:ゼロから始める異世界生活"
-    # guid: plex://show/5d9c0817e98e47001eb0777d
+    guid: plex://show/5d9c0817e98e47001eb0777d
     seasons:
       - season: 1
         anilist-id: 21355
@@ -2799,7 +2799,7 @@ entries:
       - "Kanojo, Okarishimasu"
       - "Rent a Girlfriend"
       - "Rental Girlfriend"
-    # guid: plex://show/5e1625a7f37085003e285c0c
+    guid: plex://show/5e1625a7f37085003e285c0c
     seasons:
       - season: 1
         anilist-id: 113813
@@ -2817,7 +2817,7 @@ entries:
     synonyms:
       - "Saint Cecilia & Pastor Lawrence"
       - "Shiro Seijo to Kuro Bokushi"
-    # guid: plex://show/62ab5392458587620e2ba589
+    guid: plex://show/62ab5392458587620e2ba589
     seasons:
       - season: 1
         anilist-id: 150972
@@ -2829,7 +2829,7 @@ entries:
     synonyms:
       - "Owari no Seraph"
       - "終わりのセラフ"
-    # guid: plex://show/5d9c0852e98e47001eb0cb74
+    guid: plex://show/5d9c0852e98e47001eb0cb74
     seasons:
       - season: 1
         anilist-id: 20829
@@ -2843,7 +2843,7 @@ entries:
     synonyms:
       - "Kawaii Dake Janai Shikimori-san"
       - "Kawaii dake ja Nai Shikimori-san"
-    # guid: plex://show/5ff0880f8cdd46002d35e8d6
+    guid: plex://show/5ff0880f8cdd46002d35e8d6
     seasons:
       - season: 1
         anilist-id: 127911
@@ -2860,7 +2860,7 @@ entries:
       - "Shōwa Genroku Rakugo Shinjū"
       - "昭和元禄落語心中"
       - "昭和元禄落語心中 ー助六再び篇ー"
-    # guid: plex://show/5d9c08027d06d9001ffced61
+    guid: plex://show/5d9c08027d06d9001ffced61
     seasons:
       - season: 1
         anilist-id: 20972
@@ -2874,7 +2874,7 @@ entries:
     synonyms:
       - "SK Eight"
       - "SK∞"
-    # guid: plex://show/5f68d2a6f50f230041d4ca64
+    guid: plex://show/5f68d2a6f50f230041d4ca64
     seasons:
       - season: 1
         anilist-id: 124153
@@ -2887,7 +2887,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/412696
     synonyms:
       - "Skip to Loafer"
-    # guid: plex://show/619a55fc5b9cdd4038543228
+    guid: plex://show/619a55fc5b9cdd4038543228
     seasons:
       - season: 1
         anilist-id: 141911
@@ -2896,7 +2896,7 @@ entries:
     # imdb: https://www.imdb.com/title/tt0965547/
     # tmdb: https://www.themoviedb.org/tv/42573
     # tvdb: https://www.thetvdb.com/dereferrer/series/72491
-    # guid: plex://show/5d9c08292df347001e3ac764
+    guid: plex://show/5d9c08292df347001e3ac764
     seasons:
       - season: 1
         anilist-id: 170
@@ -2909,7 +2909,7 @@ entries:
       - "Uchuu Kyoudai"
       - "Uchû kyôdai"
       - "Uchū Kyōdai"
-    # guid: plex://show/5d9c081f4eefaa001f5d672a
+    guid: plex://show/5d9c081f4eefaa001f5d672a
     seasons:
       - season: 1
         anilist-id: 12431
@@ -2924,7 +2924,7 @@ entries:
       - "Ookami to Koushinryou"
       - "Ôkami to Kôshinryô"
       - "Ōkami to Kōshinryō"
-    # guid: plex://show/5d9c083402391c001f583d05
+    guid: plex://show/5d9c083402391c001f583d05
     seasons:
       - season: 1
         anilist-id: 2966
@@ -2939,7 +2939,7 @@ entries:
       - "Spice & Wolf: Merchant Meets the Wise Wolf"
       - "Ookami to Koushinryou: merchant meets the wise wolf"
       - "Ōkami to Kōshinryō: merchant meets the wise wolf"
-    # guid: plex://show/651b2625cc83a8f2712fff0b
+    guid: plex://show/651b2625cc83a8f2712fff0b
     seasons:
       - season: 1
         anilist-id: 145728
@@ -2953,7 +2953,7 @@ entries:
       - "Spy Family"
       - "Spy x Family 2nd"
       - "スパイファミリー"
-    # guid: plex://show/617fcf9e0b976a839051dab2
+    guid: plex://show/617fcf9e0b976a839051dab2
     seasons:
       - season: 1
         anilist-id: 140960
@@ -2974,7 +2974,7 @@ entries:
       - "Star Blazers [Space Battleship Yamato] 2202: Warriors of Love"
       - "Uchuu Senkan Yamato 2199"
       - "宇宙戦艦ヤマト2202 愛の戦士たち"
-    # guid: plex://show/5d9c0821ffd9ef001e98da36
+    guid: plex://show/5d9c0821ffd9ef001e98da36
     seasons:
       - season: 1
         anilist-id: 12029
@@ -2985,7 +2985,7 @@ entries:
     # imdb: https://www.imdb.com/title/tt13622982/
     # tmdb: https://www.themoviedb.org/tv/114478
     # tvdb: https://www.thetvdb.com/dereferrer/series/393190
-    # guid: plex://show/5fd47f3cd7a671002e169483
+    guid: plex://show/5fd47f3cd7a671002e169483
     seasons:
       - season: 1
         anilist-id: 138060
@@ -2999,7 +2999,7 @@ entries:
       - "Steins;Gate 聡明叡智のコグニティブコンピューティング"
       - "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
       - "シュタインズ・ゲート"
-    # guid: plex://show/5d9c08273c3f87001f348ce9
+    guid: plex://show/5d9c08273c3f87001f348ce9
     seasons:
       - season: 1
         anilist-id: 9253
@@ -3012,7 +3012,7 @@ entries:
       - "Steins;Gate Zero"
       - "Shutainzu Gēto Zero"
       - "シュタインズ・ゲートゼロ"
-    # guid: plex://show/5d9c08eeba2e21001f193c98
+    guid: plex://show/5d9c08eeba2e21001f193c98
     seasons:
       - season: 1
         anilist-id: 21127
@@ -3025,7 +3025,7 @@ entries:
       - "Summer Time Render"
       - "Summertime Rendering"
       - "Summertime Render"
-    # guid: plex://show/601979150ac8df002b933135
+    guid: plex://show/601979150ac8df002b933135
     seasons:
       - season: 1
         anilist-id: 129201
@@ -3047,7 +3047,7 @@ entries:
       - "戦姫絶唱シンフォギアG"
       - "戦姫絶唱シンフォギアGX"
       - "戦姫絶唱シンフォギアXV"
-    # guid: plex://show/5d9c0803ffd9ef001e98a992
+    guid: plex://show/5d9c0803ffd9ef001e98a992
     seasons:
       - season: 1
         anilist-id: 11751
@@ -3070,7 +3070,7 @@ entries:
       - "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
       - "Tatoeba Last Dungeon Mae no Mura no Shōnen ga Joban no Machi de Kurasu Yō na Monogatari"
       - "ラスダン"
-    # guid: plex://show/5e7e3e64dbe82b0040e436cc
+    guid: plex://show/5e7e3e64dbe82b0040e436cc
     seasons:
       - season: 1
         anilist-id: 112649
@@ -3081,7 +3081,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/308521
     synonyms:
       - "Amaama to Inazuma"
-    # guid: plex://show/5d9c080308fddd001f29004c
+    guid: plex://show/5d9c080308fddd001f29004c
     seasons:
       - season: 1
         anilist-id: 21659
@@ -3094,7 +3094,7 @@ entries:
       - "SAO"
       - "Sōdo Āto Onrain"
       - "ソードアート・オンライン"
-    # guid: plex://show/5d9c07ee6c3e37001ecd2f34
+    guid: plex://show/5d9c07ee6c3e37001ecd2f34
     seasons:
       - season: 1
         anilist-id: 11757
@@ -3122,7 +3122,7 @@ entries:
       - "Tengoku daimakyou"
       - "Tengoku daimakyō"
       - "天国大魔境"
-    # guid: plex://show/630a1270571e44d463bae92f
+    guid: plex://show/630a1270571e44d463bae92f
     seasons:
       - season: 1
         anilist-id: 155783
@@ -3138,7 +3138,7 @@ entries:
       - "Tensei shitara Slime Datta Ken"
       - "転スラ"
       - "転生したらスライムだった件"
-    # guid: plex://show/5d9c090e08fddd001f2a6a98
+    guid: plex://show/5d9c090e08fddd001f2a6a98
     seasons:
       - season: 1
         anilist-id: 101280
@@ -3162,7 +3162,7 @@ entries:
       - "Mahô Tsukai no Yome"
       - "Mahoyome"
       - "魔法使いの嫁"
-    # guid: plex://show/5d9c0809e98e47001eb060ff
+    guid: plex://show/5d9c0809e98e47001eb060ff
     seasons:
       - season: 1
         anilist-id: 98436
@@ -3178,7 +3178,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/431162
     synonyms:
       - "Kusuriya no Hitorigoto"
-    # guid: plex://show/63edda20eaab3bc0ed18bff2
+    guid: plex://show/63edda20eaab3bc0ed18bff2
     seasons:
       - season: 1
         anilist-id: 161645
@@ -3190,7 +3190,7 @@ entries:
     synonyms:
       - "Tensei Kizoku no Isekai Boukenroku Jichou o Shiranai Kamigami no Shito"
       - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
-    # guid: plex://show/62ee806c7228b8684ca9dc5e
+    guid: plex://show/62ee806c7228b8684ca9dc5e
     seasons:
       - season: 1
         anilist-id: 153332
@@ -3201,7 +3201,7 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/422981
     synonyms:
       - "Boku no Kokoro no Yabai Yatsu"
-    # guid: plex://show/638ef90a92bb2fdc322d2db2
+    guid: plex://show/638ef90a92bb2fdc322d2db2
     seasons:
       - season: 1
         anilist-id: 153152
@@ -3217,7 +3217,7 @@ entries:
       - "Street Corner Demon"
       - "Machikado Mazoku"
       - "まちカドまぞく"
-    # guid: plex://show/5d9c092302391c001f595f57
+    guid: plex://show/5d9c092302391c001f595f57
     seasons:
       - season: 1
         anilist-id: 107490
@@ -3231,7 +3231,7 @@ entries:
     synonyms:
       - "Hataraku Maousama!"
       - "はたらく魔王さま!"
-    # guid: plex://show/5d9c082702391c001f5827b1
+    guid: plex://show/5d9c082702391c001f5827b1
     seasons:
       - season: 1
         anilist-id: 15809
@@ -3251,7 +3251,7 @@ entries:
       - "Kage no Jitsuryokusha ni Naritakute!"
       - "Kage-Jitsu!"
       - "かげじつ！"
-    # guid: plex://show/603a881229be08002d3dee69
+    guid: plex://show/603a881229be08002d3dee69
     seasons:
       - season: 1
         anilist-id: 130298
@@ -3267,7 +3267,7 @@ entries:
       - "Zero no Tsukaima"
       - "Zero's Familiar"
       - "ゼロの使い魔"
-    # guid: plex://show/5d9c082e705e7a001e6d4fe1
+    guid: plex://show/5d9c082e705e7a001e6d4fe1
     seasons:
       - season: 1
         anilist-id: 1195
@@ -3287,7 +3287,7 @@ entries:
       - "Saihate no Paladin"
       - "世界尽头的圣骑士"
       - "最果てのパラディン"
-    # guid: plex://show/607c5f8e7ce89d0035158fbf
+    guid: plex://show/607c5f8e7ce89d0035158fbf
     seasons:
       - season: 1
         anilist-id: 132473
@@ -3302,7 +3302,7 @@ entries:
       - "Arslan Senki"
       - "Heroic Legend of Arslan"
       - "アルスラーン戦記"
-    # guid: plex://show/5d9c0852ba6eb9001fba0f1a
+    guid: plex://show/5d9c0852ba6eb9001fba0f1a
     seasons:
       - season: 1
         anilist-id: 20935
@@ -3322,7 +3322,7 @@ entries:
       - "Mahouka Koukou no Rettousei"
       - "Mahōka Kōkō no Rettōsei"
       - "魔法科高校の劣等生"
-    # guid: plex://show/5d9c083c705e7a001e6d6b4e
+    guid: plex://show/5d9c083c705e7a001e6d6b4e
     seasons:
       - season: 1
         anilist-id: 20458
@@ -3340,7 +3340,7 @@ entries:
       - "Quan Zhi Gao Shou"
       - "Quanzhi Gaoshou"
       - "全职高手 动画版"
-    # guid: plex://show/5d9c08cc705e7a001e6e4247
+    guid: plex://show/5d9c08cc705e7a001e6e4247
     seasons:
       - season: 1
         anilist-id: 98861
@@ -3356,7 +3356,7 @@ entries:
     synonyms:
       - "Hyakuren no Haou to Seiyaku no Ikusa Otome"
       - "Hyakuren no Haō to Seiyaku no Valkyria"
-    # guid: plex://show/5d9c09052df347001e3bbb66
+    guid: plex://show/5d9c09052df347001e3bbb66
     seasons:
       - season: 1
         anilist-id: 101289
@@ -3375,7 +3375,7 @@ entries:
       - "Maō Gakuin no Futekigōsha"
       - "魔王学院"
       - "\U0001F21F魔王学院の不適合者"
-    # guid: plex://show/5e204255072b9e003ca5c160
+    guid: plex://show/5e204255072b9e003ca5c160
     seasons:
       - season: 1
         anilist-id: 112301
@@ -3392,7 +3392,7 @@ entries:
     synonyms:
       - "Yakusoku no Neverland"
       - "約束のネバーランド"
-    # guid: plex://show/5d9c09002df347001e3bb5d6
+    guid: plex://show/5d9c09002df347001e3bb5d6
     seasons:
       - season: 1
         anilist-id: 101759
@@ -3409,7 +3409,7 @@ entries:
       - "Go-Toubun no Hanayome"
       - "Go-Tōbun no Hanayome"
       - "Gotoubun no Hanayome"
-    # guid: plex://show/5d9c09147b5c2e001e66656f
+    guid: plex://show/5d9c09147b5c2e001e66656f
     seasons:
       - season: 1
         anilist-id: 103572
@@ -3425,7 +3425,7 @@ entries:
       - "Tate no Yuusha no Nariagari"
       - "盾の勇者の成り上がり"
       - "방패용사성공담"
-    # guid: plex://show/5d9c090e3c3f87001f35b455
+    guid: plex://show/5d9c090e3c3f87001f35b455
     seasons:
       - season: 1
         anilist-id: 99263
@@ -3441,7 +3441,7 @@ entries:
     synonyms:
       - "Nanatsu no Taizai"
       - "七つの大罪"
-    # guid: plex://show/5d9c08510aaccd001f8eefde
+    guid: plex://show/5d9c08510aaccd001f8eefde
     seasons:
       - season: 1
         anilist-id: 20789
@@ -3461,7 +3461,7 @@ entries:
       - "Tensura Nikki Tensei Shitara Slime Datta Ken"
       - "Tensura Nikki: Tensei shitara Slime Datta Ken"
       - "転スラ日記"
-    # guid: plex://show/5f0d5a3130f204003a174487
+    guid: plex://show/5f0d5a3130f204003a174487
     seasons:
       - season: 1
         anilist-id: 116741
@@ -3475,7 +3475,7 @@ entries:
       - "Shikkaku Mon no Saikyou Kenja"
       - "Shikkaku Mon no Saikyō Kenja"
       - "失格紋の最強賢者～世界最強の賢者が更に強くなるために転生しました～"
-    # guid: plex://show/601838cea21011002c8ede34
+    guid: plex://show/601838cea21011002c8ede34
     seasons:
       - season: 1
         anilist-id: 129191
@@ -3487,7 +3487,7 @@ entries:
     synonyms:
       - "The Tale of the Outcasts"
       - "Nokemono-tachi no Yoru"
-    # guid: plex://show/62bf053a2e062c3286eb98d3
+    guid: plex://show/62bf053a2e062c3286eb98d3
     seasons:
       - season: 1
         anilist-id: 151679
@@ -3501,7 +3501,7 @@ entries:
       - "Sekai Saikou no Assassin, Isekai Kizoku ni Tensei Suru"
       - "Sekai Saikō no Ansatsusha, Isekai Kizoku ni Tensei Suru"
       - "暗殺貴族"
-    # guid: plex://show/602c2f9b2f194a002c0099f9
+    guid: plex://show/602c2f9b2f194a002c0099f9
     seasons:
       - season: 1
         anilist-id: 129898
@@ -3515,7 +3515,7 @@ entries:
     synonyms:
       - "Kumichou Musume to Sewagakari"
       - "Kumichō Musume to Sewagakari"
-    # guid: plex://show/613b6f3ab193f92d44a9809f
+    guid: plex://show/613b6f3ab193f92d44a9809f
     seasons:
       - season: 1
         anilist-id: 138882
@@ -3528,7 +3528,7 @@ entries:
       - "To You, the Immortal"
       - "Fumetsu no Anata e"
       - "不滅のあなたへ"
-    # guid: plex://show/5e1b0c604c78f7003eaab1c8
+    guid: plex://show/5e1b0c604c78f7003eaab1c8
     seasons:
       - season: 1
         anilist-id: 114535
@@ -3546,7 +3546,7 @@ entries:
       - "Toukyou Kushu"
       - "Tōkyō Gūru"
       - "東京喰種"
-    # guid: plex://show/5d9c08474eefaa001f5d9978
+    guid: plex://show/5d9c08474eefaa001f5d9978
     seasons:
       - season: 1
         anilist-id: 20605
@@ -3564,7 +3564,7 @@ entries:
     synonyms:
       - "東京リベンジャーズ"
       - "東京卍リベンジャーズ"
-    # guid: plex://show/5ef15400f689e800405d8b2b
+    guid: plex://show/5ef15400f689e800405d8b2b
     seasons:
       - season: 1
         anilist-id: 120120
@@ -3589,7 +3589,7 @@ entries:
       - "トニカクカワイイ Fly Me to the Moon"
       - "トニカクカワイイ 女子高編"
       - "トニカワ"
-    # guid: plex://show/5e69c6f5874db7003e2dd56f
+    guid: plex://show/5e69c6f5874db7003e2dd56f
     seasons:
       - season: 1
         anilist-id: 116267
@@ -3607,7 +3607,7 @@ entries:
       - "Sinui Tap"
       - "神之塔"
       - "신의 탑"
-    # guid: plex://show/5e269a8b619e33003efe0578
+    guid: plex://show/5e269a8b619e33003efe0578
     seasons:
       - season: 1
         anilist-id: 115230
@@ -3626,7 +3626,7 @@ entries:
       - "Tsurune: Tsunagari no Issha"
       - "ツルネ"
       - "ツルネ -つながりの一射-"
-    # guid: plex://show/5d9c09107b5c2e001e6662d2
+    guid: plex://show/5d9c09107b5c2e001e6662d2
     seasons:
       - season: 1
         anilist-id: 100402
@@ -3640,7 +3640,7 @@ entries:
     synonyms:
       - "Sousei no Onmyouji"
       - "Sōsei no Onmyōji"
-    # guid: plex://show/5d9c0818ffd9ef001e98cc3b
+    guid: plex://show/5d9c0818ffd9ef001e98cc3b
     seasons:
       - season: 1
         anilist-id: 21499
@@ -3653,7 +3653,7 @@ entries:
       - "Andeddo Gaaru Maadaafarusu"
       - "Andeddo Gāru Mādā Farusu"
       - "Undead Girl Murder Farce"
-    # guid: plex://show/641c6665fdc66b08daeb7435
+    guid: plex://show/641c6665fdc66b08daeb7435
     seasons:
       - season: 1
         anilist-id: 162983
@@ -3670,7 +3670,7 @@ entries:
       - "Uzaki-chan wa Asobitai! 2"
       - "Uzaki-chan wa Asobitai! Double"
       - "宇崎ちゃんは遊びたい！ω"
-    # guid: plex://show/5e457fe0d7a37f003ed3f28c
+    guid: plex://show/5e457fe0d7a37f003ed3f28c
     seasons:
       - season: 1
         anilist-id: 115113
@@ -3686,7 +3686,7 @@ entries:
       - "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu"
       - "Kinsō no Vermeil: Gakeppuchi Majutsushi wa Saikyō no Yakusai to Mahō Sekai wo Tsukisusumu"
       - "Vermeil in Gold ~A Magician Pushes Through the Magical World With the Strongest Disaster~"
-    # guid: plex://show/622aa1c01217c186d261f5fd
+    guid: plex://show/622aa1c01217c186d261f5fd
     seasons:
       - season: 1
         anilist-id: 146210
@@ -3698,7 +3698,7 @@ entries:
     synonyms:
       - "ヴィンランドサガ"
       - "ヴィンランド・サガ"
-    # guid: plex://show/5d9c09184eefaa001f5e81a4
+    guid: plex://show/5d9c09184eefaa001f5e81a4
     seasons:
       - season: 1
         anilist-id: 101348
@@ -3712,7 +3712,7 @@ entries:
     synonyms:
       - "WORKING!!"
       - "ワーキング!!"
-    # guid: plex://show/5d9c082d705e7a001e6d4d6b
+    guid: plex://show/5d9c082d705e7a001e6d4d6b
     seasons:
       - season: 1
         anilist-id: 6956
@@ -3735,7 +3735,7 @@ entries:
       - "Welcome to Demon-School! Iruma-kun"
       - "Welcome to Demon School, Iruma-kun"
       - "Welcome to Demon-School, Iruma-kun"
-    # guid: plex://show/5df5b931d0c35a001d581fb4
+    guid: plex://show/5df5b931d0c35a001d581fb4
     seasons:
       - season: 1
         anilist-id: 107693
@@ -3748,7 +3748,7 @@ entries:
     # imdb: https://www.imdb.com/title/tt3950102/
     # tmdb: https://www.themoviedb.org/tv/61628
     # tvdb: https://www.thetvdb.com/dereferrer/series/283934
-    # guid: plex://show/5d9c084dffd9ef001e991550
+    guid: plex://show/5d9c084dffd9ef001e991550
     seasons:
       - season: 1
         anilist-id: 20729
@@ -3764,7 +3764,7 @@ entries:
     synonyms:
       - "×××HOLiC"
       - "×××ホリック"
-    # guid: plex://show/5d9c08407b5c2e001e657c10
+    guid: plex://show/5d9c08407b5c2e001e657c10
     seasons:
       - season: 1
         anilist-id: 861
@@ -3779,7 +3779,7 @@ entries:
       # There's a live-action 2013 series as well
       - "Yamada-kun and the Seven Witches (2015)"
       - "Yamada-kun to 7-nin no Majo"
-    # guid: plex://show/5d9c0867ba6eb9001fba2e22
+    guid: plex://show/5d9c0867ba6eb9001fba2e22
     seasons:
       - season: 1
         anilist-id: 20966
@@ -3792,7 +3792,7 @@ entries:
       - "Yowamushi Pedaru"
       - "Yowapeda"
       - "弱虫ペダル"
-    # guid: plex://show/5d9c08493c3f87001f34bc24
+    guid: plex://show/5d9c08493c3f87001f34bc24
     seasons:
       - season: 1
         anilist-id: 18179
@@ -3813,7 +3813,7 @@ entries:
       - "Yuki Yuna wa Yusha de Aru"
       - "Yuuki Yuuna wa Yuusha de Aru"
       - "結城友奈は勇者である"
-    # guid: plex://show/5d9c08ac2192ba001f314b08
+    guid: plex://show/5d9c08ac2192ba001f314b08
     seasons:
       - season: 1
         anilist-id: 20800
@@ -3833,7 +3833,7 @@ entries:
       - "Bucket List of the Dead"
       - "Zom 100"
       - "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"
-    # guid: plex://show/63b89f640d2426385fa072df
+    guid: plex://show/63b89f640d2426385fa072df
     seasons:
       - season: 1
         anilist-id: 159831
