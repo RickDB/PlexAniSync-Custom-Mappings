@@ -254,7 +254,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/90937
     # tvdb: https://www.thetvdb.com/dereferrer/series/361013
     synonyms:
-      - "Beastars"
       - "ビースターズ"
     # guid: plex://show/5d9c091c2df347001e3bd0c1
     seasons:
@@ -654,7 +653,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/67145
     # tvdb: https://www.thetvdb.com/dereferrer/series/312878
     synonyms:
-      - "D.Gray-man HALLOW"
       - "ディーグレイマンハロー"
       - "ディー・グレイマン ハロー"
     # guid: plex://show/5d9c0805e9d5a1001f4d6a6c
@@ -667,7 +665,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/67674
     # tvdb: https://www.thetvdb.com/dereferrer/series/314361
     synonyms:
-      - "Danganronpa"
       - "Danganronpa 3 The End Of Kibougamine Gakuen Zetsubou Hen"
       - "Danganronpa 3 Zetsubou Hen"
     # guid: plex://show/5d9c08082df347001e3a919c
@@ -876,7 +873,6 @@ entries:
     synonyms:
       - "DRRR!!"
       - "Dullalala!!"
-      - "Durarara!!"
       - "Dyurarara!!"
     # guid: plex://show/5d9c07f3ba6eb9001fb97be1
     seasons:
@@ -1405,7 +1401,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/45950
     # tvdb: https://www.thetvdb.com/dereferrer/series/254653
     synonyms:
-      - "High School D×D"
       - "ハイスクールDxD"
     # guid: plex://show/5d9c08247d06d9001ffcfef5
     seasons:
@@ -1448,10 +1443,6 @@ entries:
       - "Hitori no Shita"
       - "一人の下"
       - "一人之下 THE OUTCAST"
-      - "Hitorinoshita: The Outcast"
-      - "The Outcast"
-      - "The.Outcast"
-      - "Under One Person"
     # guid: plex://show/5d9c0804705e7a001e6cfefd
     seasons:
       - season: 1
@@ -1471,7 +1462,6 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/388593
     synonyms:
       - "Hori-san and Miyamura-kun"
-      - "HoriMiya"
       - "ホリミヤ"
     # guid: plex://show/5f63886575b84d0039f98e66
     seasons:
@@ -1575,7 +1565,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/72505
     # tvdb: https://www.thetvdb.com/dereferrer/series/329992
     synonyms:
-      - "In Another World With My Smartphone"
       - "Isekai Wa Smartphone"
       - "Isesuma"
       - "異世界はスマートフォンとともに。"
@@ -1644,7 +1633,6 @@ entries:
     synonyms:
       - "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka"
       - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
-      - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
       - "ダンまち"
       - "ダンジョンに出会いを求めるのは間違っているだろうか"
     # guid: plex://show/5d9c0868d4f2a9001f800872
@@ -1734,11 +1722,8 @@ entries:
       - "Kaguya-sama Love is War"
       - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
       - "Kaguya sama wa Kokurasetai"
-      - "Kaguya-sama wa Kokurasetai"
       - "Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen"
       - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen"
-      - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
-      - "Kaguya-sama wa Kokurasetai꞉ Tensai-tachi no Renai Zunousen"
       - "かぐや様は告らせたいーウルトラロマンティックー"
       - "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
     # guid: plex://show/5d9c090f02391c001f594b8b
@@ -1803,7 +1788,6 @@ entries:
       - "Kamihaji"
       - "Kamisama Hajimemashita"
       - "Kami-sama Hajimemashita"
-      - "Kamisama Hajimemashita"
       - "神様はじめました◎"
     # guid: plex://show/5d9c086802391c001f588870
     seasons:
@@ -1851,7 +1835,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/123876
     # tvdb: https://www.thetvdb.com/dereferrer/series/402412
     synonyms:
-      - "Komi-san wa, Comyushou desu."
       - "Komi-san wa, Comyushou desu."
       - "Komi-san wa, Komyushou desu."
       - "Komi-san wa, Komyushō desu."
@@ -2623,7 +2606,6 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/293088
     synonyms:
       - "One Punch Man"
-      - "One Punch Man"
       - "Wanpanman"
     # guid: plex://show/5d9c0808d4f2a9001f7fd5ad
     seasons:
@@ -2969,7 +2951,6 @@ entries:
     synonyms:
       - "SPY×FAMILY：2022"
       - "Spy Family"
-      - "Spy X Family"
       - "Spy x Family 2nd"
       - "スパイファミリー"
     # guid: plex://show/617fcf9e0b976a839051dab2
@@ -3014,7 +2995,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/42509
     # tvdb: https://www.thetvdb.com/dereferrer/series/244061
     synonyms:
-      - "STEINS;GATE"
       - "Steins Gate"
       - "Steins;Gate 聡明叡智のコグニティブコンピューティング"
       - "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
@@ -3249,7 +3229,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/45997
     # tvdb: https://www.thetvdb.com/dereferrer/series/267441
     synonyms:
-      - "The Devil is a Part-Timer!"
       - "Hataraku Maousama!"
       - "はたらく魔王さま!"
     # guid: plex://show/5d9c082702391c001f5827b1
@@ -3389,7 +3368,6 @@ entries:
     synonyms:
       - "Demon King Academy"
       - "Demon King Mismatched School"
-      - "The Misfit of Demon King Academy"
       - "The Unqualified Student of Demon Lord Academy"
       - "The Unqualified Student at the Demon Lord Academy"
       - "The Greatest Demon Lord Is Reborn as a Typical Nobody"
@@ -3832,7 +3810,6 @@ entries:
     # tmdb: https://www.themoviedb.org/tv/71493
     # tvdb: https://www.thetvdb.com/dereferrer/series/284263
     synonyms:
-      - "Yuuki Yuuna Is a Hero"
       - "Yuki Yuna wa Yusha de Aru"
       - "Yuuki Yuuna wa Yuusha de Aru"
       - "結城友奈は勇者である"

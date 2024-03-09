@@ -167,7 +167,6 @@ entries:
       - "Made in Abyss Journeys Dawn"
       - "Made in Abyss Movie 1: Journey's Dawn"
       - "Made in Abyss the Movies: Journey's Dawn"
-      - "Gekijouban Soushuuhen Made in Abyss"
       - "Made in Abyss Movie 1: Tabidachi no Yoake"
       - "Made in Abyss: Tabidachi no Yoake"
       - "劇場版総集編【前編】メイドインアビス 旅立ちの夜明け"
@@ -181,7 +180,6 @@ entries:
     # tmdb: https://www.themoviedb.org/movie/526429
     synonyms:
       - "Made in Abyss Movie 2: Wandering Twilight"
-      - "Gekijouban Soushuuhen Made in Abyss"
       - "Made in Abyss Movie 2: Hourou Suru Tasogare"
       - "Made in Abyss: Hourou Suru Tasogare"
       - "Made in Abyss: Hôrô Suru Tasogare"
@@ -247,7 +245,6 @@ entries:
       - "Gekijouban Sword Art Online: Progressive - Hoshinaki Yoru no Ari"
       - "Gekijō-ban Sword Art Online: Progressive Hoshi Naki Yoru no Aria"
       - "Sword Art Online Progressive Movie: Hoshi Naki Yoru no Aria"
-      - "Sōdo Āto Onrain"
     # guid: plex://movie/5fa9028690715e002d03aa6a
     seasons:
       - season: 1
@@ -279,9 +276,7 @@ entries:
       - "Gekijôban Tensei Shitara Slime Datta Ken"
       - "Tensei Shitara Slime Datta Ken Movie"
       - "Tensei Shitara Slime Datta Ken: Guren no Kizuna"
-      - "Tensura"
       - "劇場版 転生したらスライムだった件"
-      - "転スラ"
     # guid: plex://movie/614edf3cd485e6b9ff59a6ce
     seasons:
       - season: 1
@@ -505,7 +500,6 @@ entries:
     # tmdb: https://www.themoviedb.org/movie/179934
     synonyms:
       - "Eternal Quon"
-      - "Towa no Quon 6"
       - "Towa no Quon 6"
       - "Towa no Quon 6: Towa no Quon"
       - "トワノクオン 第６章 永久の久遠"
