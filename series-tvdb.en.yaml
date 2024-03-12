@@ -4,9 +4,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13718450/
     # tmdb: https://www.themoviedb.org/tv/100565
     # tvdb: https://www.thetvdb.com/dereferrer/series/378609
-    synonyms:
-      - "86"
-      - "Eighty Six"
     guid: plex://show/5e7362fb4a62f90040e89827
     seasons:
       - season: 1
@@ -19,10 +16,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1515996/
     # tmdb: https://www.themoviedb.org/tv/30977
     # tvdb: https://www.thetvdb.com/dereferrer/series/114921
-    synonyms:
-      - "To Aru Kagaku no Railgun"
-      - "Toaru Kagaku no Railgun S"
-      - "Toaru Kagaku no Railgun T"
     guid: plex://show/5d9c07fdec357c001f9a8ac5
     seasons:
       - season: 1
@@ -36,9 +29,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt14400866/
     # tmdb: https://www.themoviedb.org/tv/122587
     # tvdb: https://www.thetvdb.com/dereferrer/series/400585
-    synonyms:
-      - "Kakkou no Iinazuke"
-      - "Kakkō no Iinazuke"
     guid: plex://show/606dda0b1e9ff70037d05c31
     seasons:
       - season: 1
@@ -48,10 +38,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3105422/
     # tmdb: https://www.themoviedb.org/tv/60761
     # tvdb: https://www.thetvdb.com/dereferrer/series/273005
-    synonyms:
-      - "Ace of Diamond: Act II"
-      - "Diamond no Ace"
-      - "ダイヤのA[エース]"
     guid: plex://show/5d9c083c2df347001e3ae2f6
     seasons:
       - season: 1
@@ -65,8 +51,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3544556/
     # tmdb: https://www.themoviedb.org/tv/61259
     # tvdb: https://www.thetvdb.com/dereferrer/series/279827
-    synonyms:
-      - "Aldnoah Zero"
     guid: plex://show/5d9c0845ffd9ef001e990bb2
     seasons:
       # AniList treats this as two seasons
@@ -80,9 +64,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5236254/
     # tmdb: https://www.themoviedb.org/tv/70296
     # tvdb: https://www.thetvdb.com/dereferrer/series/299511
-    synonyms:
-      - "Anti-Magic Academy The 35th Test Platoon"
-      - "Taimadou Gakuen 35 Shiken Shoutai"
     guid: plex://show/5d9c08b808fddd001f2a0369
     seasons:
       - season: 1
@@ -92,9 +73,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt10431290/
     # tmdb: https://www.themoviedb.org/tv/86034
     # tvdb: https://www.thetvdb.com/dereferrer/series/357019
-    synonyms:
-      - "From Common Job Class to the Strongest in the World"
-      - "Arifureta Shokugyou de Sekai Saikyou"
     guid: plex://show/5d9c09161cae62001f750e5c
     seasons:
       - season: 1
@@ -108,17 +86,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt22443832/
     # tmdb: https://www.themoviedb.org/tv/137065
     # tvdb: https://www.thetvdb.com/dereferrer/series/411800
-    synonyms:
-      - "Arknights [PERISH IN FROST]"
-      - "Arknights [PRELUDE TO DAWN]"
-      - "Arknights: Perish in Frost"
-      - "Arknights: Prelude to Dawn"
-      - "Arknights: Reimei Zensou"
-      - "Arknights: Touin Kiro"
-      - "アークナイツ 冬隠帰路"
-      - "アークナイツ 黎明前奏"
-      - "アークナイツ【冬隠帰路/PERISH IN FROST】"
-      - "アークナイツ【黎明前奏／PRELUDE TO DAWN】"
     guid: plex://show/61781a32afc7938b2e668da8
     seasons:
       - season: 1
@@ -130,14 +97,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt10885406/
     # tmdb: https://www.themoviedb.org/tv/91768
     # tvdb: https://www.thetvdb.com/dereferrer/series/366263
-    synonyms:
-      - "Ascendance of a Bookworm: I'll do anything to become a librarian"
-      - "Honzuki no Gekokujou"
-      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
-      - "Honzuki no Gekokujô"
-      - "Honzuki no Gekokujō"
-      - "Honzuki no Gekokujō - Shisho ni Naru Tame niwa Shudan o Erandeiramasen"
-      - "本好きの下剋上"
     guid: plex://show/5df5b931bc7a03001de20d25
     seasons:
       - season: 1
@@ -153,9 +112,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3837246/
     # tmdb: https://www.themoviedb.org/tv/62110
     # tvdb: https://www.thetvdb.com/dereferrer/series/283947
-    synonyms:
-      - "Ansatsu Kyoushitsu"
-      - "Assassination Classroom - Extracurricular Lesson"
     guid: plex://show/5d9c0850ba6eb9001fba0c60
     seasons:
       - season: 1
@@ -167,10 +123,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2560140/
     # tmdb: https://www.themoviedb.org/tv/1429
     # tvdb: https://www.thetvdb.com/dereferrer/series/267440
-    synonyms:
-      - "AOT"
-      - "SNK"
-      - "Shingeki no Kyojin"
     guid: plex://show/5d9c086c3c3f87001f34f63c
     seasons:
       - season: 1
@@ -198,9 +150,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt7944664/
     # tmdb: https://www.themoviedb.org/tv/77529
     # tvdb: https://www.thetvdb.com/dereferrer/series/339353
-    synonyms:
-      - "B: The Beginning Succession"
-      - "Perfect Bones"
     guid: plex://show/5d9c08eeba6eb9001fbace50
     seasons:
       - season: 1
@@ -225,17 +174,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt21345944/
     # tmdb: https://www.themoviedb.org/tv/203780
     # tvdb: https://www.thetvdb.com/dereferrer/series/421092
-    synonyms:
-      - "Beast Tamer Rein"
-      - "Beast Tamer and the Cat Girl"
-      - "The Beast Tamer Exiled from the Hero's Party and the Cat Eared Girl from the Strongest Race Meet"
-      - "The Beast Tamer Who Got Kicked out From His Party Meets a Cat Girl From the Superior Race"
-      - "The Beast Tamer Who Was Exiled From His Party Meets a Cat Girl From the Strongest Race"
-      - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shu Nekomimi Shoujo to Deau"
-      - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyou Shuzoku Nekomimi Shojo to Deau"
-      - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
-      - "Yūsha Party wo Tsuihou Sareta Beast Tamer, Saikyōshu no Nekomimi Shōjo to Deau"
-      - "Yūsha Pātī o Tsuihou Sareta Bīsuto Teimā, Saikyō Shuzoku Nekomimi Shōjo to Deau"
     guid: plex://show/62a324e005d7ca8cd1da84c7
     seasons:
       - season: 1
@@ -258,16 +196,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1316554/
     # tmdb: https://www.themoviedb.org/tv/50712
     # tvdb: https://www.thetvdb.com/dereferrer/series/83996
-    synonyms:
-      - "Black Butler 2"
-      - "Black Butler II"
-      - "Black Butler: Book of Circus"
-      - "Kuro Shitsuji"
-      - "Kuroshitsuji"
-      - "Kuroshitsuji II"
-      - "Kuroshitsuji: Book of Circus"
-      - "黒執事 Book of Circus"
-      - "黒執事Ⅱ"
     guid: plex://show/5d9c0825e98e47001eb08cd7
     seasons:
       - season: 1
@@ -283,11 +211,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0962826/
     # tmdb: https://www.themoviedb.org/tv/12598
     # tvdb: https://www.thetvdb.com/dereferrer/series/79604
-    synonyms:
-      - "Black Lagoon: Roberta's Blood Trail"
-      - "Black Lagoon: Roberta`s Blood Trail"
-      - "Black Lagoon: The Second Barrage"
-      - "Burakku Ragūn"
     guid: plex://show/5d9c080802391c001f57f614
     seasons:
       - season: 1
@@ -318,11 +241,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2294048/
     # tmdb: https://www.themoviedb.org/tv/46283
     # tvdb: https://www.thetvdb.com/dereferrer/series/262109
-    synonyms:
-      - "Blast of Tempest: The Civilization Blaster"
-      - "Forsaken Tempest"
-      - "Zetsuen no Tempest"
-      - "Zetsuen no Tempest: The Civilization Blaster"
     guid: plex://show/5d9c0833e264b7001fc3eb94
     seasons:
       - season: 1
@@ -332,11 +250,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0434665/
     # tmdb: https://www.themoviedb.org/tv/30984
     # tvdb: https://www.thetvdb.com/dereferrer/series/74796
-    synonyms:
-      - "BLEACH - ブリーチ -"
-      - "BLEACH 千年血戦篇"
-      - "Bleach: Sennen Kessen-hen"
-      - "ブリーチ"
     guid: plex://show/5d9c084902391c001f58594b
     seasons:
       - season: 1
@@ -381,9 +294,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4379632/
     # tmdb: https://www.themoviedb.org/tv/62327
     # tvdb: https://www.thetvdb.com/dereferrer/series/289886
-    synonyms:
-      - "Kekkai Sensen"
-      - "Kekkai Sensen & Beyond"
     guid: plex://show/5d9c0852e264b7001fc413eb
     seasons:
       - season: 1
@@ -395,11 +305,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0482855/
     # tmdb: https://www.themoviedb.org/tv/19849
     # tvdb: https://www.thetvdb.com/dereferrer/series/78960
-    synonyms:
-      - "Blood +"
-      - "Blood Plus"
-      - "Buraddo Purasu"
-      - "ブラッドプラス"
     guid: plex://show/5d9c08451cae62001f74afa0
     seasons:
       - season: 1
@@ -418,16 +323,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1799631/
     # tmdb: https://www.themoviedb.org/tv/38464
     # tvdb: https://www.thetvdb.com/dereferrer/series/248035
-    synonyms:
-      - "Ao no Ekusoshisuto"
-      - "Ao no Exorcist"
-      - "Ao no Exorcist: Kyoto Fujouou-hen"
-      - "Ao no Exorcist: Kyoto Fujō Ō-hen"
-      - "Ao no Exorcist: Shimane Illuminati-hen"
-      - "Ao no Futsumashi"
-      - "Blue Exorcist: Kyoto Impure King Arc"
-      - "Blue Exorcist: Shimane Illuminati Saga"
-      - "青の祓魔師 京都不浄王篇"
     guid: plex://show/5d9c081c3c3f87001f347a27
     seasons:
       - season: 1
@@ -441,9 +336,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt15222080/
     # tmdb: https://www.themoviedb.org/tv/131041
     # tvdb: https://www.thetvdb.com/dereferrer/series/408629
-    synonyms:
-      - "Blue Lock"
-      - "Burūrokku"
     guid: plex://show/6117a7257843e7002c680b60
     seasons:
       - season: 1
@@ -455,14 +347,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt11428630/
     # tmdb: https://www.themoviedb.org/tv/96402
     # tvdb: https://www.thetvdb.com/dereferrer/series/373679
-    synonyms:
-      - "Bofuri"
-      - "I Do Not Want Pain, so I Would Like to Focus on Defense"
-      - "I Hate Being in Pain, so I Think I'll Make a Full Defense Build"
-      - "I Hate Getting Hurt, so I Put All My Skill Points Into Defense"
-      - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
-      - "Itai no wa Iya nano de Bōgyoryoku ni Kyokufuri Shitai to Omoimasu."
-      - "防振り"
     guid: plex://show/5df5b93281e1a7001f946b48
     seasons:
       - season: 1
@@ -474,8 +358,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt6342474/
     # tmdb: https://www.themoviedb.org/tv/70881
     # tvdb: https://www.thetvdb.com/dereferrer/series/321285
-    synonyms:
-      - "Boruto - Naruto Next Generations"
     guid: plex://show/5d9f410b68e4c8001fb6c916
     seasons:
       - season: 1
@@ -485,10 +367,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5679720/
     # tmdb: https://www.themoviedb.org/tv/65931
     # tvdb: https://www.thetvdb.com/dereferrer/series/305075
-    synonyms:
-      - "Literary Stray Dogs"
-      - "Bungou Stray Dogs"
-      - "Bungō Stray Dogs"
     guid: plex://show/5d9c081702391c001f580ca8
     seasons:
       - season: 1
@@ -508,14 +386,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt8673610/
     # tmdb: https://www.themoviedb.org/tv/80671
     # tvdb: https://www.thetvdb.com/dereferrer/series/346931
-    synonyms:
-      - "Cells at Work!!"
-      - "Hataraku Saibou"
-      - "Hataraku Saibō"
-      - "はたらく細胞!!"
-      - "はたらく細胞!! (2021)"
-      - "はたらく細胞（2018）"
-      - "はたらく細胞（2021）"
     guid: plex://show/5d9c0905cb3ffa001f1b8ccb
     seasons:
       - season: 1
@@ -527,9 +397,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12150836/
     # tmdb: https://www.themoviedb.org/tv/101873
     # tvdb: https://www.thetvdb.com/dereferrer/series/380402
-    synonyms:
-      - "Hataraku Saibou Black"
-      - "Hataraku Saibō Black"
     guid: plex://show/5ea395620f75ff0042793113
     seasons:
       - season: 1
@@ -539,9 +406,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3517016/
     # tmdb: https://www.themoviedb.org/tv/60825
     # tvdb: https://www.thetvdb.com/dereferrer/series/278127
-    synonyms:
-      - "Chaika the Coffin Princess: Avenging Battle"
-      - "Hitsugi no Chaika"
     guid: plex://show/5d9c083c4eefaa001f5d8c63
     seasons:
       - season: 1
@@ -553,10 +417,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt16156736/
     # tmdb: https://www.themoviedb.org/tv/139060
     # tvdb: https://www.thetvdb.com/dereferrer/series/412656
-    synonyms:
-      - "Demon Slave"
-      - "Slave of the Magic Capital's Elite Troops"
-      - "Mato Seihei no Slave"
     guid: plex://show/6198def0046272df6573266f
     seasons:
       - season: 1
@@ -575,9 +435,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5100366/
     # tmdb: https://www.themoviedb.org/tv/67154
     # tvdb: https://www.thetvdb.com/dereferrer/series/299506
-    synonyms:
-      - "Rakudai Kishi no Cavalry"
-      - "落第騎士の英雄譚（キャバルリィ）"
     guid: plex://show/5d9c0805ec357c001f9a92bc
     seasons:
       - season: 1
@@ -587,10 +444,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1118804/
     # tmdb: https://www.themoviedb.org/tv/24835
     # tvdb: https://www.thetvdb.com/dereferrer/series/80644
-    synonyms:
-      - "Clannad After Story"
-      - "Clannad ～after Story～"
-      - "クラナド アフターストーリー"
     guid: plex://show/5d9c081fba2e21001f18e114
     seasons:
       - season: 1
@@ -602,10 +455,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt7263328/
     # tmdb: https://www.themoviedb.org/tv/72517
     # tvdb: https://www.thetvdb.com/dereferrer/series/329822
-    synonyms:
-      - "Welcome to the Classroom of the Know-It-Alls"
-      - "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
-      - "Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e"
     guid: plex://show/5d9c08d37b5c2e001e6622a5
     seasons:
       - season: 1
@@ -619,15 +468,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0994314/
     # tmdb: https://www.themoviedb.org/tv/31724
     # tvdb: https://www.thetvdb.com/dereferrer/series/79525
-    synonyms:
-      - "Code Geass Lelouch of the Rebellion"
-      - "Code Geass: Akito of the Ruined Nation"
-      - "Code Geass: Akito the Exiled"
-      - "Code Geass: Boukoku no Akito"
-      - "Code Geass: Hangyaku no Lelouch"
-      - "Code Geass: Lelouch of the Rebellion R2"
-      - "Code Geass: Nunnally in Wonderland"
-      - "Kōdo Giasu"
     guid: plex://show/5d9c0826e9d5a1001f4d7ee3
     seasons:
       - season: 1
@@ -639,17 +479,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0286390/
     # tmdb: https://www.themoviedb.org/tv/26209
     # tvdb: https://www.thetvdb.com/dereferrer/series/72025
-    synonyms:
-      - "Banner of the Stars"
-      - "Battle Flag of the Stars"
-      - "Seikai"
-      - "Seikai Series"
-      - "Seikai no Monshō"
-      - "Seikai no Senki"
-      - "Stars Series"
-      - "星界の戦旗"
-      - "星界の紋章"
-      - "星界シリーズ"
     guid: plex://show/5d9c0855705e7a001e6d93e6
     seasons:
       # - season: 0
@@ -667,8 +496,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0899258/
     # tmdb: https://www.themoviedb.org/tv/34141
     # tvdb: https://www.thetvdb.com/dereferrer/series/79635
-    synonyms:
-      - "D Gray Man"
     guid: plex://show/5d9c0865e9d5a1001f4d96d5
     seasons:
       - season: 1
@@ -689,19 +516,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2902582/
     # tmdb: https://www.themoviedb.org/tv/49471
     # tvdb: https://www.thetvdb.com/dereferrer/series/270058
-    synonyms:
-      - "Dangan Ronpa: The Academy of Hope and the High School Students of Despair"
-      - "Dangan Ronpa: The Animation"
-      - "Danganronpa 3: The End of Hope's Peak Academy - Future Volume"
-      - "Danganronpa 3: The End of Hope's Peak Academy Side: Future"
-      - "Danganronpa 3: The End of Hope's Peak High School - Future Arc"
-      - "Danganronpa 3: The End of Hope's Peak High School: Future Arc"
-      - "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen"
-      - "Danganronpa 3: The End of Kibōgamine Gakuen: Mirai Hen"
-      - "Danganronpa: Academy of Hope and High School Students of Despair"
-      - "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation"
-      - "ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編"
-      - "ダンガンロンパ3 －The End of 希望ケ峰学園－ 未来編"
     guid: plex://show/5d9c07f5705e7a001e6cd8b6
     seasons:
       - season: 1
@@ -713,11 +527,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0995941/
     # tmdb: https://www.themoviedb.org/tv/31718
     # tvdb: https://www.thetvdb.com/dereferrer/series/80042
-    synonyms:
-      - "Dākā Zan Burakku"
-      - "DARKER THAN BLACK -流星の双子-"
-      - "DARKER THAN BLACK -黒の契約者-"
-      - "DARKER THAN BLACKー流星の双子（ジェミニ）ー"
     guid: plex://show/5d9c08262df347001e3ac11d
     seasons:
       # PlexAniSync does not support mapping of Specials (Gaiden, 4 episodes)
@@ -730,8 +539,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt27489241/
     # tmdb: https://www.themoviedb.org/tv/214540
     # tvdb: https://www.thetvdb.com/dereferrer/series/427239
-    synonyms:
-      - "Deddomaunto Desupurei"
     guid: plex://show/6376957e253ed1065f95ac14
     seasons:
       - season: 1
@@ -744,9 +551,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt21621494/
     # tmdb: https://www.themoviedb.org/tv/207784
     # tvdb: https://www.thetvdb.com/dereferrer/series/423257
-    synonyms:
-      - "Dungeon Food"
-      - "Dungeon Meshi"
     guid: plex://show/62f321f36da0054963a50a70
     seasons:
       - season: 1
@@ -756,11 +560,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9335498/
     # tmdb: https://www.themoviedb.org/tv/85937
     # tvdb: https://www.thetvdb.com/dereferrer/series/348545
-    synonyms:
-      - "Blade of Demon Destruction"
-      - "Demon Slayer"
-      - "Kimetsu no Yaiba"
-      - "kny"
     guid: plex://show/5d9c090246115600200ae731
     seasons:
       - season: 1
@@ -778,13 +577,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12635162/
     # tmdb: https://www.themoviedb.org/tv/105556
     # tvdb: https://www.thetvdb.com/dereferrer/series/385278
-    synonyms:
-      - "Please don't bully me, Nagatoro"
-      - "Please don't bully me, Nagatoro-san"
-      - "Senpai is a bit..."
-      - "Senpai, don't you ever get angry?"
-      - "Ijiranaide, Nagatoro-san"
-      - "Ijiranaide, Nagatoro-san 2nd Attack"
     guid: plex://show/5eff8efd374eea003c1d1c98
     seasons:
       - season: 1
@@ -796,17 +588,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9679542/
     # tmdb: https://www.themoviedb.org/tv/86031
     # tvdb: https://www.thetvdb.com/dereferrer/series/355774
-    synonyms:
-      - "Doctor Stone"
-      - "Dr Stone"
-      - "Dr. Stone: New World"
-      - "Dr. Stone: New World Cour 2"
-      - "Dr. Stone: Stone Wars"
-      - "Dr.STONE NEW WORLD"
-      - "Dr.STONE STONE WARS"
-      - "ドクターストーン"
-      - "ドクターストーン NEW WORLD"
-      - "ドクターストーン STONE WARS"
     guid: plex://show/5d9c0913ba6eb9001fbaf6ff
     seasons:
       - season: 1
@@ -825,9 +606,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0088509/
     # tmdb: https://www.themoviedb.org/tv/12609
     # tvdb: https://www.thetvdb.com/dereferrer/series/76666
-    synonyms:
-      - "Dragon Ball (1986)"
-      - "Dragonball"
     guid: plex://show/5d9c0808ffd9ef001e98b2cc
     seasons:
       - season: 1
@@ -847,10 +625,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1409055/
     # tmdb: https://www.themoviedb.org/tv/61709
     # tvdb: https://www.thetvdb.com/dereferrer/series/88031
-    synonyms:
-      - "Dragon Ball Z Kai"
-      - "Dragonball Z Kai"
-      - "Dragon Ball Kai"
     guid: plex://show/5d9c08376c3e37001ecd57da
     seasons:
       # Anilist includes Bluray specials in its episode count
@@ -865,10 +639,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4644488/
     # tmdb: https://www.themoviedb.org/tv/62715
     # tvdb: https://www.thetvdb.com/dereferrer/series/295068
-    synonyms:
-      - "Dragon Ball Chou"
-      - "Dragon Ball Super (2015)"
-      - "ドラゴンボール超"
     guid: plex://show/5d9c08683c3f87001f34ebd8
     seasons:
       - season: 1
@@ -886,9 +656,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0214341/
     # tmdb: https://www.themoviedb.org/tv/12971
     # tvdb: https://www.thetvdb.com/dereferrer/series/81472
-    synonyms:
-      - "Dragon Ball Z (1989)"
-      - "Dragonball Z"
     guid: plex://show/65e05f0adc06bf6a52fe0c1b
     seasons:
       - season: 1
@@ -914,10 +681,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1584000/
     # tmdb: https://www.themoviedb.org/tv/42410
     # tvdb: https://www.thetvdb.com/dereferrer/series/133341
-    synonyms:
-      - "DRRR"
-      - "Dullalala!!"
-      - "Dyurarara!!"
     guid: plex://show/5d9c07f3ba6eb9001fb97be1
     seasons:
       - season: 1
@@ -935,11 +698,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0239361/
     # tmdb: https://www.themoviedb.org/tv/34209
     # tvdb: https://www.thetvdb.com/dereferrer/series/87941
-    synonyms:
-      - "Eat-Man '98"
-      - "Eat-Man 98"
-      - "Eat-Man'98"
-      - "EAT-MAN'98"
     guid: plex://show/5d9c08652192ba001f30edfd
     seasons:
       - season: 1
@@ -969,9 +727,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3476730/
     # tmdb: https://www.themoviedb.org/tv/25408
     # tvdb: https://www.thetvdb.com/dereferrer/series/258124
-    synonyms:
-      - "F-Zero: Falcon Densetsu"
-      - "F-Zero: The Legend of Falcon"
     guid: plex://show/5d9c082c2192ba001f3095c5
     seasons:
       - season: 1
@@ -981,10 +736,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1528406/
     # tmdb: https://www.themoviedb.org/tv/46261
     # tvdb: https://www.thetvdb.com/dereferrer/series/114801
-    synonyms:
-      - "Fairy Tail Zero"
-      - "FAIRY TAIL"
-      - "Fairy Tail: Fearī Teiru"
     guid: plex://show/5d9c07fb705e7a001e6ce24a
     seasons:
       - season: 1
@@ -1008,10 +759,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2904426/
     # tmdb: https://www.themoviedb.org/tv/63576
     # tvdb: https://www.thetvdb.com/dereferrer/series/269319
-    synonyms:
-      - "Fate Kaleid Liner Prisma Illya"
-      - "Fate/kaleid liner Prisma Illya 2wei Herz!"
-      - "Fate/kaleid liner Prisma Illya 2wei!"
     guid: plex://show/5d9c08067b5c2e001e652467
     seasons:
       - season: 1
@@ -1027,8 +774,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0774809/
     # tmdb: https://www.themoviedb.org/tv/37858
     # tvdb: https://www.thetvdb.com/dereferrer/series/79151
-    synonyms:
-      - "Fate Stay Night"
     guid: plex://show/5d9c08507b5c2e001e658e9f
     seasons:
       - season: 1
@@ -1038,10 +783,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3621796/
     # tmdb: https://www.themoviedb.org/tv/61415
     # tvdb: https://www.thetvdb.com/dereferrer/series/278626
-    synonyms:
-      - "Fate Stay Night 2014"
-      - "Fate/Stay Night (2014)"
-      - "Fate/Stay Night Epilogue"
     guid: plex://show/5d9c0849ba6eb9001fb9ffe5
     seasons:
       - season: 1
@@ -1055,9 +796,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2051178/
     # tmdb: https://www.themoviedb.org/tv/45845
     # tvdb: https://www.thetvdb.com/dereferrer/series/275798
-    synonyms:
-      - "Fate Zero"
-      - "フェイト/ゼロ"
     guid: plex://show/5d9c0821e264b7001fc3ccd0
     seasons:
       - season: 1
@@ -1070,9 +808,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12779780/
     # tmdb: https://www.themoviedb.org/tv/106480
     # tvdb: https://www.thetvdb.com/dereferrer/series/386570
-    synonyms:
-      - "Kaizoku Oujo"
-      - "Kaizoku Ōjo"
     guid: plex://show/5f1e6cdf4de80e004280f759
     seasons:
       - season: 1
@@ -1082,20 +817,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9307686/
     # tmdb: https://www.themoviedb.org/tv/88046
     # tvdb: https://www.thetvdb.com/dereferrer/series/355480
-    synonyms:
-      - "Blazing Fire Brigade"
-      - "En'en no Shouboutai"
-      - "En'en no Shouboutai Ni no Shou"
-      - "Enen No Shouboutai - Ni no Shou"
-      - "Enen no Shouboutai"
-      - "Enen no Shouboutai: Ni no Shou"
-      - "Enen no Shōbōtai"
-      - "Enen no shôbôtai"
-      - "Enn Enn no Shouboutai"
-      - "Enn Enn no Shōbōtai"
-      - "Fire Brigade of Flames"
-      - "Fire Force Mini"
-      - "Fireforce"
     guid: plex://show/5d9c09127b5c2e001e6663fd
     seasons:
       - season: 1
@@ -1107,12 +828,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4731072/
     # tmdb: https://www.themoviedb.org/tv/62273
     # tvdb: https://www.thetvdb.com/dereferrer/series/289909
-    synonyms:
-      - "Food Wars!: Shokugeki no Soma"
-      - "Shokugeki No Souma"
-      - "Shokugeki no Soma"
-      - "Shokugeki no Sōma"
-      - "Soma's Cafeteria Drama"
     guid: plex://show/5d9c085202391c001f586b24
     seasons:
       - season: 1
@@ -1133,11 +848,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt22248376/
     # tmdb: https://www.themoviedb.org/tv/209867
     # tvdb: https://www.thetvdb.com/dereferrer/series/424536
-    synonyms:
-      - "Frieren of the Funeral"
-      - "Sousou no Frieren"
-      - "Sōsō no Frieren"
-      - "Sōsō no Furīren"
     guid: plex://show/631ccdfccbff4464978f9d53
     seasons:
       - season: 1
@@ -1167,9 +877,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt11317074/
     # tmdb: https://www.themoviedb.org/tv/70311
     # tvdb: https://www.thetvdb.com/dereferrer/series/328670
-    synonyms:
-      - "Quan Zhi Fa Shi"
-      - "Quanzhi Fashi"
     guid: plex://show/5d9c08ccba6eb9001fbaa50b
     seasons:
       - season: 1
@@ -1189,11 +896,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0421357/
     # tmdb: https://www.themoviedb.org/tv/37863
     # tvdb: https://www.thetvdb.com/dereferrer/series/75579
-    synonyms:
-      - "Full Metal Alchemist"
-      - "Full Metal Alchemist (2003)"
-      - "Hagane no Renkin Jutsushi"
-      - "Hagane no Renkinjutsushi"
     guid: plex://show/5d9c0850e264b7001fc41055
     seasons:
       - season: 1
@@ -1203,11 +905,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1355642/
     # tmdb: https://www.themoviedb.org/tv/31911
     # tvdb: https://www.thetvdb.com/dereferrer/series/85249
-    synonyms:
-      - "Full Metal Alchemist Brotherhood"
-      - "Hagane no Renkinjutsushi (2009)"
-      - "Hagane no Renkinjutsushi, Fullmetal Alchemist"
-      - "Hagane no Renkinjutsushi: Fullmetal Alchemist"
     guid: plex://show/5d9c0830e264b7001fc3e6bd
     seasons:
       - season: 1
@@ -1217,17 +914,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0346314/
     # tmdb: https://www.themoviedb.org/tv/1095
     # tvdb: https://www.thetvdb.com/dereferrer/series/73749
-    synonyms:
-      - "Ghost in the Shell: S.A.C."
-      - "Ghost in the Shell: S.A.C. 2nd GIG"
-      - "Ghost in the Shell: SAC_2045"
-      - "Ghost in the Shell: SAC_2045 S2"
-      - "Ghost in the Shell: Stand Alone Complex 2nd GIG"
-      - "Koukaku Kidoutai: SAC_2045"
-      - "Koukaku Kidoutai: SAC_2045 S2"
-      - "Kôkaku kidôtai: Stand Alone Complex"
-      - "攻殻機動隊 SAC_2045"
-      - "攻殻機動隊 SAC_2045 S2"
     guid: plex://show/5d9c086b705e7a001e6dbd86
     seasons:
       - season: 1
@@ -1243,20 +929,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0988818/
     # tmdb: https://www.themoviedb.org/tv/57041
     # tvdb: https://www.thetvdb.com/dereferrer/series/79895
-    synonyms:
-      - "Gin Tama"
-      - "Gintama'"
-      - "Gintama' Enchousen"
-      - "Gintama`"
-      - "Gintama°"
-      - "Kintama"
-      - "Silver Soul"
-      - "銀魂 (2004)"
-      - "銀魂(3年目)"
-      - "銀魂."
-      - "銀魂. (ポロリ篇／銀ノ魂篇)"
-      - "銀魂. (銀ノ魂篇 後半戦)"
-      - "銀魂°"
     guid: plex://show/5d9c08273c3f87001f348b54
     seasons:
       - season: 1
@@ -1287,11 +959,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt8690728/
     # tmdb: https://www.themoviedb.org/tv/82591
     # tvdb: https://www.thetvdb.com/dereferrer/series/350166
-    synonyms:
-      - "GOBLIN SLAYER"
-      - "Goblin Slayer 2nd Season"
-      - "Goblin Slayer: Full Series"
-      - "Goburin Sureiyā"
     guid: plex://show/5d9c090dffd9ef001e99ec5b
     seasons:
       - season: 1
@@ -1303,8 +970,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt6138612/
     # tmdb: https://www.themoviedb.org/tv/69820
     # tvdb: https://www.thetvdb.com/dereferrer/series/319981
-    synonyms:
-      - "グランブルーファンタジー ジ・アニメーション"
     guid: plex://show/5d9f40c6dfd12800208ad9ef
     seasons:
       - season: 1
@@ -1316,9 +981,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt11680468/
     # tmdb: https://www.themoviedb.org/tv/93816
     # tvdb: https://www.thetvdb.com/dereferrer/series/376144
-    synonyms:
-      - "GREAT PRETENDER razbliuto"
-      - "グレートプリテンダー"
     guid: plex://show/5e317d2ae1fd7c003c06d307
     seasons:
       - season: 1
@@ -1341,24 +1003,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5341430/
     # tmdb: https://www.themoviedb.org/tv/65369
     # tvdb: https://www.thetvdb.com/dereferrer/series/303868
-    synonyms:
-      - "Grimgal - Ashes and Illusions"
-      - "Grimgal of Ashes and Fantasies"
-      - "Grimgal of Fantasy & Ash"
-      - "Grimgal, Ashes and Illusions"
-      - "Grimgal: Ashes and Illusions"
-      - "Grimgar - Ashes and Illusions"
-      - "Grimgar of Ashes and Fantasies"
-      - "Grimgar of Fantasy & Ash"
-      - "Grimgar, Ashes and Illusions"
-      - "Grimgar: Ashes and Illusions"
-      - "Hai to Gensou no Grimgal"
-      - "Hai to Gensou no Grimgar"
-      - "Hai to Gensō no Grimgal"
-      - "Hai to Gensō no Grimgar"
-      - "Hai to Gensō no Gurimugaru"
-      - "Hai to gensô no Grimgal"
-      - "Hai to gensô no Grimgar"
     guid: plex://show/5d9c081602391c001f580ac4
     seasons:
       - season: 1
@@ -1368,15 +1012,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3398540/
     # tmdb: https://www.themoviedb.org/tv/60863
     # tvdb: https://www.thetvdb.com/dereferrer/series/278157
-    synonyms:
-      - "HQ!!"
-      - "Haikyu"
-      - "Haikyuu"
-      - "Haikyuu!!"
-      - "Haikyū"
-      - "Haikyū!!"
-      - "High Kyuu!!"
-      - "ハイキュー!! セカンドシーズン"
     guid: plex://show/5d9c083cffd9ef001e990143
     seasons:
       - season: 1
@@ -1394,14 +1029,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0481256/
     # tmdb: https://www.themoviedb.org/tv/42705
     # tvdb: https://www.thetvdb.com/dereferrer/series/79685
-    synonyms:
-      - "Fighting Spirit"
-      - "Hajime no Ippo: New Challenger"
-      - "Hajime no Ippo: Rising"
-      - "Hajime no Ippo: The Fighting!"
-      - "Hajime no Ippo: The Fighting! - New Challenger"
-      - "Hajime no Ippo: The Fighting! –Rising"
-      - "hajime no ippo: boxer no kobushi"
     guid: plex://show/5d9c082bffd9ef001e98e90e
     seasons:
       - season: 1
@@ -1415,12 +1042,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13628870/
     # tmdb: https://www.themoviedb.org/tv/114477
     # tvdb: https://www.thetvdb.com/dereferrer/series/393301
-    synonyms:
-      - "A Harem in an Alternate World Dungeon"
-      - "A Harem in the Fantasy World Dungeon"
-      - "Isekai Meikyuu de Harem wo"
-      - "Isekai Meikyū de Harem o"
-      - "Isekai Meikyū de Harem wo"
     guid: plex://show/5fd4f9d00ed789002e438964
     seasons:
       - season: 1
@@ -1430,16 +1051,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt22817632/
     # tmdb: https://www.themoviedb.org/tv/208891
     # tvdb: https://www.thetvdb.com/dereferrer/series/426165
-    synonyms:
-      - "A Journey Beyond Heaven"
-      - "Heavenly Great Demon"
-      - "The Grand Devil's Cave of Heaven"
-      - "The Heaven Delusion"
-      - "Tengoku Dai Makyou"
-      - "Tengoku Dai Makyō"
-      - "Tengoku Daimakyo"
-      - "Tengoku Daimakyou"
-      - "Tengoku Daimakyō"
     guid: plex://show/630a1270571e44d463bae92f
     seasons:
       - season: 1
@@ -1449,8 +1060,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13911284/
     # tmdb: https://www.themoviedb.org/tv/117465
     # tvdb: https://www.thetvdb.com/dereferrer/series/402474
-    synonyms:
-      - "Jigokuraku"
     guid: plex://show/601054c201c24b002b7025e0
     seasons:
       - season: 1
@@ -1462,14 +1071,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2230051/
     # tmdb: https://www.themoviedb.org/tv/45950
     # tvdb: https://www.thetvdb.com/dereferrer/series/254653
-    synonyms:
-      - "High School D×D BorN"
-      - "High School D×D Hero"
-      - "High School D×D New"
-      - "HighSchool D×D"
-      - "High School D×D"
-      - "ハイスクールD×D BorN"
-      - "ハイスクールD×D NEW"
     guid: plex://show/5d9c08247d06d9001ffcfef5
     seasons:
       - season: 1
@@ -1485,9 +1086,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5059866/
     # tmdb: https://www.themoviedb.org/tv/67126
     # tvdb: https://www.thetvdb.com/dereferrer/series/293121
-    synonyms:
-      - "Beautiful Little Sister! Umaru-chan"
-      - "My Two-Faced Little Sister"
     guid: plex://show/5d9c08042192ba001f3051db
     seasons:
       - season: 1
@@ -1499,14 +1097,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12882132/
     # tmdb: https://www.themoviedb.org/tv/67063
     # tvdb: https://www.thetvdb.com/dereferrer/series/313488
-    synonyms:
-      - "Hitori no Shita"
-      - "King of the Weirdo"
-      - "The Outcast (2016)"
-      - "The Weirdo"
-      - "Under One Person"
-      - "Weirdo"
-      - "一人之下 THE OUTCAST"
     guid: plex://show/5d9c0804705e7a001e6cfefd
     seasons:
       - season: 1
@@ -1524,9 +1114,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13103134/
     # tmdb: https://www.themoviedb.org/tv/110070
     # tvdb: https://www.thetvdb.com/dereferrer/series/388593
-    synonyms:
-      - "Hori-san to Miyamura-kun (TV)"
-      - "ホリミヤ(アニメ)"
     guid: plex://show/5f63886575b84d0039f98e66
     seasons:
       - season: 1
@@ -1536,9 +1123,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt28261206/
     # tmdb: https://www.themoviedb.org/tv/228663
     # tvdb: https://www.thetvdb.com/dereferrer/series/436124
-    synonyms:
-      - "Horimiya -piece-"
-      - "Horimiya: Piece"
     guid: plex://show/648d2dec59c84b8d2b82e89b
     seasons:
       - season: 1
@@ -1548,11 +1132,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13399402/
     # tmdb: https://www.themoviedb.org/tv/102088
     # tvdb: https://www.thetvdb.com/dereferrer/series/389422
-    synonyms:
-      - "A Realist Hero's Kingdom Restoration Chronicle"
-      - "Re:Construction the Elfrieden Kingdom Tales of Realistic Brave"
-      - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
-      - "Genjitsushugi Yūsha no Ōkoku Saikenki"
     guid: plex://show/5ea3956a382f910042ece55e
     seasons:
       - season: 1
@@ -1565,19 +1144,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt8438524/
     # tmdb: https://www.themoviedb.org/tv/80563
     # tvdb: https://www.thetvdb.com/dereferrer/series/347425
-    synonyms:
-      - "How Not to Summon a Demon Lord (2018)"
-      - "How Not to Summon a Demon Lord Omega"
-      - "How Not to Summon a Demon Lord Ω"
-      - "How Not to Summon a Demon Lord!"
-      - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
-      - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega"
-      - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω"
-      - "Isekai Maō to Shōkan Shōjo no Dorei Majutsu"
-      - "Isekai Maō to Shōkan Shōjo no Dorei Majutsu Omega"
-      - "Isekai Maō to Shōkan Shōjo no Dorei Majutsu Ω"
-      - "The Otherworldly Demon King and the Summoner Girls' Slave Magic"
-      - "異世界魔王と召喚少女の奴隷魔術Ω"
     guid: plex://show/5d9c09047b5c2e001e6656ea
     seasons:
       - season: 1
@@ -1589,9 +1155,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3306838/
     # tmdb: https://www.themoviedb.org/tv/61529
     # tvdb: https://www.thetvdb.com/dereferrer/series/275613
-    synonyms:
-      - "Cool-headed Hoozuki"
-      - "Hoozuki no Reitetsu"
     guid: plex://show/5d9c084c08fddd001f296cdd
     seasons:
       - season: 1
@@ -1606,11 +1169,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0426719/
     # tmdb: https://www.themoviedb.org/tv/45952
     # tvdb: https://www.thetvdb.com/dereferrer/series/79076
-    synonyms:
-      - "Hunter X Hunter (OAV)"
-      - "Hunter X Hunter: G I Final (OAV)"
-      - "Hunter X Hunter: Greed Island (OAV)"
-      - "ハンターｘハンター"
     guid: plex://show/5d9c0824e9d5a1001f4d7e41
     seasons:
       - season: 1
@@ -1626,8 +1184,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2098220/
     # tmdb: https://www.themoviedb.org/tv/46298
     # tvdb: https://www.thetvdb.com/dereferrer/series/252322
-    synonyms:
-      - "Hunter x Hunter 2011"
     guid: plex://show/5d9c0834705e7a001e6d5db9
     seasons:
       - season: 1
@@ -1641,9 +1197,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5867902/
     # tmdb: https://www.themoviedb.org/tv/67011
     # tvdb: https://www.thetvdb.com/dereferrer/series/307112
-    synonyms:
-      - "Masou Gakuen HxH"
-      - "Masou Gakuen Hybrid x Heart"
     guid: plex://show/5d9c0803ba6eb9001fb997ee
     seasons:
       - season: 1
@@ -1653,13 +1206,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt21929424/
     # tmdb: https://www.themoviedb.org/tv/198152
     # tvdb: https://www.thetvdb.com/dereferrer/series/419278
-    synonyms:
-      - "Big Brother Is Done For!"
-      - "ONIMAI: I'm Now Your Sister!"
-      - "Onii-chan Is Done For!"
-      - "Onii-chan ha Oshimai!"
-      - "Onii-chan wa Oshimai!"
-      - "Onimai"
     guid: plex://show/626411e42ca794f087527881
     seasons:
       - season: 1
@@ -1669,10 +1215,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt7088332/
     # tmdb: https://www.themoviedb.org/tv/72505
     # tvdb: https://www.thetvdb.com/dereferrer/series/329992
-    synonyms:
-      - "In a Different World with a Smartphone."
-      - "Isekai wa Smartphone to Tomo ni."
-      - "Isesuma"
     guid: plex://show/5d9c08d34eefaa001f5e3fe3
     seasons:
       - season: 1
@@ -1684,11 +1226,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt11328872/
     # tmdb: https://www.themoviedb.org/tv/93653
     # tvdb: https://www.thetvdb.com/dereferrer/series/368565
-    synonyms:
-      - "Inspectre"
-      - "Invented Inference"
-      - "Kyokou Suiri"
-      - "Kyokō Suiri"
     guid: plex://show/5e15c733f72429001dd19101
     seasons:
       - season: 1
@@ -1699,8 +1236,6 @@ entries:
   - title: "Inu × Boku Secret Service"
     # imdb: https://www.imdb.com/title/tt2196757/
     # tvdb: https://www.thetvdb.com/dereferrer/series/255133
-    synonyms:
-      - "Inu x Boku SS"
     guid: plex://show/5d9c084f2df347001e3af465
     seasons:
       - season: 1
@@ -1710,9 +1245,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0290223/
     # tmdb: https://www.themoviedb.org/tv/35610
     # tvdb: https://www.thetvdb.com/dereferrer/series/71361
-    synonyms:
-      - "InuYasha: The Final Act"
-      - "犬夜叉 完結編"
     guid: plex://show/5d9c08294eefaa001f5d730b
     seasons:
       - season: 1
@@ -1734,13 +1266,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4728568/
     # tmdb: https://www.themoviedb.org/tv/62745
     # tvdb: https://www.thetvdb.com/dereferrer/series/289882
-    synonyms:
-      - "DanMachi"
-      - "Is It Wrong That I Want to Meet You in a Dungeon"
-      - "Danjon ni Deai o Motomeru no wa Machigatteiru Darō ka"
-      - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
-      - "Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka"
-      - "ダンまち"
     guid: plex://show/5d9c0868d4f2a9001f800872
     seasons:
       - season: 1
@@ -1761,9 +1286,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0248119/
     # tmdb: https://www.themoviedb.org/tv/60862
     # tvdb: https://www.thetvdb.com/dereferrer/series/83950
-    synonyms:
-      - "JoJo no Kimyou na Bouken"
-      - "ジョジョの奇妙な冒険(1993)"
     guid: plex://show/5d9c083cffd9ef001e990154
     seasons:
       - season: 1
@@ -1775,10 +1297,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2359704/
     # tmdb: https://www.themoviedb.org/tv/45790
     # tvdb: https://www.thetvdb.com/dereferrer/series/262954
-    synonyms:
-      - "JoJo no Kimyou na Bouken"
-      - "ジョジョの奇妙な冒険"
-      - "岸辺露伴は動かない"
     guid: plex://show/5d9c07f04eefaa001f5d1ab7
     seasons:
       - season: 1
@@ -1812,10 +1330,6 @@ entries:
   - title: "K"
     # imdb: https://www.imdb.com/title/tt2377452/
     # tvdb: https://www.thetvdb.com/dereferrer/series/261249
-    synonyms:
-      - "K-Project"
-      - "K Project"
-      - "Project K"
     guid: plex://show/5d9c07fc08fddd001f28f64b
     seasons:
       - season: 1
@@ -1827,21 +1341,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9522300/
     # tmdb: https://www.themoviedb.org/tv/83121
     # tvdb: https://www.thetvdb.com/dereferrer/series/354198
-    synonyms:
-      - "Kaguya-sama: Love Is War -Ultra Romantic-"
-      - "Kaguya-sama: Love Is War?"
-      - "Kaguya sama wa Kokurasetai"
-      - "Kaguya-sama wa Kokurasetai"
-      - "Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen"
-      - "Kaguya-sama wa Kokurasetai -Ultra Romantic-"
-      - "Kaguya-sama wa Kokurasetai! Tensai-tachi no Renai Zunousen 2"
-      - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen"
-      - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
-      - "Kaguya-sama wa Kokurasetai: Ultra Romantic"
-      - "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen 2"
-      - "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen"
-      - "かぐや様は告らせたい"
-      - "かぐや様は告らせたい-ウルトラロマンティック-"
     guid: plex://show/5d9c090f02391c001f594b8b
     seasons:
       - season: 1
@@ -1855,14 +1354,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt21975436/
     # tmdb: https://www.themoviedb.org/tv/207468
     # tvdb: https://www.thetvdb.com/dereferrer/series/423075
-    synonyms:
-      - "Kaiju No. 8"
-      - "Kaiju No. Eight"
-      - "Monster #8"
-      - "8Kaijuu"
-      - "Kaijuu 8-gou"
-      - "Kaijū 8-gō"
-      - "Kaijū hachi-gō"
     guid: plex://show/62ed126ee903875a9223f1c4
     seasons:
       - season: 1
@@ -1872,22 +1363,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt7131720/
     # tmdb: https://www.themoviedb.org/tv/72305
     # tvdb: https://www.thetvdb.com/dereferrer/series/327572
-    synonyms:
-      - "Compulsive Gambler"
-      - "Gambling School"
-      - "Kakegurui  Compulsive Gambler"
-      - "Kakegurui X"
-      - "Kakegurui XX"
-      - "Kakegurui the  Compulsive Gambler"
-      - "Kakegurui ×"
-      - "Kakegurui ××"
-      - "Kakegurui: Picture Drama"
-      - "Kakegurui×"
-      - "Kakegurui××"
-      - "賭ケグルイ (2017)"
-      - "賭ケグルイ(アニメ)"
-      - "賭ケグルイ_2017"
-      - "賭ケグルイ××"
     guid: plex://show/5d9c08d3ba2e21001f19326d
     seasons:
       - season: 1
@@ -1899,12 +1374,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt27419998/
     # tmdb: https://www.themoviedb.org/tv/199920
     # tvdb: https://www.thetvdb.com/dereferrer/series/419126
-    synonyms:
-      - "God's Activity in a World Without Gods"
-      - "KamiKatsu Working for God in a Godless World"
-      - "What God Does in a World Without Gods"
-      - "Kaminaki Sekai no Kamisama Katsudou"
-      - "Kaminaki Sekai no Kamisama Katsudō"
     guid: plex://show/626976f1b67e4bfb53428dd0
     seasons:
       - season: 1
@@ -1914,11 +1383,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2320220/
     # tmdb: https://www.themoviedb.org/tv/62741
     # tvdb: https://www.thetvdb.com/dereferrer/series/262106
-    synonyms:
-      - "Kami-sama Kiss"
-      - "Kamihaji"
-      - "Kamisama Hajimemashita"
-      - "神はじ"
     guid: plex://show/5d9c086802391c001f588870
     seasons:
       - season: 1
@@ -1947,8 +1411,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3398976/
     # tmdb: https://www.themoviedb.org/tv/60831
     # tvdb: https://www.thetvdb.com/dereferrer/series/278154
-    synonyms:
-      - "Sidonia no Kishi"
     guid: plex://show/5d9c083c705e7a001e6d6b33
     seasons:
       - season: 1
@@ -1960,13 +1422,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt14626352/
     # tmdb: https://www.themoviedb.org/tv/123876
     # tvdb: https://www.thetvdb.com/dereferrer/series/402412
-    synonyms:
-      - "Comi-san wa Comyushō desu."
-      - "Komi-san wa Commu-shou desu."
-      - "Komi-san wa Komyushou Desu"
-      - "Komi-san wa, Comyushou desu."
-      - "Komi-san wa, Komyushou desu."
-      - "Komi-san wa, Komyushō desu."
     guid: plex://show/6081ae26a9e3d60035f60cc1
     seasons:
       - season: 1
@@ -1979,9 +1434,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt27329086/
     # tmdb: https://www.themoviedb.org/tv/203040
     # tvdb: https://www.thetvdb.com/dereferrer/series/420657
-    synonyms:
-      - "Konosuba: An Explosion on This Wonderful World!"
-      - "Kono Subarashii Sekai ni Bakuen wo!"
     guid: plex://show/62938698adf7cc0ea6158abc
     seasons:
       - season: 1
@@ -1991,13 +1443,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5370118/
     # tmdb: https://www.themoviedb.org/tv/65844
     # tvdb: https://www.thetvdb.com/dereferrer/series/303867
-    synonyms:
-      - "Give Blessings to This Wonderful World!"
-      - "KonoSuba"
-      - "Kono Subarashii Sekai ni Shukufuku o!"
-      - "Kono Subarashii Sekai ni Shukufuku wo!"
-      - "このすば"
-      - "この素晴らしい世界に祝福を！2"
     guid: plex://show/5d9c0817e264b7001fc3bda1
     seasons:
       - season: 1
@@ -2011,13 +1456,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12415504/
     # tmdb: https://www.themoviedb.org/tv/97782
     # tvdb: https://www.thetvdb.com/dereferrer/series/386572
-    synonyms:
-      - "Bear Bear Bear Kuma"
-      - "Kuma Kuma Kuma Bear Punch!"
-      - "The Bears Bear a Bare Kuma"
-      - "Kuma Kuma Kuma Bear"
-      - "Kumaku"
-      - "くまクマ熊ベアーぱーんち！"
     guid: plex://show/5e269a8560871f0040871c97
     seasons:
       - season: 1
@@ -2029,8 +1467,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0435972/
     # tmdb: https://www.themoviedb.org/tv/42787
     # tvdb: https://www.thetvdb.com/dereferrer/series/83406
-    synonyms:
-      - "L／R -Licensed by Royal-"
     guid: plex://show/61b0ce1c019f58c2253cb486
     seasons:
       - season: 1
@@ -2040,10 +1476,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt19244410/
     # tmdb: https://www.themoviedb.org/tv/196220
     # tvdb: https://www.thetvdb.com/dereferrer/series/418340
-    synonyms:
-      - "Level 1 Demon Lord & One Room Hero"
-      - "Lv1 Maou to One Room Yuusha"
-      - "Lv1 Maō to One Room Yūsha"
     guid: plex://show/6256a0665ab0ee88371172fb
     seasons:
       - season: 1
@@ -2053,13 +1485,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt14976292/
     # tmdb: https://www.themoviedb.org/tv/123542
     # tvdb: https://www.thetvdb.com/dereferrer/series/402033
-    synonyms:
-      - "CLICK"
-      - "Link Click (2021)"
-      - "Link Click S2"
-      - "Shiguang Dailiren (2021)"
-      - "Shiguang Dailiren II"
-      - "Time Agents"
     guid: plex://show/61b180048f749b300c783a36
     seasons:
       - season: 1
@@ -2073,8 +1498,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt6352180/
     # tmdb: https://www.themoviedb.org/tv/69293
     # tvdb: https://www.thetvdb.com/dereferrer/series/318161
-    synonyms:
-      - "Little Witch Academia (TV)"
     guid: plex://show/5d9c0814ffd9ef001e98c135
     seasons:
       - season: 1
@@ -2084,8 +1507,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2942218/
     # tmdb: https://www.themoviedb.org/tv/60846
     # tvdb: https://www.thetvdb.com/dereferrer/series/272128
-    synonyms:
-      - "Rogu Horaizun"
     guid: plex://show/5d9c083c02391c001f5846d0
     seasons:
       - season: 1
@@ -2099,17 +1520,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2321542/
     # tmdb: https://www.themoviedb.org/tv/45501
     # tvdb: https://www.thetvdb.com/dereferrer/series/261862
-    synonyms:
-      - "Chu-2 Byou demo Koi ga Shitai!"
-      - "Chu2Koi"
-      - "Chuunibyo"
-      - "Chuunibyou demo Koi ga Shitai!"
-      - "Chuunibyou demo Koi ga Shitai! Ren"
-      - "Even People with Adolescent Delusions of Grandeur Want To Experience Love!"
-      - "Love, Chunibyo & Other Delusions"
-      - "Love, Chunibyo and Other Delusions"
-      - "Love, Chunibyo and Other Delusions! Heart Throb"
-      - "Regardless of My Adolescent Delusions of Grandeur, I Want a Date!"
     guid: plex://show/5d9c084fba2e21001f18f7fd
     seasons:
       - season: 1
@@ -2121,25 +1531,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0159175/
     # tmdb: https://www.themoviedb.org/tv/31572
     # tvdb: https://www.thetvdb.com/dereferrer/series/71863
-    synonyms:
-      - "Lupin III (1971)"
-      - "Lupin III Part 4"
-      - "Lupin III Part 5"
-      - "Lupin III Part 6"
-      - "Lupin III Part I"
-      - "Lupin III Part II"
-      - "Lupin III Part III"
-      - "Lupin III Part IV"
-      - "Lupin III Part V"
-      - "Lupin Sansei"
-      - "Lupin the 3rd"
-      - "Lupin the 3rd Part 4"
-      - "Lupin the 3rd Part 5"
-      - "Lupin the 3rd Part 6"
-      - "Lupin the Third Part 4"
-      - "Lupin the Third Part 5"
-      - "Lupin the Third Part 6"
-      - "ルパン三世 Rupan Sansei"
     guid: plex://show/5d9c07eae264b7001fc37ec3
     seasons:
       - season: 1
@@ -2153,9 +1544,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt7222086/
     # tmdb: https://www.themoviedb.org/tv/72636
     # tvdb: https://www.thetvdb.com/dereferrer/series/326109
-    synonyms:
-      - "Meido in Abisu"
-      - "mia"
     guid: plex://show/5d9c08ceba6eb9001fbaab18
     seasons:
       - season: 1
@@ -2167,9 +1555,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4431276/
     # tmdb: https://www.themoviedb.org/tv/66870
     # tvdb: https://www.thetvdb.com/dereferrer/series/310718
-    synonyms:
-      - "Magi: Sinbad no Bouken"
-      - "Magi: Sinbad no Bōken"
     guid: plex://show/5d9c0802ba6eb9001fb995d1
     seasons:
       - season: 1
@@ -2179,9 +1564,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2425098/
     # tmdb: https://www.themoviedb.org/tv/60654
     # tvdb: https://www.thetvdb.com/dereferrer/series/262094
-    synonyms:
-      - "Magi: The Kingdom of Magic"
-      - "マギ The kingdom of magic"
     guid: plex://show/5d9c08383c3f87001f34a972
     seasons:
       - season: 1
@@ -2193,8 +1575,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1693435/
     # tmdb: https://www.themoviedb.org/tv/29602
     # tvdb: https://www.thetvdb.com/dereferrer/series/76013
-    synonyms:
-      - "メジャー"
     guid: plex://show/5d9c080a2192ba001f305c2c
     seasons:
       - season: 1
@@ -2214,11 +1594,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt6402190/
     # tmdb: https://www.themoviedb.org/tv/69295
     # tvdb: https://www.thetvdb.com/dereferrer/series/318860
-    synonyms:
-      - "Masamune's Revenge"
-      - "Masamune-kun's Revenge R"
-      - "Masamune-kun no Ribenji"
-      - "政宗くんのリベンジR"
     guid: plex://show/5d9c0814ec357c001f9a9998
     seasons:
       - season: 1
@@ -2230,10 +1605,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt21209804/
     # tmdb: https://www.themoviedb.org/tv/204832
     # tvdb: https://www.thetvdb.com/dereferrer/series/421737
-    synonyms:
-      - "Mashle"
-      - "-MASHLE-"
-      - "Masshuru"
     guid: plex://show/632f3453b625a2252ef53517
     seasons:
       - season: 1
@@ -2245,8 +1616,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt7965802/
     # tmdb: https://www.themoviedb.org/tv/77939
     # tvdb: https://www.thetvdb.com/dereferrer/series/341437
-    synonyms:
-      - "Megalo Box"
     guid: plex://show/5d9c08f9ffd9ef001e99d62b
     seasons:
       - season: 1
@@ -2258,12 +1627,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt6185782/
     # tmdb: https://www.themoviedb.org/tv/69291
     # tvdb: https://www.thetvdb.com/dereferrer/series/318893
-    synonyms:
-      - "Maidragon"
-      - "Miss Kobayashi's Dragon Maid S"
-      - "The Maid Dragon of Kobayashi-san"
-      - "Kobayashi-san Chi no Maid Dragon"
-      - "Kobayashi-san Chi no Maid Dragon S"
     guid: plex://show/5d9c08147b5c2e001e653903
     seasons:
       - season: 1
@@ -2275,9 +1638,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5897304/
     # tmdb: https://www.themoviedb.org/tv/67075
     # tvdb: https://www.thetvdb.com/dereferrer/series/307375
-    synonyms:
-      - "モブサイコ100 (2016)"
-      - "モブサイコ100(アニメ)"
     guid: plex://show/5d9c08042df347001e3a892b
     seasons:
       - season: 1
@@ -2302,8 +1662,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5344382/
     # tmdb: https://www.themoviedb.org/tv/64375
     # tvdb: https://www.thetvdb.com/dereferrer/series/299497
-    synonyms:
-      - "Mobile Suit Gundam: Tekketsu no Orphans"
     guid: plex://show/5d9c080f02391c001f57fe59
     seasons:
       - season: 1
@@ -2315,10 +1673,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt15433166/
     # tmdb: https://www.themoviedb.org/tv/196400
     # tvdb: https://www.thetvdb.com/dereferrer/series/418364
-    synonyms:
-      - "G-Witch"
-      - "Kidou Senshi Gundam: Suisei no Majo"
-      - "Kidō Senshi Gundam: Suisei no Majo"
     guid: plex://show/6256a355c211a93304cf6531
     seasons:
       - season: 1
@@ -2331,11 +1685,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1480925/
     # tmdb: https://www.themoviedb.org/tv/46195
     # tvdb: https://www.thetvdb.com/dereferrer/series/102261
-    synonyms:
-      - "Monogatari Series"
-      - "物語"
-      - "シリーズ セカンド"
-      - "暦物語"
     guid: plex://show/5d9c082dffd9ef001e98ec70
     seasons:
       # Bakemonogatari
@@ -2359,9 +1708,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0434706/
     # tmdb: https://www.themoviedb.org/tv/30981
     # tvdb: https://www.thetvdb.com/dereferrer/series/74599
-    synonyms:
-      - "Monster (2004)"
-      - "MONSTER"
     guid: plex://show/5d9c084702391c001f58567d
     seasons:
       - season: 1
@@ -2371,11 +1717,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13293588/
     # tmdb: https://www.themoviedb.org/tv/94664
     # tvdb: https://www.thetvdb.com/dereferrer/series/371310
-    synonyms:
-      - "Jobless Reincarnation"
-      - "Jobless Reincarnation: I Will Seriously Try If I Go to Another World"
-      - "Mushoku Tensei"
-      - "Mushoku Tensei: Isekai Ittara Honki Dasu"
     guid: plex://show/5e01fc33932ff9001db3b242
     seasons:
       - season: 1
@@ -2394,9 +1735,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt15765670/
     # tmdb: https://www.themoviedb.org/tv/123249
     # tvdb: https://www.thetvdb.com/dereferrer/series/401233
-    synonyms:
-      - "Sono Bisque Doll wa Koi wo suru"
-      - "Sono Bisuku Dōru wa Koi o Suru"
     guid: plex://show/6079b714b9b3140035a86868
     seasons:
       - season: 1
@@ -2408,9 +1746,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt19869172/
     # tmdb: https://www.themoviedb.org/tv/196944
     # tvdb: https://www.thetvdb.com/dereferrer/series/418665
-    synonyms:
-      - "My Blissful Marriage"
-      - "Watashi no Shiawase na Kekkon"
     guid: plex://show/624dbbdae0962bffc6682663
     seasons:
       - season: 1
@@ -2422,10 +1757,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5626028/
     # tmdb: https://www.themoviedb.org/tv/65930
     # tvdb: https://www.thetvdb.com/dereferrer/series/305074
-    synonyms:
-      - "Boku no Hero Academia"
-      - "MHA"
-      - "BNHA"
     guid: plex://show/5d9c081702391c001f580ca4
     seasons:
       - season: 1
@@ -2447,18 +1778,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt15441076/
     # tmdb: https://www.themoviedb.org/tv/117889
     # tvdb: https://www.thetvdb.com/dereferrer/series/402637
-    synonyms:
-      - "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
-      - "The Reincarnated Sage's Alternate World Life: I Got a Second Profession, and Became the Most Powerful in the World"
-      - "Tensei Kenja no Isekai Life"
-      - "Tensei Kenja no Isekai Life - Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita"
-      - "Tensei Kenja no Isekai Life ~Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita~"
-      - "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
-      - "Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita"
-      - "Tensei Kenja no Isekai Life: Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
-      - "Tensei Kenja no Isekai Life: Daini no Shokugyō o Ete, Sekai Saikyō ni Narimashita"
-      - "Tensei Kenja no Isekai Raifu ~Daini no Shokugyō o Ete, Sekai Saikyō ni Narimashita~"
-      - "転生賢者の異世界ライフ"
     guid: plex://show/615047d21bc41a422fd65ff0
     seasons:
       - season: 1
@@ -2468,24 +1787,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt11821792/
     # tmdb: https://www.themoviedb.org/tv/94904
     # tvdb: https://www.thetvdb.com/dereferrer/series/371437
-    synonyms:
-      - "Bakarina"
-      - "Destruction Flag Noble Girl Villainess"
-      - "Destruction Flag Otome"
-      - "Hamefura"
-      - "Hamefura X"
-      - "Hamehura"
-      - "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags..."
-      - "My Next Life as a Villainess All Routes Lead to Doom"
-      - "My Next Life as a Villainess: All Routes Lead to Doom! X"
-      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta..."
-      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X"
-      - "Otome Gēmu no Hametsu Furagu Shika Nai Akuyaku Reijō ni Tensei Shite Shimatta..."
-      - "Otome Gēmu no Hametsu Furagu Shika Nai Akuyaku Reijō ni Tensei Shite Shimatta... X"
-      - "The Final Event Has Begun..."
-      - "はめふら"
-      - "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった"
-      - "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...X"
     guid: plex://show/5e01fc33932ff9001db3b23c
     seasons:
       - season: 1
@@ -2497,19 +1798,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2703720/
     # tmdb: https://www.themoviedb.org/tv/65676
     # tvdb: https://www.thetvdb.com/dereferrer/series/267435
-    synonyms:
-      - "Hamachi"
-      - "My Teen RomCom SNAFU"
-      - "My Teen Romantic Comedy: SNAFU"
-      - "My Teenage RomCom SNAFU"
-      - "My Youth Romantic Comedy is Wrong as I Expected"
-      - "Oregairu"
-      - "Yahari Ore no Seishun Love Come wa Machigatte Iru."
-      - "Yahari Ore no Seishun Love Come wa Machigatteiru."
-      - "Yahari Ore no Seishun Love Comedy wa Machigatte Iru."
-      - "Yahari Ore no Seishun Love Comedy wa Machigatteiru."
-      - "Yahari Ore no Seishun LoveCome wa Machigatte Iru."
-      - "やはり俺の青春ラブコメはまちがっている。"
     guid: plex://show/5d9c0817e264b7001fc3bcce
     seasons:
       - season: 1
@@ -2540,10 +1828,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0988824/
     # tmdb: https://www.themoviedb.org/tv/31910
     # tvdb: https://www.thetvdb.com/dereferrer/series/79824
-    synonyms:
-      - "Naruto Shippūden"
-      - "Naruto: Shippuden"
-      - "Naruto: Shippûden"
     guid: plex://show/5d9c082a3c3f87001f34934e
     seasons:
       - season: 1
@@ -2595,11 +1879,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1352421/
     # tmdb: https://www.themoviedb.org/tv/69500
     # tvdb: https://www.thetvdb.com/dereferrer/series/82788
-    synonyms:
-      - "Natsume Yuujinchou"
-      - "Natsume Yuujinchou San"
-      - "Natsume Yuujinchou Shi"
-      - "Zoku Natsume Yuujinchou"
     guid: plex://show/5d9c0815e98e47001eb07102
     seasons:
       - season: 1
@@ -2619,10 +1898,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt18311412/
     # tmdb: https://www.themoviedb.org/tv/158373
     # tvdb: https://www.thetvdb.com/dereferrer/series/416998
-    synonyms:
-      - "NieR Automata Ver1.1a"
-      - "NieR꞉Automata Ver 1.1a"
-      - "ニーア オートマタ Ver1.1a"
     guid: plex://show/62178d568b788c6ee0388271
     seasons:
       - season: 1
@@ -2657,8 +1932,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0388629/
     # tmdb: https://www.themoviedb.org/tv/37854
     # tvdb: https://www.thetvdb.com/dereferrer/series/81797
-    synonyms:
-      - "Wan Pisu"
     guid: plex://show/5d9c084fec357c001f9ab4d8
     seasons:
       - season: 1
@@ -2710,9 +1983,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4508902/
     # tmdb: https://www.themoviedb.org/tv/63926
     # tvdb: https://www.thetvdb.com/dereferrer/series/293088
-    synonyms:
-      - "One Punch Man"
-      - "Wanpanman"
     guid: plex://show/5d9c0808d4f2a9001f7fd5ad
     seasons:
       - season: 1
@@ -2726,11 +1996,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt21030032/
     # tmdb: https://www.themoviedb.org/tv/203737
     # tvdb: https://www.thetvdb.com/dereferrer/series/421069
-    synonyms:
-      - "Children of the Star"
-      - "My Favorite Idol's Children"
-      - "My Star"
-      - "推しの子"
     guid: plex://show/62a3245d52758f8243740884
     seasons:
       - season: 1
@@ -2742,8 +2007,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4869896/
     # tmdb: https://www.themoviedb.org/tv/64196
     # tvdb: https://www.thetvdb.com/dereferrer/series/294002
-    synonyms:
-      - "Ōbārōdo"
     guid: plex://show/5d9c080def619b002047c6f0
     seasons:
       - season: 1
@@ -2759,9 +2022,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt11886236/
     # tmdb: https://www.themoviedb.org/tv/99084-re-dive
     # tvdb: https://www.thetvdb.com/dereferrer/series/377034
-    synonyms:
-      - "Priconne"
-      - "Princess Connect! ReDive"
     guid: plex://show/5e457feb0f27a1003f4edc54
     seasons:
       - season: 1
@@ -2773,8 +2033,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2379308/
     # tmdb: https://www.themoviedb.org/tv/43865
     # tvdb: https://www.thetvdb.com/dereferrer/series/262090
-    synonyms:
-      - "PSYCHO PASS"
     guid: plex://show/5d9c0841ba6eb9001fb9f716
     seasons:
       - season: 1
@@ -2788,14 +2046,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3981938/
     # tmdb: https://www.themoviedb.org/tv/61445
     # tvdb: https://www.thetvdb.com/dereferrer/series/284133
-    synonyms:
-      - "Rage of Bahamut: Genesis"
-      - "Rage of Bahamut: Virgin Soul"
-      - "Shingeki no Bahamut"
-      - "Shingeki no Bahamut: Genesis"
-      - "Shingeki no Bahamut: Virgin Soul"
-      - "神撃のバハムート GENESIS"
-      - "神撃のバハムート VIRGIN SOUL"
     guid: plex://show/5d9c0849ba6eb9001fba0178
     seasons:
       - season: 1
@@ -2807,10 +2057,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13409432/
     # tmdb: https://www.themoviedb.org/tv/112613
     # tvdb: https://www.thetvdb.com/dereferrer/series/391625
-    synonyms:
-      - "King Ranking"
-      - "Ousama Ranking"
-      - "Ōsama Ranking"
     guid: plex://show/5fa6c4f7a2df66002ed0f0bc
     seasons:
       - season: 1
@@ -2822,9 +2068,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt27504251/
     # tmdb: https://www.themoviedb.org/tv/207743
     # tvdb: https://www.thetvdb.com/dereferrer/series/432080
-    synonyms:
-      - "Ousama Ranking: Yuuki no Takarabako"
-      - "Ōsama Ranking: Yūki no Takarabako"
     guid: plex://show/62f282c2445f70fb9160e347
     seasons:
       - season: 1
@@ -2834,12 +2077,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5607616/
     # tmdb: https://www.themoviedb.org/tv/65942
     # tvdb: https://www.thetvdb.com/dereferrer/series/305089
-    synonyms:
-      - "Re Zero -Starting Life in Another World-"
-      - "Re: Life in a different world from zero"
-      - "Re: Zero Kara Hajimeru Isekai Seikatsu"
-      - "Re:ZERO -Starting Life in Another World-"
-      - "Re:ゼロから始める異世界生活 新編集版"
     guid: plex://show/5d9c0817e98e47001eb0777d
     seasons:
       - season: 1
@@ -2856,11 +2093,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt11448214/
     # tmdb: https://www.themoviedb.org/tv/96316
     # tvdb: https://www.thetvdb.com/dereferrer/series/380654
-    synonyms:
-      - "Rent a Girlfriend"
-      - "Rental Girlfriend"
-      - "KanoKari"
-      - "Kanojo, Okarishimasu"
     guid: plex://show/5e1625a7f37085003e285c0c
     seasons:
       - season: 1
@@ -2874,8 +2106,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt22297732/
     # tmdb: https://www.themoviedb.org/tv/204148
     # tvdb: https://www.thetvdb.com/dereferrer/series/421283
-    synonyms:
-      - "Shiro Seijo to Kuro Bokushi"
     guid: plex://show/62ab5392458587620e2ba589
     seasons:
       - season: 1
@@ -2893,11 +2123,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4584326/
     # tmdb: https://www.themoviedb.org/tv/62255
     # tvdb: https://www.thetvdb.com/dereferrer/series/289906
-    synonyms:
-      - "Owari no Seraph"
-      - "Owari no Seraph: Nagoya Kessen-hen"
-      - "Seraph of the End: Battle in Nagoya"
-      - "Seraph of the End: Vampire Reign"
     guid: plex://show/5d9c0852e98e47001eb0cb74
     seasons:
       - season: 1
@@ -2910,9 +2135,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt15529074/
     # tmdb: https://www.themoviedb.org/tv/115694
     # tvdb: https://www.thetvdb.com/dereferrer/series/402117
-    synonyms:
-      - "Miss Shikimori Is Not Just Cute"
-      - "Kawaii dake ja Nai Shikimori-san"
     guid: plex://show/5ff0880f8cdd46002d35e8d6
     seasons:
       - season: 1
@@ -2922,12 +2144,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5419278/
     # tmdb: https://www.themoviedb.org/tv/66862
     # tvdb: https://www.thetvdb.com/dereferrer/series/304316
-    synonyms:
-      - "Descending Stories: Showa Genroku Rakugo Shinju"
-      - "Shouwa Genroku Rakugo Shinjuu"
-      - "Showa and Genroku Era Lover's Suicide Through Rakugo"
-      - "Shōwa Genroku Rakugo Shinjū"
-      - "昭和元禄落語心中 (2016)"
     guid: plex://show/5d9c08027d06d9001ffced61
     seasons:
       - season: 1
@@ -2939,12 +2155,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13129190/
     # tmdb: https://www.themoviedb.org/tv/110309
     # tvdb: https://www.thetvdb.com/dereferrer/series/388858
-    synonyms:
-      - "Our Infinity!"
-      - "Project SK8"
-      - "Project SK∞"
-      - "SK Eight"
-      - "SK∞"
     guid: plex://show/5f68d2a6f50f230041d4ca64
     seasons:
       - season: 1
@@ -2956,8 +2166,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt16156718/
     # tmdb: https://www.themoviedb.org/tv/139130
     # tvdb: https://www.thetvdb.com/dereferrer/series/412696
-    synonyms:
-      - "Skip to Loafer"
     guid: plex://show/619a55fc5b9cdd4038543228
     seasons:
       - season: 1
@@ -2982,10 +2190,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2267446/
     # tmdb: https://www.themoviedb.org/tv/45209
     # tvdb: https://www.thetvdb.com/dereferrer/series/256705
-    synonyms:
-      - "Space Bros."
-      - "Uchuu Kyoudai"
-      - "Uchū Kyōdai"
     guid: plex://show/5d9c081f4eefaa001f5d672a
     seasons:
       - season: 1
@@ -2997,9 +2201,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1158671/
     # tmdb: https://www.themoviedb.org/tv/26707
     # tvdb: https://www.thetvdb.com/dereferrer/series/81178
-    synonyms:
-      - "Ookami to Koushinryou"
-      - "Spice & Wolf"
     guid: plex://show/5d9c083402391c001f583d05
     seasons:
       - season: 1
@@ -3011,10 +2212,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt28534254/
     # tmdb: https://www.themoviedb.org/tv/229676
     # tvdb: https://www.thetvdb.com/dereferrer/series/417147
-    synonyms:
-      - "Spice & Wolf: Merchant Meets the Wise Wolf"
-      - "Ookami to Koushinryou: merchant meets the wise wolf"
-      - "Ōkami to Kōshinryō: merchant meets the wise wolf"
     guid: plex://show/651b2625cc83a8f2712fff0b
     seasons:
       - season: 1
@@ -3024,13 +2221,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13706018/
     # tmdb: https://www.themoviedb.org/tv/120089
     # tvdb: https://www.thetvdb.com/dereferrer/series/405920
-    synonyms:
-      - "MODS ADD THE CHARACTERS OR UNLOCK THE SERIES"
-      - "SPY × FAMILY"
-      - "STOP LOCKING SERIES IF YOU'RE GOING TO REFUSE TO UPDATE THEM"
-      - "SPY×FAMILY Season 2"
-      - "Supai Famirī"
-      - "スパイファミリー"
     guid: plex://show/617fcf9e0b976a839051dab2
     seasons:
       - season: 1
@@ -3044,21 +2234,6 @@ entries:
   - title: "Star Blazers 2199"
     # imdb: https://www.imdb.com/title/tt2496120/
     # tvdb: https://www.thetvdb.com/dereferrer/series/259675
-    synonyms:
-      - "Space Battleship Yamato 2199"
-      - "Space Battleship Yamato 2202"
-      - "Space Battleship Yamato 2205: A New Voyage"
-      - "Star Blazers 2199"
-      - "Star Blazers 2202"
-      - "Star Blazers 2202: Warriors of Love"
-      - "Star Blazers 2205"
-      - "Star Blazers [Space Battleship Yamato]"
-      - "Star Blazers: Space Battleship Yamato 2202"
-      - "Uchuu Senkan Yamato 2199"
-      - "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi"
-      - "宇宙戦艦ヤマト2199 星巡る方舟"
-      - "宇宙戦艦ヤマト2199 追憶の航海"
-      - "宇宙戦艦ヤマト2202愛の戦士たち"
     guid: plex://show/5d9c0821ffd9ef001e98da36
     seasons:
       - season: 1
@@ -3079,11 +2254,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1910272/
     # tmdb: https://www.themoviedb.org/tv/42509
     # tvdb: https://www.thetvdb.com/dereferrer/series/244061
-    synonyms:
-      - "Shutainzu Gēto"
-      - "Steins Gate"
-      - "Steins:Gate"
-      - "シュタインズ・ゲート"
     guid: plex://show/5d9c08273c3f87001f348ce9
     seasons:
       - season: 1
@@ -3093,10 +2263,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5514358/
     # tmdb: https://www.themoviedb.org/tv/78102
     # tvdb: https://www.thetvdb.com/dereferrer/series/339268
-    synonyms:
-      - "Steins Gate Zero"
-      - "Steins;Gate Zero"
-      - "Steins;Gate 0"
     guid: plex://show/5d9c08eeba2e21001f193c98
     seasons:
       - season: 1
@@ -3106,9 +2272,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt15686254/
     # tmdb: https://www.themoviedb.org/tv/117933
     # tvdb: https://www.thetvdb.com/dereferrer/series/407306
-    synonyms:
-      - "Bright Sun Dark Shadows"
-      - "Summertime Rendering"
     guid: plex://show/601979150ac8df002b933135
     seasons:
       - season: 1
@@ -3118,20 +2281,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2230531/
     # tmdb: https://www.themoviedb.org/tv/63322
     # tvdb: https://www.thetvdb.com/dereferrer/series/254667
-    synonyms:
-      - "Climax Song of the Valkyries: Symphogear"
-      - "Senhime Zesshou Symphogear"
-      - "Senki Zesshou Symphogear"
-      - "Swan Song of the Valkyries: Symphogear"
-      - "Symphogear"
-      - "Symphogear AXZ"
-      - "Symphogear G"
-      - "Symphogear GX"
-      - "Symphogear XV"
-      - "戦姫絶唱シンフォギアAXZ"
-      - "戦姫絶唱シンフォギアG"
-      - "戦姫絶唱シンフォギアGX"
-      - "戦姫絶唱シンフォギアXV"
     guid: plex://show/5d9c0803ffd9ef001e98a992
     seasons:
       - season: 1
@@ -3149,12 +2298,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12898990/
     # tmdb: https://www.themoviedb.org/tv/100825
     # tvdb: https://www.thetvdb.com/dereferrer/series/386933
-    synonyms:
-      - "LasDan"
-      - "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
-      - "Tatoeba Last Dungeon Mae no Mura no Shōnen ga Joban no Machi de Kurasu Yō na Monogatari"
-      - "たとえばらすとだんじょんまえのむらのしょうねんがじょばんのまちでくらすようなものがたり"
-      - "たとえばラストダンジョン前の村"
     guid: plex://show/5e7e3e64dbe82b0040e436cc
     seasons:
       - season: 1
@@ -3164,9 +2307,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5853222/
     # tmdb: https://www.themoviedb.org/tv/66990
     # tvdb: https://www.thetvdb.com/dereferrer/series/308521
-    synonyms:
-      - "Amaama to Inazuma"
-      - "Sweetness and Lightning"
     guid: plex://show/5d9c080308fddd001f29004c
     seasons:
       - season: 1
@@ -3176,10 +2316,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2250192/
     # tmdb: https://www.themoviedb.org/tv/45782
     # tvdb: https://www.thetvdb.com/dereferrer/series/259640
-    synonyms:
-      - "S.A.O"
-      - "SAO"
-      - "Sōdo Āto Onrain"
     guid: plex://show/5d9c07ee6c3e37001ecd2f34
     seasons:
       - season: 1
@@ -3198,16 +2334,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9054364/
     # tmdb: https://www.themoviedb.org/tv/82684
     # tvdb: https://www.thetvdb.com/dereferrer/series/352408
-    synonyms:
-      - "My Reincarnation as a Slime"
-      - "Regarding Reincarnated to Slime"
-      - "Slime Isekai"
-      - "TenSura"
-      - "Tensei Shitara Slime Datta Ken"
-      - "Tensei Slime"
-      - "転生したらスライムだった件 (2020)"
-      - "転生したらスライムだった件 第2期"
-      - "転生したらスライムだった件 第2期 第1部"
     guid: plex://show/5d9c090e08fddd001f2a6a98
     seasons:
       - season: 1
@@ -3224,14 +2350,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt7326322/
     # tmdb: https://www.themoviedb.org/tv/73833
     # tvdb: https://www.thetvdb.com/dereferrer/series/316842
-    synonyms:
-      - "The Ancient Magus Bride"
-      - "The Ancient Magus' Bride: Those Awaiting a Star"
-      - "The Magician's Bride"
-      - "Mahou Tsukai no Yome"
-      - "Mahou Tsukai no Yome: Hoshi Matsu Hito"
-      - "Mahoutsukai no Yome"
-      - "魔法使いの嫁 星待つひと"
     guid: plex://show/5d9c0809e98e47001eb060ff
     seasons:
       - season: 1
@@ -3246,13 +2364,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt26743760/
     # tmdb: https://www.themoviedb.org/tv/220542
     # tvdb: https://www.thetvdb.com/dereferrer/series/431162
-    synonyms:
-      - "A Pharmacist's Monologue"
-      - "Drugstore Soliloquy"
-      - "The Apothecary's Monologue"
-      - "The Pharmacist's Monologue"
-      - "The Pharmacist's Soliloquies"
-      - "Kusuriya no Hitorigoto"
     guid: plex://show/63edda20eaab3bc0ed18bff2
     seasons:
       - season: 1
@@ -3262,21 +2373,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt27404658/
     # tmdb: https://www.themoviedb.org/tv/207493
     # tvdb: https://www.thetvdb.com/dereferrer/series/423094
-    synonyms:
-      - "Adventure Record of Reincarnated Aristocrat ~ The apostle of Gods who doesn't know self-esteem ~"
-      - "Chronicles of an Aristocrat Reborn in Another World"
-      - "Chronicles of an Aristocrat Reborn in Another World: The Apostle of the Gods Who Know No Self-Restraint"
-      - "The Aristocrat's Otherworldly Adventure 〜Serving Gods Who Go Too Far〜"
-      - "The Aristocrat’s Otherworldly Adventure Servings Gods Who Go Too Far"
-      - "Wonderful adventure in Another world! - \"God... That's going too far !!\" he said..."
-      - "Tensei Kizoku no Isekai Bouken Roku"
-      - "Tensei Kizoku no Isekai Boukenroku - Jichou o Shiranai Kamigami no Shito"
-      - "Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito"
-      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
-      - "Tensei Kizoku no Isekai Bōken Roku"
-      - "Tensei Kizoku no Isekai Bōkenroku - Jichō o Shiranai Kamigami no Shito"
-      - "Tensei Kizoku no Isekai Bōkenroku - Jichō wo Shiranai Kamigami no Shito"
-      - "転生貴族の異世界冒険録 ～自重を知らない神々の使徒～"
     guid: plex://show/62ee806c7228b8684ca9dc5e
     seasons:
       - season: 1
@@ -3286,8 +2382,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt21423786/
     # tmdb: https://www.themoviedb.org/tv/207250
     # tvdb: https://www.thetvdb.com/dereferrer/series/422981
-    synonyms:
-      - "Boku no Kokoro no Yabai Yatsu"
     guid: plex://show/638ef90a92bb2fdc322d2db2
     seasons:
       - season: 1
@@ -3299,11 +2393,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt10417572/
     # tmdb: https://www.themoviedb.org/tv/88806
     # tvdb: https://www.thetvdb.com/dereferrer/series/363143
-    synonyms:
-      - "Street Corner Demon"
-      - "Machikado Mazoku"
-      - "Machikado Mazoku 2-Choume"
-      - "Machikado Mazoku 2-Chōme"
     guid: plex://show/5d9c092302391c001f595f57
     seasons:
       - season: 1
@@ -3315,14 +2404,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2622982/
     # tmdb: https://www.themoviedb.org/tv/45997
     # tvdb: https://www.thetvdb.com/dereferrer/series/267441
-    synonyms:
-      - "Overlord at Work!"
-      - "The Devil Is a Part-Timer!!"
-      - "Hataraku Maou-sama!"
-      - "Hataraku Maou-sama!!"
-      - "Hataraku Maō-sama!"
-      - "Hataraku Maō-sama!!"
-      - "はたらく魔王さま！！"
     guid: plex://show/5d9c082702391c001f5827b1
     seasons:
       - season: 1
@@ -3336,10 +2417,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt14115938/
     # tmdb: https://www.themoviedb.org/tv/119495
     # tvdb: https://www.thetvdb.com/dereferrer/series/407520
-    synonyms:
-      - "I Want To Be a Power in the Shadows!"
-      - "Kage no Jitsuryokusha ni Naritakute!"
-      - "Shadow Garden"
     guid: plex://show/603a881229be08002d3dee69
     seasons:
       - season: 1
@@ -3351,14 +2428,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0978553/
     # tmdb: https://www.themoviedb.org/tv/35753
     # tvdb: https://www.thetvdb.com/dereferrer/series/79719
-    synonyms:
-      - "Zero no Tsukaima"
-      - "Zero no Tsukaima F"
-      - "Zero no Tsukaima: Futatsuki no Kishi"
-      - "Zero no Tsukaima: Princess no Rondo"
-      - "ゼロの使い魔 ～三美姫の輪舞～"
-      - "ゼロの使い魔 ～双月の騎士～"
-      - "ゼロの使い魔F"
     guid: plex://show/5d9c082e705e7a001e6d4fe1
     seasons:
       - season: 1
@@ -3374,15 +2443,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt14476244/
     # tmdb: https://www.themoviedb.org/tv/123525
     # tvdb: https://www.thetvdb.com/dereferrer/series/401915
-    synonyms:
-      - "Faraway Paladin"
-      - "Paladin of the End"
-      - "The Faraway Paladin: The Lord of Rust Mountain"
-      - "Ultimate Paladin"
-      - "Saihate no Paladin"
-      - "Saihate no Paladin: Tetsusabi no Yama no Ou"
-      - "Saihate no Paladin: Tetsusabi no Yama no Ō"
-      - "最果てのパラディン 鉄錆の山の王"
     guid: plex://show/607c5f8e7ce89d0035158fbf
     seasons:
       - season: 1
@@ -3393,10 +2453,6 @@ entries:
   - title: "The Garden of Sinners"
     # tmdb: https://www.themoviedb.org/tv/97825
     # tvdb: https://www.thetvdb.com/dereferrer/series/82099
-    synonyms:
-      - "Garden Of Sinners"
-      - "Kara no Kyoukai"
-      - "Mirai Fukuin"
     guid: plex://show/5e269a89f43239003ed31363
     seasons:
       - season: 1
@@ -3425,10 +2481,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt5023666/
     # tmdb: https://www.themoviedb.org/tv/62430
     # tvdb: https://www.thetvdb.com/dereferrer/series/291630
-    synonyms:
-      - "Arslan Senki"
-      - "アルスラーン戦記 (2015)"
-      - "アルスラーン戦記 風塵乱舞"
     guid: plex://show/5d9c0852ba6eb9001fba0f1a
     seasons:
       - season: 1
@@ -3440,18 +2492,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3874528/
     # tmdb: https://www.themoviedb.org/tv/60833
     # tvdb: https://www.thetvdb.com/dereferrer/series/278329
-    synonyms:
-      - "A Magic Senior High School's Low-Ranked Student"
-      - "The Irregular at Magic High School - Visitor Arc"
-      - "The Poor Performing Student of a Magic High School"
-      - "Mahouka"
-      - "Mahouka 2"
-      - "Mahouka Koukou no Rettousei"
-      - "Mahouka Koukou no Rettousei 2"
-      - "Mahouka Koukou no Rettousei: Raihousha Hen"
-      - "Mahōka Kōkō no Rettōsei: Raihōsha-hen"
-      - "Mahōka Kōkō no Rettōsei"
-      - "魔法科高校の劣等生 来訪者編"
     guid: plex://show/5d9c083c705e7a001e6d6b4e
     seasons:
       - season: 1
@@ -3465,14 +2505,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt6859260/
     # tmdb: https://www.themoviedb.org/tv/71194
     # tvdb: https://www.thetvdb.com/dereferrer/series/326270
-    synonyms:
-      - "Full-Time Expert"
-      - "Master of Skills"
-      - "Quan Zhi Gao Shou"
-      - "Quanzhi Gaoshou"
-      - "Quanzhi Gaoshou (2017)"
-      - "Quanzhi Gaoshou 2"
-      - "The King's Avatar (2017)"
     guid: plex://show/5d9c08cc705e7a001e6e4247
     seasons:
       - season: 1
@@ -3486,11 +2518,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9042408/
     # tmdb: https://www.themoviedb.org/tv/80670
     # tvdb: https://www.thetvdb.com/dereferrer/series/347294
-    synonyms:
-      - "Hyakuren no Haou to Seiyaku no Valkyria"
-      - "Master of Ragnarok"
-      - "The Master of Ragnarok"
-      - "百錬の覇王と聖約の戦乙女〈ヴァルキュリア〉"
     guid: plex://show/5d9c09052df347001e3bbb66
     seasons:
       - season: 1
@@ -3500,14 +2527,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12432936/
     # tmdb: https://www.themoviedb.org/tv/97617
     # tvdb: https://www.thetvdb.com/dereferrer/series/375927
-    synonyms:
-      - "Demon King Academy"
-      - "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
-      - "Maou Gakuin no Futekigousha"
-      - "Maou Gakuin no Futekigousha II"
-      - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou"
-      - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II"
-      - "魔王学院の不適合者 ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~"
     guid: plex://show/5e204255072b9e003ca5c160
     seasons:
       - season: 1
@@ -3522,8 +2541,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt8788458/
     # tmdb: https://www.themoviedb.org/tv/83097
     # tvdb: https://www.thetvdb.com/dereferrer/series/348002
-    synonyms:
-      - "Yakusoku no Neverland"
     guid: plex://show/5d9c09002df347001e3bb5d6
     seasons:
       - season: 1
@@ -3535,16 +2552,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9584920/
     # tmdb: https://www.themoviedb.org/tv/84669
     # tvdb: https://www.thetvdb.com/dereferrer/series/355966
-    synonyms:
-      - "The Five Wedded Brides"
-      - "5-toubun no Hanayome"
-      - "5-toubun no Hanayome ∬"
-      - "Go-Toubun no Hanayome"
-      - "Gotoubun no Hanayome"
-      - "Gotoubun no Hanayome ∬"
-      - "Gotōbun no Hanayome"
-      - "Gotōbun no Hanayome ∬"
-      - "五等分の花嫁∬"
     guid: plex://show/5d9c09147b5c2e001e66656f
     seasons:
       - season: 1
@@ -3556,10 +2563,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9529546/
     # tmdb: https://www.themoviedb.org/tv/83095
     # tvdb: https://www.thetvdb.com/dereferrer/series/353712
-    synonyms:
-      - "Shield Hero"
-      - "Tate no Yuusha no Nariagari"
-      - "Tate no Yūsha no Nariagari"
     guid: plex://show/5d9c090e3c3f87001f35b455
     seasons:
       - season: 1
@@ -3573,9 +2576,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3909224/
     # tmdb: https://www.themoviedb.org/tv/62104
     # tvdb: https://www.thetvdb.com/dereferrer/series/284131
-    synonyms:
-      - "Nanatsu no Taizai"
-      - "七つの大罪"
     guid: plex://show/5d9c08510aaccd001f8eefde
     seasons:
       - season: 1
@@ -3591,10 +2591,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt14408130/
     # tmdb: https://www.themoviedb.org/tv/118541
     # tvdb: https://www.thetvdb.com/dereferrer/series/385374
-    synonyms:
-      - "Tensura Nikki: Tensei Shitara Slime Datta Ken"
-      - "The Slime Diaries"
-      - "転生したらスライムだった件 転スラ日記"
     guid: plex://show/5f0d5a3130f204003a174487
     seasons:
       - season: 1
@@ -3604,17 +2600,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt15441424/
     # tmdb: https://www.themoviedb.org/tv/117884
     # tvdb: https://www.thetvdb.com/dereferrer/series/402374
-    synonyms:
-      - "Shikkakumon no Saikyou Kenja"
-      - "Shikkakumon no Saikyou Kenja (2022)"
-      - "The Strongest Sage With the Weakest Crest (2022)"
-      - "The Strongest Sage of Disqualified Crest"
-      - "Shikkaku Mon no Saikyou Kenja"
-      - "Shikkaku Mon no Saikyō Kenja"
-      - "Shikkakumon"
-      - "Shikkakumon no Saikyō Kenja"
-      - "Shikkakumon no Saikyō Kenja ~Sekai Saikyō no Kenja ga Sara ni Tsuyoku Naru Tame ni Tensei Shimashita~"
-      - "失格紋の最強賢者 〜世界最強の賢者が更に強くなるために転生しました〜"
     guid: plex://show/601838cea21011002c8ede34
     seasons:
       - season: 1
@@ -3624,8 +2609,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt25814162/
     # tmdb: https://www.themoviedb.org/tv/205111
     # tvdb: https://www.thetvdb.com/dereferrer/series/421893
-    synonyms:
-      - "Nokemono-tachi no Yoru"
     guid: plex://show/62bf053a2e062c3286eb98d3
     seasons:
       - season: 1
@@ -3635,12 +2618,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt14061838/
     # tmdb: https://www.themoviedb.org/tv/118821
     # tvdb: https://www.thetvdb.com/dereferrer/series/398193
-    synonyms:
-      - "The world's best assassin, To reincarnate in a different world aristocrat"
-      - "Ansatsu Kizoku"
-      - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
-      - "Sekai Saikou no Assassin, Isekai Kizoku ni Tensei Suru"
-      - "Sekai Saikō no Ansatsusha, Isekai Kizoku ni Tensei suru"
     guid: plex://show/602c2f9b2f194a002c0099f9
     seasons:
       - season: 1
@@ -3652,9 +2629,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt21230432/
     # tmdb: https://www.themoviedb.org/tv/133197
     # tvdb: https://www.thetvdb.com/dereferrer/series/409723
-    synonyms:
-      - "Kumichou Musume to Seiwagakari"
-      - "Kumichō Musume to Seiwagakari"
     guid: plex://show/613b6f3ab193f92d44a9809f
     seasons:
       - season: 1
@@ -3664,9 +2638,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12063450/
     # tmdb: https://www.themoviedb.org/tv/97525
     # tvdb: https://www.thetvdb.com/dereferrer/series/375271
-    synonyms:
-      - "To You, the Immortal"
-      - "Fumetsu no Anata e"
     guid: plex://show/5e1b0c604c78f7003eaab1c8
     seasons:
       - season: 1
@@ -3680,13 +2651,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3741634/
     # tmdb: https://www.themoviedb.org/tv/61374
     # tvdb: https://www.thetvdb.com/dereferrer/series/281249
-    synonyms:
-      - "Tokyo Ghoul Root A"
-      - "Tokyo Ghoul √A"
-      - "Tokyo Ghoul: Original"
-      - "Tokyo Ghoul:re"
-      - "Tōkyō Gūru"
-      - "東京喰種√A"
     guid: plex://show/5d9c08474eefaa001f5d9978
     seasons:
       - season: 1
@@ -3703,13 +2667,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt13196080/
     # tmdb: https://www.themoviedb.org/tv/105009
     # tvdb: https://www.thetvdb.com/dereferrer/series/393478
-    synonyms:
-      - "Tokyo Revengers: Tenjiku Arc"
-      - "Tokyo卍Revengers"
-      - "Tokyo Revengers: Seiya Kessen-hen"
-      - "Tokyo Revengers: Tenjiku-hen"
-      - "東京リベンジャーズ 天竺編"
-      - "東京卍リベンジャーズ"
     guid: plex://show/5ef15400f689e800405d8b2b
     seasons:
       - season: 1
@@ -3723,17 +2680,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12311976/
     # tmdb: https://www.themoviedb.org/tv/100049
     # tvdb: https://www.thetvdb.com/dereferrer/series/385077
-    synonyms:
-      - "Cute Anyways"
-      - "TONIKAWA: Fly Me to the Moon"
-      - "TONIKAWA: Over the Moon for You ~High School Days~"
-      - "Tonikaku Kawaii"
-      - "Tonikaku Kawaii: Fly Me to the Moon"
-      - "Tonikaku Kawaii: Joshikou Hen"
-      - "Tonikawa"
-      - "トニカクカワイイ Fly Me to the Moon"
-      - "トニカクカワイイ女子高編"
-      - "トニカワ"
     guid: plex://show/5e69c6f5874db7003e2dd56f
     seasons:
       - season: 1
@@ -3745,10 +2691,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12057106/
     # tmdb: https://www.themoviedb.org/tv/97860
     # tvdb: https://www.thetvdb.com/dereferrer/series/376729
-    synonyms:
-      - "Kami no Tou"
-      - "Kami no Tō"
-      - "ToG"
     guid: plex://show/5e269a8b619e33003efe0578
     seasons:
       - season: 1
@@ -3760,13 +2702,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt8994044/
     # tmdb: https://www.themoviedb.org/tv/83314-tsurune
     # tvdb: https://www.thetvdb.com/dereferrer/series/352796
-    synonyms:
-      - "Tsurune - The Linking Shot -"
-      - "Tsurune: Kazemai High School Kyudo Club"
-      - "Tsurune: Kazemai Koukou Kyuudoubu"
-      - "Tsurune: Kazemai Kōkō Kyūdō-bu"
-      - "Tsurune: Tsunagari no Issha"
-      - "ツルネ ―つながりの一射―"
     guid: plex://show/5d9c09107b5c2e001e6662d2
     seasons:
       - season: 1
@@ -3777,8 +2712,6 @@ entries:
   - title: "Twin Star Exorcists"
     # tmdb: https://www.themoviedb.org/tv/66078
     # tvdb: https://www.thetvdb.com/dereferrer/series/307061
-    synonyms:
-      - "Sousei no Onmyouji"
     guid: plex://show/5d9c0818ffd9ef001e98cc3b
     seasons:
       - season: 1
@@ -3788,9 +2721,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt27206542/
     # tmdb: https://www.themoviedb.org/tv/222785
     # tvdb: https://www.thetvdb.com/dereferrer/series/432748
-    synonyms:
-      - "Undead Girl Murder Farce"
-      - "Andeddo Gāru Mādā Farusu"
     guid: plex://show/641c6665fdc66b08daeb7435
     seasons:
       - season: 1
@@ -3800,9 +2730,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt12464182/
     # tmdb: https://www.themoviedb.org/tv/98986
     # tvdb: https://www.thetvdb.com/dereferrer/series/381406
-    synonyms:
-      - "Uzaki-chan Wants to Play!"
-      - "Uzaki-chan wa Asobitai!"
     guid: plex://show/5e457fe0d7a37f003ed3f28c
     seasons:
       - season: 1
@@ -3814,10 +2741,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt18561422/
     # tmdb: https://www.themoviedb.org/tv/194774
     # tvdb: https://www.thetvdb.com/dereferrer/series/417658
-    synonyms:
-      - "Vermeil in Gold ~A Magician Pushes Through the Magical World With the Strongest Disaster~"
-      - "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu"
-      - "Kinsō no Vermeil: Gakeppuchi Majutsushi wa Saikyō no Yakusai to Mahō Sekai wo Tsukisusumu"
     guid: plex://show/622aa1c01217c186d261f5fd
     seasons:
       - season: 1
@@ -3838,11 +2761,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt1685484/
     # tmdb: https://www.themoviedb.org/tv/46153
     # tvdb: https://www.thetvdb.com/dereferrer/series/145211
-    synonyms:
-      - "Working!!!"
-      - "Working'!!"
-      - "WORKING!! THE ANIMATION"
-      - "WORKING!!（ワーキング）"
     guid: plex://show/5d9c082d705e7a001e6d4d6b
     seasons:
       - season: 1
@@ -3856,14 +2774,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt11034066/
     # tmdb: https://www.themoviedb.org/tv/91801
     # tvdb: https://www.thetvdb.com/dereferrer/series/369144
-    synonyms:
-      - "Enrolled Demon Iruma!"
-      - "Here's Come the Demon! Iruma Kun"
-      - "The Demon, Iruma-kun, Came and Enrolled!"
-      - "Welcome to Demon School, Iruma-kun"
-      - "Welcome to Demon-School! Iruma-kun"
-      - "Welcome to Demon-School, Iruma-kun"
-      - "Mairimashita! Iruma-kun"
     guid: plex://show/5df5b931d0c35a001d581fb4
     seasons:
       - season: 1
@@ -3877,8 +2787,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3950102/
     # tmdb: https://www.themoviedb.org/tv/61628
     # tvdb: https://www.thetvdb.com/dereferrer/series/283934
-    synonyms:
-      - "World Trigger (2014)"
     guid: plex://show/5d9c084dffd9ef001e991550
     seasons:
       - season: 1
@@ -3892,9 +2800,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt0488477/
     # tmdb: https://www.themoviedb.org/tv/36250
     # tvdb: https://www.thetvdb.com/dereferrer/series/79283
-    synonyms:
-      - "xxxHOLiC"
-      - "xxxHOLiC◆継"
     guid: plex://show/5d9c08407b5c2e001e657c10
     seasons:
       - season: 1
@@ -3906,10 +2811,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4623042/
     # tmdb: https://www.themoviedb.org/tv/62568
     # tvdb: https://www.thetvdb.com/dereferrer/series/289744
-    synonyms:
-      - "Yamada-kun to 7-nin no Majo"
-      - "山田くんと7人の魔女 (2015)"
-      - "山田くんと7人の魔女 (アニメ)"
     guid: plex://show/5d9c0867ba6eb9001fba2e22
     seasons:
       - season: 1
@@ -3919,12 +2820,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2942228/
     # tmdb: https://www.themoviedb.org/tv/61441
     # tvdb: https://www.thetvdb.com/dereferrer/series/272309
-    synonyms:
-      - "Yowamushi Pedal: Glory Line"
-      - "Yowamushi Pedal: Grande Road"
-      - "Yowamushi Pedal: Limit Break"
-      - "Yowamushi Pedal: New Generation"
-      - "Yowapeda"
     guid: plex://show/5d9c08493c3f87001f34bc24
     seasons:
       - season: 1
@@ -3942,18 +2837,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt3981902/
     # tmdb: https://www.themoviedb.org/tv/71493
     # tvdb: https://www.thetvdb.com/dereferrer/series/284263
-    synonyms:
-      - "Yuki Yuna Is a Hero"
-      - "Yuuki Yuuna Is a Hero: The Great Mankai Chapter"
-      - "Yuuki Yuuna Is a Hero: The Hero Chapter"
-      - "Yuuki Yuuna Is a Hero: The Washio Sumi Chapter"
-      - "Yuuki Yuuna wa Yuusha de Aru"
-      - "Yuuki Yuuna wa Yuusha de Aru - Churutto!"
-      - "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou"
-      - "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
-      - "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
-      - "結城友奈は勇者である -勇者の章-"
-      - "結城友奈は勇者である -鷲尾須美の章-"
     guid: plex://show/5d9c08ac2192ba001f314b08
     seasons:
       - season: 1
@@ -3970,9 +2853,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt25811262/
     # tmdb: https://www.themoviedb.org/tv/217766
     # tvdb: https://www.thetvdb.com/dereferrer/series/429310
-    synonyms:
-      - "Zom 100 - Zombie ni Naru made ni Shitai 100 no Koto"
-      - "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"
     guid: plex://show/63b89f640d2426385fa072df
     seasons:
       - season: 1
