@@ -192,6 +192,26 @@ entries:
       - season: 3
         anilist-id: 136880
 
+  - title: "Birdie Wing -Golf Girls' Story-"
+    # tmdb: https://www.themoviedb.org/tv/137390-birdie-wing-golf-girls-story
+    # tvdb: https://www.thetvdb.com/dereferrer/series/411914
+    guid: plex://show/61b181f1c2629c42c5055543
+    seasons:
+      - season: 1
+        anilist-id: 140830
+      - season: 2
+        anilist-id: 151606
+
+  - title: "Birdie Wing -Golf Girls' Story-"
+    # tmdb: https://www.themoviedb.org/tv/137390-birdie-wing-golf-girls-story
+    # tvdb: https://www.thetvdb.com/dereferrer/series/411914
+    guid: plex://show/61b181f1c2629c42c5055543
+    seasons:
+      - season: 1
+        anilist-id: 140830
+      - season: 2
+        anilist-id: 151606
+
   - title: "Black Butler"
     # imdb: https://www.imdb.com/title/tt1316554/
     # tmdb: https://www.themoviedb.org/tv/50712
@@ -1350,6 +1370,16 @@ entries:
       - season: 3
         anilist-id: 125367
 
+  - title: "Kaiji"
+    # tmdb: https://www.themoviedb.org/tv/42951
+    # tvdb: https://www.thetvdb.com/dereferrer/series/81234
+    guid: plex://show/5d9c082ee98e47001eb09ab6
+    seasons:
+      - season: 1
+        anilist-id: 3002
+      - season: 2
+        anilist-id: 10271
+
   - title: "Kaiju No.8"
     # imdb: https://www.imdb.com/title/tt21975436/
     # tmdb: https://www.themoviedb.org/tv/207468
@@ -2017,6 +2047,14 @@ entries:
         anilist-id: 101474
       - season: 4
         anilist-id: 133844
+
+  - title: "Pokémon Concierge"
+    # tmdb: https://www.themoviedb.org/tv/221301
+    # tvdb: https://www.thetvdb.com/dereferrer/series/431703
+    guid: plex://show/63fe8f0b97977ff17b27e350
+    seasons:
+      - season: 1
+        anilist-id: 162147
 
   - title: "Princess Connect! Re:Dive"
     # imdb: https://www.imdb.com/title/tt11886236/
