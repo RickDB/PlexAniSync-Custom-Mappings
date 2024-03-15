@@ -1,0 +1,24 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "timezone": "Europe/Berlin",
+  "automerge": true,
+  "rebaseWhen": "conflicted",
+  "pip_requirements": {
+    "extends": ["schedule:monthly"],
+    "ignoreDeps": ["inflect"]
+  },
+  "github-actions": {
+    "extends": ["group:all"],
+    "groupName": "github-actions",
+    "groupSlug": "github-actions",
+    "packageRules": [
+      {
+        "groupName": "all dependencies",
+        "groupSlug": "all",
+        "matchPackagePatterns": ["*"]
+      }
+    ],
+  }
+}
