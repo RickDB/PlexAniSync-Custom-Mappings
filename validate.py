@@ -2,6 +2,7 @@ import glob
 import json
 import logging
 import sys
+from typing import List
 from jsonschema import validate
 from jsonschema.exceptions import ValidationError
 from ruamel.yaml import YAML
@@ -23,7 +24,7 @@ except FileNotFoundError:
         response = requests.get(schema_url)
         response.raise_for_status()
         schema = response.json()
-        
+
         # Save the fetched schema locally
         with open(local_schema_path, 'w', encoding='utf-8') as f:
             json.dump(schema, f, indent=4)
@@ -38,6 +39,13 @@ for file in glob.glob("*.yaml"):
     try:
         # Validate data against the schema.
         validate(file_mappings, schema)
+        titles: List[str] = []
+        for entry in file_mappings["entries"]:
+            title: str = entry["title"]
+            if title.lower() in titles:
+                raise ValidationError(f"{title} is already mapped", instance=entry)
+
+            titles.append(title.lower())
     except ValidationError as e:
         logger.error(f"Custom Mappings validation failed for {file}!")
         logger.error(f"{e.message} at entry {e.instance}")
