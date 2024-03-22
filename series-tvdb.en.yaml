@@ -202,16 +202,6 @@ entries:
       - season: 2
         anilist-id: 151606
 
-  - title: "Birdie Wing -Golf Girls' Story-"
-    # tmdb: https://www.themoviedb.org/tv/137390-birdie-wing-golf-girls-story
-    # tvdb: https://www.thetvdb.com/dereferrer/series/411914
-    guid: plex://show/61b181f1c2629c42c5055543
-    seasons:
-      - season: 1
-        anilist-id: 140830
-      - season: 2
-        anilist-id: 151606
-
   - title: "Black Butler"
     # imdb: https://www.imdb.com/title/tt1316554/
     # tmdb: https://www.themoviedb.org/tv/50712
