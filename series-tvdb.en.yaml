@@ -545,6 +545,23 @@ entries:
       - season: 2
         anilist-id: 6573
 
+  - title: "Date A Live"
+    guid: "plex://show/5d9c08282192ba001f308d89"
+    # imdb: https://www.imdb.com/title/tt2575684/
+    # tmdb: https://www.themoviedb.org/tv/46004
+    # tvdb: https://www.thetvdb.com/dereferrer/series/264663
+    seasons:
+      - season: 1
+        anilist-id: 15583
+      - season: 2
+        anilist-id: 19163
+      - season: 3
+        anilist-id: 100722
+      - season: 4
+        anilist-id: 116605
+      - season: 5
+        anilist-id: 151380
+
   - title: "Dead Mount Death Play"
     guid: plex://show/6376957e253ed1065f95ac14
     # imdb: https://www.imdb.com/title/tt27489241/
@@ -966,6 +983,15 @@ entries:
       - season: 10
         anilist-id: 101925
         start: 13
+
+  - title: "Go! Go! Loser Ranger!"
+    guid: "plex://show/638f9f6652b6cb1e7c123811"
+    # imdb: https://www.imdb.com/title/tt28082379/
+    # tmdb: https://www.themoviedb.org/tv/215799
+    # tvdb: https://www.thetvdb.com/dereferrer/series/428030
+    seasons:
+      - season: 1
+        anilist-id: 158417
 
   - title: "Goblin Slayer"
     guid: plex://show/5d9c090dffd9ef001e99ec5b
@@ -1493,6 +1519,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1456
+
+  - title: "Laid-Back Camp"
+    guid: "plex://show/5d9c08eb02391c001f5920c0"
+    # imdb: https://www.imdb.com/title/tt7742120/
+    # tmdb: https://www.themoviedb.org/tv/76075
+    # tvdb: https://www.thetvdb.com/dereferrer/series/330692
+    seasons:
+      - season: 1
+        anilist-id: 98444
+      - season: 2
+        anilist-id: 104459
+      - season: 3
+        anilist-id: 155908
 
   - title: "Level 1 Demon Lord and One Room Hero"
     guid: plex://show/6256a0665ab0ee88371172fb
@@ -2119,6 +2158,15 @@ entries:
       - season: 3
         anilist-id: 163134
 
+  - title: "Re:Monster"
+    guid: "plex://show/65374394ff5a3569ac2c79ad"
+    # imdb: https://www.imdb.com/title/tt31514720/
+    # tmdb: https://www.themoviedb.org/tv/235389
+    # tvdb: https://www.thetvdb.com/dereferrer/series/439755
+    seasons:
+      - season: 1
+        anilist-id: 169417
+
   - title: "Rent-a-Girlfriend"
     guid: plex://show/5e1625a7f37085003e285c0c
     # imdb: https://www.imdb.com/title/tt11448214/
@@ -2239,6 +2287,19 @@ entries:
         anilist-id: 170
       - season: 4
         anilist-id: 170
+
+  - title: "Sound! Euphonium"
+    guid: "plex://show/5d9c08672192ba001f30f19b"
+    # imdb: https://www.imdb.com/title/tt4384306/
+    # tmdb: https://www.themoviedb.org/tv/62564
+    # tvdb: https://www.thetvdb.com/dereferrer/series/289884
+    seasons:
+      - season: 1
+        anilist-id: 20912
+      - season: 2
+        anilist-id: 21460
+      - season: 3
+        anilist-id: 109731
 
   - title: "Space Brothers"
     guid: plex://show/5d9c081f4eefaa001f5d672a
@@ -2836,6 +2897,15 @@ entries:
         anilist-id: 116338
       - season: 3
         anilist-id: 139092
+
+  - title: "Wind Breaker"
+    guid: "plex://show/642664835f002b2d715c6be2"
+    # imdb: https://www.imdb.com/title/tt29605391/
+    # tmdb: https://www.themoviedb.org/tv/223500
+    # tvdb: https://www.thetvdb.com/dereferrer/series/433088
+    seasons:
+      - season: 1
+        anilist-id: 163270
 
   - title: "World Trigger"
     guid: plex://show/5d9c084dffd9ef001e991550
