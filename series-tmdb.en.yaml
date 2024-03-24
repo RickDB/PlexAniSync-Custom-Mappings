@@ -2075,6 +2075,22 @@ entries:
         anilist-id: 154745
         start: 25
 
+  - title: "Rurouni Kenshin"
+    guid: plex://show/5d9c07ece264b7001fc38094
+    seasons:
+      - season: 1
+        anilist-id: 45
+      - season: 2
+        anilist-id: 45
+      - season: 3
+        anilist-id: 45
+
+  - title: "Rurouni Kenshin (2023)"
+    guid: plex://show/6330a57e9705fab2b34f656d
+    seasons:
+      - season: 1
+        anilist-id: 142877
+
   - title: "Saint Cecilia and Pastor Lawrence"
     # imdb: https://www.imdb.com/title/tt22297732/
     # tmdb: https://www.themoviedb.org/tv/204148
