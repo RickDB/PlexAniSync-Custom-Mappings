@@ -1202,10 +1202,21 @@ entries:
         anilist-id: 170732
 
   - title: "JoJo's Bizarre Adventure"
+    guid: "plex://show/5d9c083cffd9ef001e990154"
+    # imdb: https://www.imdb.com/title/tt0248119/
+    # tmdb: https://www.themoviedb.org/tv/60862
+    # tvdb: https://www.thetvdb.com/dereferrer/series/83950
+    seasons:
+      - season: 1
+        anilist-id: 666
+      - season: 2
+        anilist-id: 665
+
+  - title: "JoJo's Bizarre Adventure (2012)"
+    guid: plex://show/5d9c07f04eefaa001f5d1ab7
     # imdb: https://www.imdb.com/title/tt2359704/
     # tmdb: https://www.themoviedb.org/tv/45790
     # tvdb: https://www.thetvdb.com/dereferrer/series/262954
-    guid: plex://show/5d9c07f04eefaa001f5d1ab7
     seasons:
       - season: 1
         anilist-id: 14719
