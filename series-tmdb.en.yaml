@@ -838,11 +838,20 @@ entries:
       - season: 1
         anilist-id: 154587
 
+  - title: "Fruits Basket"
+    guid: "plex://show/5d9c084602391c001f58531b"
+    # imdb: https://www.imdb.com/title/tt0328738/
+    # tmdb: https://www.themoviedb.org/tv/36941
+    # tvdb: https://www.thetvdb.com/dereferrer/series/78900
+    seasons:
+      - season: 1
+        anilist-id: 120
+
   - title: "Fruits Basket (2019)"
+    guid: plex://show/5d9c091708fddd001f2a75c8
     # imdb: https://www.imdb.com/title/tt9304350/
     # tmdb: https://www.themoviedb.org/tv/85991
     # tvdb: https://www.thetvdb.com/dereferrer/series/357488
-    guid: plex://show/5d9c091708fddd001f2a75c8
     seasons:
       - season: 1
         anilist-id: 105334
