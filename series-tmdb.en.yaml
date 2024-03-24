@@ -1115,11 +1115,21 @@ entries:
         anilist-id: 100852
         start: 14
 
-  - title: "Hunter x Hunter"
+  - title: "Hunter × Hunter"
+    guid: "plex://show/5d9c0824e9d5a1001f4d7e41"
+    # imdb: https://www.imdb.com/title/tt0426719/
+    # tmdb: https://www.themoviedb.org/tv/45952
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79076
+    seasons:
+      # PlexAniSync does not support mapping of Specials (30 episodes)
+      - season: 1
+        anilist-id: 136
+
+  - title: "Hunter x Hunter (2011)"
+    guid: plex://show/5d9c0834705e7a001e6d5db9
     # imdb: https://www.imdb.com/title/tt2098220/
     # tmdb: https://www.themoviedb.org/tv/46298
     # tvdb: https://www.thetvdb.com/dereferrer/series/252322
-    guid: plex://show/5d9c0834705e7a001e6d5db9
     seasons:
       - season: 1
         anilist-id: 11061
