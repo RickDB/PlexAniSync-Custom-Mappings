@@ -2124,7 +2124,10 @@ entries:
         anilist-id: 154745
 
   - title: "Rurouni Kenshin"
-    guid: plex://show/5d9c07ece264b7001fc38094
+    guid: "plex://show/5d9c07ece264b7001fc38094"
+    # imdb: https://www.imdb.com/title/tt0182629/
+    # tmdb: https://www.themoviedb.org/tv/28136
+    # tvdb: https://www.thetvdb.com/dereferrer/series/70863
     seasons:
       - season: 1
         anilist-id: 45
@@ -2134,10 +2137,15 @@ entries:
         anilist-id: 45
 
   - title: "Rurouni Kenshin (2023)"
-    guid: plex://show/6330a57e9705fab2b34f656d
+    guid: "plex://show/6330a57e9705fab2b34f656d"
+    # imdb: https://www.imdb.com/title/tt22249034/
+    # tmdb: https://www.themoviedb.org/tv/210879
+    # tvdb: https://www.thetvdb.com/dereferrer/series/413578
     seasons:
       - season: 1
         anilist-id: 142877
+      - season: 2
+        anilist-id: 171637
 
   - title: "Saint Cecilia and Pastor Lawrence"
     guid: plex://show/62ab5392458587620e2ba589
