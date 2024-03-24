@@ -867,13 +867,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt9304350/
     # tmdb: https://www.themoviedb.org/tv/85991
     # tvdb: https://www.thetvdb.com/dereferrer/series/357488
-    synonyms:
-      # There's a 2001 series as well
-      - "Fruba"
-      - "Furuba"
-      - "Furūtsu Basuketto"
-      - "フルーツバスケット 1st season"
-      - "フルーツバスケット 2nd season"
     guid: plex://show/5d9c091708fddd001f2a75c8
     seasons:
       - season: 1

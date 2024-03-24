@@ -838,18 +838,10 @@ entries:
       - season: 1
         anilist-id: 154587
 
-  - title: "Fruits Basket"
+  - title: "Fruits Basket (2019)"
     # imdb: https://www.imdb.com/title/tt9304350/
     # tmdb: https://www.themoviedb.org/tv/85991
     # tvdb: https://www.thetvdb.com/dereferrer/series/357488
-    synonyms:
-      # There's a 2001 series as well, but no way to distinguish without a year marker
-      # With GUID it could possibly work
-      - "Fruits Basket (2019)"
-      - "Fruba"
-      - "Furuba"
-      - "Furūtsu Basuketto"
-      - "フルバ"
     guid: plex://show/5d9c091708fddd001f2a75c8
     seasons:
       - season: 1
@@ -1118,13 +1110,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2098220/
     # tmdb: https://www.themoviedb.org/tv/46298
     # tvdb: https://www.thetvdb.com/dereferrer/series/252322
-    synonyms:
-      # There's a 1999 series as well, but no way to distinguish without a year marker
-      # With GUID it could possibly work
-      - "Hunter x Hunter (2011)"
-      - "Hunter × Hunter"
-      - "HxH"
-      - "HxH 2011"
     guid: plex://show/5d9c0834705e7a001e6d5db9
     seasons:
       - season: 1
@@ -1201,13 +1186,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt2359704/
     # tmdb: https://www.themoviedb.org/tv/45790
     # tvdb: https://www.thetvdb.com/dereferrer/series/262954
-    synonyms:
-      # There's a 1993 series as well, but no way to distinguish without a year marker
-      # With GUID it could possibly work
-      - "JoJo's Bizarre Adventure (2012)"
-      - "JoJo no Kimyou na Bouken"
-      - "JoJo no Kimyō na Bōken"
-      - "ジョジョの奇妙な冒険"
     guid: plex://show/5d9c07f04eefaa001f5d1ab7
     seasons:
       - season: 1
@@ -2780,10 +2758,6 @@ entries:
     # imdb: https://www.imdb.com/title/tt4623042/
     # tmdb: https://www.themoviedb.org/tv/62568
     # tvdb: https://www.thetvdb.com/dereferrer/series/289744
-    synonyms:
-      # There's a live-action 2013 series as well
-      - "Yamada-kun and the Seven Witches (2015)"
-      - "Yamada-kun to 7-nin no Majo"
     guid: plex://show/5d9c0867ba6eb9001fba2e22
     seasons:
       - season: 1
