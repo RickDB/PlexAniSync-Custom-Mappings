@@ -611,6 +611,19 @@ entries:
       - season: 1
         anilist-id: 223
 
+  - title: "Dragon Ball GT"
+    guid: plex://show/d9c080a02391c001f57f8f9
+    # imdb: https://www.imdb.com/title/tt0139774/
+    # tmdb: https://www.themoviedb.org/tv/12697
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79275
+    seasons:
+      - season: 1
+        anilist-id: 225
+      - season: 2
+        anilist-id: 225
+      - season: 3
+        anilist-id: 225
+
   - title: "Dragon Ball Super"
     guid: plex://show/5d9c08683c3f87001f34ebd8
     # imdb: https://www.imdb.com/title/tt4644488/
