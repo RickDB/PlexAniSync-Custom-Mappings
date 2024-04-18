@@ -2888,6 +2888,23 @@ entries:
       - season: 5
         anilist-id: 142481
 
+  - title: "Yu-Gi-Oh! Duel Monsters"
+    guid: plex://show/5d9c081dba6eb9001fb9c35c
+    # imdb: https://www.imdb.com/title/tt0247902/
+    # tmdb: https://www.themoviedb.org/tv/902
+    # tvdb: https://www.thetvdb.com/dereferrer/series/76894
+    seasons:
+      - season: 1
+        anilist-id: 481
+      - season: 2
+        anilist-id: 481
+      - season: 3
+        anilist-id: 481
+      - season: 4
+        anilist-id: 481
+      - season: 5
+        anilist-id: 481
+
   - title: "Yuuki Yuuna Is a Hero"
     guid: plex://show/5d9c08ac2192ba001f314b08
     # imdb: https://www.imdb.com/title/tt3981902/
