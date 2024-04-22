@@ -704,6 +704,15 @@ entries:
       - season: 9
         anilist-id: 813
 
+  - title: "Drop Kick on My Devil!!"
+    guid: plex://show/5d9c090502391c001f59412a
+    seasons:
+      - season: 1
+        anilist-id: 100714
+      - season: 2
+        anilist-id: 107294
+      - season: 3
+        anilist-id: 124641
   - title: "Durarara!!"
     guid: plex://show/5d9c07f3ba6eb9001fb97be1
     # imdb: https://www.imdb.com/title/tt1584000/
@@ -1270,6 +1279,22 @@ entries:
         anilist-id: 107201
       - season: 2
         anilist-id: 126529
+
+  - title: 'Initial D'
+    guid: plex://show/5d9c08567b5c2e001e6598a8
+    seasons:
+      - season: 1
+        anilist-id: 185
+      - season: 2
+        anilist-id: 186
+      - season: 3
+        anilist-id: 187
+      - season: 4
+        anilist-id: 18
+      - season: 5
+        anilist-id: 15059
+      - season: 6
+        anilist-id: 19613
 
   - title: "Inu × Boku Secret Service"
     guid: plex://show/5d9c084f2df347001e3af465
@@ -2982,28 +3007,3 @@ entries:
       - season: 1
         anilist-id: 159831
 
-  - title: 'Initial D'
-    guid: plex://show/5d9c08567b5c2e001e6598a8
-    seasons:
-      - season: 1
-        anilist-id: 185
-      - season: 2
-        anilist-id: 186
-      - season: 3
-        anilist-id: 187
-      - season: 4
-        anilist-id: 18
-      - season: 5
-        anilist-id: 15059
-      - season: 6
-        anilist-id: 19613
-
-  - title: "Drop Kick on My Devil!!"
-    guid: plex://show/5d9c090502391c001f59412a
-    seasons:
-      - season: 1
-        anilist-id: 100714
-      - season: 2
-        anilist-id: 107294
-      - season: 3
-        anilist-id: 124641
