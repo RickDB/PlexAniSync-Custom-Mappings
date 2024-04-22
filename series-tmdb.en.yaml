@@ -2912,4 +2912,29 @@ entries:
     seasons:
       - season: 1
         anilist-id: 159831
+        
+  - title: 'Initial D'
+    guid: plex://show/5d9c08567b5c2e001e6598a8
+    seasons:
+      - season: 1
+        anilist-id: 185
+      - season: 2
+        anilist-id: 186
+      - season: 3
+        anilist-id: 187
+      - season: 4
+        anilist-id: 18
+      - season: 5
+        anilist-id: 15059
+      - season: 6
+        anilist-id: 19613
 
+  - title: "Drop Kick on My Devil!!"
+    guid: plex://show/5d9c090502391c001f59412a
+    seasons:
+      - season: 1
+        anilist-id: 100714
+      - season: 2
+        anilist-id: 107294
+      - season: 3
+        anilist-id: 124641
