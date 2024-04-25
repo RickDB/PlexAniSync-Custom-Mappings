@@ -693,8 +693,8 @@ entries:
         anilist-id: 21175
 
   - title: "Dragon Ball Z"
-    guid: plex://show/65e05f0adc06bf6a52fe0c1b
-    # imdb: https://www.imdb.com/title/tt0214341/
+    guid: plex://show/5d9c080fba6eb9001fb9aa70
+    # imdb: https://www.imdb.com/title/tt0121220/
     # tmdb: https://www.themoviedb.org/tv/12971
     # tvdb: https://www.thetvdb.com/dereferrer/series/81472
     seasons:
