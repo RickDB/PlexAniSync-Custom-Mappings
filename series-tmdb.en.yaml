@@ -619,10 +619,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 225
-      - season: 2
-        anilist-id: 225
-      - season: 3
-        anilist-id: 225
 
   - title: "Dragon Ball Super"
     guid: plex://show/5d9c08683c3f87001f34ebd8
@@ -2908,14 +2904,6 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/76894
     seasons:
       - season: 1
-        anilist-id: 481
-      - season: 2
-        anilist-id: 481
-      - season: 3
-        anilist-id: 481
-      - season: 4
-        anilist-id: 481
-      - season: 5
         anilist-id: 481
 
   - title: "Yuuki Yuuna Is a Hero"
