@@ -1082,8 +1082,9 @@ entries:
         anilist-id: 21698
       - season: 4
         anilist-id: 106625
-      - season: 5
+      - season: 4
         anilist-id: 113538
+        start: 14
 
   - title: "Hajime no Ippo"
     guid: plex://show/5d9c082bffd9ef001e98e90e
