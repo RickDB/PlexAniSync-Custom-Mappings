@@ -3038,3 +3038,124 @@ entries:
       - season: 1
         anilist-id: 159831
 
+  - title: "Urusei Yatsura (2022)"
+    guid: "plex://show/61d17a3a7bbf0f7c110ea567"
+    # imdb: https://www.imdb.com/title/tt16764368/
+    # tmdb: https://www.themoviedb.org/tv/154524
+    # tvdb: https://www.thetvdb.com/dereferrer/series/414096
+    seasons:
+      - season: 1
+        anilist-id: 143277
+      - season: 2
+        anilist-id: 155645
+
+  - title: "Yashahime: Princess Half-Demon"
+    guid: "plex://show/5ec75f37fc16bb0041787f59"
+    # imdb: https://www.imdb.com/title/tt12287748/
+    # tmdb: https://www.themoviedb.org/tv/103254
+    # tvdb: https://www.thetvdb.com/dereferrer/series/384485
+    seasons:
+      - season: 1
+        anilist-id: 118399
+      - season: 1
+        anilist-id: 131264
+        start: 25
+
+  - title: "Super Dragon Ball Heroes"
+    guid: "plex://show/5d9c08ffd4f2a9001f804c2d"
+    # imdb: https://www.imdb.com/title/tt8433216/
+    # tmdb: https://www.themoviedb.org/tv/80020
+    # tvdb: https://www.thetvdb.com/dereferrer/series/347734
+    seasons:
+      - season: 1
+        anilist-id: 102352
+      - season: 2
+        anilist-id: 102352
+        start: 7
+      - season: 3
+        anilist-id: 102352
+        start: 21
+      - season: 4
+        anilist-id: 102352
+        start: 33
+      - season: 5
+        anilist-id: 102352
+        start: 41
+      - season: 6
+        anilist-id: 102352
+        start: 51
+
+  - title: "Isekai Quartet"
+    guid: "plex://show/5d9c09173c3f87001f35bf8b"
+    # imdb: https://www.imdb.com/title/tt9193770/
+    # tmdb: https://www.themoviedb.org/tv/87478
+    # tvdb: https://www.thetvdb.com/dereferrer/series/357471
+    seasons:
+      - season: 1
+        anilist-id: 104454
+      - season: 2
+        anilist-id: 110178
+
+  - title: "FLCL"
+    guid: "plex://show/5d9c0876cb3ffa001f1b5ab6"
+    # imdb: https://www.imdb.com/title/tt0279077/
+    # tmdb: https://www.themoviedb.org/tv/5895
+    # tvdb: https://www.thetvdb.com/dereferrer/series/78878
+    seasons:
+      - season: 1
+        anilist-id: 227
+      - season: 2
+        anilist-id: 21746
+      - season: 3
+        anilist-id: 21748
+      - season: 4
+        anilist-id: 146472
+      - season: 5
+        anilist-id: 146473
+
+  - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"
+    guid: "plex://show/5d9c08cc705e7a001e6e4372"
+    # imdb: https://www.imdb.com/title/tt6768600/
+    # tmdb: https://www.themoviedb.org/tv/70590
+    # tvdb: https://www.thetvdb.com/dereferrer/series/321670
+    seasons: 
+      - season: 1
+        anilist-id: 21676
+
+  - title: "Gundam Build Fighters"
+    guid: "plex://show/5d9c0839e264b7001fc3f43f"
+    # imdb: https://www.imdb.com/title/tt3213642/
+    # tmdb: https://www.themoviedb.org/tv/60667
+    # tvdb: https://www.thetvdb.com/dereferrer/series/273004
+    seasons:
+      - season: 1
+        anilist-id: 19319
+      - season: 2
+        anilist-id: 20739
+
+  - title: "Mobile Suit Gundam MS IGLOO"
+    guid: "plex://show/5d9c08493c3f87001f34bbc3"
+    # imdb: https://www.imdb.com/title/tt2328145/
+    # tmdb: https://www.themoviedb.org/tv/44919
+    # tvdb: https://www.thetvdb.com/dereferrer/series/81104
+    seasons:
+      - season: 1
+        anilist-id: 1917
+      - season: 2
+        anilist-id: 1916
+      - season: 3
+        anilist-id: 4232
+
+  - title: "Gundam Build Divers"
+    guid: "plex://show/5d9c08f32192ba001f318e87"
+    # imdb: https://www.imdb.com/title/tt8631370/
+    # tmdb: https://www.themoviedb.org/tv/76821
+    # tvdb: https://www.thetvdb.com/dereferrer/series/345055
+    seasons:
+      - season: 1
+        anilist-id: 101036
+      - season: 2
+        anilist-id: 110786
+      - season: 2
+        anilist-id: 114233
+        start: 14

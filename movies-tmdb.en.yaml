@@ -272,3 +272,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 10717
+
+  - title: "Zen - Grogu and Dust Bunnies"
+    guid: "plex://movie/6373d913d373480492dd02f7"
+    # imdb: https://www.imdb.com/title/tt23626160/
+    # tmdb: https://www.themoviedb.org/movie/1044343
+    seasons: 
+      - season: 1
+        anilist-id: 157062
