@@ -3090,3 +3090,16 @@ entries:
     seasons: 
       - season: 1
         anilist-id: 21676
+
+  - title: "Utawarerumono"
+    guid: "plex://show/5d9c083808fddd001f2958ee"
+    # imdb: https://www.imdb.com/title/tt0978215/
+    # tmdb: https://www.themoviedb.org/tv/46412
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79880
+    seasons:
+      - season: 1
+        anilist-id: 856
+      - season: 2
+        anilist-id: 21218
+      - season: 3
+        anilist-id: 112640
