@@ -1878,6 +1878,9 @@ entries:
       # Owarimonogatari (Ge)
       - season: 5
         anilist-id: 21745
+      # Off & Monster Season
+      - season: 6
+        anilist-id: 173533
 
   - title: "Monster"
     guid: plex://show/5d9c084702391c001f58567d
