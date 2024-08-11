@@ -65,6 +65,14 @@ entries:
       - season: 1
         anilist-id: 97918
 
+  - title: "Kaguya-sama: Love is War -The First Kiss That Never Ends-"
+    guid: plex://movie/637df85e3274c4c320201678
+    # imdb: https://www.imdb.com/title/tt23770418/
+    # tmdb: https://www.themoviedb.org/movie/997317
+    seasons:
+      - season: 1
+        anilist-id: 151384
+
   - title: "KONOSUBA – God's blessing on this wonderful world! Legend of Crimson"
     guid: plex://movie/5d777060fb0d55001f5eed1b
     # imdb: https://www.imdb.com/title/tt9239552/
