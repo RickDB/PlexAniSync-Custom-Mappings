@@ -2272,6 +2272,17 @@ entries:
         anilist-id: 20993
         start: 13
 
+  - title: "Shaman King"
+    guid: plex://show/5d9c0855e98e47001eb0d01b
+    # imdb: https://www.imdb.com/title/tt12502782/
+    # tmdb: https://www.themoviedb.org/tv/104699
+    # tvdb: https://www.thetvdb.com/dereferrer/series/383837
+    seasons:
+      - season: 1
+        anilist-id: 119675
+      - season: 2
+        anilist-id: 147850
+
   - title: "Shikimori's Not Just a Cutie"
     guid: plex://show/5ff0880f8cdd46002d35e8d6
     # imdb: https://www.imdb.com/title/tt15529074/
