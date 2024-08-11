@@ -963,9 +963,9 @@ entries:
 
   - title: "Full Metal Panic!"
     guid: plex://show/5d9c086fcb3ffa001f1b5059
-    # imdb: https://www.imdb.com/title/tt1355642/
-    # tmdb: https://www.themoviedb.org/tv/31911
-    # tvdb: https://www.thetvdb.com/dereferrer/series/78914
+    # imdb: https://www.imdb.com/title/tt0328739/
+    # tmdb: https://www.themoviedb.org/tv/39379  `
+    # tvdb: https://www.thetvdb.com/dereferrer/series/78914`
     seasons:
       - season: 1
         anilist-id: 71
