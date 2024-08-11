@@ -913,6 +913,21 @@ entries:
       - season: 1
         anilist-id: 5114
 
+  - title: "Full Metal Panic!"
+    guid: plex://show/5d9c086fcb3ffa001f1b5059
+    # imdb: https://www.imdb.com/title/tt1355642/
+    # tmdb: https://www.themoviedb.org/tv/31911
+    # tvdb: https://www.thetvdb.com/dereferrer/series/78914
+    seasons:
+      - season: 1
+        anilist-id: 71
+      - season: 2
+        anilist-id: 72
+      - season: 3
+        anilist-id: 73
+      - season: 4
+        anilist-id: 21451
+
   - title: "Ghost in the Shell: SAC_2045"
     guid: plex://show/62e293f73fc724eff6185850
     # imdb: https://www.imdb.com/title/tt9466298/
