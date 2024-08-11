@@ -2230,6 +2230,24 @@ entries:
       - season: 2
         anilist-id: 20993
 
+  - title: "Shaman King"
+    guid: plex://show/5d9c0855e98e47001eb0d01b
+    # imdb: https://www.imdb.com/title/tt12502782/
+    # tmdb: https://www.themoviedb.org/tv/104699
+    # tvdb: https://www.thetvdb.com/dereferrer/series/383837
+    seasons:
+      - season: 1
+        anilist-id: 119675
+
+  - title: "Shaman King Flowers"
+    guid: plex://show/65a8a40bceb9c1a935af823a
+    # imdb: https://www.imdb.com/title/tt30873755/
+    # tmdb: https://www.themoviedb.org/tv/232865
+    # tvdb: https://www.thetvdb.com/dereferrer/series/383837
+    seasons:
+      - season: 1
+        anilist-id: 147850
+
   - title: "Shikimori's Not Just a Cutie"
     guid: plex://show/5ff0880f8cdd46002d35e8d6
     # imdb: https://www.imdb.com/title/tt15529074/
