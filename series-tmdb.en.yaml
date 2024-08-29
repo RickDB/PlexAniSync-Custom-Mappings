@@ -2040,6 +2040,7 @@ entries:
         anilist-id: 150672
       - season: 2
         anilist-id: 166531
+        start: 12
 
   - title: "Overlord"
     guid: plex://show/5d9c080def619b002047c6f0
