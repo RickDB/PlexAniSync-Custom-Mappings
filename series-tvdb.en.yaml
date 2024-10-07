@@ -441,6 +441,15 @@ entries:
       - season: 1
         anilist-id: 127230
 
+  - title: "Chi: Regarding the Movement of the Earth"
+    guid: "plex://show/62b4889a67e0436e644eaafa"
+    # imdb: https://www.imdb.com/title/tt33044444/
+    # tmdb: https://www.themoviedb.org/tv/204635
+    # tvdb: https://www.thetvdb.com/dereferrer/series/421583
+    seasons:
+      - season: 1
+        anilist-id: 151514
+
   - title: "Chivalry of a Failed Knight"
     guid: plex://show/5d9c0805ec357c001f9a92bc
     # imdb: https://www.imdb.com/title/tt5100366/
@@ -2184,15 +2193,6 @@ entries:
         anilist-id: 97668
       - season: 3
         anilist-id: 153800
-
-  - title: "Chi: Regarding the Movement of the Earth"
-    guid: "plex://show/62b4889a67e0436e644eaafa"
-    # imdb: https://www.imdb.com/title/tt33044444/
-    # tmdb: https://www.themoviedb.org/tv/204635
-    # tvdb: https://www.thetvdb.com/dereferrer/series/421583
-    seasons:
-      - season: 1
-        anilist-id: 151514
 
   - title: "Oshi no Ko"
     guid: plex://show/62a3245d52758f8243740884
