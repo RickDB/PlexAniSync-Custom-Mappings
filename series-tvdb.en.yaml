@@ -2185,6 +2185,15 @@ entries:
       - season: 3
         anilist-id: 153800
 
+  - title: "Chi: Regarding the Movement of the Earth"
+    guid: "plex://show/62b4889a67e0436e644eaafa"
+    # imdb: https://www.imdb.com/title/tt33044444/
+    # tmdb: https://www.themoviedb.org/tv/204635
+    # tvdb: https://www.thetvdb.com/dereferrer/series/421583
+    seasons:
+      - season: 1
+        anilist-id: 151514
+
   - title: "Oshi no Ko"
     guid: plex://show/62a3245d52758f8243740884
     # imdb: https://www.imdb.com/title/tt21030032/
@@ -3041,6 +3050,15 @@ entries:
         anilist-id: 115113
       - season: 2
         anilist-id: 124395
+
+  - title: "Uzumaki"
+    guid: plex://show/5e1612d42142140020cca817
+    # imdb: https://www.imdb.com/title/tt10905902/
+    # tmdb: https://www.themoviedb.org/tv/93241
+    # tvdb: https://www.thetvdb.com/dereferrer/series/369026
+    seasons:
+      - season: 1
+        anilist-id: 111314
 
   - title: "Vermeil in Gold"
     guid: plex://show/622aa1c01217c186d261f5fd
