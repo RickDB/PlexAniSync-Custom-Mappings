@@ -2283,6 +2283,15 @@ entries:
       - season: 1
         anilist-id: 153452
 
+  - title: "Ranma ½ (2024)"
+    guid: plex://show/6698039a9752b4926feeb778
+    # imdb: https://www.imdb.com/title/tt32766897/
+    # tmdb: https://www.themoviedb.org/tv/259140
+    # tvdb: https://www.thetvdb.com/dereferrer/series/451479
+    seasons:
+      - season: 1
+        anilist-id: 178533
+
   - title: "Re: ZERO, Starting Life in Another World"
     guid: plex://show/5d9c0817e98e47001eb0777d
     # imdb: https://www.imdb.com/title/tt5607616/

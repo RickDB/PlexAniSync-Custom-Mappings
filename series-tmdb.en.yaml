@@ -2235,6 +2235,15 @@ entries:
       - season: 1
         anilist-id: 153452
 
+  - title: "Ranma1/2"
+    guid: plex://show/6698039a9752b4926feeb778
+    # imdb: https://www.imdb.com/title/tt32766897/
+    # tmdb: https://www.themoviedb.org/tv/259140
+    # tvdb: https://www.thetvdb.com/dereferrer/series/451479
+    seasons:
+      - season: 1
+        anilist-id: 178533
+
   - title: "Re:Monster"
     guid: "plex://show/65374394ff5a3569ac2c79ad"
     # imdb: https://www.imdb.com/title/tt31514720/
