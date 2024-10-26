@@ -353,6 +353,15 @@ entries:
       - season: 2
         anilist-id: 163146
 
+  - title: "Blue Miburo"
+    guid: plex://show/650297fd614d568c2cdca0c9
+    # imdb: https://www.imdb.com/title/tt30523856/
+    # tmdb: https://www.themoviedb.org/tv/234776
+    # tvdb: https://www.thetvdb.com/dereferrer/series/439531
+    seasons:
+      - season: 1
+        anilist-id: 169258
+
   - title: "Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense"
     guid: plex://show/5df5b93281e1a7001f946b48
     # imdb: https://www.imdb.com/title/tt11428630/
