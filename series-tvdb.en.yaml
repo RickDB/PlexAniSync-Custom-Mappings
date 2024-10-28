@@ -299,6 +299,9 @@ entries:
       - season: 17
         anilist-id: 159322
         start: 14
+      - season: 17
+        anilist-id: 169755
+        start: 27
 
   - title: "Blood Blockade Battlefront"
     guid: plex://show/5d9c0852e264b7001fc413eb
@@ -3147,6 +3150,16 @@ entries:
         anilist-id: 861
       - season: 2
         anilist-id: 3091
+
+  - title: "Yakuza Fiancé: Raise wa Tanin ga Ii"
+    # imdb: https://www.imdb.com/title/tt32792739/
+    # tmdb: https://www.themoviedb.org/tv/259787
+    # tvdb: https://www.thetvdb.com/dereferrer/series/441190
+    guid: plex://show/667ece0339a17317352a35fe
+    seasons:
+      - season: 1
+        anilist-id: 170468
+
 
   - title: "Yamada-kun and the Seven Witches (2015)"
     guid: plex://show/5d9c0867ba6eb9001fba2e22
