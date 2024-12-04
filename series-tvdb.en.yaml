@@ -2504,6 +2504,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 145728
+      - season: 2
+        anilist-id: 181951
 
   - title: "SPY x FAMILY"
     guid: plex://show/617fcf9e0b976a839051dab2
