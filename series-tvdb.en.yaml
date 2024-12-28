@@ -3251,3 +3251,14 @@ entries:
       - season: 1
         anilist-id: 159831
 
+  - title: "The Case Study of Vanitas"
+    guid: plex://show/606201b811d36f002c41c64a
+    # imdb: https://www.imdb.com/title/tt14641098/
+    # tmdb: https://www.themoviedb.org/tv/121964
+    # tvdb: https://www.thetvdb.com/dereferrer/series/400133
+    seasons:
+      - season: 1
+        anilist-id: 131646
+      - season: 1
+        anilist-id: 135136
+        start: 13
