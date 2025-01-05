@@ -2461,6 +2461,17 @@ entries:
       - season: 4
         anilist-id: 170
 
+  - title: "Solo Leveling"
+    guid: "plex://show/60c8f1eb65616d002c4c7951"
+    # imdb: https://www.imdb.com/title/tt21209876/
+    # tmdb: https://www.themoviedb.org/tv/127532
+    # tvdb: https://www.thetvdb.com/dereferrer/series/389597
+    seasons:
+      - season: 1
+        anilist-id: 151807
+      - season: 2
+        anilist-id: 176496
+
   - title: "Sound! Euphonium"
     guid: "plex://show/5d9c08672192ba001f30f19b"
     # imdb: https://www.imdb.com/title/tt4384306/
