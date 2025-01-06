@@ -3264,6 +3264,15 @@ entries:
       - season: 3
         anilist-id: 122292
 
+  - title: "ZENSHU"
+    guid: "plex://show/65fec759866c5770d9908bfc"
+    # imdb: https://www.imdb.com/title/tt31863730/
+    # tmdb: https://www.themoviedb.org/tv/249882
+    # tvdb: https://www.thetvdb.com/dereferrer/series/447955
+    seasons:
+      - season: 1
+        anilist-id: 176273
+
   - title: "Zom 100: Bucket List of the Dead"
     guid: plex://show/63b89f640d2426385fa072df
     # imdb: https://www.imdb.com/title/tt25811262/
