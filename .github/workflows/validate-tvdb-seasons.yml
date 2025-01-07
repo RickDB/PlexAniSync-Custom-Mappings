@@ -36,7 +36,7 @@ jobs:
       uses: actions/cache@v4
       with:
         path: ${{ env.pythonLocation }}
-        key: ${{ env.pythonLocation }}-${{ hashFiles('validate-tvdb.py') }}
+        key: ${{ env.pythonLocation }}-${{ hashFiles('validate-tvdb-seasons.py') }}
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
