@@ -1,0 +1,51 @@
+name: Validate TVDB Seasons
+on:
+  push:
+    branches:
+      - main
+  pull_request_target:
+    branches:
+      - main
+    paths:
+      - "series-tvdb.en.yaml"
+      - "**.py"
+env:
+  PYTHON_VERSION: "3.10"
+jobs:
+  validate-added-seasons-against-tvdb:
+    runs-on: ubuntu-latest
+    steps:
+    # TODO: maybe make this step a pre-requisite to any CI flow
+    - name: Prevent file change
+      uses: xalvarez/prevent-file-change-action@v1
+      with:
+        githubToken: ${{ secrets.GITHUB_TOKEN }}
+        pattern: .*\.py
+        trustedAuthors: evie-lau
+        allowNewFiles: false
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        ref: ${{github.event.pull_request.head.ref}}
+        repository: ${{github.event.pull_request.head.repo.full_name}}
+    - name: Set up Python ${{ env.PYTHON_VERSION }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+    - name: Cache python env
+      uses: actions/cache@v4
+      with:
+        path: ${{ env.pythonLocation }}
+        key: ${{ env.pythonLocation }}-${{ hashFiles('validate-tvdb.py') }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install tvdb_v4_official python-dotenv pyyaml
+    - name: Run season validation against TVDB
+      env:
+        TVDB_API_KEY: ${{ secrets.TVDB_API_KEY }}
+      run: python validate-tvdb-seasons.py
+    - name: Create updated entries list
+      uses: actions/upload-artifact@v4
+      with:
+        path: temp.yaml
