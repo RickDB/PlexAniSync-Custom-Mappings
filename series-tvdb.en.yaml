@@ -2569,6 +2569,13 @@ entries:
       - season: 1
         anilist-id: 21127
 
+  - title: "Sugar Apple Fairy Tale"
+    seasons:
+      - season: 1
+        anilist-id: 139821
+      - season: 2
+        anilist-id: 163079
+
   - title: "Summer Time Rendering"
     guid: plex://show/601979150ac8df002b933135
     # imdb: https://www.imdb.com/title/tt15686254/
