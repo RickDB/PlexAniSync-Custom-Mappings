@@ -21,7 +21,7 @@ jobs:
       with:
         githubToken: ${{ secrets.GITHUB_TOKEN }}
         pattern: .*\.py
-        trustedAuthors: evie-lau
+        trustedAuthors: evie-lau,Soitora,reconman
         allowNewFiles: false
     - uses: actions/checkout@v4
       with:
