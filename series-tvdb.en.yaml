@@ -3062,15 +3062,6 @@ entries:
       - season: 1
         anilist-id: 21499
 
-  - title: "Übel Blatt"
-    guid: "plex://show/65db309639d5eabf6d1e207b"
-    # imdb: https://www.imdb.com/title/tt32581027/
-    # tmdb: https://www.themoviedb.org/tv/247367
-    # tvdb: https://www.thetvdb.com/dereferrer/series/446485
-    seasons:
-      - season: 1
-        anilist-id: 175198
-
   - title: "Undead Murder Farce"
     guid: plex://show/641c6665fdc66b08daeb7435
     # imdb: https://www.imdb.com/title/tt27206542/
@@ -3299,4 +3290,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 159831
+
+  - title: "Übel Blatt"
+    guid: "plex://show/65db309639d5eabf6d1e207b"
+    # imdb: https://www.imdb.com/title/tt32581027/
+    # tmdb: https://www.themoviedb.org/tv/247367
+    # tvdb: https://www.thetvdb.com/dereferrer/series/446485
+    seasons:
+      - season: 1
+        anilist-id: 175198
 
