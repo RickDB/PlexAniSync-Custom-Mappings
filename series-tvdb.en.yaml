@@ -3273,6 +3273,21 @@ entries:
       - season: 3
         anilist-id: 122292
 
+  - title: "Yu Yu Hakusho"
+    guid: "plex://show/5d9c0813705e7a001e6d1afb"
+    # imdb: https://www.imdb.com/title/tt0185133/
+    # tmdb: https://www.themoviedb.org/tv/30669
+    # tvdb: https://www.thetvdb.com/dereferrer/series/76665
+    seasons:
+      - season: 1
+        anilist-id: 392
+      - season: 2
+        anilist-id: 392
+      - season: 3
+        anilist-id: 392
+      - season: 4
+        anilist-id: 392
+
   - title: "ZENSHU"
     guid: "plex://show/65fec759866c5770d9908bfc"
     # imdb: https://www.imdb.com/title/tt31863730/
