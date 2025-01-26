@@ -1,8 +1,5 @@
 name: Validate TVDB Seasons
 on:
-  push:
-    branches:
-      - main
   pull_request_target:
     branches:
       - main
@@ -40,7 +37,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        python -m pip install tvdb_v4_official python-dotenv pyyaml
+        python -m pip install tvdb_v4_official python-dotenv pyyaml deepdiff
     - name: Run season validation against TVDB
       env:
         TVDB_API_KEY: ${{ secrets.TVDB_API_KEY }}

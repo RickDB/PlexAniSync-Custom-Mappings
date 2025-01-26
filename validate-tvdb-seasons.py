@@ -1,7 +1,8 @@
 import os, sys, subprocess
 import tvdb_v4_official, yaml
 from dotenv import load_dotenv
-from pathlib import Path
+from deepdiff import DeepDiff, Delta
+
 
 def getTvdbId(showName):
     # Get TVDB ID of show
@@ -14,8 +15,12 @@ def getTvdbId(showName):
             ) and result['primary_type'] == "series":
             # print(result)
             showId = result['tvdb_id']
-            break
+            series = tvdb.get_series_extended(showId)
+            # only mark as found if it's an Anime show
+            if any(genre['name'] == 'Anime' for genre in series['genres']):
+                break
     return showId
+
 
 # Validate user-mapped season entries against TVDB seasons
 def validateShowSeasons(showName, seasonsToFind):
@@ -31,6 +36,7 @@ def validateShowSeasons(showName, seasonsToFind):
     series = tvdb.get_series_extended(showId)
     tvdbSeasons = [season['number'] for season in series['seasons'] if season['type']['type'] == 'official']
 
+    episodes = tvdb.get_series_episodes(showId)
     # print("Found show: " + showName + " (" + showId + "), with seasons: " + str(tvdbSeasons))
     # print("Validating user-mapped seasons: " + str(seasonsToFind))
     invalidSeasons = []
@@ -43,10 +49,11 @@ def validateShowSeasons(showName, seasonsToFind):
         print("Did not find season(s): " + str(invalidSeasons) + " in show: " + showName)
     return errors
 
+
 # Parse temp.yaml and validate shows/seasons against TVDB
 def validateMappings(file="temp.yaml"):
     errors = 0
-    with open(file) as f:
+    with open(file, mode='r') as f:
         mappings = yaml.safe_load(f)
         for show in sorted(mappings['entries'], key=lambda entry: (entry['title'], entry['seasons'])):
             showName = show['title']
@@ -54,55 +61,42 @@ def validateMappings(file="temp.yaml"):
             errors += validateShowSeasons(showName, seasons)
     return errors
 
-# Get diff compared to main branch
-def get_diff(file_path, commit_old='origin/main', commit_new='HEAD'):
-    diff_output = subprocess.run(
-        ['git', 'diff', '-U20', commit_old, commit_new, '--', file_path],
-        capture_output=True, text=True
-    )
-    return diff_output.stdout
 
-# Parse diff for changed mapping entries
-def extract_changed_groups(diff_output):
-    changes = []
-    change_group = []
-    updatedEntry = False
-    for line in diff_output.splitlines():
-        if line.startswith('-'): continue
-        if line.startswith('+'): updatedEntry = True
-        if "title:" in line:
-            addIfUpdated(change_group, changes, updatedEntry)
-            updatedEntry = False
-            change_group = []
-        change_group.append(f"{line[1:]}")
-    if not changes:
-        print("No season mapping changes detected in the latest commit")
-        sys.exit()
-    return changes
-
-def addIfUpdated(group, collection, isUpdate):
-    if group and isUpdate and "title:" in str(group) and "season:" in str(group): collection.append(group)
-
-# Create temp yaml with changed entries
-def createTempYaml(change_groups):
-    lines = []
-    lines.append("entries:\n")
-    for group in change_groups:
-        if "title:" not in str(group):
-            # TODO: search full mappings to find the context
-            continue
-        for line in group:
-            lines.append(line+"\n")
-    with open('temp.yaml', 'w') as file:
-        file.write(''.join(lines))
-
-# Parse `git diff` for new mapped entries and write into temp yaml file
+# Finds new and changed entries and writes them into a temp yaml file
 def extractNewMappings():
-    diff_output = get_diff("series-tvdb.en.yaml")
-    change_groups = extract_changed_groups(diff_output)
-    createTempYaml(change_groups)
+    old_mappings = dict()
+    new_mappings = dict()
+
+    # get old version of TVDB file
+    # TODO read old_mappings YAML from stdout so the file is not needed anymore
+    with open('tvdb-old.yaml', mode='w') as f:
+        subprocess.run(
+            ['git', 'show', 'origin/main:series-tvdb.en.yaml'],
+            text=True,
+            check=True,
+            stdout=f
+        )
+
+    with open('tvdb-old.yaml', mode='r') as f:
+        old_mappings = yaml.safe_load(f)
+
+    with open('series-tvdb.en.yaml', mode='r') as f:
+        new_mappings = yaml.safe_load(f)
+
+    # create new mapping file with just the changed entries
+    diff = DeepDiff(old_mappings['entries'], new_mappings['entries'], ignore_order=True)
+    change_groups = { "entries": [] }
+    # diff.affected_root_keys contains the indices of the changed entries
+    for key in diff.affected_root_keys:
+        change_groups['entries'].append(new_mappings['entries'][key])
+
+    # write the changed entries to temp.yaml
+    with open('temp.yaml', mode='w') as file:
+        yaml.dump(change_groups, file, encoding='utf-8', allow_unicode=True)
+
 
 def cleanup():
+    os.remove("tvdb-old.yaml")
     os.remove("temp.yaml")
 
 
@@ -115,5 +109,5 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 
 errors = validateMappings()
 if errors != 0:
-    sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
+    sys.exit("Found " + str(errors) + " error(s) in the season mappings")
 # cleanup()
