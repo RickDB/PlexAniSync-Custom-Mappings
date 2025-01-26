@@ -2,7 +2,6 @@ import os, sys, subprocess
 import tvdb_v4_official, yaml
 from dotenv import load_dotenv
 from deepdiff import DeepDiff
-import urllib
 
 
 def getTvdbId(showName):
