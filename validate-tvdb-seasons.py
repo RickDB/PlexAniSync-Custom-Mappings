@@ -1,24 +1,25 @@
 import os, sys, subprocess
 import tvdb_v4_official, yaml
 from dotenv import load_dotenv
-from deepdiff import DeepDiff, Delta
+from deepdiff import DeepDiff
+import urllib
 
 
 def getTvdbId(showName):
     # Get TVDB ID of show
     showId = None
     series = None
-    searchResults = tvdb.search(showName)
+    searchResults = tvdb.search(showName, type="series", country="jpn")
     for result in searchResults:
         if ((showName == result['name']) or
             ('aliases' in result and showName in result['aliases']) or
             ('translations' in result and 'eng' in result['translations'] and showName == result['translations']['eng'])
-            ) and result['primary_type'] == "series":
+            ):
             # print(result)
             showId = result['tvdb_id']
             series = tvdb.get_series_extended(showId)
             # only mark as found if it's an Anime show
-            if any(genre['name'] == 'Anime' or genre['name'] == 'Animation' for genre in series['genres']):
+            if any((genre['name'] == 'Anime' or genre['name'] == 'Animation') for genre in series['genres']):
                 break
             else: # reset stored values if not a match
                 showId = None
@@ -39,7 +40,6 @@ def validateShowSeasons(showName, seasonsToFind):
     # TODO: does not work for primary_type: movie, maybe separate method for those? Test with 5cm per second
     tvdbSeasons = [season['number'] for season in series['seasons'] if season['type']['type'] == 'official']
 
-    episodes = tvdb.get_series_episodes(showId)
     # print("Found show: " + showName + " (" + showId + "), with seasons: " + str(tvdbSeasons))
     # print("Validating user-mapped seasons: " + str(seasonsToFind))
     invalidSeasons = []
