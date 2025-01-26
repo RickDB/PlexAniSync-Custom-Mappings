@@ -7,6 +7,7 @@ from deepdiff import DeepDiff, Delta
 def getTvdbId(showName):
     # Get TVDB ID of show
     showId = None
+    series = None
     searchResults = tvdb.search(showName)
     for result in searchResults:
         if ((showName == result['name']) or
@@ -19,21 +20,20 @@ def getTvdbId(showName):
             # only mark as found if it's an Anime show
             if any(genre['name'] == 'Anime' for genre in series['genres']):
                 break
-    return showId
+    return showId, series
 
 
 # Validate user-mapped season entries against TVDB seasons
 def validateShowSeasons(showName, seasonsToFind):
     errors = 0
 
-    showId = getTvdbId(showName)
+    showId, series = getTvdbId(showName)
     print("Validating: " + showName + " [" + str(showId) + "] - Seasons " + str(seasonsToFind))
 
     if (showId is None):
         print("No TVDB series result: " + showName)
         return errors
     # TODO: does not work for primary_type: movie, maybe separate method for those? Test with 5cm per second
-    series = tvdb.get_series_extended(showId)
     tvdbSeasons = [season['number'] for season in series['seasons'] if season['type']['type'] == 'official']
 
     episodes = tvdb.get_series_episodes(showId)
@@ -110,4 +110,4 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 errors = validateMappings()
 if errors != 0:
     sys.exit("Found " + str(errors) + " error(s) in the season mappings")
-# cleanup()
+cleanup()
