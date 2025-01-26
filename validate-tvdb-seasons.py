@@ -18,8 +18,11 @@ def getTvdbId(showName):
             showId = result['tvdb_id']
             series = tvdb.get_series_extended(showId)
             # only mark as found if it's an Anime show
-            if any(genre['name'] == 'Anime' for genre in series['genres']):
+            if any(genre['name'] == 'Anime' or genre['name'] == 'Animation' for genre in series['genres']):
                 break
+            else: # reset stored values if not a match
+                showId = None
+                series = None
     return showId, series
 
 
