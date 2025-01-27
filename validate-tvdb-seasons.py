@@ -8,22 +8,34 @@ def getTvdbId(showName):
     # Get TVDB ID of show
     showId = None
     series = None
-    searchResults = tvdb.search(showName, type="series", country="jpn")
+    searchResults = tvdb.search(showName, type="series")
     for result in searchResults:
-        if ((showName == result['name']) or
-            ('aliases' in result and showName in result['aliases']) or
-            ('translations' in result and 'eng' in result['translations'] and showName == result['translations']['eng'])
-            ):
+        if (resultMatchesShow(result, showName)):
             # print(result)
             showId = result['tvdb_id']
             series = tvdb.get_series_extended(showId)
             # only mark as found if it's an Anime show
-            if any((genre['name'] == 'Anime' or genre['name'] == 'Animation') for genre in series['genres']):
+            if matchesAnimeCriteria(series):
                 break
             else: # reset stored values if not a match
                 showId = None
                 series = None
     return showId, series
+
+
+def resultMatchesShow(result, showName):
+    return ((showName == result['name']) or
+            ('aliases' in result and showName in result['aliases']) or
+            ('translations' in result and 'eng' in result['translations'] and showName == result['translations']['eng']))
+
+
+# Match for AniList anime criteria (arbitrary): genre=[Anime,Animation], country=[jpn,kor,chn,twn]
+validGenres = {'Anime','Animation'}
+validCountries = {'jpn','kor','chn','twn'}
+def matchesAnimeCriteria(series):
+    seriesGenreSet = {item['name'] for item in series['genres']}
+    return ((seriesGenreSet.intersection(validGenres)) and
+            (series['originalCountry'] in validCountries))
 
 
 # Validate user-mapped season entries against TVDB seasons
