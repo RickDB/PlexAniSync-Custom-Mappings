@@ -23,10 +23,12 @@ def getTvdbId(showName):
     return showId, series
 
 
+# Check if showName matches anything result name, aliases, or translation names
 def resultMatchesShow(result, showName):
+    # TODO: need to normalize some characters, such as dashes and apostrophes. Use unicodedata.normalize. Test with "KonoSuba – God's blessing on this wonderful world!!" (curly vs straight apostrophe)
     return ((showName == result['name']) or
             ('aliases' in result and showName in result['aliases']) or
-            ('translations' in result and 'eng' in result['translations'] and showName == result['translations']['eng']))
+            ('translations' in result and showName in result['translations'].values()))
 
 
 # Match for AniList anime criteria (arbitrary): genre=[Anime,Animation], country=[jpn,kor,chn,twn]
