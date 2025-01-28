@@ -4,7 +4,8 @@ from dotenv import load_dotenv
 from deepdiff import DeepDiff
 
 
-def getTvdbId(showName):
+# Get TVDB ID and series information for a show
+def getTvdbEntry(showName):
     # Get TVDB ID of show
     showId = None
     series = None
@@ -44,11 +45,11 @@ def matchesAnimeCriteria(series):
 def validateShowSeasons(showName, seasonsToFind):
     errors = 0
 
-    showId, series = getTvdbId(showName)
+    showId, series = getTvdbEntry(showName)
     print("Validating: " + showName + " [" + str(showId) + "] - Seasons " + str(seasonsToFind))
 
     if (showId is None):
-        print("No TVDB series result: " + showName)
+        print("\t[WARNING] No TVDB series result: " + showName)
         return errors
     # TODO: does not work for primary_type: movie, maybe separate method for those? Test with 5cm per second
     tvdbSeasons = [season['number'] for season in series['seasons'] if season['type']['type'] == 'official']
@@ -62,7 +63,7 @@ def validateShowSeasons(showName, seasonsToFind):
             invalidSeasons.append(s)
 
     if errors > 0:
-        print("Did not find season(s): " + str(invalidSeasons) + " in show: " + showName)
+        print("\t[ERROR] Did not find season(s): " + str(invalidSeasons) + " in show: " + showName)
     return errors
 
 
