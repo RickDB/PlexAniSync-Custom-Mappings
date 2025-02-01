@@ -2022,6 +2022,8 @@ entries:
         anilist-id: 21710
       - season: 6
         anilist-id: 97983
+      - season: 7
+        anilist-id: 166611
 
   - title: "NieR:Automata Ver1.1a"
     guid: plex://show/62178d568b788c6ee0388271
