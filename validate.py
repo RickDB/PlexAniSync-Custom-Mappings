@@ -48,13 +48,35 @@ for file in glob.glob("*.yaml"):
         # Validate data against the schema.
         validate(file_mappings, schema)
         titles: List[str] = []
-        for entry in file_mappings["entries"]:
+        
+        # Read file content as lines
+        with open(file, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+            
+        for i, entry in enumerate(file_mappings["entries"]):
             title: str = entry["title"]
             # Check if title uses double quotes
-            with open(file, "r", encoding="utf-8") as f:
-                file_content = f.read()
-                if f'"{title}"' not in file_content:
-                    raise ValidationError(f"Title '{title}' must be wrapped in double quotes", instance=entry)
+            title_line = f'  - title: "{title}"'
+            
+            # Find the line number for this entry
+            line_number = None
+            for idx, line in enumerate(lines):
+                if title_line in line:
+                    line_number = idx
+                    break
+                    
+            if line_number is None:
+                raise ValidationError(f"Could not find title line for '{title}'", instance=entry)
+                
+            # Check for double quotes
+            if f'"{title}"' not in lines[line_number]:
+                raise ValidationError(f"Title '{title}' must be wrapped in double quotes", instance=entry)
+            
+            # Check for newline between entries (except before first entry)
+            if i > 0 and line_number > 0:
+                prev_line = lines[line_number - 1].strip()
+                if prev_line != "":
+                    raise ValidationError(f"Missing blank line before entry '{title}'", instance=entry)
             
             if title.lower() in titles:
                 raise ValidationError(f"{title} is already mapped", instance=entry)
