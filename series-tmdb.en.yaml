@@ -695,6 +695,7 @@ entries:
         anilist-id: 107294
       - season: 3
         anilist-id: 124641
+
   - title: "Durarara!!"
     guid: plex://show/5d9c07f3ba6eb9001fb97be1
     # imdb: https://www.imdb.com/title/tt1584000/
@@ -2350,6 +2351,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 170206
+
   - title: "Seraph of the End"
     guid: plex://show/5d9c0852e98e47001eb0cb74
     # imdb: https://www.imdb.com/title/tt4584326/
@@ -2691,6 +2693,7 @@ entries:
       - season: 1
         anilist-id: 135136
         start: 13
+
   - title: "The Dangers in My Heart"
     guid: plex://show/638ef90a92bb2fdc322d2db2
     # imdb: https://www.imdb.com/title/tt21423786/
@@ -3040,6 +3043,7 @@ entries:
         anilist-id: 21218
       - season: 3
         anilist-id: 112640
+
   - title: "Uzaki-chan Wants to Hang Out!"
     guid: plex://show/5e457fe0d7a37f003ed3f28c
     # imdb: https://www.imdb.com/title/tt12464182/
@@ -3252,4 +3256,3 @@ entries:
     seasons:
       - season: 1
         anilist-id: 175198
-
