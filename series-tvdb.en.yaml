@@ -2134,6 +2134,19 @@ entries:
       - season: 2
         anilist-id: 112803
 
+  - title: "Non Non Biyori"
+    guid: 'plex://show/5d9c0802ffd9ef001e98a792'
+    # imdb: https://www.imdb.com/title/tt3114358/
+    # tmdb: https://www.themoviedb.org/tv/66875
+    # tvdb: https://www.thetvdb.com/dereferrer/series/272316
+    seasons:
+      - season: 1
+        anilist-id: 17549
+      - season: 2
+        anilist-id: 20694
+      - season: 3
+        anilist-id: 109403
+
   - title: "Noragami"
     guid: plex://show/5d9c081402391c001f580574
     # imdb: https://www.imdb.com/title/tt3225270/
