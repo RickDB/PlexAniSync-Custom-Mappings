@@ -1,5 +1,13 @@
 # PlexAniSync: TMDB Series Mappings in English
 entries:
+  - title: "I'm Living with an Otaku NEET Kunoichi!?"
+    guid: plex://show/65d1de41680c8ef439972bf4
+    # imdb: https://www.imdb.com/title/tt32034812/
+    # tmdb: https://www.themoviedb.org/tv/273048
+    # tvdb: https://www.thetvdb.com/dereferrer/series/445965
+    seasons:
+      - season: 1
+        anilist-id: 174654
   - title: "86 EIGHTY-SIX"
     guid: plex://show/5e7362fb4a62f90040e89827
     # imdb: https://www.imdb.com/title/tt13718450/
