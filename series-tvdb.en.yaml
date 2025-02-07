@@ -1342,6 +1342,15 @@ entries:
       - season: 1
         anilist-id: 21378
 
+  - title: "I'm Living with an Otaku NEET Kunoichi!?"
+    guid: plex://show/65d1de41680c8ef439972bf4
+    # imdb: https://www.imdb.com/title/tt32034812/
+    # tmdb: https://www.themoviedb.org/tv/273048
+    # tvdb: https://www.thetvdb.com/dereferrer/series/445965
+    seasons:
+      - season: 1
+        anilist-id: 174654
+
   - title: "I'm Now Your Sister!"
     guid: plex://show/626411e42ca794f087527881
     # imdb: https://www.imdb.com/title/tt21929424/
