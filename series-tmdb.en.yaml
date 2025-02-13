@@ -1252,6 +1252,15 @@ entries:
       - season: 1
         anilist-id: 136
 
+  - title: "I May Be a Guild Receptionist, But I'll Solo Any Boss to Clock Out on Time"
+    guid: plex://show/65fbe8a63e86545aaa9686ba
+    # imdb: https://www.imdb.com/title/tt33059860/
+    # tmdb: https://www.themoviedb.org/tv/249964
+    # tvdb: https://www.thetvdb.com/dereferrer/series/437234
+    seasons:
+      - season: 1
+        anilist-id: 167143
+
   - title: "I'm Living with an Otaku NEET Kunoichi!?"
     guid: plex://show/65d1de41680c8ef439972bf4
     # imdb: https://www.imdb.com/title/tt32034812/
