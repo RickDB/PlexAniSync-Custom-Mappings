@@ -747,6 +747,7 @@ entries:
         anilist-id: 107294
       - season: 3
         anilist-id: 124641
+
   - title: "Durarara!!"
     guid: plex://show/5d9c07f3ba6eb9001fb97be1
     # imdb: https://www.imdb.com/title/tt1584000/
@@ -1341,6 +1342,24 @@ entries:
       - season: 1
         anilist-id: 21378
 
+  - title: "I May Be a Guild Receptionist, But I'll Solo Any Boss to Clock Out on Time"
+    guid: plex://show/65fbe8a63e86545aaa9686ba
+    # imdb: https://www.imdb.com/title/tt33059860/
+    # tmdb: https://www.themoviedb.org/tv/249964
+    # tvdb: https://www.thetvdb.com/dereferrer/series/437234
+    seasons:
+      - season: 1
+        anilist-id: 167143
+
+  - title: "I'm Living with an Otaku NEET Kunoichi!?"
+    guid: plex://show/65d1de41680c8ef439972bf4
+    # imdb: https://www.imdb.com/title/tt32034812/
+    # tmdb: https://www.themoviedb.org/tv/273048
+    # tvdb: https://www.thetvdb.com/dereferrer/series/445965
+    seasons:
+      - season: 1
+        anilist-id: 174654
+
   - title: "I'm Now Your Sister!"
     guid: plex://show/626411e42ca794f087527881
     # imdb: https://www.imdb.com/title/tt21929424/
@@ -1372,7 +1391,7 @@ entries:
       - season: 2
         anilist-id: 126529
 
-  - title: 'Initial D'
+  - title: "Initial D"
     guid: plex://show/5d9c08567b5c2e001e6598a8
     seasons:
       - season: 1
@@ -2107,6 +2126,8 @@ entries:
         anilist-id: 21710
       - season: 6
         anilist-id: 97983
+      - season: 7
+        anilist-id: 166611
 
   - title: "NieR:Automata Ver1.1a"
     guid: plex://show/62178d568b788c6ee0388271
@@ -2130,6 +2151,19 @@ entries:
         anilist-id: 108478
       - season: 2
         anilist-id: 112803
+
+  - title: "Non Non Biyori"
+    guid: 'plex://show/5d9c0802ffd9ef001e98a792'
+    # imdb: https://www.imdb.com/title/tt3114358/
+    # tmdb: https://www.themoviedb.org/tv/66875
+    # tvdb: https://www.thetvdb.com/dereferrer/series/272316
+    seasons:
+      - season: 1
+        anilist-id: 17549
+      - season: 2
+        anilist-id: 20694
+      - season: 3
+        anilist-id: 109403
 
   - title: "Noragami"
     guid: plex://show/5d9c081402391c001f580574
@@ -2392,6 +2426,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 170206
+
   - title: "Seraph of the End"
     guid: plex://show/5d9c0852e98e47001eb0cb74
     # imdb: https://www.imdb.com/title/tt4584326/
@@ -2405,7 +2440,7 @@ entries:
         start: 13
 
   - title: "Shaman King (2021)"
-    guid: plex://show/5d9c0855e98e47001eb0d01b
+    guid: plex://show/5ee742509b222e0040949fdd
     # imdb: https://www.imdb.com/title/tt12502782/
     # tmdb: https://www.themoviedb.org/tv/104699
     # tvdb: https://www.thetvdb.com/dereferrer/series/383837
@@ -2723,6 +2758,7 @@ entries:
       - season: 1
         anilist-id: 135136
         start: 13
+
   - title: "The Dangers in My Heart"
     guid: plex://show/638ef90a92bb2fdc322d2db2
     # imdb: https://www.imdb.com/title/tt21423786/
@@ -3094,6 +3130,7 @@ entries:
         anilist-id: 21218
       - season: 3
         anilist-id: 112640
+
   - title: "Uzaki-chan Wants to Hang Out!"
     guid: plex://show/5e457fe0d7a37f003ed3f28c
     # imdb: https://www.imdb.com/title/tt12464182/
@@ -3240,6 +3277,21 @@ entries:
       - season: 5
         anilist-id: 142481
 
+  - title: "Yu Yu Hakusho"
+    guid: "plex://show/5d9c0813705e7a001e6d1afb"
+    # imdb: https://www.imdb.com/title/tt0185133/
+    # tmdb: https://www.themoviedb.org/tv/30669
+    # tvdb: https://www.thetvdb.com/dereferrer/series/76665
+    seasons:
+      - season: 1
+        anilist-id: 392
+      - season: 2
+        anilist-id: 392
+      - season: 3
+        anilist-id: 392
+      - season: 4
+        anilist-id: 392
+
   - title: "Yu-Gi-Oh! Duel Monsters"
     guid: plex://show/5d9c081dba6eb9001fb9c35c
     # imdb: https://www.imdb.com/title/tt0247902/
@@ -3314,4 +3366,3 @@ entries:
     seasons:
       - season: 1
         anilist-id: 175198
-

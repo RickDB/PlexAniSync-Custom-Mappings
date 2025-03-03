@@ -40,6 +40,7 @@ If you got any questions, join our [Discord server](https://discord.gg/a9cu5t5fK
 
 ### Helpful tool
 [![Soitora/PlexAniSync-Mapping-Assistant - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Soitora&repo=PlexAniSync-Mapping-Assistant&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true)](https://github.com/Soitora/PlexAniSync-Mapping-Assistant)
+[![Soitora/Plex-GUID-Grabber - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Soitora&repo=Plex-GUID-Grabber&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true)](https://github.com/Soitora/Plex-GUID-Grabber/)
 
 ## Credits
 
