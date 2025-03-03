@@ -153,6 +153,17 @@ entries:
       - season: 2
         anilist-id: 102498
 
+  - title: "Baki (2018)"
+    guid: "plex://show/5d9c0905ba6eb9001fbae7ac"
+    # imdb: https://www.imdb.com/title/tt6357658/
+    # tmdb: https://www.themoviedb.org/tv/80623
+    # tvdb: https://www.thetvdb.com/dereferrer/series/348742
+    seasons:
+      - season: 1
+        anilist-id: 97888
+      - season: 2
+        anilist-id: 108522
+
   - title: "Bakuman。"
     guid: plex://show/5d9c081bba2e21001f18df7d
     # imdb: https://www.imdb.com/title/tt1738419/
