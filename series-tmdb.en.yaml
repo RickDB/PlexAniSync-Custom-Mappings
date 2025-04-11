@@ -1498,6 +1498,19 @@ entries:
       - season: 2
         anilist-id: 20801
 
+  - title: "Kimi ni Todoke"
+    guid: "plex://show/5d9c0811ec357c001f9a988e"
+    # imdb: https://www.imdb.com/title/tt1745240/
+    # tmdb: https://www.themoviedb.org/tv/68854
+    # tvdb: https://www.thetvdb.com/dereferrer/series/117801
+    seasons:
+      - season: 1
+        anilist-id: 6045
+      - season: 2
+        anilist-id: 9656
+      - season: 3
+        anilist-id: 168872
+
   - title: "Kingdom"
     guid: plex://show/5d9c083802391c001f5842b4
     # imdb: https://www.imdb.com/title/tt2404499/
