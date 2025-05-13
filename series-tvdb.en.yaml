@@ -181,6 +181,17 @@ entries:
       - season: 3
         anilist-id: 12365
 
+  - title: "BASTARD!! -Heavy Metal, Dark Fantasy-"
+    guid: plex://show/61fd3ab439419933daeb3f9d
+    # imdb: https://www.imdb.com/title/tt17736234/
+    # tmdb: https://www.themoviedb.org/tv/156898
+    # tvdb: https://www.thetvdb.com/dereferrer/series/415677
+    seasons:
+      - season: 1
+        anilist-id: 144677
+      - season: 2
+        anilist-id: 159926
+
   - title: "Beast Tamer"
     guid: plex://show/62a324e005d7ca8cd1da84c7
     # imdb: https://www.imdb.com/title/tt21345944/
@@ -614,6 +625,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153518
+
+  - title: "Demon Lord, Retry!"
+    guid: plex://show/5d9c091f02391c001f595bd4
+    # imdb: https://www.imdb.com/title/tt10443362/
+    # tmdb: https://www.themoviedb.org/tv/88044
+    # tvdb: https://www.thetvdb.com/dereferrer/series/361709
+    seasons:
+      - season: 1
+        anilist-id: 104252
+      - season: 2
+        anilist-id: 168500
 
   - title: "Demon Slayer: Kimetsu no Yaiba"
     guid: plex://show/5d9c090246115600200ae731
@@ -3018,6 +3040,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151679
+
+  - title: "The Witch and the Beast"
+    guid: plex://show/6301d4122bd2c2b545c7a7fc
+    # imdb: https://www.imdb.com/title/tt30089363/
+    # tmdb: https://www.themoviedb.org/tv/208445
+    # tvdb: https://www.thetvdb.com/dereferrer/series/423601
+    seasons:
+      - season: 1
+        anilist-id: 153818
 
   - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
     guid: plex://show/602c2f9b2f194a002c0099f9

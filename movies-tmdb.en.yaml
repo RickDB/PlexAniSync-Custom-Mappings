@@ -129,6 +129,22 @@ entries:
       - season: 1
         anilist-id: 100723
 
+  - title: "Overlord: The Dark Hero"
+    guid: plex://movie/5d776d94ad5437001f7d9f92
+    # imdb: https://www.imdb.com/title/tt6634910/
+    # tmdb: https://www.themoviedb.org/movie/477449
+    seasons:
+      - season: 1
+        anilist-id: 98874
+
+  - title: "Overlord: The Undead King"
+    guid: plex://movie/5d776d91594b2b001e70c45b
+    # imdb: https://www.imdb.com/title/tt6634906/
+    # tmdb: https://www.themoviedb.org/movie/477447
+    seasons:
+      - season: 1
+        anilist-id: 98873
+
   - title: "Shelter"
     guid: plex://movie/5d776c82fb0d55001f5899f4
     # imdb: https://www.imdb.com/title/tt6443118/
