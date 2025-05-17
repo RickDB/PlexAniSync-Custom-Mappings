@@ -1048,6 +1048,19 @@ entries:
       - season: 1
         anilist-id: 5114
 
+  - title: "GATE"
+    guid: "plex://show/5d9c0806e264b7001fc3a39c"
+    # imdb: https://www.imdb.com/title/tt4958580/
+    # tmdb: https://www.themoviedb.org/tv/63663
+    # tvdb: https://www.thetvdb.com/dereferrer/series/295222
+    seasons:
+      - season: 1
+        anilist-id: 20994
+        start: 1
+      - season: 1
+        anilist-id: 21364
+        start: 13
+
   - title: "Ghost in the Shell: Stand Alone Complex"
     guid: plex://show/5d9c086b705e7a001e6dbd86
     # imdb: https://www.imdb.com/title/tt0346314/

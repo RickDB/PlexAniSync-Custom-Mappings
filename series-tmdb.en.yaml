@@ -991,6 +991,15 @@ entries:
       - season: 1
         anilist-id: 5114
 
+  - title: "GATE"
+    guid: "plex://show/5d9c0806e264b7001fc3a39c"
+    # imdb: https://www.imdb.com/title/tt4958580/
+    # tmdb: https://www.themoviedb.org/tv/63663
+    # tvdb: https://www.thetvdb.com/dereferrer/series/295222
+    seasons:
+      - season: 1
+        anilist-id: 20994
+
   - title: "Ghost in the Shell: SAC_2045"
     guid: plex://show/62e293f73fc724eff6185850
     # imdb: https://www.imdb.com/title/tt9466298/
