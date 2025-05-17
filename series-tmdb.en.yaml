@@ -980,7 +980,11 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/75579
     seasons:
       - season: 1
-        anilist-id: 121
+        anilist-id: 20994
+        start: 1
+      - season: 1
+        anilist-id: 21364
+        start: 13
 
   - title: "Fullmetal Alchemist: Brotherhood"
     guid: plex://show/5d9c0830e264b7001fc3e6bd
