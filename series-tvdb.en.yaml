@@ -69,6 +69,15 @@ entries:
       - season: 1
         anilist-id: 20704
 
+  - title: "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin"
+    guid: "plex://show/6766b4331684229e2c56fc78"
+    # imdb: https://www.imdb.com/title/tt32731400/
+    # tmdb: https://www.themoviedb.org/tv/280038
+    # tvdb: https://www.thetvdb.com/dereferrer/series/451504
+    seasons:
+      - season: 1
+        anilist-id: 178433
+
   - title: "Arifureta: From Commonplace to World's Strongest"
     guid: plex://show/5d9c09161cae62001f750e5c
     # imdb: https://www.imdb.com/title/tt10431290/
