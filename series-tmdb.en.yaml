@@ -2336,6 +2336,17 @@ entries:
       - season: 1
         anilist-id: 178533
 
+  - title: "Rascal Does Not Dream of Bunny Girl Senpai"
+    guid: plex://show/5d9c08fa2192ba001f319798
+    # imdb: https://www.imdb.com/title/tt8993398/
+    # tmdb: https://www.themoviedb.org/tv/82739
+    # tvdb: https://www.thetvdb.com/dereferrer/series/345596
+    seasons:
+      - season: 1
+        anilist-id: 101291
+      - season: 2
+        anilist-id: 171046
+
   - title: "Re:Monster"
     guid: "plex://show/65374394ff5a3569ac2c79ad"
     # imdb: https://www.imdb.com/title/tt31514720/
