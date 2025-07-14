@@ -3112,8 +3112,11 @@ entries:
     # tvdb: https://www.thetvdb.com/dereferrer/series/414096
     seasons:
       - season: 1
+      # Hidive split the season into 1 and 2
         anilist-id: 143277
-      - season: 1
+      - season: 2
+      # Hidive split the season into 3 and 4.
+      # Titled season 3 on Anilist, but listed as season 2.
         anilist-id: 155645
         start: 24
 
