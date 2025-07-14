@@ -3800,3 +3800,16 @@ entries:
         anilist-id: 103900
       - season: 2
         anilist-id: 110229
+
+  - title: "Urusei Yatsura (2022)"
+    guid: plex://show/61d17a3a7bbf0f7c110ea567
+    # imdb: https://www.imdb.com/title/tt16764368/
+    # tmdb: https://www.themoviedb.org/tv/154524
+    # tvdb: https://www.thetvdb.com/dereferrer/series/414096
+    seasons:
+      - season: 1
+      # Listed on HiDive as Season 1 and 2
+        anilist-id: 143277
+      - season: 2
+      # Listed on HiDive as Season 3 and 4
+        anilist-id: 155645
