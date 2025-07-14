@@ -1,5 +1,18 @@
 # PlexAniSync: TMDB Series Mappings in English
 entries:
+  - title: ".hack"
+    guid: plex://show/5d9c07f9e98e47001eb04432
+    # imdb: https://www.imdb.com/title/tt0361140/
+    # tmdb: https://www.themoviedb.org/tv/8864
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79099
+    seasons:
+      - season: 1
+        anilist-id: 48
+      - season: 2
+        anilist-id: 298
+      - season: 3
+        anilist-id: 873
+
   - title: "86 EIGHTY-SIX"
     guid: plex://show/5e7362fb4a62f90040e89827
     # imdb: https://www.imdb.com/title/tt13718450/
@@ -47,6 +60,17 @@ entries:
       - season: 3
         anilist-id: 105749
 
+  - title: "Ah My Buddha!!"
+    guid: plex://show/5d9c082c2df347001e3acc70
+    # imdb: https://www.imdb.com/title/tt0978531/
+    # tmdb: https://www.themoviedb.org/tv/42786
+    # tvdb: https://www.thetvdb.com/dereferrer/series/80075
+    seasons:
+      - season: 1
+        anilist-id: 591
+      - season: 2
+        anilist-id: 886
+
   - title: "Aldnoah.Zero"
     guid: plex://show/5d9c0845ffd9ef001e990bb2
     # imdb: https://www.imdb.com/title/tt3544556/
@@ -58,6 +82,24 @@ entries:
       - season: 1
         anilist-id: 20853
         start: 13
+
+  - title: "All Purpose Cultural Cat Girl Nuku Nuku (TV)"
+    guid: plex://show/5d9c0807705e7a001e6d066c
+    # imdb: https://www.imdb.com/title/tt0414813/
+    # tmdb: https://www.themoviedb.org/tv/29152
+    # tvdb: https://www.thetvdb.com/dereferrer/series/351514
+    seasons:
+      - season: 1
+        anilist-id: 375
+
+  - title: "All Purpose Cultural Cat Girl Nuku Nuku Dash!"
+    guid: plex://show/5d9c08444eefaa001f5d9368
+    # imdb: https://www.imdb.com/title/tt0388700/
+    # tmdb: https://www.themoviedb.org/tv/44134
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79589
+    seasons:
+      - season: 1
+        anilist-id: 374
 
   - title: "Anti-Magic Academy: The 35th Test Platoon"
     guid: plex://show/5d9c08b808fddd001f2a0369
@@ -391,6 +433,33 @@ entries:
         anilist-id: 163263
         start: 50
 
+  - title: "Burn-Up Excess"
+    guid: plex://show/5d9c083de98e47001eb0afce
+    # imdb: https://www.imdb.com/title/tt0346220/
+    # tmdb: https://www.themoviedb.org/tv/43417
+    # tvdb: https://www.thetvdb.com/dereferrer/series/73526
+    seasons:
+      - season: 1
+        anilist-id: 370
+
+  - title: "Burn-Up Scramble"
+    guid: plex://show/61b33e47be1bb6b8100debb9
+    # imdb: https://www.imdb.com/title/tt4372186/
+    # tmdb: https://www.themoviedb.org/tv/8907
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79048
+    seasons:
+      - season: 1
+        anilist-id: 693
+
+  - title: "Burn-Up W"
+    guid: plex://show/5d9c083de98e47001eb0afaf
+    # imdb: https://www.imdb.com/title/tt0158533/
+    # tmdb: https://www.themoviedb.org/tv/43416
+    # tvdb: https://www.thetvdb.com/dereferrer/series/140391
+    seasons:
+      - season: 1
+        anilist-id: 769
+
   - title: "Cells at Work!"
     guid: plex://show/5d9c0905cb3ffa001f1b8ccb
     # imdb: https://www.imdb.com/title/tt8673610/
@@ -439,6 +508,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127230
+
+  - title: "Charger Girl Juden Chan"
+    guid: plex://show/5d9c084602391c001f5853f3
+    # imdb: https://www.imdb.com/title/tt1458514/
+    # tmdb: https://www.themoviedb.org/tv/36984
+    # tvdb: https://www.thetvdb.com/dereferrer/series/103291
+    seasons:
+      - season: 1
+        anilist-id: 5973
 
   - title: "Chivalry of a Failed Knight"
     guid: plex://show/5d9c0805ec357c001f9a92bc
@@ -498,6 +576,15 @@ entries:
         anilist-id: 397
       - season: 4
         anilist-id: 398
+
+  - title: "Cross Ange: Rondo of Angels and Dragons"
+    guid: plex://show/5d9c0849ef619b002047e29f
+    # imdb: https://www.imdb.com/title/tt3957232/
+    # tmdb: https://www.themoviedb.org/tv/61425
+    # tvdb: https://www.thetvdb.com/dereferrer/series/284402
+    seasons:
+      - season: 1
+        anilist-id: 20806
 
   - title: "D.Gray-man"
     guid: plex://show/5d9c0865e9d5a1001f4d96d5
@@ -617,6 +704,17 @@ entries:
         anilist-id: 145139
       - season: 5
         anilist-id: 166240
+
+  - title: "Divergence Eve"
+    guid: plex://show/61b10427ebb196850a1ff78d
+    # imdb: https://www.imdb.com/title/tt0972633/
+    # tmdb: https://www.themoviedb.org/tv/12352
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79161
+    seasons:
+      - season: 1
+        anilist-id: 294
+      - season: 2
+        anilist-id: 295
 
   - title: "DON'T TOY WITH ME, MISS NAGATORO"
     guid: plex://show/5eff8efd374eea003c1d1c98
@@ -778,6 +876,17 @@ entries:
       - season: 1
         anilist-id: 790
 
+  - title: "Eureka Seven"
+    guid: plex://show/5d9c081b4eefaa001f5d5e0e
+    # imdb: https://www.imdb.com/title/tt0765491/
+    # tmdb: https://www.themoviedb.org/tv/889
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79360
+    seasons:
+      - season: 1
+        anilist-id: 237
+      - season: 2
+        anilist-id: 12471
+
   - title: "F-Zero: GP Legend"
     guid: plex://show/5d9c082c2192ba001f3095c5
     # imdb: https://www.imdb.com/title/tt0433289/
@@ -930,6 +1039,17 @@ entries:
       - season: 5
         anilist-id: 114043
 
+  - title: "Freezing"
+    guid: plex://show/5d9c08527d06d9001ffd1852
+    # imdb: https://www.imdb.com/title/tt1909463/
+    # tmdb: https://www.themoviedb.org/tv/38441
+    # tvdb: https://www.thetvdb.com/dereferrer/series/219701
+    seasons:
+      - season: 1
+        anilist-id: 9367
+      - season: 2
+        anilist-id: 18001
+
   - title: "Frieren: Beyond Journey's End"
     guid: plex://show/631ccdfccbff4464978f9d53
     # imdb: https://www.imdb.com/title/tt22248376/
@@ -1044,6 +1164,17 @@ entries:
       - season: 11
         anilist-id: 101925
 
+  - title: "Girls Bravo"
+    guid: plex://show/5d9c08680aaccd001f8efd6c
+    # imdb: https://www.imdb.com/title/tt0807675/
+    # tmdb: https://www.themoviedb.org/tv/34793
+    # tvdb: https://www.thetvdb.com/dereferrer/series/78856
+    seasons:
+      - season: 1
+        anilist-id: 241
+      - season: 2
+        anilist-id: 487
+
   - title: "Go! Go! Loser Ranger!"
     guid: "plex://show/638f9f6652b6cb1e7c123811"
     # imdb: https://www.imdb.com/title/tt28082379/
@@ -1095,6 +1226,15 @@ entries:
       - season: 1
         anilist-id: 245
 
+  - title: "Grenadier: The Beautiful Warrior"
+    guid: plex://show/5d9c07f6705e7a001e6cda24
+    # imdb: https://www.imdb.com/title/tt0985984/
+    # tmdb: https://www.themoviedb.org/tv/24722
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79132
+    seasons:
+      - season: 1
+        anilist-id: 297
+
   - title: "Grimgar of Fantasy and Ash"
     guid: plex://show/5d9c081602391c001f580ac4
     # imdb: https://www.imdb.com/title/tt5341430/
@@ -1128,6 +1268,17 @@ entries:
         anilist-id: 19319
       - season: 2
         anilist-id: 20739
+
+  - title: "Haganai: I Don't Have Many Friends"
+    guid: plex://show/5d9c083b3c3f87001f34abac
+    # imdb: https://www.imdb.com/title/tt2645500/
+    # tmdb: https://www.themoviedb.org/tv/60730
+    # tvdb: https://www.thetvdb.com/dereferrer/series/251908
+    seasons:
+      - season: 1
+        anilist-id: 10719
+      - season: 2
+        anilist-id: 14967
 
   - title: "Haikyu!!"
     guid: plex://show/5d9c083cffd9ef001e990143
@@ -1297,6 +1448,15 @@ entries:
       - season: 1
         anilist-id: 167143
 
+  - title: "I Tried Asking While Kowtowing"
+    guid: plex://show/5f262b806880010040abc2cb
+    # imdb: https://www.imdb.com/title/tt12803708/
+    # tmdb: https://www.themoviedb.org/tv/106691
+    # tvdb: https://www.thetvdb.com/dereferrer/series/388536
+    seasons:
+      - season: 1
+        anilist-id: 122137
+
   - title: "I'm Living with an Otaku NEET Kunoichi!?"
     guid: plex://show/65d1de41680c8ef439972bf4
     # imdb: https://www.imdb.com/title/tt32034812/
@@ -1305,6 +1465,21 @@ entries:
     seasons:
       - season: 1
         anilist-id: 174654
+
+  - title: "Ikki Tousen"
+    guid: plex://show/5d9c084d08fddd001f296e53
+    # imdb: https://www.imdb.com/title/tt0486171/
+    # tmdb: https://www.themoviedb.org/tv/37584
+    # tvdb: https://www.thetvdb.com/dereferrer/series/80158
+    seasons:
+      - season: 1
+        anilist-id: 257
+      - season: 2
+        anilist-id: 1956
+      - season: 3
+        anilist-id: 4196
+      - season: 4
+        anilist-id: 7580
 
   - title: "In Another World with My Smartphone"
     guid: plex://show/5d9c08d34eefaa001f5e3fe3
@@ -1392,6 +1567,17 @@ entries:
       - season: 1
         anilist-id: 21676
 
+  - title: "Is This a Zombie?"
+    guid: plex://show/5d9c0852170e24001f2a9908
+    # imdb: https://www.imdb.com/title/tt1780262/
+    # tmdb: https://www.themoviedb.org/tv/38420
+    # tvdb: https://www.thetvdb.com/dereferrer/series/220571
+    seasons:
+      - season: 1
+        anilist-id: 8841
+      - season: 2
+        anilist-id: 10790
+
   - title: "Isekai Quartet"
     guid: "plex://show/5d9c09173c3f87001f35bf8b"
     # imdb: https://www.imdb.com/title/tt9193770/
@@ -1436,6 +1622,17 @@ entries:
       - season: 5
         anilist-id: 146722
         start: 13
+
+  - title: "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch"
+    guid: plex://show/61b16922bb2f1261dee5e5a0
+    # imdb: https://www.imdb.com/title/tt0192903/
+    # tmdb: https://www.themoviedb.org/tv/34723
+    # tvdb: https://www.thetvdb.com/dereferrer/series/73703
+    seasons:
+      - season: 1
+        anilist-id: 635
+      - season: 2
+        anilist-id: 636
 
   - title: "Jujutsu Kaisen"
     guid: plex://show/5e1622a5124ae9003e3ccd14
@@ -2105,6 +2302,17 @@ entries:
         anilist-id: 167420
         start: 13
 
+  - title: "Nisekoi"
+    guid: plex://show/5d9c086702391c001f5886bd
+    # imdb: https://www.imdb.com/title/tt3115338/
+    # tmdb: https://www.themoviedb.org/tv/62640
+    # tvdb: https://www.thetvdb.com/dereferrer/series/275670
+    seasons:
+      - season: 1
+        anilist-id: 18897
+      - season: 2
+        anilist-id: 20876
+
   - title: "No Guns Life"
     guid: plex://show/5df46a3b833806001d5470b8
     # imdb: https://www.imdb.com/title/tt10981954/
@@ -2301,6 +2509,19 @@ entries:
       - season: 6
         anilist-id: 137726
 
+  - title: "Queen's Blade"
+    guid: plex://show/5d9c084fba6eb9001fba0a0b
+    # imdb: https://www.imdb.com/title/tt1407599/
+    # tmdb: https://www.themoviedb.org/tv/45502
+    # tvdb: https://www.thetvdb.com/dereferrer/series/87491
+    seasons:
+      - season: 1
+        anilist-id: 4719
+      - season: 2
+        anilist-id: 6633
+      - season: 3
+        anilist-id: 11859
+
   - title: "Rage of Bahamut"
     guid: plex://show/5d9c0849ba6eb9001fba0178
     # imdb: https://www.imdb.com/title/tt3981938/
@@ -2329,6 +2550,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153452
+
+  - title: "Ranma ½"
+    guid: plex://show/5d9c0833ba6eb9001fb9e579
+    # imdb: https://www.imdb.com/title/tt0096686/
+    # tmdb: https://www.themoviedb.org/tv/57706
+    # tvdb: https://www.thetvdb.com/dereferrer/series/76932
+    seasons:
+      - season: 1
+        anilist-id: 210
+      - season: 1
+        anilist-id: 149939
+        start: 19
 
   - title: "Ranma1/2"
     guid: plex://show/6698039a9752b4926feeb778
@@ -2416,6 +2649,17 @@ entries:
       - season: 2
         anilist-id: 171637
 
+  - title: "Saekano: How to Raise a Boring Girlfriend"
+    guid: plex://show/5d9c08142df347001e3aa27f
+    # imdb: https://www.imdb.com/title/tt3612626/
+    # tmdb: https://www.themoviedb.org/tv/69367
+    # tvdb: https://www.thetvdb.com/dereferrer/series/281275
+    seasons:
+      - season: 1
+        anilist-id: 20657
+      - season: 2
+        anilist-id: 21180
+
   - title: "Saint Cecilia and Pastor Lawrence"
     guid: plex://show/62ab5392458587620e2ba589
     # imdb: https://www.imdb.com/title/tt22297732/
@@ -2434,6 +2678,28 @@ entries:
       - season: 1
         anilist-id: 177709
 
+  - title: "Samurai Girls"
+    guid: plex://show/5d9c0838ec357c001f9aabcc
+    # imdb: https://www.imdb.com/title/tt2074011/
+    # tmdb: https://www.themoviedb.org/tv/46440
+    # tvdb: https://www.thetvdb.com/dereferrer/series/186911
+    seasons:
+      - season: 1
+        anilist-id: 8277
+      - season: 2
+        anilist-id: 15377
+
+  - title: "School Rumble"
+    guid: plex://show/5d9c08233c3f87001f3485da
+    # imdb: https://www.imdb.com/title/tt0878036/
+    # tmdb: https://www.themoviedb.org/tv/31665
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79194
+    seasons:
+      - season: 1
+        anilist-id: 24
+      - season: 2
+        anilist-id: 846
+
   - title: "Scott Pilgrim Takes Off"
     guid: plex://show/61dd97c364b2acfab575e1c3
     # imdb: https://www.imdb.com/title/tt16969708/
@@ -2442,6 +2708,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 170206
+
+  - title: "Senran Kagura: Ninja Flash"
+    guid: plex://show/5d9c08293c3f87001f3490f1
+    # imdb: https://www.imdb.com/title/tt2360110/
+    # tmdb: https://www.themoviedb.org/tv/46065
+    # tvdb: https://www.thetvdb.com/dereferrer/series/264053
+    seasons:
+      - season: 1
+        anilist-id: 15119
+      - season: 2
+        anilist-id: 102822
 
   - title: "Seraph of the End"
     guid: plex://show/5d9c0852e98e47001eb0cb74
@@ -2773,6 +3050,17 @@ entries:
       - season: 1
         anilist-id: 153332
 
+  - title: "The Café Terrace and Its Goddesses"
+    guid: plex://show/631a4e7b302708c9f85bd3dd
+    # imdb: https://www.imdb.com/title/tt22087138/
+    # tmdb: https://www.themoviedb.org/tv/209707
+    # tvdb: https://www.thetvdb.com/dereferrer/series/424435
+    seasons:
+      - season: 1
+        anilist-id: 154412
+      - season: 2
+        anilist-id: 166477
+
   - title: "The Case Study of Vanitas"
     guid: plex://show/606201b811d36f002c41c64a
     # imdb: https://www.imdb.com/title/tt14641098/
@@ -2859,6 +3147,17 @@ entries:
       - season: 2
         anilist-id: 143085
 
+  - title: "The Fruit of Grisaia"
+    guid: plex://show/5d9c0849ffd9ef001e990fe3
+    # imdb: https://www.imdb.com/title/tt3909210/
+    # tmdb: https://www.themoviedb.org/tv/61422
+    # tvdb: https://www.thetvdb.com/dereferrer/series/281949
+    seasons:
+      - season: 1
+        anilist-id: 17729
+      - season: 2
+        anilist-id: 21006
+
   - title: "The Heroic Legend of Arslan"
     guid: plex://show/5d9c0852ba6eb9001fba0f1a
     # imdb: https://www.imdb.com/title/tt5023666/
@@ -2904,6 +3203,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101289
+
+  - title: "The Melancholy of Haruhi Suzumiya"
+    guid: plex://show/5d9c0827705e7a001e6d4307
+    # imdb: https://www.imdb.com/title/tt0816407/
+    # tmdb: https://www.themoviedb.org/tv/42511
+    # tvdb: https://www.thetvdb.com/dereferrer/series/79414
+    seasons:
+      - season: 1
+        anilist-id: 4382
 
   - title: "The Misfit of Demon King Academy"
     guid: plex://show/5e204255072b9e003ca5c160
@@ -2996,6 +3304,17 @@ entries:
       - season: 1
         anilist-id: 151679
 
+  - title: "The Testament of Sister New Devil"
+    guid: plex://show/5d9c080dffd9ef001e98b82a
+    # imdb: https://www.imdb.com/title/tt4219258/
+    # tmdb: https://www.themoviedb.org/tv/64163
+    # tvdb: https://www.thetvdb.com/dereferrer/series/284719
+    seasons:
+      - season: 1
+        anilist-id: 20678
+      - season: 2
+        anilist-id: 21110
+
   - title: "The Witch and the Beast"
     guid: plex://show/6301d4122bd2c2b545c7a7fc
     # imdb: https://www.imdb.com/title/tt30089363/
@@ -3024,6 +3343,21 @@ entries:
     seasons:
       - season: 1
         anilist-id: 138882
+
+  - title: "To LOVE-Ru"
+    guid: plex://show/5d9c08356c3e37001ecd5676
+    # imdb: https://www.imdb.com/title/tt1216222/
+    # tmdb: https://www.themoviedb.org/tv/34742
+    # tvdb: https://www.thetvdb.com/dereferrer/series/81831
+    seasons:
+      - season: 1
+        anilist-id: 3455
+      - season: 2
+        anilist-id: 9181
+      - season: 3
+        anilist-id: 13663
+      - season: 4
+        anilist-id: 20995
 
   - title: "To Your Eternity"
     guid: plex://show/5e1b0c604c78f7003eaab1c8
@@ -3164,6 +3498,17 @@ entries:
       - season: 1
         anilist-id: 111314
 
+  - title: "VanDread"
+    guid: plex://show/5d9c07f9e98e47001eb0443d
+    # imdb: https://www.imdb.com/title/tt0309226/
+    # tmdb: https://www.themoviedb.org/tv/8863
+    # tvdb: https://www.thetvdb.com/dereferrer/series/71744
+    seasons:
+      - season: 1
+        anilist-id: 180
+      - season: 2
+        anilist-id: 181
+
   - title: "Vermeil in Gold"
     guid: plex://show/622aa1c01217c186d261f5fd
     # imdb: https://www.imdb.com/title/tt18561422/
@@ -3196,6 +3541,17 @@ entries:
         anilist-id: 10521
       - season: 3
         anilist-id: 20819
+
+  - title: "We Never Learn"
+    guid: plex://show/5d9c091808fddd001f2a7942
+    # imdb: https://www.imdb.com/title/tt9883676/
+    # tmdb: https://www.themoviedb.org/tv/87432
+    # tvdb: https://www.thetvdb.com/dereferrer/series/359095
+    seasons:
+      - season: 1
+        anilist-id: 103900
+      - season: 2
+        anilist-id: 110229
 
   - title: "Welcome to Demon School! Iruma-kun"
     guid: plex://show/5df5b931d0c35a001d581fb4
