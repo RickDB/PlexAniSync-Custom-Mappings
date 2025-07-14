@@ -297,6 +297,13 @@ entries:
       - season: 1
         anilist-id: 10717
 
+  - title: "Uma Musume: Pretty Derby - Road to the Top"
+    guid: plex://movie/66480700012450a0daa454c7
+    # tmdb: https://www.themoviedb.org/movie/1427318
+    seasons:
+      - season: 1
+        anilist-id: 176299
+
   - title: "Zen - Grogu and Dust Bunnies"
     guid: "plex://movie/6373d913d373480492dd02f7"
     # imdb: https://www.imdb.com/title/tt23626160/
