@@ -2734,6 +2734,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 177709
+      - season: 1
+        anilist-id: 184237
+        start: 12
 
   - title: "Samurai Girls"
     guid: plex://show/5d9c0838ec357c001f9aabcc
