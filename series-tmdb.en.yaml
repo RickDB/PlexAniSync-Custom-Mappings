@@ -60,6 +60,19 @@ entries:
       - season: 3
         anilist-id: 105749
 
+  - title: "Agent Aika"
+    guid: plex://show/5d9c0833705e7a001e6d5b72
+    # imdb: https://www.imdb.com/title/tt0270758
+    # tmdb: https://www.themoviedb.org/tv/43249
+    # tvdb: https://www.thetvdb.com/dereferrer/series/80900
+    seasons:
+      - season: 1
+        anilist-id: 366
+      - season: 2
+        anilist-id: 2163
+      - season: 3
+        anilist-id: 6443
+
   - title: "Ah My Buddha!!"
     guid: plex://show/5d9c082c2df347001e3acc70
     # imdb: https://www.imdb.com/title/tt0978531/
@@ -411,6 +424,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97938
+
+  - title: "Bubblegum Crisis"
+    guid: plex://show/5d9c082d08fddd001f29465e
+    # imdb: https://www.imdb.com/title/tt0088863
+    # tmdb: https://www.themoviedb.org/tv/42882
+    # tvdb: https://www.thetvdb.com/dereferrer/series/73247
+    seasons:
+      - season: 1
+        anilist-id: 1347
+      - season: 2
+        anilist-id: 1348
 
   - title: "Bungo Stray Dogs"
     guid: plex://show/5d9c081702391c001f580ca8
@@ -1794,6 +1818,15 @@ entries:
         anilist-id: 21699
       - season: 3
         anilist-id: 136804
+
+  - title: "Kubikiri Cycle - Aoiro Savant to Zaregoto Tsukai"
+    guid: plex://show/5d9c080fe98e47001eb066c5
+    # imdb: https://www.imdb.com/title/tt31077956
+    # tmdb: https://www.themoviedb.org/tv/68460
+    # tvdb: https://www.thetvdb.com/dereferrer/series/319357
+    seasons:
+      - season: 1
+        anilist-id: 21803
 
   - title: "Kuma Kuma Kuma Bear"
     guid: plex://show/5e269a8560871f0040871c97
