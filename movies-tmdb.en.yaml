@@ -113,6 +113,15 @@ entries:
       - season: 1
         anilist-id: 101344
 
+  - title: "Magical Sisters Yoyo & Nene"
+    guid: plex://movie/5d776a7c47dd6e001f6d3358
+    # imdb: https://www.imdb.com/title/tt3341598
+    # tmdb: https://www.themoviedb.org/movie/239530
+    # tvdb: https://www.thetvdb.com/dereferrer/movie/66501
+    seasons:
+      - season: 1
+        anilist-id: 15813
+
   - title: "My Hero Academia: Heroes Rising"
     guid: plex://movie/5d7770cead5437001f82b790
     # imdb: https://www.imdb.com/title/tt11107074/
@@ -144,6 +153,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98873
+
+  - title: "Psycho-Pass 3: First Inspector"
+    guid: plex://movie/5e1625be91c2030041200925
+    # imdb: https://www.imdb.com/title/tt11433874
+    # tmdb: https://www.themoviedb.org/movie/655431
+    # tvdb: https://www.thetvdb.com/dereferrer/movie/134163
+    seasons:
+      - season: 1
+        anilist-id: 113917
 
   - title: "Shelter"
     guid: plex://movie/5d776c82fb0d55001f5899f4
