@@ -3120,9 +3120,13 @@ entries:
     # imdb: https://www.imdb.com/title/tt26743760/
     # tmdb: https://www.themoviedb.org/tv/220542
     # tvdb: https://www.thetvdb.com/dereferrer/series/431162
+    # anilist s01: https://anilist.co/anime/161645
+    # anilist s02: https://anilist.co/anime/176301
     seasons:
       - season: 1
         anilist-id: 161645
+      - season: 2
+        anilist-id: 176301
 
   - title: "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
     guid: plex://show/62ee806c7228b8684ca9dc5e
