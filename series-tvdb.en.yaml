@@ -3134,6 +3134,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 161645
+      - season: 2
+        anilist-id: 176301
+      - season: 3
+        anilist-id: 195516
 
   - title: "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
     guid: plex://show/62ee806c7228b8684ca9dc5e
