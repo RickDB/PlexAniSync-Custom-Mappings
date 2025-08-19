@@ -11,6 +11,7 @@
   })
   let loading = $state(false)
   let isCustomFile = $state(false)
+  let searchQuery = $state('')
 
   // Load all YAML files on component mount
   async function loadAllFiles() {
@@ -187,6 +188,28 @@
     return merged
   }
 
+  // Filter entries based on search query
+  function filterEntries(entries) {
+    if (!searchQuery.trim()) return entries
+    
+    const query = searchQuery.toLowerCase().trim()
+    return entries.filter(entry => {
+      // Search in title
+      if (entry.title.toLowerCase().includes(query)) return true
+      
+      // Search in synonyms
+      if (entry.synonyms?.some(synonym => synonym.toLowerCase().includes(query))) return true
+      
+      // Search in AniList IDs
+      if (entry.seasons?.some(season => season['anilist-id'].toString().includes(query))) return true
+      
+      // Search in GUID
+      if (entry.guid?.toLowerCase().includes(query)) return true
+      
+      return false
+    })
+  }
+
   // Extract YAML for a specific entry
   function extractEntryYaml(entry, entryIndex) {
     if (isCustomFile) {
@@ -289,7 +312,10 @@
 </script>
 
 <div class="container">
-  <h1>PlexAniSync Mapping Viewer</h1>
+  <div class="header">
+    <img src=".github/assets/logo.png" alt="PlexAniSync Logo" class="logo" />
+    <h1>PlexAniSync Mapping Viewer</h1>
+  </div>
   
   <!-- Tab Navigation -->
   <div class="tabs">
@@ -316,6 +342,17 @@
         Custom File Loaded
       </div>
     {/if}
+  </div>
+
+  <!-- Search/Filter -->
+  <div class="search-section">
+    <input 
+      type="text" 
+      placeholder="Search by title, synonyms, AniList ID, or GUID..."
+      bind:value={searchQuery}
+      class="search-input"
+    />
+    <div class="search-icon">🔍</div>
   </div>
 
   <!-- File Upload (Optional) -->
@@ -353,7 +390,14 @@
       {/if}
 
       <!-- Entries -->
-      {#each data.entries || [] as entry, idx}
+      {#if filterEntries(data.entries || []).length === 0 && searchQuery.trim()}
+        <div class="no-results">
+          <p>No entries found matching "{searchQuery}"</p>
+          <p class="no-results-hint">Try searching by title, synonyms, AniList ID, or GUID</p>
+        </div>
+      {/if}
+
+      {#each filterEntries(data.entries || []) as entry, idx}
         {@const groupedSeasons = groupSeasons(entry.seasons)}
         
         <div class="card entry-card">
@@ -466,10 +510,23 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   }
 
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .logo {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+  }
+
   h1 {
     font-size: 2rem;
     font-weight: bold;
-    margin-bottom: 1.5rem;
+    margin: 0;
     color: #1f2937;
   }
 
@@ -758,6 +815,60 @@
     font-weight: 500;
     font-size: 0.875rem;
     border: 1px solid #fbbf24;
+  }
+
+  .search-section {
+    position: relative;
+    margin-bottom: 1.5rem;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .search-input {
+    width: -webkit-fill-available;
+    padding: 0.75rem 3rem 0.75rem 1rem;
+    border: 2px solid #d1d5db;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    background: white;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+
+  .search-input:focus {
+    outline: none;
+    border-color: #6366f1;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+  }
+
+  .search-input::placeholder {
+    color: #9ca3af;
+  }
+
+  .search-icon {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6b7280;
+    font-size: 1.25rem;
+    pointer-events: none;
+  }
+
+  .no-results {
+    text-align: center;
+    padding: 3rem 2rem;
+    color: #6b7280;
+  }
+
+  .no-results p {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.125rem;
+  }
+
+  .no-results-hint {
+    font-size: 0.875rem;
+    color: #9ca3af;
   }
 
   @media (max-width: 640px) {
