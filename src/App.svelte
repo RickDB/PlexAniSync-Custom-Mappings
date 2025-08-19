@@ -3,10 +3,79 @@
   
   let data = $state(null)
   let fileInput
+  let activeTab = $state('series-tmdb')
+  let allData = $state({
+    'series-tmdb': null,
+    'series-tvdb': null,
+    'movies-tmdb': null
+  })
+  let loading = $state(false)
+  let isCustomFile = $state(false)
+
+  // Load all YAML files on component mount
+  async function loadAllFiles() {
+    loading = true
+    const files = [
+      { key: 'series-tmdb', path: './series-tmdb.en.yaml' },
+      { key: 'series-tvdb', path: './series-tvdb.en.yaml' },
+      { key: 'movies-tmdb', path: './movies-tmdb.en.yaml' }
+    ]
+
+    for (const file of files) {
+      try {
+        const response = await fetch(file.path)
+        const yamlText = await response.text()
+        const parsed = load(yamlText)
+        
+        // Parse external links from comments
+        if (parsed.entries) {
+          parsed.entries = parsed.entries.map((entry, index) => {
+            const entryLinks = parseExternalLinks(yamlText, entry.title, index)
+            return { ...entry, externalLinks: entryLinks }
+          })
+        }
+        
+        allData[file.key] = parsed
+      } catch (err) {
+        console.error(`Error loading ${file.path}:`, err)
+      }
+    }
+    
+    // Set initial data to active tab
+    data = allData[activeTab]
+    loading = false
+  }
+
+  // Switch between tabs
+  function switchTab(tabKey) {
+    activeTab = tabKey
+    data = allData[tabKey]
+    isCustomFile = false
+    // Clear file input to allow re-uploading the same file
+    if (fileInput) {
+      fileInput.value = ''
+    }
+  }
+
+  // Load files when component mounts
+  $effect(() => {
+    loadAllFiles()
+  })
 
   function handleFileUpload(event) {
     const file = event.target.files[0]
     if (!file) return
+
+    // Validate file type
+    const validExtensions = ['.yaml', '.yml']
+    const fileName = file.name.toLowerCase()
+    const isValidFile = validExtensions.some(ext => fileName.endsWith(ext))
+    
+    if (!isValidFile) {
+      alert('Please upload only YAML files (.yaml or .yml)')
+      event.target.value = '' // Clear the input
+      return
+    }
 
     const reader = new FileReader()
     reader.onload = (e) => {
@@ -22,9 +91,13 @@
           })
         }
         
+        // Set custom file data and unselect tabs
         data = parsed
+        activeTab = null
+        isCustomFile = true
       } catch (err) {
         alert('Error parsing YAML: ' + err.message)
+        event.target.value = '' // Clear the input on error
       }
     }
     reader.readAsText(file)
@@ -113,19 +186,155 @@
     })
     return merged
   }
+
+  // Extract YAML for a specific entry
+  function extractEntryYaml(entry, entryIndex) {
+    if (isCustomFile) {
+      // For custom files, we need to reconstruct from the parsed data
+      return reconstructYamlEntry(entry)
+    } else {
+      // For built-in files, extract from the original YAML text
+      return extractFromOriginalYaml(entry, entryIndex)
+    }
+  }
+
+  // Reconstruct YAML from parsed entry data
+  function reconstructYamlEntry(entry) {
+    let yaml = `  - title: "${entry.title}"\n`
+    if (entry.guid) {
+      yaml += `    guid: ${entry.guid}\n`
+    }
+    if (entry.synonyms && entry.synonyms.length > 0) {
+      yaml += `    synonyms: [${entry.synonyms.map(s => `"${s}"`).join(', ')}]\n`
+    }
+    if (entry.seasons && entry.seasons.length > 0) {
+      yaml += `    seasons:\n`
+      entry.seasons.forEach(season => {
+        yaml += `      - season: ${season.season}\n`
+        yaml += `        anilist-id: ${season['anilist-id']}\n`
+        if (season.start && season.start !== 1) {
+          yaml += `        start: ${season.start}\n`
+        }
+      })
+    }
+    return yaml
+  }
+
+  // Extract from original YAML text (for built-in files)
+  async function extractFromOriginalYaml(entry, entryIndex) {
+    try {
+      const fileName = activeTab === 'series-tmdb' ? './series-tmdb.en.yaml' : 
+                      activeTab === 'series-tvdb' ? './series-tvdb.en.yaml' : 
+                      './movies-tmdb.en.yaml'
+      
+      const response = await fetch(fileName)
+      const yamlText = await response.text()
+      const lines = yamlText.split('\n')
+      
+      let entryStartLine = -1
+      let currentEntryIndex = -1
+      
+      // Find the entry
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim()
+        if (line.startsWith('- title:')) {
+          currentEntryIndex++
+          if (currentEntryIndex === entryIndex) {
+            entryStartLine = i
+            break
+          }
+        }
+      }
+      
+      if (entryStartLine === -1) return reconstructYamlEntry(entry)
+      
+      // Extract the entry until the next entry or end of file
+      let entryLines = []
+      for (let i = entryStartLine; i < lines.length; i++) {
+        const line = lines[i]
+        if (i > entryStartLine && line.trim().startsWith('- title:')) {
+          break
+        }
+        entryLines.push(line)
+      }
+      
+      return entryLines.join('\n')
+    } catch (err) {
+      console.error('Error extracting YAML:', err)
+      return reconstructYamlEntry(entry)
+    }
+  }
+
+  // Copy entry YAML to clipboard
+  async function copyEntryYaml(entry, entryIndex, event) {
+    try {
+      const yamlText = await extractFromOriginalYaml(entry, entryIndex)
+      await navigator.clipboard.writeText(yamlText)
+      
+      // Show temporary feedback
+      const button = event.target.closest('.copy-button')
+      const originalText = button.textContent
+      button.textContent = 'Copied!'
+      button.classList.add('copied')
+      
+      setTimeout(() => {
+        button.textContent = originalText
+        button.classList.remove('copied')
+      }, 2000)
+    } catch (err) {
+      console.error('Failed to copy:', err)
+      alert('Failed to copy to clipboard')
+    }
+  }
 </script>
 
 <div class="container">
   <h1>PlexAniSync Mapping Viewer</h1>
-  <input 
-    bind:this={fileInput}
-    type="file" 
-    accept=".yaml,.yml" 
-    on:change={handleFileUpload}
-    class="file-input"
-  />
+  
+  <!-- Tab Navigation -->
+  <div class="tabs">
+    <button 
+      class="tab {activeTab === 'series-tmdb' && !isCustomFile ? 'active' : ''}"
+      onclick={() => switchTab('series-tmdb')}
+    >
+      Series (TMDB)
+    </button>
+    <button 
+      class="tab {activeTab === 'series-tvdb' && !isCustomFile ? 'active' : ''}"
+      onclick={() => switchTab('series-tvdb')}
+    >
+      Series (TVDB)
+    </button>
+    <button 
+      class="tab {activeTab === 'movies-tmdb' && !isCustomFile ? 'active' : ''}"
+      onclick={() => switchTab('movies-tmdb')}
+    >
+      Movies (TMDB)
+    </button>
+    {#if isCustomFile}
+      <div class="custom-file-indicator">
+        Custom File Loaded
+      </div>
+    {/if}
+  </div>
 
-  {#if data}
+  <!-- File Upload (Optional) -->
+  <details class="file-upload-section">
+    <summary>Upload Custom YAML File</summary>
+    <input 
+      bind:this={fileInput}
+      type="file" 
+      accept=".yaml,.yml" 
+      onchange={handleFileUpload}
+      class="file-input"
+    />
+  </details>
+
+  {#if loading}
+    <div class="loading">
+      <p>Loading YAML files...</p>
+    </div>
+  {:else if data}
     <div class="content">
       <!-- Remote URLs -->
       {#if data['remote-urls']?.length > 0}
@@ -148,6 +357,13 @@
         {@const groupedSeasons = groupSeasons(entry.seasons)}
         
         <div class="card entry-card">
+          <button 
+            class="copy-button"
+            onclick={(e) => copyEntryYaml(entry, idx, e)}
+            title="Copy YAML entry to clipboard"
+          >
+            📋 Copy
+          </button>
           <h2 class="entry-title">{entry.title}</h2>
           
           {#if entry.synonyms?.length > 0}
@@ -287,6 +503,35 @@
 
   .entry-card {
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+
+  .copy-button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 0.375rem;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #374151;
+    cursor: pointer;
+    transition: all 0.2s;
+    z-index: 10;
+  }
+
+  .copy-button:hover {
+    background: #e5e7eb;
+    border-color: #9ca3af;
+    transform: translateY(-1px);
+  }
+
+  .copy-button.copied {
+    background: #d1fae5;
+    border-color: #10b981;
+    color: #065f46;
   }
 
   .entry-title {
@@ -450,6 +695,71 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
+  .tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 2px solid #e5e7eb;
+  }
+
+  .tab {
+    padding: 0.75rem 1.5rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-weight: 500;
+    color: #6b7280;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+  }
+
+  .tab:hover {
+    color: #374151;
+    background: #f9fafb;
+  }
+
+  .tab.active {
+    color: #6366f1;
+    border-bottom-color: #6366f1;
+    background: #f0f9ff;
+  }
+
+  .file-upload-section {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    background: #f9fafb;
+  }
+
+  .file-upload-section summary {
+    cursor: pointer;
+    font-weight: 500;
+    color: #374151;
+    margin-bottom: 0.5rem;
+  }
+
+  .file-upload-section[open] summary {
+    margin-bottom: 1rem;
+  }
+
+  .loading {
+    text-align: center;
+    padding: 2rem;
+    color: #6b7280;
+  }
+
+  .custom-file-indicator {
+    padding: 0.5rem 1.25rem;
+    background: #fef3c7;
+    color: #92400e;
+    border-radius: 0.375rem;
+    font-weight: 500;
+    font-size: 0.875rem;
+    border: 1px solid #fbbf24;
+  }
+
   @media (max-width: 640px) {
     .seasons-grid {
       grid-template-columns: 1fr;
@@ -466,6 +776,23 @@
     .link-icon {
       width: 28px;
       height: 28px;
+    }
+
+    .tabs {
+      flex-wrap: wrap;
+      gap: 0.25rem;
+    }
+
+    .tab {
+      padding: 0.5rem 1rem;
+      font-size: 0.875rem;
+    }
+
+    .copy-button {
+      padding: 0.375rem 0.5rem;
+      font-size: 0.75rem;
+      top: 0.75rem;
+      right: 0.75rem;
     }
   }
 </style>
