@@ -288,6 +288,8 @@ entries:
         anilist-id: 20606
       - season: 4
         anilist-id: 166715
+      - season: 5
+        anilist-id: 179054
 
   - title: "Black Lagoon"
     guid: plex://show/5d9c080802391c001f57f614
@@ -3028,6 +3030,15 @@ entries:
       - season: 4
         anilist-id: 114308
         start: 13
+
+  - title: "Sword of the Demon Hunter"
+    guid: plex://show/655db6eaf9f184bcf368a6f5
+    # imdb: https://www.imdb.com/title/tt32281073/
+    # tmdb: https://www.themoviedb.org/tv/133154
+    # tvdb: https://www.thetvdb.com/dereferrer/series/442540
+    seasons:
+      - season: 1
+        anilist-id: 143598
 
   - title: "Tengoku Daimakyo"
     guid: plex://show/630a1270571e44d463bae92f
