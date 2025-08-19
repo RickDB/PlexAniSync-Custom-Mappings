@@ -1,3 +1,5 @@
 # PlexAniSync files
 custom_mappings_schema.json
 venv
+/node_modules
+/.vite
