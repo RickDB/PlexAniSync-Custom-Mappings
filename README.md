@@ -9,9 +9,10 @@
 ### Community-driven mapping database
 Custom mappings for seamless anime synchronization between Plex and AniList – maintained by the community.
 
-![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=TMDB%20Movies&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fmovies-tmdb.en.yaml)
-![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=TMDB%20Series&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tmdb.en.yaml)
-![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=TVDB%20Series&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tvdb.en.yaml)
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=1bb8db&labelColor=012643&label=TMDB%20Movies&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fmovies-tmdb.en.yaml)
+
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=1bb8db&labelColor=012643&label=TMDB%20Series&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tmdb.en.yaml)
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=00d68c&labelColor=193833&label=TVDB%20Series&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FRickDB%2FPlexAniSync-Custom-Mappings%2Fmain%2Fseries-tvdb.en.yaml)
 
 [![Discord server](https://img.shields.io/discord/903407293541023754.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/a9cu5t5fKc)
 
