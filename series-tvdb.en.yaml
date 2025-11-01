@@ -762,6 +762,15 @@ entries:
       - season: 5
         anilist-id: 166240
 
+  - title: "Disney Twisted-Wonderland: The Animation"
+    guid: plex://show/61699259aa845a28efb97d7d
+    # imdb: https://www.imdb.com/title/tt28306749/
+    # tmdb: https://www.themoviedb.org/tv/136342
+    # tvdb: https://www.thetvdb.com/dereferrer/series/411393
+    seasons:
+      - season: 1
+        anilist-id: 140291
+
   - title: "Divergence Eve"
     guid: plex://show/61b10427ebb196850a1ff78d
     # imdb: https://www.imdb.com/title/tt0972633/
