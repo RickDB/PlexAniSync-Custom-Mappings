@@ -2615,6 +2615,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 178533
+      - season: 1
+        anilist-id: 185731
+        start: 13
 
   - title: "Rascal Does Not Dream of Bunny Girl Senpai"
     guid: plex://show/5d9c08fa2192ba001f319798
