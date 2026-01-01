@@ -3052,6 +3052,25 @@ entries:
       - season: 1
         anilist-id: 143598
 
+  - title: "Tamayura"
+    guid: plex://show/5d9c09112df347001e3bc587
+    # imdb: https://www.imdb.com/title/tt28713509/
+    # tmdb: https://www.themoviedb.org/tv/83621
+    seasons:
+      - season: 1
+        anilist-id: 9055
+
+  - title: "Tamayura: Hitotose"
+    guid: plex://show/5d9c07ee4eefaa001f5d180a
+    # imdb: https://www.imdb.com/title/tt2629754/
+    # tmdb: https://www.themoviedb.org/tv/45088
+    # tvdb: https://www.thetvdb.com/dereferrer/series/195571
+    seasons:
+      - season: 1
+        anilist-id: 10232
+      - season: 2
+        anilist-id: 15731
+
   - title: "Tengoku Daimakyo"
     guid: plex://show/630a1270571e44d463bae92f
     # imdb: https://www.imdb.com/title/tt22817632/
