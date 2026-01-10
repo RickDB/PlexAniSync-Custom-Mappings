@@ -1078,6 +1078,12 @@ entries:
         anilist-id: 105310
       - season: 2
         anilist-id: 114236
+      - season: 3
+        anilist-id: 149118
+        start: 1
+      - season: 3
+        anilist-id: 179062
+        start: 13
 
   - title: "FLCL"
     guid: "plex://show/5d9c0876cb3ffa001f1b5ab6"
