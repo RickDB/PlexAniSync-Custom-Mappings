@@ -1038,6 +1038,15 @@ entries:
         anilist-id: 20792
         start: 13
 
+  - title: "Fate/strange Fake"
+    guid: plex://show/64a114b431f9470c6cee5f2b
+    # imdb: https://www.imdb.com/title/tt32864316/
+    # tmdb: https://www.themoviedb.org/tv/229858
+    # tvdb: https://www.thetvdb.com/dereferrer/series/436779
+    seasons:
+      - season: 1
+        anilist-id: 166617
+
   - title: "Fate/Zero"
     guid: plex://show/5d9c0821e264b7001fc3ccd0
     # imdb: https://www.imdb.com/title/tt2051178/
