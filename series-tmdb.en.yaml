@@ -2666,6 +2666,15 @@ entries:
         anilist-id: 163134
         start: 51
 
+  - title: "Read or Die the TV"
+    guid: plex://show/5d9c08357d06d9001ffd0cf1
+    # imdb: https://www.imdb.com/title/tt0425710/
+    # tmdb: https://www.themoviedb.org/tv/27647
+    # tvdb: https://www.thetvdb.com/dereferrer/series/82319
+    seasons:
+      - season: 1
+        anilist-id: 209
+
   - title: "Rent-a-Girlfriend"
     guid: plex://show/5e1625a7f37085003e285c0c
     # imdb: https://www.imdb.com/title/tt11448214/
