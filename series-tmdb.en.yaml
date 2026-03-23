@@ -1362,8 +1362,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128893
-      - season: 2
+      - season: 1
         anilist-id: 166613
+        start: 14
 
   - title: "High School D×D"
     guid: plex://show/5d9c08247d06d9001ffcfef5
