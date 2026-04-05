@@ -813,6 +813,9 @@ entries:
       - season: 4
         anilist-id: 189117
         start: 13
+      - season: 4
+        anilist-id: 199221
+        start: 25
 
   - title: "Dragon Ball"
     guid: plex://show/5d9c0808ffd9ef001e98b2cc
