@@ -2459,6 +2459,8 @@ entries:
         anilist-id: 21
       - season: 22
         anilist-id: 21
+      - season: 23
+        anilist-id: 21
 
   - title: "One-Punch Man"
     guid: plex://show/5d9c0808d4f2a9001f7fd5ad
