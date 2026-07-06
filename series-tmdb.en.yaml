@@ -1108,6 +1108,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 154587
+      - season: 1
+        anilist-id: 182255
+        start: 29
 
   - title: "Fruits Basket"
     guid: "plex://show/5d9c084602391c001f58531b"
@@ -3122,6 +3125,8 @@ entries:
         start: 13
       - season: 3
         anilist-id: 156822
+      - season: 4
+        anilist-id: 182205
 
   - title: "The Ancient Magus' Bride"
     guid: plex://show/5d9c0809e98e47001eb060ff
