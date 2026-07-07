@@ -162,6 +162,9 @@ entries:
       - season: 1
         anilist-id: 121176
         start: 27
+      - season: 1
+        anilist-id: 171110
+        start: 37
 
   - title: "Assassination Classroom"
     guid: plex://show/5d9c0850ba6eb9001fba0c60
