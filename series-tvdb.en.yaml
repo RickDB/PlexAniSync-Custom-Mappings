@@ -3582,6 +3582,8 @@ entries:
         anilist-id: 142853
       - season: 3
         anilist-id: 163329
+      - season: 4
+        anilist-id: 178083
 
   - title: "TONIKAWA: Over the Moon for You"
     guid: plex://show/5e69c6f5874db7003e2dd56f
